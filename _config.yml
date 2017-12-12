@@ -1,0 +1,109 @@
+title: 'CTS-NL'
+
+slogan: 'Computer Technology Society Newfoundland Labrador'
+
+description: 'A community for the people who work in or have an interest in software development, technology and computing in Newfoundland and Labrador'
+
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+author: mitmaro
+
+url: 'https://ctsnl.ca'
+baseurl: ''
+
+improve_content: https://github.com/CTS-NL/CTS-NL.github.io/edit/gh-pages
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+urlimg: 'https://ctsnl.ca/images/'
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+plugins:
+    - jekyll-gist
+    - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num"
+  title: ':title - page :num'
+
+markdown: kramdown
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - vendor/bundle
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: 'en'
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      show_meta: false
+      sidebar: 'right'
+      comments: false
+      author: mitmaro
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      show_meta: true
+      sidebar: 'left'
+      comments: false
+      author: mitmaro
+
+favicon-16x16:                          'favicon-16x16.png'
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+msapplication_tilecolor:                '#fabb00'
+
+socialmedia:
+    twitter: CTS_NL
+    facebook:
+
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+    sass_dir: _sass
+    style: :compressed

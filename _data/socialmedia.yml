@@ -1,0 +1,24 @@
+- name: GitHub
+  url: https://github.com/CTS-NL
+  class: icon-github
+  title: CTS-NL on GitHub
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCOy4jhJW8U2bLT7ECAqV_1w
+  class: icon-youtube
+  title: CTS-NL on YouTube
+
+- name: Twitter
+  url: https://twitter.com/CTS_NL
+  class: icon-twitter
+  title: CTS-NL on Twitter!
+
+- name: Facebook
+  url: https://www.facebook.com/groups/nlcts/
+  class: icon-facebook
+  title: CTS-NL on Facebook!
+
+- name: Meetup
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/
+  class: icon-browser
+  title: CTS-NL on Meetup!

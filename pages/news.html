@@ -1,0 +1,69 @@
+---
+layout: default
+title: "CTS-NL News Archive"
+teaser: ""
+header:
+    image: "logo.png"
+    pattern: "header-texture.jpg"
+permalink: "/news/"
+pagination:
+    enabled: true
+    sort_reverse: true
+---
+<div class="row t30">
+    <div class="small-12 columns">
+        <header><h1>CTS-NL News Archive</h1></header>
+    </div>
+</div>
+<div class="row">
+    <div class="medium-8 columns t30">
+        {% for post in paginator.posts %}
+        <div class="row">
+            <div class="small-12 columns">
+
+                <header>
+                    {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+                    <h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                </header>
+                <div id="page-meta">
+                    <!-- Look the author details up from the site config. -->
+                    {% assign author = site.data.authors[post.author] %}
+                    <!-- Output author details if some exist. -->
+                    {% if author %}
+                    <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a></span></span>
+                    {% endif %}
+
+                    {% if post.date %}
+                    <time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+                    {% endif %}
+
+                    {% if post.categories != empty %}<span class="icon-archive pr20"> {{ post.categories | join: ' · ' | upcase }}{% endif %}</span>
+                </div><!--  /.page-meta -->
+                {% if post.teaser %}
+                <p class="teaser">
+                    {{ post.teaser }}
+                </p>
+                {% endif %}
+                {% if post.next %}<hr>{% endif %}
+            </div><!-- /.small-12.columns -->
+        </div><!-- /.row -->
+        {% endfor %}
+
+        <nav id="pagination">
+            {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+            <a rel="prev" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous }}</a>
+            {% else %}
+            <a rel="prev" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/page/{{ paginator.previous_page }}" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous }}</a>
+            {% endif %}
+            {% endif %}
+
+            {% if paginator.next_page %}
+            <a rel="next" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/page/{{ paginator.next_page }}" title="{{ site.data.language.next_posts }}">{{ site.data.language.next }} &raquo;</a>
+            {% endif %}
+        </nav>
+    </div>
+    <div class="medium-4 columns t30">
+        {% include _sidebar.html %}
+    </div><!-- /.medium-5.columns -->
+</div>

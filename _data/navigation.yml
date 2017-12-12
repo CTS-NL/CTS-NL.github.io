@@ -1,0 +1,31 @@
+- title: CTS-NL
+  url: "/"
+  side: left
+
+- title: News
+  url: "/news/"
+  side: left
+
+- title: About Us
+  url: "/about/"
+  side: left
+
+- title: Join Slack
+  url: "/slack/"
+  side: left
+
+- title: Conduct
+  url: "/conduct/"
+  side: left
+
+- title: Events
+  url: "https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Github"
+  url: "https://github.com/CTS-NL"
+  side: right

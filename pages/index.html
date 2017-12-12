@@ -1,0 +1,93 @@
+---
+layout: default
+title: "Latest News"
+teaser: "Computer Technology Society of Newfoundland Labrador"
+permalink: /
+pagination:
+    enabled: true
+    per_page: 3
+    limit: 3
+    sort_reverse: true
+header:
+    image:  "logo.png"
+    pattern:  "header-texture.jpg"
+homepage: true
+---
+<div class="row t30">
+    <div class="small-12 columns">
+        <header><h1>Latest News</h1></header>
+    </div>
+</div>
+<div class="row">
+    <div class="medium-8 columns t30">
+        {% for post in paginator.posts %}
+
+
+        <div class="row t30">
+            <div class="medium-12 columns">
+                <article>
+                    <div id="page-meta" class="t30">
+                        <!-- Look the author details up from the site config. -->
+                        {% assign author = site.data.authors[post.author] %}
+                        <!-- Output author details if some exist. -->
+                        {% if author %}
+                        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a></span></span>
+                        {% endif %}
+
+                        {% if post.date %}
+                        <time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+                        {% endif %}
+
+                        {% if post.categories != empty %}<span class="icon-archive pr20"> {{ post.categories | join: ' · ' | upcase }}{% endif %}</span>
+                    </div><!--  /.page-meta -->
+
+                    <header>
+                        {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+                        <h1><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                    </header>
+
+                    {% if post.teaser %}
+                    <p class="teaser">
+                        {{ post.teaser }}
+                    </p>
+                    {% endif %}
+
+                    {% if post.image.title %}
+                    <div class="row t30">
+                        <div class="small-12 columns">
+                            <figure>
+                                <img src="{{ site.urlimg }}{{ post.image.title }}" width="970" alt="{{ post.title | escape_once }}" itemprop="image">
+
+                                {% if post.image.caption_url and post.image.caption %}
+                                <figcaption class="text-right">
+                                    <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+                                </figcaption>
+                                {% elsif post.image.caption %}
+                                <figcaption class="text-right">
+                                    {{ post.image.caption }}
+                                </figcaption>
+                                {% endif %}
+                            </figure>
+                        </div><!-- /.small-12.columns -->
+                    </div><!-- /.row -->
+                    {% endif %}
+
+                    <div itemprop="articleSection">
+                        {{ post.content }}
+                    </div>
+                </article>
+                {% if post.next %}
+                <hr>
+                {% endif %}
+            </div><!-- /.medium-12.columns -->
+        </div><!-- /.row -->
+        {% endfor %}
+
+        <div class="row t30">
+            <a rel="next" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/" title="News Archive">More News &raquo;</a>
+        </div>
+    </div>
+    <div class="medium-4 columns t30">
+        {% include _sidebar.html %}
+    </div><!-- /.medium-5.columns -->
+</div><!-- /.row -->

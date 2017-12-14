@@ -15,7 +15,7 @@ improve_content: https://github.com/CTS-NL/CTS-NL.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
-urlimg: 'https://ctsnl.ca/images/'
+urlimg: 'http://ctsnl.ca/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

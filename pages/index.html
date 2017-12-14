@@ -3,11 +3,6 @@ layout: default
 title: "Latest News"
 teaser: "Computer Technology Society of Newfoundland Labrador"
 permalink: /
-pagination:
-    enabled: true
-    per_page: 3
-    limit: 3
-    sort_reverse: true
 header:
     image:  "logo.png"
     pattern:  "header-texture.jpg"
@@ -20,9 +15,7 @@ homepage: true
 </div>
 <div class="row">
     <div class="medium-8 columns t30">
-        {% for post in paginator.posts %}
-
-
+        {% for post in site.posts limit:3 %}
         <div class="row t30">
             <div class="medium-12 columns">
                 <article>

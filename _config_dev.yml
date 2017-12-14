@@ -13,8 +13,6 @@ urlimg: 	'http://localhost:4000/images/'
 gist:
   noscript: false
 
-pagination:
-  debug: false
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   style: :expanded

@@ -29,11 +29,11 @@
       {% if paginator.previous_page == 1 %}
       <a rel="prev" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous }}</a>
       {% else %}
-      <a rel="prev" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/newa/page/{{ paginator.previous_page }}/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous }}</a>
+      <a rel="prev" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/{{ paginator.previous_page }}/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous }}</a>
       {% endif %}
     {% endif %}
     {% if paginator.next_page %}
-    <a rel="next" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/page/{{ paginator.next_page }}/" title="{{ site.data.language.next_posts }}">{{ site.data.language.next }} &raquo;</a>
+    <a rel="next" class="radius button small" href="{{ site.url }}{{ site.baseurl }}/news/{{ paginator.next_page }}/" title="{{ site.data.language.next_posts }}">{{ site.data.language.next }} &raquo;</a>
     {% endif %}
 </nav>
 

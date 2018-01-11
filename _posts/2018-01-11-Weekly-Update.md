@@ -13,7 +13,7 @@ categories:
 
 * CTS-NL is partnering with the MUN Computer Science Society to host a talk on [Modern Cyber Threats][talk] this January 17
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday January 18
-* Gamedev NL's 2018 Game Jam is January 26-28
+* Gamedev NL's [2018 Game Jam](http://gamedevnl.org/index.php/2018-game-jam/) is January 26-28
 
 ### Technology News
 

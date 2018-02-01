@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Update - 2018 Week 4"
-teaser: "The weekly computer technology update for January 25-31, 2018"
+teaser: "The weekly computer technology update for January 19-25, 2018"
 header:
     image: "logo.png"
     pattern: "header-texture.jpg"

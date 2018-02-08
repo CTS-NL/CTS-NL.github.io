@@ -6,6 +6,10 @@
   url: "/news/"
   side: left
 
+- title: Conduct
+  url: "/conduct/"
+  side: left
+
 - title: About Us
   url: "/about/"
   side: left
@@ -14,12 +18,13 @@
   url: "/slack/"
   side: left
 
-- title: Conduct
-  url: "/conduct/"
-  side: left
 
 - title: Events
   url: "https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/"
+  side: right
+
+- title: Jobs
+  url: "/jobs/"
   side: right
 
 - title: "Contact"

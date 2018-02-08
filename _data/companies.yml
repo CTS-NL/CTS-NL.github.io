@@ -1,0 +1,57 @@
+bluedrop:
+  name: Bluedrop Learning Networks
+  url: http://www.bluedroplearningnetworks.com/
+celtx:
+  name: Celtx
+  url: https://www.celtx.com
+colab:
+  name: Colab Software
+  url: https://www.colabsoftware.com/
+compusult:
+  name: Compusult
+  url: http://www.compusult.net/
+easternhealth:
+  name: Eastern Health
+  url: http://easternhealth.ca/
+integrated:
+  name: Integrated Informatics
+  url: http://integrated-informatics.com/
+kraken:
+  name: Kraken Robotics
+  url: http://krakenrobotics.com/
+nalcor:
+  name: Nalcor Energy
+  url: https://nalcorenergy.com/
+otherocean:
+  name: Other Ocean Interactive
+  url: http://www.otherocean.com/
+provident:
+  name: Provident10
+  url: https://provident10.ca/
+quidder:
+  name: Quidder
+  url: https://qwidder.com/
+quorum:
+  name: Quorum Information Systems
+  url: http://www.quorumdms.com/
+radient:
+  name: Radient360
+  url: http://radient360.com/
+rutter:
+  name: Rutter
+  url: http://www.rutter.ca/
+subc:
+  name: SubC Imaging
+  url: http://subcimaging.com/
+verafin:
+  name: Verafin
+  url: https://verafin.com
+whalecompany:
+  name: HeyOrca
+  url: https://www.heyorca.com/
+wood:
+  name: Wood Group
+  url: https://www.woodgroup.com/
+zedit:
+  name: ZedIT
+  url: http://www.zedit.com/

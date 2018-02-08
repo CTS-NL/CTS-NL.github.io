@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Job Postings"
+teaser: ""
+header:
+    image: "logo.png"
+    pattern: "header-texture.jpg"
+permalink: "/jobs/"
+---
+
+{% for entry in site.data.jobs %}
+<h3><a href="{{ site.data.companies[entry.company].name }}}">{{ site.data.companies[entry.company].name }}</a></h3>
+<ul>
+    {% for job in entry.jobs %}
+    <li><a href="{{ job.link }}">{{ job.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endfor %}

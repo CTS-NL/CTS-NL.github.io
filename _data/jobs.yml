@@ -1,7 +1,21 @@
-- company: easternhealth
+- company: keyassets
   jobs:
-  - title: Database Analyst
-    link: https://www.careerbeacon.com/en/posting/725713/eastern-health/data-base-analyst/st-john-s
+  - title: IT Support Administrator
+    link: https://www.careerbeacon.com/en/posting/727217/key-assets-canada/it-support-administrator/st-john-s
+- company: triware
+  jobs:
+  - title: Desktop Support Technician
+    link: https://www.careerbeacon.com/en/posting/728666/triware/desktop-support-technician/st-john-s
+- company: nlchi
+  jobs:
+  - title: Technical Architect I
+    link: https://www.careerbeacon.com/en/posting/728660/newfoundland-and-labrador-centre-for-health-information/technical-architect-i/st-john-s
+- company: colab
+  jobs:
+  - title: Lead Developer
+    link: https://www.colabsoftware.com/careers
+  - title: Full Stack Developer
+    link: https://www.colabsoftware.com/careers
 - company: nalcor
   jobs:
   - title: Systems Analyst (Term)
@@ -15,8 +29,6 @@
   - title: Software Developer
     link: https://verafin.com/careers/
   - title: Cloud Automation Developer
-    link: https://verafin.com/careers/
-  - title: System Administrator
     link: https://verafin.com/careers/
 - company: radient
   jobs:
@@ -70,7 +82,3 @@
     link: https://www.careerbeacon.com/en/posting/719089
   - title: Multimedia Developer
     link: https://www.careerbeacon.com/en/posting/719607
-- company: colab
-  jobs:
-  - title: Lead Developer
-    link: https://www.colabsoftware.com/careers

@@ -16,12 +16,18 @@ easternhealth:
 integrated:
   name: Integrated Informatics
   url: http://integrated-informatics.com/
+keyassets:
+  name: 'Key Assets Newfoundland & Labrador'
+  url: https://www.keyassetsnl.ca/
 kraken:
   name: Kraken Robotics
   url: http://krakenrobotics.com/
 nalcor:
   name: Nalcor Energy
   url: https://nalcorenergy.com/
+nlchi:
+  name: Newfoundland and Labrador Centre for Health Information
+  url: https://www.nlchi.nl.ca/
 otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
@@ -43,6 +49,9 @@ rutter:
 subc:
   name: SubC Imaging
   url: http://subcimaging.com/
+triware:
+  name: Triware Technologies Inc.
+  url: http://triware.ca/
 verafin:
   name: Verafin
   url: https://verafin.com

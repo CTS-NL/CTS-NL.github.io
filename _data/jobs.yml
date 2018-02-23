@@ -1,3 +1,13 @@
+- company: whalecompany
+  jobs:
+  - title: Senior UX Designer
+    link: https://jobs.careerbeacon.com/details/senior-ux-designer/1099612
+  - title: Experienced Software Developer
+    link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
+  - title: Software Quality Assurance Specialist
+    link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
+  - title: Full-Stack Web Developer
+    link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
 - company: keyassets
   jobs:
   - title: IT Support Administrator
@@ -16,19 +26,15 @@
     link: https://www.colabsoftware.com/careers
   - title: Full Stack Developer
     link: https://www.colabsoftware.com/careers
-- company: nalcor
-  jobs:
-  - title: Systems Analyst (Term)
-    link: https://www.careerbeacon.com/en/posting/726395/nalcor-energy/systems-analyst-term/st-john-s
 - company: rutter
   jobs:
   - title: Software Support Developer
     link: https://www.careerbeacon.com/en/posting/726388/rutter-inc/software-support-developer/st-john-s
 - company: verafin
   jobs:
+  - title: Technical Support Specialist
+    link: https://www.careerbeacon.com/en/posting/729868/verafin/technical-support-specialist/st-john-s
   - title: Software Developer
-    link: https://verafin.com/careers/
-  - title: Cloud Automation Developer
     link: https://verafin.com/careers/
 - company: radient
   jobs:
@@ -46,12 +52,6 @@
     link: https://www.celtx.com/careers.html?gh_jid=235766
   - title: Web Infrastructure Developer
     link: https://www.celtx.com/careers.html?gh_jid=235786
-- company: whalecompany
-  jobs:
-  - title: Software Quality Assurance Specialist
-    link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
-  - title: Full-Stack Web Developer
-    link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
 - company: wood
   jobs:
   - title: Software Configuration Administrator / Data Manager

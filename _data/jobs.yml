@@ -1,3 +1,15 @@
+- company: clockworkfox
+  jobs:
+  - title: Backend Web Developer
+    link: http://clockworkfoxstudios.com/back-end-web-developer/
+- company: mysa
+  jobs:
+  - title: Software Development Engineer in Test
+    link: https://ca.indeed.com/viewjob?t=software+development+engineer+test&jk=d5c03042f8ac55da&_ga=2.45465824.572419221.1517579041-187536507.1515443298
+  - title: Front-end Developer
+    link: https://ca.indeed.com/viewjob?jk=ff5a5c6d3b4e1b93&tk=1c3dr9j735n92dn1&from=company
+  - title: Backend Software Developer
+    link: https://ca.indeed.com/viewjob?jk=c1f927822a4015d9&tk=1c3dr9j735n92dn1&from=company
 - company: whalecompany
   jobs:
   - title: Senior UX Designer
@@ -8,21 +20,13 @@
     link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
   - title: Full-Stack Web Developer
     link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
-- company: keyassets
-  jobs:
-  - title: IT Support Administrator
-    link: https://www.careerbeacon.com/en/posting/727217/key-assets-canada/it-support-administrator/st-john-s
 - company: triware
   jobs:
   - title: Desktop Support Technician
     link: https://www.careerbeacon.com/en/posting/728666/triware/desktop-support-technician/st-john-s
-- company: nlchi
-  jobs:
-  - title: Technical Architect I
-    link: https://www.careerbeacon.com/en/posting/728660/newfoundland-and-labrador-centre-for-health-information/technical-architect-i/st-john-s
 - company: colab
   jobs:
-  - title: Lead Developer
+  - title: Software Development Lead
     link: https://www.colabsoftware.com/careers
   - title: Full Stack Developer
     link: https://www.colabsoftware.com/careers
@@ -74,8 +78,6 @@
   jobs:
   - title: IT DevOps Support Analyst
     link: http://jobs.gzed.com/index.php?m=portal&a=details&jobOrderID=10338317
-  - title: Java Developer
-    link: https://www.careerbeacon.com/en/posting/716612
 - company: bluedrop
   jobs:
   - title: Software Developer

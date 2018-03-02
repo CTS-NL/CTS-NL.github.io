@@ -10,6 +10,9 @@ colab:
 compusult:
   name: Compusult
   url: http://www.compusult.net/
+clockworkfox:
+  name: Clockwork Fox
+  url: http://clockworkfoxstudios.com
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
@@ -22,6 +25,9 @@ keyassets:
 kraken:
   name: Kraken Robotics
   url: http://krakenrobotics.com/
+mysa:
+  name: Mysa
+  url: https://getmysa.com/
 nalcor:
   name: Nalcor Energy
   url: https://nalcorenergy.com/

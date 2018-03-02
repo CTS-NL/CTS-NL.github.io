@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Weekly Digest - Week 8 - 2018"
+title: "Weekly Digest - Week 9 - 2018"
 teaser: "The weekly computer technology digest for February 23 - March 22, 2018"
 header:
     image: "logo.png"

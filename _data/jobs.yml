@@ -1,3 +1,19 @@
+- company: infotech
+  jobs:
+  - title: Senior .NET Developer
+    link: http://www.infotechsolutions.com/careers/senior-developer
+  - title: Senior Web Designer
+    link: http://www.infotechsolutions.com/careers/senior-web-designer
+  - title: Systems Analyst
+    link: http://www.infotechsolutions.com/careers/systems-analyst
+- company: quorum
+  jobs:
+  - title: Junior Software Developer
+    link: http://www.quorumdms.com/st-johns-job-junior-software-developer.htm
+  - title: Back-End Web Developer
+    link: https://www.careerbeacon.com/en/posting/723319/quorum-information-systems-inc/back-end-web-developer/st-john-s
+  - title: Front-End Web Developer
+    link: https://www.careerbeacon.com/en/posting/723318/quorum-information-systems-inc/front-end-web-developer/st-john-s
 - company: clockworkfox
   jobs:
   - title: Backend Web Developer
@@ -30,10 +46,6 @@
     link: https://www.colabsoftware.com/careers
   - title: Full Stack Developer
     link: https://www.colabsoftware.com/careers
-- company: rutter
-  jobs:
-  - title: Software Support Developer
-    link: https://www.careerbeacon.com/en/posting/726388/rutter-inc/software-support-developer/st-john-s
 - company: verafin
   jobs:
   - title: Technical Support Specialist
@@ -68,12 +80,6 @@
   jobs:
   - title: Python Developer
     link: https://www.careerbeacon.com/en/posting/725367/integrated-informatics/python-developer/st-john-s
-- company: quorum
-  jobs:
-  - title: Back-End Web Developer
-    link: https://www.careerbeacon.com/en/posting/723319/quorum-information-systems-inc/back-end-web-developer/st-john-s
-  - title: Front-End Web Developer
-    link: https://www.careerbeacon.com/en/posting/723318/quorum-information-systems-inc/front-end-web-developer/st-john-s
 - company: zedit
   jobs:
   - title: IT DevOps Support Analyst

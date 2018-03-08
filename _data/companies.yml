@@ -16,6 +16,9 @@ clockworkfox:
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
+infotech:
+  name: Infotech
+  url: http://www.infotechsolutions.com/
 integrated:
   name: Integrated Informatics
   url: http://integrated-informatics.com/

@@ -16,6 +16,9 @@ clockworkfox:
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
+inmarsat:
+  name: Inmarsat
+  url: https://www.inmarsat.com/
 infotech:
   name: Infotech
   url: http://www.infotechsolutions.com/
@@ -34,6 +37,9 @@ mysa:
 nalcor:
   name: Nalcor Energy
   url: https://nalcorenergy.com/
+nlc:
+  name: Newfoundland Labrador Liquor Corporation
+  url: http://www.nlliquor.com/
 nlchi:
   name: Newfoundland and Labrador Centre for Health Information
   url: https://www.nlchi.nl.ca/

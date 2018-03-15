@@ -1,3 +1,17 @@
+- company: inmarsat
+  jobs:
+  - title: Analyst Developer
+    link: https://www.careerbeacon.com/en/posting/733658/inmarsat/analyst-developer/st-john-s
+- company: nalcor
+  jobs:
+  - title: Computer Support Specialist, Information Systems
+    link: https://www.careerbeacon.com/en/posting/733154/nalcor-energy/computer-support-specialist-information-systems/st-john-s
+- company: nlc
+  jobs:
+  - title: Technical Designer
+    link: https://www.careerbeacon.com/en/posting/733849/newfoundland-labrador-liquor-corporation/technical-designer/st-john-s
+  - title: Digital Analyst
+    link: https://www.careerbeacon.com/en/posting/733845/newfoundland-labrador-liquor-corporation/digital-analyst/st-john-s
 - company: infotech
   jobs:
   - title: Senior .NET Developer
@@ -20,8 +34,6 @@
     link: http://clockworkfoxstudios.com/back-end-web-developer/
 - company: mysa
   jobs:
-  - title: Software Development Engineer in Test
-    link: https://ca.indeed.com/viewjob?t=software+development+engineer+test&jk=d5c03042f8ac55da&_ga=2.45465824.572419221.1517579041-187536507.1515443298
   - title: Front-end Developer
     link: https://ca.indeed.com/viewjob?jk=ff5a5c6d3b4e1b93&tk=1c3dr9j735n92dn1&from=company
   - title: Backend Software Developer
@@ -84,9 +96,3 @@
   jobs:
   - title: IT DevOps Support Analyst
     link: http://jobs.gzed.com/index.php?m=portal&a=details&jobOrderID=10338317
-- company: bluedrop
-  jobs:
-  - title: Software Developer
-    link: https://www.careerbeacon.com/en/posting/719089
-  - title: Multimedia Developer
-    link: https://www.careerbeacon.com/en/posting/719607

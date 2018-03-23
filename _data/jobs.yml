@@ -2,10 +2,12 @@
   jobs:
   - title: Analyst Developer
     link: https://www.careerbeacon.com/en/posting/733658/inmarsat/analyst-developer/st-john-s
-- company: nalcor
+  - title: QA Services Manager
+    link: https://www.careerbeacon.com/en/posting/735553/inmarsat/qa-services-manager/st-john-s
+- company: zedit
   jobs:
-  - title: Computer Support Specialist, Information Systems
-    link: https://www.careerbeacon.com/en/posting/733154/nalcor-energy/computer-support-specialist-information-systems/st-john-s
+  - title: IT DevOps Support Analyst
+    link: https://www.careerbeacon.com/en/posting/734810/group-zed/it-devops-analyst/st-john-s
 - company: nlc
   jobs:
   - title: Technical Designer
@@ -48,10 +50,6 @@
     link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
   - title: Full-Stack Web Developer
     link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
-- company: triware
-  jobs:
-  - title: Desktop Support Technician
-    link: https://www.careerbeacon.com/en/posting/728666/triware/desktop-support-technician/st-john-s
 - company: colab
   jobs:
   - title: Software Development Lead
@@ -92,7 +90,3 @@
   jobs:
   - title: Python Developer
     link: https://www.careerbeacon.com/en/posting/725367/integrated-informatics/python-developer/st-john-s
-- company: zedit
-  jobs:
-  - title: IT DevOps Support Analyst
-    link: http://jobs.gzed.com/index.php?m=portal&a=details&jobOrderID=10338317

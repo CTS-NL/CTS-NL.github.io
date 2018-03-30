@@ -14,11 +14,11 @@ categories:
 * [Ladies Learning Code St. John's][ladieslearningcode] is having a [HTML & CSS for Beginners Class](https://www.eventbrite.ca/e/ladies-learning-code-html-css-for-beginners-learn-to-build-a-one-page-website-from-scratch-st-johns-registration-43558299045) on March 17.
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday March 22
 
-### Technology News
+## Technology News
 
 * [Hacking Health St. John's][hackinghealth] had their second hackathon this weekend. [read](http://www.med.mun.ca/Medicine/Communications/News-at-Medicine/March-2018/A-winning-idea.aspx)
 
-### New Job Postings
+## New Job Postings
 
 * [Inmarsat][inmarsat] is looking for a [Analyst Developer](https://www.careerbeacon.com/en/posting/733658/inmarsat/analyst-developer/st-john-s).
 * [Nalcor][nalcor] is looking for a [Computer Support Specialist, Information Systems](https://www.careerbeacon.com/en/posting/733154/nalcor-energy/computer-support-specialist-information-systems/st-john-s).

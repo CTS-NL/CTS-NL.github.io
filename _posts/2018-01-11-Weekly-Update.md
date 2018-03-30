@@ -15,12 +15,12 @@ categories:
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday January 18
 * Gamedev NL's [2018 Game Jam](http://gamedevnl.org/index.php/2018-game-jam/) is January 26-28
 
-### Technology News
+## Technology News
 
 * Newfoundland Company releases [Qwidder][quidder], an app designed to help smokers quit. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/qwidder-app-stop-smoking-1.4472543)
 * Sonar system developed by [Kraken Robotics][kraken] will be used to find Malaysia Airlines flight MH370. [read](http://www.thetelegram.com/business/st-johns-company-to-search-for-missing-malaysian-airliner-174627/)
 
-### Jobs
+## Jobs
 
 * [Colab Software][colab] is looking for [Lead Developer](https://www.colabsoftware.com/careers).
 * [Other Ocean][otherocean] is looking for a [Software Programmer](https://www.jobbank.gc.ca/jobsearch/jobposting/25557222)

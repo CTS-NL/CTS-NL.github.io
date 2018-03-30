@@ -15,12 +15,12 @@ categories:
 * Gamedev NL's [2018 Game Jam](http://gamedevnl.org/index.php/2018-game-jam/) is January 26-28, sign up now!
 * [Hacking Health St. John's][hackinghealth] is having a [Blockchain Cafe](https://www.eventbrite.ca/e/blockchain-cafe-tickets-42168349669) on January 31
 
-### Technology News
+## Technology News
 
 * [Paradigm Hyperloop][hyperloop] submitted their Final Design Package for the next round of the SpaceX Hyperloop Pod Competition. [read](https://twitter.com/paradigm_hype/status/953314520407072770)
 * [SubC Imaging][subc] cameras and lights will be used to capture the first 4K images and video of the Titanic. [read](http://subcimaging.com/subc-is-an-oceangate-strategic-affiliate-for-titanic-expedition/)
 
-### Jobs
+## Jobs
 
 * [Bluedrop Learning Networks][bluedrop] is looking for a [Software Developer](https://www.careerbeacon.com/en/posting/719089) and a [Multimedia Developer](https://www.careerbeacon.com/en/posting/719607).
 * [Compusult][compusult] is looking for a [Software Engineers/Developers](https://www.workopolis.com/jobsearch/job/17921414).

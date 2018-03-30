@@ -14,11 +14,11 @@ categories:
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday February 15
 * CTS-NL is partnering again with the MUN Computer Science Society to host a talk on [Lodash (hellodash-world.js)](https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/247508309/) this February 28
 
-### Technology News
+## Technology News
 
 * [SubC Imaging][subc] is providing cameras as part of summer expedition to the Titanic. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/subc-clarenville-titanic-oceangate-tourism-titanic-video-1.4522329)
 
-### New Job Postings
+## New Job Postings
 * [Rutter][rutter] is looking for a [Software Support Developer](https://www.careerbeacon.com/en/posting/726388/rutter-inc/software-support-developer/st-john-s).
 * [Verafin][verafin] is looking for a [Software Developer](https://verafin.com/careers/), [Cloud Automation Developer](https://verafin.com/careers/) and a [System Administrator](https://verafin.com/careers/).
 * [Radient360][radient] is looking for a [Software Developer](http://radient360.com/r360careers/) and a [UX Developer](http://radient360.com/r360careers/).

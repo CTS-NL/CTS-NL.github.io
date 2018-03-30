@@ -13,12 +13,12 @@ categories:
 
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday February 8
 
-### Technology News
+## Technology News
 
 * [Gamedev NL][gamedevnl] hosted their first Game Jam to a huge success. [read](http://www.cbc.ca/beta/news/canada/newfoundland-labrador/gamedevnl-gamejam-at-eastern-edge-gallery-1.4507282)
 * [Kraken Robotics][kraken] is one of four winner in an international competition to discover new ways to inspect offshore wind turbines. [read](http://www.cbc.ca/beta/news/canada/newfoundland-labrador/kraken-competition-offshore-wind-turbines-1.4513805)
 
-### Jobs
+## Jobs
 
 * [HeyOrca][whalecompany] is looking for a [Software Quality Assurance Specialist](https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219)
 and a [Full-Stack Web Developer](https://jobs.careerbeacon.com/details/fullstack-web-developer/590925).

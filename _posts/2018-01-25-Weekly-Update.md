@@ -15,12 +15,12 @@ categories:
 * [Hacking Health St. John's][hackinghealth] is having a [Blockchain Cafe](https://www.eventbrite.ca/e/blockchain-cafe-tickets-42168349669) on January 31
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday February 1
 
-### Technology News
+## Technology News
 
 * CanCode will allow 40,000 students in the province to develop about coding and digital skills. [read](https://twitter.com/SeamusORegan/status/955877875919589376)
 * NL company, [Peachy Life][peachy], is aiming to create software for seniors that gives them more control over their own health and wellness. [read](https://twitter.com/peachycompany/status/955865351471820800)
 
-### Jobs
+## Jobs
 
 * [Quorum Information Systems][quorum] is looking for a [Back-End Web Developer](https://www.careerbeacon.com/en/posting/723319/quorum-information-systems-inc/back-end-web-developer/st-john-s)
 and a [Front-End Web Developer](https://www.careerbeacon.com/en/posting/723318/quorum-information-systems-inc/front-end-web-developer/st-john-s).

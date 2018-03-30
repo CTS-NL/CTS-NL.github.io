@@ -46,9 +46,15 @@ nlchi:
 otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
+pangeo:
+  name: PanGeo Subsea
+  url: https://www.pangeosubsea.com/
 provident:
   name: Provident10
   url: https://provident10.ca/
+q5:
+  name: Q5 Systems
+  url: http://www.q5systems.com/
 quidder:
   name: Quidder
   url: https://qwidder.com/

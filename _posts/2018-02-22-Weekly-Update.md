@@ -17,11 +17,11 @@ categories:
 * [Hacking Health][hackinghealth] is having a [Hackathon](https://www.eventbrite.ca/e/hacking-health-st-johns-hackathon-2018-tickets-42899496549) on March 9 - 11.
 * [BlockchainNL][blockchainnl] is having a talk, [Solidity Development: The Melonport Stack](https://www.eventbrite.com/e/solidity-development-the-melonport-stack-tickets-43307019461?aff=efbeventtix).
 
-### Technology News
+## Technology News
 
 * Students at St. Teresa’s School are getting a taste for computer coding today. [read](http://vocm.com/news/students-explore-computer-coding-at-st-teresas-school/)
 
-### New Job Postings
+## New Job Postings
 
 * [HeyOrca][whalecompany] is looking for a [Senior UX Designer](https://jobs.careerbeacon.com/details/senior-ux-designer/1099612) and a [Experienced Software Developer](https://jobs.careerbeacon.com/details/experienced-software-developer/590925).
 * [Verafin][verafin] is looking for a [Technical Support Specialist](https://www.careerbeacon.com/en/posting/729868/verafin/technical-support-specialist/st-john-s).

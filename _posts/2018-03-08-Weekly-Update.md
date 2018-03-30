@@ -15,7 +15,7 @@ categories:
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday March 15
 * [Ladies Learning Code St. John's][ladieslearningcode] is having a [HTML & CSS for Beginners Class](https://www.eventbrite.ca/e/ladies-learning-code-html-css-for-beginners-learn-to-build-a-one-page-website-from-scratch-st-johns-registration-43558299045) on March 17.
 
-### New Job Postings
+## New Job Postings
 
 * [Infotech][infotech] is looking for a [Senior .NET Developer](http://www.infotechsolutions.com/careers/senior-developer), a [Senior Web Developer](http://www.infotechsolutions.com/careers/senior-web-designer) and a [Systems Analyst](http://www.infotechsolutions.com/careers/systems-analyst).
 * [Quorum Information Systems][quorum] is looking for a [Junior Software Developer](http://www.quorumdms.com/st-johns-job-junior-software-developer.htm). 

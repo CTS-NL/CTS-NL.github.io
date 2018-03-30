@@ -1,3 +1,15 @@
+- company: compusult
+  jobs:
+    - title: Software Engineers/Developers
+      link: http://www.compusult.net/web/guest/careers
+- company: q5
+  jobs:
+    - title: Intermediate/Senior Developer
+      link: https://www.careerbeacon.com/en/posting/735572/q5-systems-limited/intermediate-senior-developer/st-john-s
+- company: pangeo
+  jobs:
+    - title: IT/Data Management Specialist
+      link: https://www.careerbeacon.com/en/posting/736174/pangeo-subsea-inc/it-data-management-specialist/st-john-s
 - company: inmarsat
   jobs:
   - title: Analyst Developer
@@ -26,10 +38,6 @@
   jobs:
   - title: Junior Software Developer
     link: http://www.quorumdms.com/st-johns-job-junior-software-developer.htm
-  - title: Back-End Web Developer
-    link: https://www.careerbeacon.com/en/posting/723319/quorum-information-systems-inc/back-end-web-developer/st-john-s
-  - title: Front-End Web Developer
-    link: https://www.careerbeacon.com/en/posting/723318/quorum-information-systems-inc/front-end-web-developer/st-john-s
 - company: clockworkfox
   jobs:
   - title: Backend Web Developer

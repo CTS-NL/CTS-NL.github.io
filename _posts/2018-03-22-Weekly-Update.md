@@ -14,11 +14,11 @@ categories:
 * Join us at our [Tech Project Night and Meetup][meetup] this Thursday March 29
 * [NDev][ndev] is having a talk on [Optimism for the Web](https://www.meetup.com/NDevMeetup/events/248809067/)
 
-### Technology News
+## Technology News
 
 * The city of Mount Pearl wants to become the Silicon Valley of Canada's East Coast. [read](http://vocm.com/news/mount-pearl-sets-eyes-on-50-million-prize-to-strengthen-tech-industry/).
 
-### New Job Postings
+## New Job Postings
 
 * [Inmarsat][inmarsat] is looking for a [QA Services Manager](https://www.careerbeacon.com/en/posting/735553/inmarsat/qa-services-manager/st-john-s).
 

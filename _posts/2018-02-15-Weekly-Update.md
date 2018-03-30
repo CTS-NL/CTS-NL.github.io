@@ -17,11 +17,11 @@ categories:
 * CTS-NL is partnering again with the MUN Computer Science Society to host a talk on [Lodash (hellodash-world.js)](https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/247508309/) this February 28
 * [Hacking Health][hackinghealth] is having a [Hackathon](https://www.eventbrite.ca/e/hacking-health-st-johns-hackathon-2018-tickets-42899496549) on March 9
 
-### Technology News
+## Technology News
 
 * Many Newfoundland and Labrador companies will be part of the new Ocean Supercluster. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/subc-clarenville-titanic-oceangate-tourism-titanic-video-1.4522329)
 
-### New Job Postings
+## New Job Postings
 
 * [Colab Software][colab] is looking for a [Full Stack Developer](https://www.colabsoftware.com/careers).
 * [Newfoundland and Labrador Centre for Health Information][nlchi] is looking for a [Technical Architect I](https://www.careerbeacon.com/en/posting/728660/newfoundland-and-labrador-centre-for-health-information/technical-architect-i/st-john-s).

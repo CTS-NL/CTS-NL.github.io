@@ -15,12 +15,12 @@ categories:
 * [Hacking Health][hackinghealth] is having a [Hackathon](https://www.eventbrite.ca/e/hacking-health-st-johns-hackathon-2018-tickets-42899496549) on March 9 - 11.
 * [Ladies Learning Code St. John's][ladieslearningcode] is having a [HTML & CSS for Beginners Class](https://www.eventbrite.ca/e/ladies-learning-code-html-css-for-beginners-learn-to-build-a-one-page-website-from-scratch-st-johns-registration-43558299045) on March 17.
 
-### Technology News
+## Technology News
 
 * [Solace Power][solace] in Mount Pearl is forced to look outside the province for skilled technology workers. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/solace-power-technology-industry-skilled-workers-shortage-1.4548757)
 * Announcement on coding, computer skills focus in schools soon in the province. [read](http://vocm.com/news/announcement-on-coding-computer-skills-focus-in-schools-soon/)
 
-### New Job Postings
+## New Job Postings
 
 * [Mysa][mysA] is looking for a [Software Development Engineer in Test](https://ca.indeed.com/viewjob?t=software+development+engineer+test&jk=d5c03042f8ac55da&_ga=2.45465824.572419221.1517579041-187536507.1515443298), a [Front-end Developer](https://ca.indeed.com/viewjob?jk=ff5a5c6d3b4e1b93&tk=1c3dr9j735n92dn1&from=company) and a [Backend Software Developer](https://ca.indeed.com/viewjob?jk=c1f927822a4015d9&tk=1c3dr9j735n92dn1&from=company).
 * [Clockwork Fox][clockworkfox] is looking for a [Backend Web Developer](http://clockworkfoxstudios.com/back-end-web-developer/).

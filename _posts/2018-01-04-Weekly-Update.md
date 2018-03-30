@@ -16,14 +16,14 @@ categories:
 this January 17
 * Gamedev NL's 2018 Game Jam is January 26-28
 
-### Technology News
+## Technology News
 
 * [Other Ocean's][otherocean] offices in St. John's are bringing the virtual reality game Rick and Morty: Virtual
 Rick-ality to PlayStation 4. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/other-ocean-changing-the-game-1.4462022)
 * [Chummy Games][chummy] has turned a child's fear of monsters hiding under the bed into a fun smartphone game called
 Dreamy Snakes. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/dreamy-snakes-game-1.4467173)
 
-### Jobs
+## Jobs
 
 * [Other Ocean][otherocean] is looking for a [Software Programmer](https://www.jobbank.gc.ca/jobsearch/jobposting/25557222)
 and a [Video Game Designer](https://www.jobbank.gc.ca/jobsearch/jobposting/25530884?platform=hootsuite).

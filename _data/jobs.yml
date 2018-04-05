@@ -1,3 +1,13 @@
+- company: atlanticlottery
+  jobs:
+    - title: BI System Analyst
+      link: https://www.careerbeacon.com/en/posting/737130/atlantic-lottery-loteries-de-l-atlantique/bi-system-analyst/st-john-s
+- company: bluedrop
+  jobs:
+    - title: UX Specialist/Front-End Developer
+      link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
+    - title: Software Developer
+      link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
 - company: compusult
   jobs:
     - title: Software Engineers/Developers
@@ -10,22 +20,10 @@
   jobs:
     - title: IT/Data Management Specialist
       link: https://www.careerbeacon.com/en/posting/736174/pangeo-subsea-inc/it-data-management-specialist/st-john-s
-- company: inmarsat
-  jobs:
-  - title: Analyst Developer
-    link: https://www.careerbeacon.com/en/posting/733658/inmarsat/analyst-developer/st-john-s
-  - title: QA Services Manager
-    link: https://www.careerbeacon.com/en/posting/735553/inmarsat/qa-services-manager/st-john-s
 - company: zedit
   jobs:
   - title: IT DevOps Support Analyst
     link: https://www.careerbeacon.com/en/posting/734810/group-zed/it-devops-analyst/st-john-s
-- company: nlc
-  jobs:
-  - title: Technical Designer
-    link: https://www.careerbeacon.com/en/posting/733849/newfoundland-labrador-liquor-corporation/technical-designer/st-john-s
-  - title: Digital Analyst
-    link: https://www.careerbeacon.com/en/posting/733845/newfoundland-labrador-liquor-corporation/digital-analyst/st-john-s
 - company: infotech
   jobs:
   - title: Senior .NET Developer
@@ -90,11 +88,3 @@
   jobs:
   - title: Software Configuration Administrator / Data Manager
     link: https://www.workopolis.com/jobsearch/job/17933675?uc=E8&sc=3.5111&sp=1
-- company: provident
-  jobs:
-  - title: Data Analyst
-    link: https://www.careerbeacon.com/en/posting/724772/provident10/data-analyst/st-john-s
-- company: integrated
-  jobs:
-  - title: Python Developer
-    link: https://www.careerbeacon.com/en/posting/725367/integrated-informatics/python-developer/st-john-s

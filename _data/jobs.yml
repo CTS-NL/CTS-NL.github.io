@@ -1,13 +1,49 @@
-- company: atlanticlottery
+- company: johnson
   jobs:
-    - title: BI System Analyst
-      link: https://www.careerbeacon.com/en/posting/737130/atlantic-lottery-loteries-de-l-atlantique/bi-system-analyst/st-john-s
+    - title: Enterprise Data Architect
+      link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?clid=27826&Page=JobDetails&jobid=J0318-0490
+- company: wekaplex
+  jobs:
+    - title: Android Developer
+      link: https://ca.indeed.com/job/android-developer-5440909bd66aa2b5
+- company: pal
+  jobs:
+    - title: Intermediate Software Developer
+      link: "https://www.workopolis.com/jobsearch/posting?e=R14HN13mwV1_5I_QyLvycXXgacY2AfsPbr1t3JETaeIOI6jSWxIlbtqxqSFN7O3aAjEwWwjUHEQl__MdsAn828YfXkMKPNn9QNlBpXfOoR2kw8yons2joHzWm6v63Bx1gTn4UXsbVfUafnp2QG_YniJ5bA_C_ZmjtqN8_dcfXsQdvWF2XkCRybRl_JbERrBBjPlaYsMQve8-WHlJ4znNsXw5lb6FQHUp7_V8CeC5p3A1TM-O6PKi1n_aqtlw6xRBMgdbXyfJrdtvapRXkEqKqlNmhe2tVTrvfYtXzBhjveMcDRZ2pvTf_Q0yLzjfcob-U_JRLpspVY8FVT8vgiMBW7riRCUx4POf4sDuOor8048_UyX2RaIB8AU&isp=0&el=%2Fjobsearch%2Ffind-jobs%3Fak%3Dpal%26l%3DNewfoundland%2Band%2BLabrador%252CCANADA%26lg%3Den%26st%3Dtrue&id=0-GPRcUs3pLYYUpZhbHTwtPlRrPSgrjuXCZxw1O5wbVhIQAVSgFW-w"
+- company: nalcor
+  jobs:
+    - title: Application Architect Analyst
+      link: http://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsNalcorExternal/NE-18-033?OpenDocument
+- company: rsa
+  jobs:
+    - title: Senior Developer
+      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1235
+    - title: Senior Java Developer
+      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
+    - title: Senior Java Developer #1 (Contract)
+      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1236
+    - title: Senior Java Developer #2 (Contract)
+      link:  http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1238
+- company: procom
+  jobs:
+    - title: Software Testing Engineer
+      link: https://ca.indeed.com/cmp/PROCOM-Data-Services-Inc./jobs/Software-Testing-Engineer-b519de090d0f25ae
+- company: nsbenergy
+  jobs:
+    - title: IT Technician
+      link: https://www.omega.no/jobs/jobinfo/287528e3-327d-4664-98b7-27c7e731c10c
 - company: bluedrop
   jobs:
+    - title: IT Support Specialist
+      link: https://www.careerbeacon.com/en/posting/738883/bluedrop-performance-learning/it-support-specialist/st-john-s
     - title: UX Specialist/Front-End Developer
       link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
     - title: Software Developer
       link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
+- company: atlanticlottery
+  jobs:
+    - title: BI System Analyst
+      link: https://www.careerbeacon.com/en/posting/737130/atlantic-lottery-loteries-de-l-atlantique/bi-system-analyst/st-john-s
 - company: compusult
   jobs:
     - title: Software Engineers/Developers
@@ -54,8 +90,6 @@
     link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
   - title: Software Quality Assurance Specialist
     link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
-  - title: Full-Stack Web Developer
-    link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
 - company: colab
   jobs:
   - title: Software Development Lead
@@ -84,7 +118,3 @@
     link: https://www.celtx.com/careers.html?gh_jid=235766
   - title: Web Infrastructure Developer
     link: https://www.celtx.com/careers.html?gh_jid=235786
-- company: wood
-  jobs:
-  - title: Software Configuration Administrator / Data Manager
-    link: https://www.workopolis.com/jobsearch/job/17933675?uc=E8&sc=3.5111&sp=1

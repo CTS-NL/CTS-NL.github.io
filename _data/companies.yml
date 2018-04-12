@@ -28,6 +28,9 @@ infotech:
 integrated:
   name: Integrated Informatics
   url: http://integrated-informatics.com/
+johnson:
+  name: Johnson Insurance
+  url: https://www1.johnson.ca/
 keyassets:
   name: 'Key Assets Newfoundland & Labrador'
   url: https://www.keyassetsnl.ca/
@@ -46,15 +49,24 @@ nlc:
 nlchi:
   name: Newfoundland and Labrador Centre for Health Information
   url: https://www.nlchi.nl.ca/
+nsbenergy:
+  name: NSB Energy
+  url: https://www.nsbenergy.com/
 otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
+pal:
+  name: PAL Airlines
+  url: https://www.palairlines.ca/
 pangeo:
   name: PanGeo Subsea
   url: https://www.pangeosubsea.com/
 provident:
   name: Provident10
   url: https://provident10.ca/
+procom:
+  name: Procom Data Services Inc
+  url: http://www.gandercanada.com/business-directory/7907/procom-data-services-inc/
 q5:
   name: Q5 Systems
   url: http://www.q5systems.com/
@@ -67,6 +79,9 @@ quorum:
 radient:
   name: Radient360
   url: http://radient360.com/
+rsa:
+  name: RSA Canada
+  url: https://www.rsagroup.ca/
 rutter:
   name: Rutter
   url: http://www.rutter.ca/
@@ -79,6 +94,9 @@ triware:
 verafin:
   name: Verafin
   url: https://verafin.com
+wekaplex:
+  name: WekaPlex
+  url: http://www.wekaplex.com/
 whalecompany:
   name: HeyOrca
   url: https://www.heyorca.com/

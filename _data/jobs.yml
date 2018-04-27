@@ -1,17 +1,41 @@
 - company: inmarsat
   jobs:
-    - title: API Developer Engineer
-      link: https://inmarsat.jobs.net/en-GB/job/api-development-engineer/J3R2S074LQL48KXMYWM?idpartenaire=20222
-- company: wood
+    - title: Senior Director and Lead IT Architect
+      link: https://inmarsat.jobs.net/en-GB/job/senior-director-lead-it-architect-001563/J3W2SN6DPZPFNNDL81B?idpartenaire=20222
+- company: averro
   jobs:
-    - title: Software Configuration Administrator / Data Manager
-      link: https://amecfw-canadaexternal.icims.com/jobs/22235/software-configuration-administrator---data-manager/job?hub=15&mode=job&iis=Indeed&iisn=Indeed.com&mobile=false&width=1240&height=500&bga=true&needsRedirect=false&jan1offset=-210&jun1offset=-150
+    - title: Robotic Engineer/Designer
+      link: https://ca.indeed.com/job/robotic-engineerdesigner-6917141e718b60ce
+- company: focus
+  jobs:
+    - title: Software Developer
+      link: https://ca.indeed.com/job/software-developer-b41b9e456d26962a
+    - title: Software and Cloud Architect
+      link: https://ca.indeed.com/job/software-and-cloud-architect-ca5057819f6a3b53
+- company: cahill
+  jobs:
+    - title: SharePoint Developer/Administrator
+      link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
+- company: otherocean
+  jobs:
+    - title: Software Programmer
+      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26387333
+- company: colab
+  jobs:
+  - title: DevOps
+    link: https://www.colabsoftware.com/job/devops
+  - title: Front-End Developer
+    link: https://www.colabsoftware.com/job/front-end-developer
+  - title: Back-End Developer (Analytics)
+    link: https://www.colabsoftware.com/job/back-end-developer
+- company: nlchi
+  jobs:
+    - title: Applications Analyst II
+      link: https://www.careerbeacon.com/en/posting/742033/newfoundland-and-labrador-centre-for-health-information/applications-analyst-ii/st-john-s
 - company: bluedrop
   jobs:
     - title: Technical Writer / Business Analyst
       link: https://www.careerbeacon.com/en/posting/739671/bluedrop-learning-networks/technical-writer-business-analyst/st-john-s
-    - title: IT Support Specialist
-      link: https://www.careerbeacon.com/en/posting/738883/bluedrop-performance-learning/it-support-specialist/st-john-s
     - title: UX Specialist/Front-End Developer
       link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
     - title: Software Developer
@@ -30,18 +54,12 @@
       link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1235
     - title: Senior Java Developer
       link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
-    - title: Senior Java Developer #1 (Contract)
-      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1236
     - title: Senior Java Developer #2 (Contract)
       link:  http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1238
 - company: nsbenergy
   jobs:
     - title: IT Technician
       link: https://www.omega.no/jobs/jobinfo/287528e3-327d-4664-98b7-27c7e731c10c
-- company: atlanticlottery
-  jobs:
-    - title: BI System Analyst
-      link: https://www.careerbeacon.com/en/posting/737130/atlantic-lottery-loteries-de-l-atlantique/bi-system-analyst/st-john-s
 - company: compusult
   jobs:
     - title: Software Engineers/Developers
@@ -62,10 +80,6 @@
     link: http://www.infotechsolutions.com/careers/senior-web-designer
   - title: Systems Analyst
     link: http://www.infotechsolutions.com/careers/systems-analyst
-- company: quorum
-  jobs:
-  - title: Junior Software Developer
-    link: http://www.quorumdms.com/st-johns-job-junior-software-developer.htm
 - company: clockworkfox
   jobs:
   - title: Backend Web Developer
@@ -80,16 +94,8 @@
   jobs:
   - title: Experienced Software Developer
     link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
-- company: colab
-  jobs:
-  - title: Software Development Lead
-    link: https://www.colabsoftware.com/careers
-  - title: Full Stack Developer
-    link: https://www.colabsoftware.com/careers
 - company: verafin
   jobs:
-  - title: Technical Support Specialist
-    link: https://www.careerbeacon.com/en/posting/729868/verafin/technical-support-specialist/st-john-s
   - title: Software Developer
     link: https://verafin.com/careers/
 - company: radient

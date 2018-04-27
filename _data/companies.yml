@@ -1,9 +1,15 @@
 atlanticlottery:
   name: Atlantic Lottery / Loteries de l’Atlantique
   url: http://www.alc.ca/
+averro:
+  name: Averro Robotics and Technology
+  url: https://averrorobotics.com/
 bluedrop:
   name: Bluedrop Learning Networks
   url: http://www.bluedroplearningnetworks.com/
+cahill:
+  name: Cahill Group
+  url: http://www.cahill.ca
 celtx:
   name: Celtx
   url: https://www.celtx.com
@@ -19,6 +25,9 @@ clockworkfox:
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
+focus:
+  name: Focus FS
+  url: http://www.focusfs.com/
 inmarsat:
   name: Inmarsat
   url: https://www.inmarsat.com/

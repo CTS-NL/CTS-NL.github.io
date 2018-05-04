@@ -1,3 +1,19 @@
+- company: fytics
+  jobs:
+    - title: Front End Developer
+      link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
+- company: subc
+  jobs:
+    - title: Software Support Specialist
+      link: https://ca.indeed.com/job/software-support-specialist-f03a01607371a662
+- company: ioa
+  jobs:
+    - title: Software Development Programmer
+      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26602682
+- company: integrated
+  jobs:
+    - title: Front-end Developer
+      link: https://ca.indeed.com/job/front-end-developer-58aafb0de59871c2
 - company: inmarsat
   jobs:
     - title: Senior Director and Lead IT Architect
@@ -16,10 +32,6 @@
   jobs:
     - title: SharePoint Developer/Administrator
       link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
-- company: otherocean
-  jobs:
-    - title: Software Programmer
-      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26387333
 - company: colab
   jobs:
   - title: DevOps
@@ -50,12 +62,8 @@
       link: "https://www.workopolis.com/jobsearch/posting?e=R14HN13mwV1_5I_QyLvycXXgacY2AfsPbr1t3JETaeIOI6jSWxIlbtqxqSFN7O3aAjEwWwjUHEQl__MdsAn828YfXkMKPNn9QNlBpXfOoR2kw8yons2joHzWm6v63Bx1gTn4UXsbVfUafnp2QG_YniJ5bA_C_ZmjtqN8_dcfXsQdvWF2XkCRybRl_JbERrBBjPlaYsMQve8-WHlJ4znNsXw5lb6FQHUp7_V8CeC5p3A1TM-O6PKi1n_aqtlw6xRBMgdbXyfJrdtvapRXkEqKqlNmhe2tVTrvfYtXzBhjveMcDRZ2pvTf_Q0yLzjfcob-U_JRLpspVY8FVT8vgiMBW7riRCUx4POf4sDuOor8048_UyX2RaIB8AU&isp=0&el=%2Fjobsearch%2Ffind-jobs%3Fak%3Dpal%26l%3DNewfoundland%2Band%2BLabrador%252CCANADA%26lg%3Den%26st%3Dtrue&id=0-GPRcUs3pLYYUpZhbHTwtPlRrPSgrjuXCZxw1O5wbVhIQAVSgFW-w"
 - company: rsa
   jobs:
-    - title: Senior Developer
-      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1235
     - title: Senior Java Developer
       link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
-    - title: Senior Java Developer #2 (Contract)
-      link:  http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1238
 - company: nsbenergy
   jobs:
     - title: IT Technician

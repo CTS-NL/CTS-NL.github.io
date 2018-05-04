@@ -28,6 +28,9 @@ easternhealth:
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+ioa:
+  name: IOA Software Solutions
+  url: http://www.ioass.com/
 inmarsat:
   name: Inmarsat
   url: https://www.inmarsat.com/
@@ -94,6 +97,9 @@ rsa:
 rutter:
   name: Rutter
   url: http://www.rutter.ca/
+fytics:
+  name: Fytics
+  url: http://fytics.com/
 subc:
   name: SubC Imaging
   url: http://subcimaging.com/

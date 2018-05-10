@@ -13,6 +13,7 @@ categories:
 
 * [Canada Learning Code][canadacode] is having a class, [Girls Learning Code Day 2018: Collaborative Game Production](https://www.eventbrite.ca/e/girls-learning-code-day-2018-collaborative-game-production-for-ages-8-13-parentguardian-stjohns-registration-44406738751), on Saturday May 12.
 * Join us for a talk on [Digital Forensics](https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/250326577/) on Thursday May 17.
+* [GamedevNL][gamedevnl] is hosting, [2018 State of the Industry Roundtable Discussion](http://gamedevnl.org/index.php/2018/05/06/may-22-event-2018-state-of-the-industry-roundtable-discussion/) on Tuesday May 22.
 
 ## Technology News
 

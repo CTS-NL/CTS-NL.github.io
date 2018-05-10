@@ -94,6 +94,9 @@ radient:
 rsa:
   name: RSA Canada
   url: https://www.rsagroup.ca/
+robustic:
+  name: Robustic
+  url: http://robustic.ca/
 rutter:
   name: Rutter
   url: http://www.rutter.ca/

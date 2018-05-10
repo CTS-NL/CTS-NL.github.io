@@ -1,3 +1,15 @@
+- company: otherocean
+  jobs:
+    - title: Software Programmer
+      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26683375
+- company: robustic
+  jobs:
+    - title: Junior Software Developer
+      link: https://ca.indeed.com/job/junior-software-developer-bea5a28132ba2611
+    - title: Software Developer
+      link: https://ca.indeed.com/job/software-developer-6acf69822d512ae8
+    - title: Senior Software Developer
+      link: https://ca.indeed.com/job/senior-software-developer-b72938effab39727
 - company: fytics
   jobs:
     - title: Front End Developer
@@ -18,10 +30,6 @@
   jobs:
     - title: Senior Director and Lead IT Architect
       link: https://inmarsat.jobs.net/en-GB/job/senior-director-lead-it-architect-001563/J3W2SN6DPZPFNNDL81B?idpartenaire=20222
-- company: averro
-  jobs:
-    - title: Robotic Engineer/Designer
-      link: https://ca.indeed.com/job/robotic-engineerdesigner-6917141e718b60ce
 - company: focus
   jobs:
     - title: Software Developer
@@ -40,10 +48,6 @@
     link: https://www.colabsoftware.com/job/front-end-developer
   - title: Back-End Developer (Analytics)
     link: https://www.colabsoftware.com/job/back-end-developer
-- company: nlchi
-  jobs:
-    - title: Applications Analyst II
-      link: https://www.careerbeacon.com/en/posting/742033/newfoundland-and-labrador-centre-for-health-information/applications-analyst-ii/st-john-s
 - company: bluedrop
   jobs:
     - title: Technical Writer / Business Analyst
@@ -94,8 +98,6 @@
     link: http://clockworkfoxstudios.com/back-end-web-developer/
 - company: mysa
   jobs:
-  - title: Front-end Developer
-    link: https://ca.indeed.com/viewjob?jk=ff5a5c6d3b4e1b93&tk=1c3dr9j735n92dn1&from=company
   - title: Backend Software Developer
     link: https://ca.indeed.com/viewjob?jk=c1f927822a4015d9&tk=1c3dr9j735n92dn1&from=company
 - company: whalecompany

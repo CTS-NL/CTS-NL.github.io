@@ -13,10 +13,13 @@ permalink: "/jobs/"
 </p>
 
 {% for entry in site.data.jobs %}
-<h3><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h3>
-<ul>
-    {% for job in entry.jobs %}
-    <li><a href="{{ job.link }}">{{ job.title }}</a></li>
+    <h4><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h4>
+    {% for postings in entry.jobs %}
+        <h6><b>{{ postings.post_date | date: "%b %d, %Y" }}</b></h6>
+        <ul>
+            {% for job in postings.jobs %}
+                <li><a href="{{ job.link }}">{{ job.title }}</a></li>
+            {% endfor %}
+        </ul>
     {% endfor %}
-</ul>
 {% endfor %}

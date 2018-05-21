@@ -1,0 +1,1 @@
+<a href="{{ site.data.groups[include.group].url }}">{{ site.data.groups[include.group].name }}</a>

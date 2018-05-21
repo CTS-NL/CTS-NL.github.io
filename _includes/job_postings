@@ -1,0 +1,14 @@
+<ul>
+{% for listing in page.jobs %}
+  <li>
+  {% include company company=listing.company %} is looking for:
+    <ul>
+      {% for job in listing.jobs %}
+        <li><a href="{{ job.link }}">{{ job.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
+
+View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!

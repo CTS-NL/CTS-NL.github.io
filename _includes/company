@@ -1,0 +1,1 @@
+<a href="{{ site.data.companies[include.company].url }}">{{ site.data.companies[include.company].name }}</a>

@@ -1,126 +1,218 @@
-- company: otherocean
+- company: lemur
   jobs:
-    - title: Software Programmer
-      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26683375
-- company: robustic
-  jobs:
-    - title: Junior Software Developer
-      link: https://ca.indeed.com/job/junior-software-developer-bea5a28132ba2611
-    - title: Software Developer
-      link: https://ca.indeed.com/job/software-developer-6acf69822d512ae8
-    - title: Senior Software Developer
-      link: https://ca.indeed.com/job/senior-software-developer-b72938effab39727
-- company: fytics
-  jobs:
-    - title: Front End Developer
-      link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
-- company: subc
-  jobs:
-    - title: Software Support Specialist
-      link: https://ca.indeed.com/job/software-support-specialist-f03a01607371a662
-- company: ioa
-  jobs:
-    - title: Software Development Programmer
-      link: https://www.jobbank.gc.ca/jobsearch/jobposting/26602682
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26732626
+        - title: Software Engineer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26732630
 - company: integrated
   jobs:
-    - title: Front-end Developer
-      link: https://ca.indeed.com/job/front-end-developer-58aafb0de59871c2
-- company: inmarsat
-  jobs:
-    - title: Senior Director and Lead IT Architect
-      link: https://inmarsat.jobs.net/en-GB/job/senior-director-lead-it-architect-001563/J3W2SN6DPZPFNNDL81B?idpartenaire=20222
-- company: focus
-  jobs:
-    - title: Software Developer
-      link: https://ca.indeed.com/job/software-developer-b41b9e456d26962a
-    - title: Software and Cloud Architect
-      link: https://ca.indeed.com/job/software-and-cloud-architect-ca5057819f6a3b53
-- company: cahill
-  jobs:
-    - title: SharePoint Developer/Administrator
-      link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1399577/integrated-informatics/software-developer/st-john-s
 - company: colab
   jobs:
-  - title: DevOps
-    link: https://www.colabsoftware.com/job/devops
-  - title: Front-End Developer
-    link: https://www.colabsoftware.com/job/front-end-developer
-  - title: Back-End Developer (Analytics)
-    link: https://www.colabsoftware.com/job/back-end-developer
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Front-End Development Intern
+          link: https://www.colabsoftware.com/job/front-end-developer-intern
+        - title: Back-End Development Intern
+          link: https://www.colabsoftware.com/job/back-end-developer-intern
+    -
+      post_date: 2018-04-26
+      jobs:
+        - title: DevOps
+          link: https://www.colabsoftware.com/job/devops
+        - title: Front-End Developer
+          link: https://www.colabsoftware.com/job/front-end-developer
+        - title: Back-End Developer (Analytics)
+          link: https://www.colabsoftware.com/job/back-end-developer
+- company: otherocean
+  jobs:
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26745524
+    -
+      post_date: 2018-05-10
+      jobs:
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26683375
+- company: robustic
+  jobs:
+    -
+      post_date: 2018-05-10
+      jobs:
+        - title: Junior Software Developer
+          link: https://ca.indeed.com/job/junior-software-developer-bea5a28132ba2611
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-6acf69822d512ae8
+        - title: Senior Software Developer
+          link: https://ca.indeed.com/job/senior-software-developer-b72938effab39727
+- company: fytics
+  jobs:
+    -
+      post_date: 2018-05-03
+      jobs:
+        - title: Front End Developer
+          link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
+- company: subc
+  jobs:
+    -
+      post_date: 2018-05-03
+      jobs:
+        - title: Software Support Specialist
+          link: https://ca.indeed.com/job/software-support-specialist-f03a01607371a662
+- company: ioa
+  jobs:
+    -
+      post_date: 2018-05-03
+      jobs:
+        - title: Software Development Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26602682
+- company: integrated
+  jobs:
+    -
+      post_date: 2018-05-03
+      jobs:
+        - title: Front-end Developer
+          link: https://ca.indeed.com/job/front-end-developer-58aafb0de59871c2
+- company: focus
+  jobs:
+    -
+      post_date: 2018-04-26
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-b41b9e456d26962a
+        - title: Software and Cloud Architect
+          link: https://ca.indeed.com/job/software-and-cloud-architect-ca5057819f6a3b53
+- company: cahill
+  jobs:
+    -
+      post_date: 2018-04-26
+      jobs:
+        - title: SharePoint Developer/Administrator
+          link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
+- company: colab
+  jobs:
+    -
+      post_date: 2018-04-26
+      jobs:
+        - title: DevOps
+          link: https://www.colabsoftware.com/job/devops
+        - title: Front-End Developer
+          link: https://www.colabsoftware.com/job/front-end-developer
+        - title: Back-End Developer (Analytics)
+          link: https://www.colabsoftware.com/job/back-end-developer
 - company: bluedrop
   jobs:
-    - title: Technical Writer / Business Analyst
-      link: https://www.careerbeacon.com/en/posting/739671/bluedrop-learning-networks/technical-writer-business-analyst/st-john-s
-    - title: UX Specialist/Front-End Developer
-      link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
-    - title: Software Developer
-      link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
+    -
+      post_date: 2018-04-19
+      jobs:
+        - title: Technical Writer / Business Analyst
+          link: https://www.careerbeacon.com/en/posting/739671/bluedrop-learning-networks/technical-writer-business-analyst/st-john-s
+    -
+      post_date: 2018-04-05
+      jobs:
+        - title: UX Specialist/Front-End Developer
+          link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
 - company: wekaplex
   jobs:
-    - title: Android Developer
-      link: https://ca.indeed.com/job/android-developer-5440909bd66aa2b5
+    -
+      post_date: 2018-04-12
+      jobs:
+        - title: Android Developer
+          link: https://ca.indeed.com/job/android-developer-5440909bd66aa2b5
 - company: pal
   jobs:
-    - title: Intermediate Software Developer
-      link: "https://www.workopolis.com/jobsearch/posting?e=R14HN13mwV1_5I_QyLvycXXgacY2AfsPbr1t3JETaeIOI6jSWxIlbtqxqSFN7O3aAjEwWwjUHEQl__MdsAn828YfXkMKPNn9QNlBpXfOoR2kw8yons2joHzWm6v63Bx1gTn4UXsbVfUafnp2QG_YniJ5bA_C_ZmjtqN8_dcfXsQdvWF2XkCRybRl_JbERrBBjPlaYsMQve8-WHlJ4znNsXw5lb6FQHUp7_V8CeC5p3A1TM-O6PKi1n_aqtlw6xRBMgdbXyfJrdtvapRXkEqKqlNmhe2tVTrvfYtXzBhjveMcDRZ2pvTf_Q0yLzjfcob-U_JRLpspVY8FVT8vgiMBW7riRCUx4POf4sDuOor8048_UyX2RaIB8AU&isp=0&el=%2Fjobsearch%2Ffind-jobs%3Fak%3Dpal%26l%3DNewfoundland%2Band%2BLabrador%252CCANADA%26lg%3Den%26st%3Dtrue&id=0-GPRcUs3pLYYUpZhbHTwtPlRrPSgrjuXCZxw1O5wbVhIQAVSgFW-w"
+    -
+      post_date: 2018-04-12
+      jobs:
+        - title: Intermediate Software Developer
+          link: "https://www.workopolis.com/jobsearch/posting?e=R14HN13mwV1_5I_QyLvycXXgacY2AfsPbr1t3JETaeIOI6jSWxIlbtqxqSFN7O3aAjEwWwjUHEQl__MdsAn828YfXkMKPNn9QNlBpXfOoR2kw8yons2joHzWm6v63Bx1gTn4UXsbVfUafnp2QG_YniJ5bA_C_ZmjtqN8_dcfXsQdvWF2XkCRybRl_JbERrBBjPlaYsMQve8-WHlJ4znNsXw5lb6FQHUp7_V8CeC5p3A1TM-O6PKi1n_aqtlw6xRBMgdbXyfJrdtvapRXkEqKqlNmhe2tVTrvfYtXzBhjveMcDRZ2pvTf_Q0yLzjfcob-U_JRLpspVY8FVT8vgiMBW7riRCUx4POf4sDuOor8048_UyX2RaIB8AU&isp=0&el=%2Fjobsearch%2Ffind-jobs%3Fak%3Dpal%26l%3DNewfoundland%2Band%2BLabrador%252CCANADA%26lg%3Den%26st%3Dtrue&id=0-GPRcUs3pLYYUpZhbHTwtPlRrPSgrjuXCZxw1O5wbVhIQAVSgFW-w"
 - company: rsa
   jobs:
-    - title: Senior Java Developer
-      link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
-- company: nsbenergy
-  jobs:
-    - title: IT Technician
-      link: https://www.omega.no/jobs/jobinfo/287528e3-327d-4664-98b7-27c7e731c10c
+    -
+      post_date: 2018-04-12
+      jobs:
+        - title: Senior Java Developer
+          link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
 - company: compusult
   jobs:
-    - title: Software Engineers/Developers
-      link: http://www.compusult.net/web/guest/careers
+    -
+      post_date: 2018-03-29
+      jobs:
+        - title: Software Engineers/Developers
+          link: http://www.compusult.net/web/guest/careers
 - company: q5
   jobs:
-    - title: Intermediate/Senior Developer
-      link: https://www.careerbeacon.com/en/posting/735572/q5-systems-limited/intermediate-senior-developer/st-john-s
-- company: zedit
-  jobs:
-  - title: IT DevOps Support Analyst
-    link: https://www.careerbeacon.com/en/posting/734810/group-zed/it-devops-analyst/st-john-s
+    -
+      post_date: 2018-03-29
+      jobs:
+        - title: Intermediate/Senior Developer
+          link: https://www.careerbeacon.com/en/posting/735572/q5-systems-limited/intermediate-senior-developer/st-john-s
 - company: infotech
   jobs:
-  - title: Senior .NET Developer
-    link: http://www.infotechsolutions.com/careers/senior-developer
-  - title: Senior Web Designer
-    link: http://www.infotechsolutions.com/careers/senior-web-designer
-  - title: Systems Analyst
-    link: http://www.infotechsolutions.com/careers/systems-analyst
+    -
+      post_date: 2018-03-08
+      jobs:
+        - title: Senior .NET Developer
+          link: http://www.infotechsolutions.com/careers/senior-developer
+        - title: Senior Web Designer
+          link: http://www.infotechsolutions.com/careers/senior-web-designer
+        - title: Systems Analyst
+          link: http://www.infotechsolutions.com/careers/systems-analyst
 - company: clockworkfox
   jobs:
-  - title: Backend Web Developer
-    link: http://clockworkfoxstudios.com/back-end-web-developer/
-- company: mysa
-  jobs:
-  - title: Backend Software Developer
-    link: https://ca.indeed.com/viewjob?jk=c1f927822a4015d9&tk=1c3dr9j735n92dn1&from=company
+    -
+      post_date: 2018-03-01
+      jobs:
+      - title: Backend Web Developer
+        link: http://clockworkfoxstudios.com/back-end-web-developer/
 - company: whalecompany
   jobs:
-  - title: Experienced Software Developer
-    link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
+    -
+      post_date: 2018-02-22
+      jobs:
+        - title: Experienced Software Developer
+          link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
 - company: verafin
   jobs:
-  - title: Software Developer
-    link: https://verafin.com/careers/
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Software Developer
+          link: https://verafin.com/careers/
 - company: radient
   jobs:
-  - title: Software Developer
-    link: http://radient360.com/r360careers/
-  - title: UX Developer
-    link: http://radient360.com/r360careers/
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Software Developer
+          link: http://radient360.com/r360careers/
+        - title: UX Developer
+          link: http://radient360.com/r360careers/
 - company: kraken
   jobs:
-  - title: Software Developer
-    link: http://krakenrobotics.com/about/careers/
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Software Developer
+          link: http://krakenrobotics.com/about/careers/
 - company: celtx
   jobs:
-  - title: Web Application Developer
-    link: https://www.celtx.com/careers.html?gh_jid=235766
-  - title: Web Infrastructure Developer
-    link: https://www.celtx.com/careers.html?gh_jid=235786
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Web Application Developer
+          link: https://www.celtx.com/careers.html?gh_jid=235766
+        - title: Web Infrastructure Developer
+          link: https://www.celtx.com/careers.html?gh_jid=235786

@@ -1,0 +1,21 @@
+acenet:
+  name: ACENET
+  url: https://www.ace-net.ca/
+blockchainnl:
+  name: Blockchain NL
+  url: https://www.facebook.com/blockchainnl/
+canadacode:
+  name: "Canada Learning Code: St. John's Chapter"
+  url: https://www.canadalearningcode.ca/chapters/st-johns/
+gamedevnl:
+  name: Gamedev NL
+  url: http://gamedevnl.org
+hackinghealth:
+  name: Hacking Health St. John's
+  url: https://www.facebook.com/HHStJohnsNL/
+muncompsci:
+  name: MUN Computer Science Society
+  url: https://muncompsci.ca/
+ndev:
+  name: NL Software Developers
+  url: https://www.meetup.com/ndevmeetup/

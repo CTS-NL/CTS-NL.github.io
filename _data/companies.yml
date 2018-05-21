@@ -49,6 +49,9 @@ keyassets:
 kraken:
   name: Kraken Robotics
   url: http://krakenrobotics.com/
+lemur:
+  name: Lemur Vehicle Monitors
+  url: https://www.bluedriver.com/
 mysa:
   name: Mysa
   url: https://getmysa.com/

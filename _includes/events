@@ -1,0 +1,26 @@
+<ul>
+{% if page.meetup %}
+  <li>
+    Join us at our <a href="{{ page.meetup.link}}">Tech Project Night and Meetup</a> on {{ page.meetup.date | date: "%a %b %e" }}
+  </li>
+{% endif %}
+{% if page.talk %}
+  <li>
+    Join us for <a href="{{ page.talk.link}}">{{ page.talk.name }}</a> on {{ page.talk.date | date: "%a %b %e" }}
+  </li>
+{% endif %}
+{% if page.talk or page.meetup %}
+</ul>
+<ul>
+{% endif %}
+{% for listing in page.events %}
+  <li>
+    {% include group group=listing.group %} is hosting:
+    <ul>
+      {% for event in listing.events %}
+        <li>{{ event.before }} <a href="{{ event.link}}">{{ event.title }}</a> on {{ event.date | date: "%a %b %e" }}</li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

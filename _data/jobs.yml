@@ -1,3 +1,22 @@
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-05-24
+      jobs:
+        - title: Application Systems Analyst
+          link: https://www.careerbeacon.com/en/job/1399577/integrated-informatics/software-developer/st-john-s
+- company: wekaplex
+  jobs:
+    -
+      post_date: 2018-05-24
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-448aefa92f5c89ff
+    -
+      post_date: 2018-04-12
+      jobs:
+        - title: Android Developer
+          link: https://ca.indeed.com/job/android-developer-5440909bd66aa2b5
 - company: lemur
   jobs:
     -
@@ -39,11 +58,6 @@
       jobs:
         - title: Software Programmer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/26745524
-    -
-      post_date: 2018-05-10
-      jobs:
-        - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26683375
 - company: robustic
   jobs:
     -
@@ -99,17 +113,6 @@
       jobs:
         - title: SharePoint Developer/Administrator
           link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
-- company: colab
-  jobs:
-    -
-      post_date: 2018-04-26
-      jobs:
-        - title: DevOps
-          link: https://www.colabsoftware.com/job/devops
-        - title: Front-End Developer
-          link: https://www.colabsoftware.com/job/front-end-developer
-        - title: Back-End Developer (Analytics)
-          link: https://www.colabsoftware.com/job/back-end-developer
 - company: bluedrop
   jobs:
     -
@@ -124,13 +127,6 @@
           link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
         - title: Software Developer
           link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
-- company: wekaplex
-  jobs:
-    -
-      post_date: 2018-04-12
-      jobs:
-        - title: Android Developer
-          link: https://ca.indeed.com/job/android-developer-5440909bd66aa2b5
 - company: pal
   jobs:
     -
@@ -152,13 +148,6 @@
       jobs:
         - title: Software Engineers/Developers
           link: http://www.compusult.net/web/guest/careers
-- company: q5
-  jobs:
-    -
-      post_date: 2018-03-29
-      jobs:
-        - title: Intermediate/Senior Developer
-          link: https://www.careerbeacon.com/en/posting/735572/q5-systems-limited/intermediate-senior-developer/st-john-s
 - company: infotech
   jobs:
     -

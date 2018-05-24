@@ -68,4 +68,3 @@ x-talk:
 
 ## New Job Postings
 {% include job_postings %}
-

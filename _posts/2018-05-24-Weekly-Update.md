@@ -12,7 +12,7 @@ jobs:
 - company: inmarsat
   jobs:
     - title: Application Systems Analyst
-      link: https://www.careerbeacon.com/en/job/1399577/integrated-informatics/software-developer/st-john-s
+      link: https://inmarsat.jobs.net/en-GB/job/application-systems-analyst/J3T5VF76P6BW13RMFP2?idpartenaire=20222
 - company: wekaplex
   jobs:
     - title: Software Developer
@@ -25,8 +25,8 @@ events:
         link: https://www.eventbrite.ca/e/acenet-parallel-computing-school-tickets-44593415105?aff=es2
 
 meetup:
-  date: 2018-05-24
-  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/250922662/
+  date: 2018-05-31
+  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/251127922/
 
 x-talk:
   name: 
@@ -36,11 +36,6 @@ x-talk:
 
 ## Upcoming Events
 {% include events %}
-
-## Technology News
-
-* Data centres are a boon to Labrador, not a drain, says CEO. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/data-centres-ceo-great-north-data-1.4663291)
-* New Algorithm Helps Anticipate Hospital Staffing Needs. [read](http://vocm.com/news/new-algorithm-helps-anticipate-hospital-staffing-needs/)
 
 ## New Job Postings
 {% include job_postings %}

@@ -1,10 +1,33 @@
+- company: nalcor
+  jobs:
+    -
+      post_date: 2018-05-31
+      jobs:
+        - title: Infrastructure Specialist – Operating Technology
+          link: https://www.careerbeacon.com/en/job/1443203/newfoundland-and-labrador-hydro/infrastructure-specialist-operating-technology-it-ot/st-john-s
+- company: otherocean
+  jobs:
+    -
+      post_date: 2018-05-31
+      jobs:
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26942809
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26829429
+- company: poweredbyb
+  jobs:
+    -
+      post_date: 2018-05-31
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.indeed.ca/cmp/Powered-by-b/jobs/Programmer-Analyst-1bfe0e0330f93cc9?q=powered+by+b&vjs=3
 - company: inmarsat
   jobs:
     -
       post_date: 2018-05-24
       jobs:
         - title: Application Systems Analyst
-          link: https://www.careerbeacon.com/en/job/1399577/integrated-informatics/software-developer/st-john-s
+          link: https://inmarsat.jobs.net/en-GB/job/application-systems-analyst/J3T5VF76P6BW13RMFP2?idpartenaire=20222
 - company: wekaplex
   jobs:
     -
@@ -51,13 +74,6 @@
           link: https://www.colabsoftware.com/job/front-end-developer
         - title: Back-End Developer (Analytics)
           link: https://www.colabsoftware.com/job/back-end-developer
-- company: otherocean
-  jobs:
-    -
-      post_date: 2018-05-17
-      jobs:
-        - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26745524
 - company: robustic
   jobs:
     -
@@ -97,15 +113,6 @@
       jobs:
         - title: Front-end Developer
           link: https://ca.indeed.com/job/front-end-developer-58aafb0de59871c2
-- company: focus
-  jobs:
-    -
-      post_date: 2018-04-26
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/job/software-developer-b41b9e456d26962a
-        - title: Software and Cloud Architect
-          link: https://ca.indeed.com/job/software-and-cloud-architect-ca5057819f6a3b53
 - company: cahill
   jobs:
     -
@@ -134,13 +141,6 @@
       jobs:
         - title: Intermediate Software Developer
           link: "https://www.workopolis.com/jobsearch/posting?e=R14HN13mwV1_5I_QyLvycXXgacY2AfsPbr1t3JETaeIOI6jSWxIlbtqxqSFN7O3aAjEwWwjUHEQl__MdsAn828YfXkMKPNn9QNlBpXfOoR2kw8yons2joHzWm6v63Bx1gTn4UXsbVfUafnp2QG_YniJ5bA_C_ZmjtqN8_dcfXsQdvWF2XkCRybRl_JbERrBBjPlaYsMQve8-WHlJ4znNsXw5lb6FQHUp7_V8CeC5p3A1TM-O6PKi1n_aqtlw6xRBMgdbXyfJrdtvapRXkEqKqlNmhe2tVTrvfYtXzBhjveMcDRZ2pvTf_Q0yLzjfcob-U_JRLpspVY8FVT8vgiMBW7riRCUx4POf4sDuOor8048_UyX2RaIB8AU&isp=0&el=%2Fjobsearch%2Ffind-jobs%3Fak%3Dpal%26l%3DNewfoundland%2Band%2BLabrador%252CCANADA%26lg%3Den%26st%3Dtrue&id=0-GPRcUs3pLYYUpZhbHTwtPlRrPSgrjuXCZxw1O5wbVhIQAVSgFW-w"
-- company: rsa
-  jobs:
-    -
-      post_date: 2018-04-12
-      jobs:
-        - title: Senior Java Developer
-          link: http://clients.njoyn.com/cl2/xweb/Xweb.asp?clid=27078&Page=jobdetails&jobid=J0318-1242
 - company: compusult
   jobs:
     -

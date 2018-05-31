@@ -76,6 +76,9 @@ pal:
 pangeo:
   name: PanGeo Subsea
   url: https://www.pangeosubsea.com/
+poweredbyb:
+  name: Powered by b
+  url: http://www.poweredbyb.ca/
 provident:
   name: Provident10
   url: https://provident10.ca/

@@ -1,3 +1,31 @@
+- company: johnson
+  jobs:
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Senior Java Developer
+          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YV9eQx4XCGp2E30uJS5ALiReMFYgCCQ4dBZEcFgqAUhYU1EPExcsX0UZWDIcBWN8AgkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1242&brid=194968&lang=1
+- company: avalonholo
+  jobs:
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: System Administrator
+          link: https://www.careerbeacon.com/en/job/1469638/avalon-holographics/system-administrator/st-john-s
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://www.careerbeacon.com/en/job/1455410/eastern-health/computer-programmer-analyst/st-john-s
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Analyst Developer
+          link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
 - company: nalcor
   jobs:
     -
@@ -11,23 +39,9 @@
       post_date: 2018-05-31
       jobs:
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26942809
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26988644
         - title: Software Programmer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/26829429
-- company: poweredbyb
-  jobs:
-    -
-      post_date: 2018-05-31
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.indeed.ca/cmp/Powered-by-b/jobs/Programmer-Analyst-1bfe0e0330f93cc9?q=powered+by+b&vjs=3
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2018-05-24
-      jobs:
-        - title: Application Systems Analyst
-          link: https://inmarsat.jobs.net/en-GB/job/application-systems-analyst/J3T5VF76P6BW13RMFP2?idpartenaire=20222
 - company: wekaplex
   jobs:
     -
@@ -92,27 +106,6 @@
       jobs:
         - title: Front End Developer
           link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
-- company: subc
-  jobs:
-    -
-      post_date: 2018-05-03
-      jobs:
-        - title: Software Support Specialist
-          link: https://ca.indeed.com/job/software-support-specialist-f03a01607371a662
-- company: ioa
-  jobs:
-    -
-      post_date: 2018-05-03
-      jobs:
-        - title: Software Development Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26602682
-- company: integrated
-  jobs:
-    -
-      post_date: 2018-05-03
-      jobs:
-        - title: Front-end Developer
-          link: https://ca.indeed.com/job/front-end-developer-58aafb0de59871c2
 - company: cahill
   jobs:
     -
@@ -120,20 +113,6 @@
       jobs:
         - title: SharePoint Developer/Administrator
           link: https://www.careerbeacon.com/en/posting/741652?lang=en&utm_source=JobBank&utm_medium=jobposting&utm_campaign=JobBank_Feed
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2018-04-19
-      jobs:
-        - title: Technical Writer / Business Analyst
-          link: https://www.careerbeacon.com/en/posting/739671/bluedrop-learning-networks/technical-writer-business-analyst/st-john-s
-    -
-      post_date: 2018-04-05
-      jobs:
-        - title: UX Specialist/Front-End Developer
-          link: https://www.careerbeacon.com/en/posting/737707/bluedrop-learning-networks/ux-specialist-front-end-developer/st-john-s
-        - title: Software Developer
-          link: https://www.careerbeacon.com/en/posting/737704/bluedrop-learning-networks/software-developer/st-john-s
 - company: pal
   jobs:
     -

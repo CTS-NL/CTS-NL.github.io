@@ -1,3 +1,36 @@
+- company: quorum
+  jobs:
+    -
+      post_date: 2018-06-14
+      jobs:
+        - title: Data Conversion Specialist
+          link: https://www.careerbeacon.com/en/job/1470540/quorum-information-systems-inc/data-conversion-specialist/st-john-s
+- company: totaliq
+  jobs:
+    -
+      post_date: 2018-06-14
+      jobs:
+        - title: Senior Cloud Platform Developer
+          link: https://ca.indeed.com/job/senior-cloud-platform-developer-5664dd0a6f40bc10
+- company: pinnacle
+  jobs:
+    -
+      post_date: 2018-06-14
+      jobs:
+        - title: Digital Marketing Specialist/Web Developer
+          link: https://www.indeed.ca/cmp/Pinnacle-Networks-Inc./jobs/Digital-Marketing-Specialist-Web-Developer-555d96d760d8addc?q=pinnacle&vjs=3
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-06-14
+      jobs:
+        - title: Application Systems Analyst
+          link: https://www.careerbeacon.com/en/job/1470323/inmarsat/application-systems-analyst/mount-pearl
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Analyst Developer
+          link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
 - company: johnson
   jobs:
     -
@@ -12,27 +45,6 @@
       jobs:
         - title: System Administrator
           link: https://www.careerbeacon.com/en/job/1469638/avalon-holographics/system-administrator/st-john-s
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2018-06-07
-      jobs:
-        - title: Computer Programmer/Analyst
-          link: https://www.careerbeacon.com/en/job/1455410/eastern-health/computer-programmer-analyst/st-john-s
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2018-06-07
-      jobs:
-        - title: Analyst Developer
-          link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
-- company: nalcor
-  jobs:
-    -
-      post_date: 2018-05-31
-      jobs:
-        - title: Infrastructure Specialist – Operating Technology
-          link: https://www.careerbeacon.com/en/job/1443203/newfoundland-and-labrador-hydro/infrastructure-specialist-operating-technology-it-ot/st-john-s
 - company: otherocean
   jobs:
     -
@@ -60,9 +72,9 @@
       post_date: 2018-05-17
       jobs:
         - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26732626
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106370
         - title: Software Engineer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26732630
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106371
 - company: integrated
   jobs:
     -
@@ -88,17 +100,6 @@
           link: https://www.colabsoftware.com/job/front-end-developer
         - title: Back-End Developer (Analytics)
           link: https://www.colabsoftware.com/job/back-end-developer
-- company: robustic
-  jobs:
-    -
-      post_date: 2018-05-10
-      jobs:
-        - title: Junior Software Developer
-          link: https://ca.indeed.com/job/junior-software-developer-bea5a28132ba2611
-        - title: Software Developer
-          link: https://ca.indeed.com/job/software-developer-6acf69822d512ae8
-        - title: Senior Software Developer
-          link: https://ca.indeed.com/job/senior-software-developer-b72938effab39727
 - company: fytics
   jobs:
     -
@@ -145,13 +146,6 @@
       jobs:
       - title: Backend Web Developer
         link: http://clockworkfoxstudios.com/back-end-web-developer/
-- company: whalecompany
-  jobs:
-    -
-      post_date: 2018-02-22
-      jobs:
-        - title: Experienced Software Developer
-          link: https://jobs.careerbeacon.com/details/experienced-software-developer/590925
 - company: verafin
   jobs:
     -

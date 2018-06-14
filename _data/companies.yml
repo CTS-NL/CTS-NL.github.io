@@ -79,6 +79,9 @@ pal:
 pangeo:
   name: PanGeo Subsea
   url: https://www.pangeosubsea.com/
+pinnacle:
+  name: Pinnacle Networks Inc.
+  url: https://www.pinnacleoffice.ca/networks/
 poweredbyb:
   name: Powered by b
   url: http://www.poweredbyb.ca/
@@ -115,6 +118,9 @@ fytics:
 subc:
   name: SubC Imaging
   url: http://subcimaging.com/
+totaliq:
+  name: totaliQ
+  url: https://totaliq.ca/
 triware:
   name: Triware Technologies Inc.
   url: http://triware.ca/

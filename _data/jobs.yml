@@ -1,3 +1,45 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1471057/verafin/software-developer/st-john-s
+- company: triware
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Programmer / Developer
+          link: https://www.careerbeacon.com/en/job/1472804/triware-technologies-inc/programmer-developer/st-john-s
+- company: nalcor
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Security Analyst
+          link: http://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsNalcorExternal/NE-18-050?OpenDocument
+- company: johnson
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Senior Developer
+          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YlhaRRoXCG1yagQFNyciCFtPeWdEcCJacUhYV10JExJbWEYfKzYSBWB9BQkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1235&brid=194995&lang=1
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Senior Java Developer
+          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YV9eQx4XCGp2E30uJS5ALiReMFYgCCQ4dBZEcFgqAUhYU1EPExcsX0UZWDIcBWN8AgkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1242&brid=194968&lang=1
+- company: nlc
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Technical Designer - Application
+          link: https://www.careerbeacon.com/en/job/1471288/newfoundland-labrador-liquor-corporation/technical-designer-application/st-john-s
+        - title: Technical Designer - Data
+          link: https://www.careerbeacon.com/en/job/1471287/newfoundland-labrador-liquor-corporation/technical-designer-data/st-john-s
 - company: quorum
   jobs:
     -
@@ -12,32 +54,13 @@
       jobs:
         - title: Senior Cloud Platform Developer
           link: https://ca.indeed.com/job/senior-cloud-platform-developer-5664dd0a6f40bc10
-- company: pinnacle
-  jobs:
-    -
-      post_date: 2018-06-14
-      jobs:
-        - title: Digital Marketing Specialist/Web Developer
-          link: https://www.indeed.ca/cmp/Pinnacle-Networks-Inc./jobs/Digital-Marketing-Specialist-Web-Developer-555d96d760d8addc?q=pinnacle&vjs=3
 - company: inmarsat
   jobs:
-    -
-      post_date: 2018-06-14
-      jobs:
-        - title: Application Systems Analyst
-          link: https://www.careerbeacon.com/en/job/1470323/inmarsat/application-systems-analyst/mount-pearl
     -
       post_date: 2018-06-07
       jobs:
         - title: Analyst Developer
           link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
-- company: johnson
-  jobs:
-    -
-      post_date: 2018-06-07
-      jobs:
-        - title: Senior Java Developer
-          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YV9eQx4XCGp2E30uJS5ALiReMFYgCCQ4dBZEcFgqAUhYU1EPExcsX0UZWDIcBWN8AgkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1242&brid=194968&lang=1
 - company: avalonholo
   jobs:
     -
@@ -53,14 +76,9 @@
         - title: Software Programmer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/26988644
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/26829429
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27262817
 - company: wekaplex
   jobs:
-    -
-      post_date: 2018-05-24
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/job/software-developer-448aefa92f5c89ff
     -
       post_date: 2018-04-12
       jobs:
@@ -75,22 +93,15 @@
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106370
         - title: Software Engineer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106371
-- company: integrated
-  jobs:
-    -
-      post_date: 2018-05-17
-      jobs:
-        - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1399577/integrated-informatics/software-developer/st-john-s
 - company: colab
   jobs:
     -
       post_date: 2018-05-17
       jobs:
         - title: Front-End Development Intern
-          link: https://www.colabsoftware.com/job/front-end-developer-intern
+          link: https://www.colabsoftware.com/job/front-end-development-intern
         - title: Back-End Development Intern
-          link: https://www.colabsoftware.com/job/back-end-developer-intern
+          link: https://www.colabsoftware.com/job/back-end-development-intern
     -
       post_date: 2018-04-26
       jobs:
@@ -99,7 +110,7 @@
         - title: Front-End Developer
           link: https://www.colabsoftware.com/job/front-end-developer
         - title: Back-End Developer (Analytics)
-          link: https://www.colabsoftware.com/job/back-end-developer
+          link: https://www.colabsoftware.com/job/back-end-developer-analytics
 - company: fytics
   jobs:
     -
@@ -146,22 +157,6 @@
       jobs:
       - title: Backend Web Developer
         link: http://clockworkfoxstudios.com/back-end-web-developer/
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-02-08
-      jobs:
-        - title: Software Developer
-          link: https://verafin.com/careers/
-- company: radient
-  jobs:
-    -
-      post_date: 2018-02-08
-      jobs:
-        - title: Software Developer
-          link: http://radient360.com/r360careers/
-        - title: UX Developer
-          link: http://radient360.com/r360careers/
 - company: kraken
   jobs:
     -

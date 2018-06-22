@@ -4,7 +4,7 @@ title: "Weekly Digest - Week 18 - 2018"
 teaser: "The weekly computer technology digest for April 26 - May 03, 2018"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - news
 ---

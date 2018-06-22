@@ -4,7 +4,7 @@ title: "Talk Series - Talk 2"
 teaser: "Fused Deposition Modeling 3D Printers"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - talk-series 
 image:

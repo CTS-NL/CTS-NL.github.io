@@ -4,7 +4,7 @@ title: "Avalon Expo 2015"
 teaser: "We shared a table with CodeNL at the first Avalon Expo!"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 image:
     title: avalon-expo-2015-2.jpg
     caption: Panoramic from behind the table

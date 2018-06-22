@@ -5,7 +5,7 @@ meta_title: "Thank You!"
 teaser: ""
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 permalink: "/contact-thankyou/"
 ---
 

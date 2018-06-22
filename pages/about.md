@@ -4,7 +4,7 @@ title: "About CTS-NL"
 permalink: "/about/"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 ---
 
 ## Who are we?

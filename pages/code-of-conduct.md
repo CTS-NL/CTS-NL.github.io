@@ -5,7 +5,7 @@ title:  "Code of Conduct"
 teaser: ""
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 permalink: "/conduct/"
 ---
 

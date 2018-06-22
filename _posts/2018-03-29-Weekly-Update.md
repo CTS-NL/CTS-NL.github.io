@@ -4,7 +4,7 @@ title: "Weekly Digest - Week 13 - 2018"
 teaser: "The weekly computer technology digest for March 23 - 29, 2018"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - news
 ---

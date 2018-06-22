@@ -4,7 +4,7 @@ title: "Tech Project Night"
 teaser: "Our weekly project night and meetup"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - event
 image:

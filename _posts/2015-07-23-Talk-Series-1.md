@@ -4,7 +4,7 @@ title: "Talk Series - Talk 1"
 teaser: "A practical introduction to (unit) testing your software"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - talk-series 
 ---

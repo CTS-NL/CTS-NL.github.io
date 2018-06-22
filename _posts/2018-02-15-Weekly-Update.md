@@ -4,7 +4,7 @@ title: "Weekly Update - 2018 Week 7"
 teaser: "The weekly computer technology update for February 09-15, 2018"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - news
 ---

@@ -4,7 +4,7 @@ title: "Talk Series - Talk 3"
 teaser: "Internet of Things; Concurrency and Anti-Patterns"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - talk-series 
 image:

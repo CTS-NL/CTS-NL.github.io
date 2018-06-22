@@ -5,7 +5,7 @@ meta_title: "Contact CTS-NL"
 teaser: ""
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 permalink: "/contact/"
 ---
 

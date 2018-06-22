@@ -4,7 +4,7 @@ title: "Weekly Update - 2018 Week 1"
 teaser: "The weekly computer technology update for January 1-4, 2018"
 header:
     image: "logo.png"
-    pattern: "header-texture.jpg"
+    pattern: "header-texture.png"
 categories:
     - news
 ---

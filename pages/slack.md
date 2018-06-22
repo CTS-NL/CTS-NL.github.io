@@ -4,7 +4,7 @@ sidebar: left
 title: "Join Slack"
 header:
     image:  "logo.png"
-    pattern:  "header-texture.jpg"
+    pattern:  "header-texture.png"
 meta_title: "Join our slack channel"
 permalink: "/slack/"
 ---

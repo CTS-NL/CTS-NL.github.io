@@ -1,4 +1,7 @@
 <ul>
+{% if page.jobs == empty %}
+No new job posts this week.
+{% endif %}
 {% for listing in page.jobs %}
   <li>
   {% include company company=listing.company %} is looking for:

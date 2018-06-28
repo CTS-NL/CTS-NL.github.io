@@ -24,3 +24,5 @@
   </li>
 {% endfor %}
 </ul>
+
+View all upcoming events on the [Events Page]({{ site.url }}{{ site.baseurl }}/events)!

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Weekly Digest - Week 25- 2018"
+title: "Weekly Digest - Week 25 - 2018"
 teaser: "The weekly computer technology digest for June 15 - 21, 2018"
 header:
     image: "logo.png"
@@ -36,17 +36,17 @@ events:
   - group: nati
     events:
       - title: Hacking Oil & Gas - A Café on Digitization
-        date: 2018-06-27
+        start: 2018-06-27
         link: https://www.eventbrite.ca/e/hacking-oil-gas-a-cafe-on-digitization-tickets-46727507232?aff=es2
   - group: canadacode
     events:
       - title: "Kids Learning Code: Animating with Scratch"
-        date: 2018-07-07
-        link: https://www.eventbrite.ca/e/hacking-oil-gas-a-cafe-on-digitization-tickets-46727507232?aff=es2
+        start: 2018-07-07
+        link: https://www.eventbrite.ca/e/kids-learning-code-animating-with-scratch-for-ages-9-12-parentguardian-st-johns-registration-46887143709
 
 meetup:
-  date: 2018-06-21
-  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxjblc/
+  date: 2018-07-05
+  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxkbhb/
 
 x-talk:
   name: 

@@ -30,7 +30,7 @@ events:
   - group: nati
     events:
       - title: Hacking Oil & Gas - A Café on Digitization
-        date: 2018-06-27
+        start: 2018-06-27
         link: https://www.eventbrite.ca/e/hacking-oil-gas-a-cafe-on-digitization-tickets-46727507232?aff=es2
 
 meetup:

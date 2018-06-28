@@ -34,18 +34,18 @@ events:
   - group: gamedevnl
     events:
       - title: 2018 State of the Industry Roundtable Discussion
-        date: 2018-05-11
+        start: 2018-05-11
         link: http://gamedevnl.org/index.php/2018/05/06/may-22-event-2018-state-of-the-industry-roundtable-discussion/
   - group: acenet
     events:
       - title: Introduction to HPC / Linux
-        date: 2018-05-23
+        start: 2018-05-23
         link: https://www.eventbrite.ca/e/introduction-to-hpc-with-acenet-compute-canada-introduction-to-linux-tickets-45353595826?aff=es2
       - title: Introduction to Shell Scripting / Job Scheduling With Slurm
-        date: 2018-05-24
+        start: 2018-05-24
         link: https://www.eventbrite.ca/e/introduction-to-shell-scripting-job-scheduling-with-slurm-tickets-45353412277?aff=es2
       - title: Parallel Computing School
-        date: 2018-06-05
+        start: 2018-06-05
         link: https://www.eventbrite.ca/e/acenet-parallel-computing-school-tickets-44593415105?aff=es2
 
 meetup:

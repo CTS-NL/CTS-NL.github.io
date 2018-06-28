@@ -28,7 +28,7 @@ events:
   - group: acenet
     events:
       - title: Parallel Computing School
-        date: 2018-06-05
+        start: 2018-06-05
         link: https://www.eventbrite.ca/e/acenet-parallel-computing-school-tickets-44593415105?aff=es2
 
 meetup:

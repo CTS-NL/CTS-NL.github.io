@@ -1,0 +1,6 @@
+---
+layout: null
+title: "Events JSON Feed"
+permalink: /events.json
+---
+{{ site.data.events | jsonify }}

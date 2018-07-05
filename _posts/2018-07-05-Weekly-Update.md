@@ -1,14 +1,18 @@
 ---
 layout: page
-title: "Weekly Digest - Week 26 - 2018"
-teaser: "The weekly computer technology digest for June 22 - 28, 2018"
+title: "Weekly Digest - Week 27 - 2018"
+teaser: "The weekly computer technology digest for June 29 - July 05, 2018"
 header:
     image: "logo.png"
     pattern: "header-texture.png"
 categories:
     - news
 
-jobs: []
+jobs:
+- company: pal
+  jobs:
+    - title: Intermediate Software Developer
+      link: "https://ca.indeed.com/job/intermediate-software-developer-cc87dc54bc30d629"
 
 events:
   - group: canadacode
@@ -23,8 +27,8 @@ events:
         link: https://www.meetup.com/NDevMeetup/events/252198653/
 
 meetup:
-  date: 2018-07-05
-  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/252044161/
+  date: 2018-07-12
+  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxkbqb/
 
 x-talk:
   name: z
@@ -34,10 +38,6 @@ x-talk:
 
 ## Upcoming Events
 {% include events %}
-
-## Technology News
-
-* {% include company company="colab" %} raises $600K pre-seed round. [read](https://www.colabsoftware.com/post/colab-raises-600k-pre-seed-round)
 
 ## New Job Postings
 {% include job_postings %}

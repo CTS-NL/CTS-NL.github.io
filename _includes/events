@@ -6,7 +6,7 @@
 {% endif %}
 {% if page.talk %}
   <li>
-    Join us for <a href="{{ page.talk.link}}">{{ page.talk.name }}</a> on {{ page.talk.date | date: "%a %b %e" }}
+    Join us for <a href="{{ page.talk.link}}">{{ page.talk.name }}</a> on {{ page.talk.start | date: "%a %b %e" }}
   </li>
 {% endif %}
 {% if page.talk or page.meetup %}
@@ -18,7 +18,7 @@
     {% include group group=listing.group %} is hosting:
     <ul>
       {% for event in listing.events %}
-        <li>{{ event.before }} <a href="{{ event.link}}">{{ event.title }}</a> on {{ event.date | date: "%a %b %e" }}</li>
+        <li>{{ event.before }} <a href="{{ event.link}}">{{ event.title }}</a> on {{ event.start | date: "%a %b %e" }}</li>
       {% endfor %}
     </ul>
   </li>

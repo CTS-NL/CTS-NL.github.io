@@ -18,10 +18,17 @@
 ------------------------------------------------------------------- */
 
 #slack-loading {
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  overflow: hidden;
   text-align: center;
   font-weight: bold;
 }
 
+#slack-invite-wrapper {
+  text-align: center;
+}
 #slack-invite {
   display: none;
 }
@@ -74,7 +81,7 @@
 
 #toc ul,
 #toc ul ul,
-#toc ul ul ul, {
+#toc ul ul ul {
     list-style: none;
     margin-left: 30px;
 }

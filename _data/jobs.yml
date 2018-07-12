@@ -26,13 +26,6 @@
       jobs:
         - title: Senior Developer
           link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YlhaRRoXCG1yagQFNyciCFtPeWdEcCJacUhYV10JExJbWEYfKzYSBWB9BQkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1235&brid=194995&lang=1
-- company: totaliq
-  jobs:
-    -
-      post_date: 2018-06-14
-      jobs:
-        - title: Senior Cloud Platform Developer
-          link: https://ca.indeed.com/job/senior-cloud-platform-developer-5664dd0a6f40bc10
 - company: inmarsat
   jobs:
     -
@@ -40,13 +33,6 @@
       jobs:
         - title: Analyst Developer
           link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
-- company: avalonholo
-  jobs:
-    -
-      post_date: 2018-06-07
-      jobs:
-        - title: System Administrator
-          link: https://www.careerbeacon.com/en/job/1469638/avalon-holographics/system-administrator/st-john-s
 - company: otherocean
   jobs:
     -
@@ -60,9 +46,9 @@
       post_date: 2018-05-17
       jobs:
         - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106370
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417416
         - title: Software Engineer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27106371
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417418
 - company: colab
   jobs:
     -

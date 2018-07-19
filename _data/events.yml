@@ -1,7 +1,3 @@
-- title: "NDev: Lightning Talks"
-  start: "2018-07-18T19:00:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/252198653/
-
 
 #Auto load from Meetup with:
 #var o = [];
@@ -12,9 +8,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-07-19T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxkbzb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-07-26T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxkbjc/
@@ -45,9 +38,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-09-27T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbkc/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-10-04T21:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbgb/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-10-04T21:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbgb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-10-11T21:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbpb/

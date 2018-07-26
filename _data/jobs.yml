@@ -1,56 +1,49 @@
-- company: pal
+- company: compusult
   jobs:
     -
-      post_date: 2018-07-05
+      post_date: 2018-07-26
       jobs:
-        - title: Intermediate Software Developer
-          link: "https://ca.indeed.com/job/intermediate-software-developer-cc87dc54bc30d629"
-- company: verafin
+        - title: Software Engineers/Developers
+          link: https://www.careerbeacon.com/en/job/1479645/compusult/software-engineers-developers/mount-pearl
+- company: zedit
   jobs:
     -
-      post_date: 2018-06-21
+      post_date: 2018-07-26
       jobs:
-        - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1471057/verafin/software-developer/st-john-s
-- company: triware
+        - title: IT Application Analyst
+          link: "https://www.careerbeacon.com/en/job/1479671/group-zed/it-application-analyst/st-john-s"
+        - title: IT Security Analyst
+          link: "https://www.careerbeacon.com/en/job/1479672/group-zed/it-security-analyst/st-john-s"
+- company: bluedrop
   jobs:
     -
-      post_date: 2018-06-21
-      jobs:
-        - title: Programmer / Developer
-          link: https://www.careerbeacon.com/en/job/1472804/triware-technologies-inc/programmer-developer/st-john-s
-- company: johnson
-  jobs:
-    -
-      post_date: 2018-06-21
-      jobs:
-        - title: Senior Developer
-          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YlhaRRoXCG1yagQFNyciCFtPeWdEcCJacUhYV10JExJbWEYfKzYSBWB9BQkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1235&brid=194995&lang=1
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2018-06-07
-      jobs:
-        - title: Analyst Developer
-          link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
-- company: otherocean
-  jobs:
-    -
-      post_date: 2018-05-31
-      jobs:
-        - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27262817
-- company: lemur
-  jobs:
-    -
-      post_date: 2018-05-17
+      post_date: 2018-07-26
       jobs:
         - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417416
-        - title: Software Engineer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417418
+          link: "https://www.careerbeacon.com/en/job/1479901/bluedrop-learning-networks/software-developer/st-john-s"
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2018-07-26
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: "https://www.careerbeacon.com/en/job/1455410/eastern-health/computer-programmer-analyst/st-john-s"
+- company: focus
+  jobs:
+    -
+      post_date: 2018-07-26
+      jobs:
+        - title: Software Developer
+          link: "https://www.careerbeacon.com/en/job/1480300/focus-fs/software-developer/st-john-s"
 - company: colab
   jobs:
+    -
+      post_date: 2018-07-26
+      jobs:
+        - title: Web Developer
+          link: https://www.colabsoftware.com/job/web-developer
+        - title: Senior Full Stack Developer
+          link: https://www.colabsoftware.com/job/senior-full-stack-developer
     -
       post_date: 2018-05-17
       jobs:
@@ -67,6 +60,36 @@
           link: https://www.colabsoftware.com/job/front-end-developer
         - title: Back-End Developer (Analytics)
           link: https://www.colabsoftware.com/job/back-end-developer-analytics
+- company: pal
+  jobs:
+    -
+      post_date: 2018-07-05
+      jobs:
+        - title: Intermediate Software Developer
+          link: "https://ca.indeed.com/job/intermediate-software-developer-cc87dc54bc30d629"
+- company: johnson
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Senior Developer
+          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YlhaRRoXCG1yagQFNyciCFtPeWdEcCJacUhYV10JExJbWEYfKzYSBWB9BQkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1235&brid=194995&lang=1
+- company: otherocean
+  jobs:
+    -
+      post_date: 2018-05-31
+      jobs:
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27481907
+- company: lemur
+  jobs:
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417416
+        - title: Software Engineer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417418
 - company: fytics
   jobs:
     -
@@ -74,13 +97,6 @@
       jobs:
         - title: Front End Developer
           link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-03-29
-      jobs:
-        - title: Software Engineers/Developers
-          link: http://www.compusult.net/web/guest/careers
 - company: infotech
   jobs:
     -

@@ -13,6 +13,9 @@ bluedrop:
 cahill:
   name: Cahill Group
   url: http://www.cahill.ca
+ccore:
+  name: C-CORE
+  url: https://www.c-core.ca
 celtx:
   name: Celtx
   url: https://www.celtx.com
@@ -31,6 +34,9 @@ easternhealth:
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+govnl:
+  name: Government of Newfoundland and Labrador
+  url: https://www.gov.nl.ca/
 ioa:
   name: IOA Software Solutions
   url: http://www.ioass.com/

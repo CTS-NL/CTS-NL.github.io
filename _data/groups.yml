@@ -7,6 +7,9 @@ blockchainnl:
 canadacode:
   name: "Canada Learning Code: St. John's Chapter"
   url: https://www.canadalearningcode.ca/chapters/st-johns/
+cna:
+  name: "College of the North Atlantic"
+  url: https://www.cna.nl.ca/
 gamedevnl:
   name: Gamedev NL
   url: http://gamedevnl.org

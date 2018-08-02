@@ -1,3 +1,9 @@
+- title: "CNA - Youth Workshop - Coding"
+  start: "2018-08-06T09:30:00-03:30"
+  url: https://ca.apm.activecommunities.com/recconnect/Activity_Search/youth-workshop-coding/7471
+- title: "Canada Learning Code: Intro to Browser Extensions with JavaScript"
+  start: "2018-09-22T10:00:00-03:30"
+  url: https://www.eventbrite.ca/e/national-learn-to-code-day-intro-to-browser-extensions-with-javascript-st-johns-registration-48620051884?aff=es2
 
 #Auto load from Meetup with:
 #var o = [];
@@ -8,9 +14,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-08-02T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbdb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-08-09T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbmb/
@@ -41,9 +44,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-10-11T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbpb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-10-18T21:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-10-18T21:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-10-25T21:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbhc/

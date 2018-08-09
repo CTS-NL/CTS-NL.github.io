@@ -34,6 +34,9 @@ easternhealth:
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+genoa:
+  name: Genoa Design International
+  url: http://genoadesign.com/
 govnl:
   name: Government of Newfoundland and Labrador
   url: https://www.gov.nl.ca/

@@ -1,3 +1,28 @@
+- company: genoa
+  jobs:
+    -
+      post_date: 2018-08-09
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1482778/genoa-design-international/software-developer/st-john-s
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-08-09
+      jobs:
+        - title: Application Systems Analyst
+          link: https://www.careerbeacon.com/en/job/1482770/inmarsat/application-systems-analyst/st-john-s
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-08-09
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
+        - title: Cloud Admin
+          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmIIAT
+        - title: Cloud Automation Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
 - company: govnl
   jobs:
     -
@@ -47,9 +72,7 @@
     -
       post_date: 2018-07-26
       jobs:
-        - title: Web Developer
-          link: https://www.colabsoftware.com/job/web-developer
-        - title: Senior Full Stack Developer
+        - title: Full Stack Developer
           link: https://www.colabsoftware.com/job/senior-full-stack-developer
     -
       post_date: 2018-05-17
@@ -61,10 +84,6 @@
     -
       post_date: 2018-04-26
       jobs:
-        - title: DevOps
-          link: https://www.colabsoftware.com/job/devops
-        - title: Front-End Developer
-          link: https://www.colabsoftware.com/job/front-end-developer
         - title: Back-End Developer (Analytics)
           link: https://www.colabsoftware.com/job/back-end-developer-analytics
 - company: otherocean

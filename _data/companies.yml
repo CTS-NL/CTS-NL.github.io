@@ -64,6 +64,9 @@ kraken:
 lemur:
   name: Lemur Vehicle Monitors
   url: https://www.bluedriver.com/
+mun:
+  name: Memorial University of Newfoundland
+  url: https://www.mun.ca
 mysa:
   name: Mysa
   url: https://getmysa.com/

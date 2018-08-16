@@ -1,3 +1,17 @@
+- company: pal
+  jobs:
+    -
+      post_date: 2018-08-16
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-st-johns-41a5e3bf4816e61a
+- company: mun
+  jobs:
+    -
+      post_date: 2018-08-16
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.mun.ca/hr/careers/job.php?id=7552
 - company: genoa
   jobs:
     -
@@ -29,14 +43,7 @@
       post_date: 2018-08-02
       jobs:
         - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1481676/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
-- company: ccore
-  jobs:
-    -
-      post_date: 2018-08-02
-      jobs:
-        - title: System Administrator
-          link: https://ca.indeed.com/job/system-administrator-b920e2809f382dd2
+          link: https://www.careerbeacon.com/en/job/1484209/government-of-newfoundland-and-labrador/senior-systems-analyst/st-john-s
 - company: compusult
   jobs:
     -
@@ -92,7 +99,7 @@
       post_date: 2018-05-31
       jobs:
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27481907
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27690485
 - company: lemur
   jobs:
     -
@@ -134,12 +141,3 @@
       jobs:
         - title: Software Developer
           link: http://krakenrobotics.com/about/careers/
-- company: celtx
-  jobs:
-    -
-      post_date: 2018-02-08
-      jobs:
-        - title: Web Application Developer
-          link: https://www.celtx.com/careers.html?gh_jid=235766
-        - title: Web Infrastructure Developer
-          link: https://www.celtx.com/careers.html?gh_jid=235786

@@ -1,3 +1,43 @@
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-08-23
+      jobs:
+        - title: Software Engineers/Developers
+          link: https://www.careerbeacon.com/en/job/1479646/compusult/software-engineers-developers/mount-pearl
+- company: wekaplex
+  jobs:
+    -
+      post_date: 2018-08-23
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-java-97dee52ee3728752
+- company: govnl
+  jobs:
+    -
+      post_date: 2018-08-23
+      jobs:
+        - title: Computer Programmer I
+          link: https://www.careerbeacon.com/en/job/1485178/government-of-newfoundland-and-labrador/computer-programmer-i/st-john-s
+      post_date: 2018-08-02
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1484209/government-of-newfoundland-and-labrador/senior-systems-analyst/st-john-s
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-08-23
+      jobs:
+        - title: Security Analyst
+          link: https://www.careerbeacon.com/en/job/1485238/verafin/security-analyst/st-john-s
+      post_date: 2018-08-09
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
+        - title: Cloud Admin
+          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmIIAT
+        - title: Cloud Automation Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
 - company: pal
   jobs:
     -
@@ -19,38 +59,6 @@
       jobs:
         - title: Software Developer
           link: https://www.careerbeacon.com/en/job/1482778/genoa-design-international/software-developer/st-john-s
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Application Systems Analyst
-          link: https://www.careerbeacon.com/en/job/1482770/inmarsat/application-systems-analyst/st-john-s
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
-        - title: Cloud Admin
-          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmIIAT
-        - title: Cloud Automation Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
-- company: govnl
-  jobs:
-    -
-      post_date: 2018-08-02
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1484209/government-of-newfoundland-and-labrador/senior-systems-analyst/st-john-s
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-07-26
-      jobs:
-        - title: Software Engineers/Developers
-          link: https://www.careerbeacon.com/en/job/1479645/compusult/software-engineers-developers/mount-pearl
 - company: zedit
   jobs:
     -
@@ -60,13 +68,6 @@
           link: "https://www.careerbeacon.com/en/job/1479671/group-zed/it-application-analyst/st-john-s"
         - title: IT Security Analyst
           link: "https://www.careerbeacon.com/en/job/1479672/group-zed/it-security-analyst/st-john-s"
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2018-07-26
-      jobs:
-        - title: Software Developer
-          link: "https://www.careerbeacon.com/en/job/1479901/bluedrop-learning-networks/software-developer/st-john-s"
 - company: focus
   jobs:
     -

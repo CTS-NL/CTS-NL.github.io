@@ -1,6 +1,9 @@
 acenet:
   name: ACENET
   url: https://www.ace-net.ca/
+bsides:
+  name: "BSides St. John's"
+  url: https://bsidesstjohns.com/
 blockchainnl:
   name: Blockchain NL
   url: https://www.facebook.com/blockchainnl/

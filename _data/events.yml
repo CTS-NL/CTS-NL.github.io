@@ -1,6 +1,22 @@
+- title: "Hacking Health St. John's September 2018 Cafe"
+  start: "2018-09-12T18:00:00-03:30"
+  url: https://www.facebook.com/events/2194034744205860/
+
+- title: "Security BSides St. John's 2018"
+  start: "2018-09-20T08:00:00-03:30"
+  url: https://www.eventbrite.ca/e/security-bsides-st-johns-2018-tickets-48694332058
+
 - title: "Canada Learning Code: Intro to Browser Extensions with JavaScript"
   start: "2018-09-22T10:00:00-03:30"
   url: https://www.eventbrite.ca/e/national-learn-to-code-day-intro-to-browser-extensions-with-javascript-st-johns-registration-48620051884?aff=es2
+
+- title: "NDev: CSS in JS"
+  start: "2018-08-29T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/254023757/
+
+- title: "Teachers Learning Code: TeacherCon 2018 - St. John's"
+  start: "2018-10-13T09:30:00-03:30"
+  url: https://www.eventbrite.ca/e/teachers-learning-code-teachercon-2018-st-johns-registration-49195625440
 
 #Auto load from Meetup with:
 #var o = [];
@@ -11,9 +27,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-08-23T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbfc/
 - title: "Tech Project Evening and Meetup"
   start: "2018-08-30T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbnc/
@@ -47,9 +60,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-11-08T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpblb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-11-15T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbtb/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-11-15T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbtb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-11-22T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbdc/

@@ -19,15 +19,18 @@ ccore:
 celtx:
   name: Celtx
   url: https://www.celtx.com
+clockworkfox:
+  name: Clockwork Fox
+  url: http://clockworkfoxstudios.com
 colab:
   name: Colab Software
   url: https://www.colabsoftware.com/
 compusult:
   name: Compusult
   url: http://www.compusult.net/
-clockworkfox:
-  name: Clockwork Fox
-  url: http://clockworkfoxstudios.com
+creativemaple:
+  name: Creative Maple
+  url: https://www.creativemaple.ca/
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
@@ -43,6 +46,9 @@ govnl:
 ioa:
   name: IOA Software Solutions
   url: http://www.ioass.com/
+imperva:
+  name: Imperva
+  url: https://apps.imperva.com/
 inmarsat:
   name: Inmarsat
   url: https://www.inmarsat.com/

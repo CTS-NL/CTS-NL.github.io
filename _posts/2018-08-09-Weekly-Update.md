@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Digest - Week 32 - 2018"
-teaser: "The weekly computer technology digest for August 2 - August 9, 2018"
+teaser: "The weekly computer technology digest for August 2 - 9, 2018"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

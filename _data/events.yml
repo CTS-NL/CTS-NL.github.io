@@ -30,9 +30,6 @@
 #console.log(o.join('\n'))
 
 - title: "Tech Project Evening and Meetup"
-  start: "2018-09-06T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbjb/
-- title: "Tech Project Evening and Meetup"
   start: "2018-09-13T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbrb/
 - title: "Tech Project Evening and Meetup"
@@ -62,9 +59,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-11-15T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbtb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-11-22T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbdc/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-11-22T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbdc/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-11-29T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/

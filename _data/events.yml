@@ -1,12 +1,10 @@
-- title: "Hacking Health St. John's September 2018 Cafe"
-  start: "2018-09-12T18:00:00-03:30"
-  url: https://www.facebook.com/events/2194034744205860/
+- title: "NDev 29 - An Intro to Threat Modeling"
+  start: "2018-09-24T19:30:00-03:30"
+  url: http://gamedevnl.org/index.php/2018/08/29/september-meetup-at-the-geek-bar/
 
 - title: "Gamedev NL: September Meetup at the Geek Bar"
   start: "2018-09-20T18:00:00-03:30"
-  start: 2018-09-20
   url: http://gamedevnl.org/index.php/2018/08/29/september-meetup-at-the-geek-bar/
-
 
 - title: "Security BSides St. John's 2018"
   start: "2018-09-20T08:00:00-03:30"
@@ -29,9 +27,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-09-13T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbrb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-09-20T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbbc/
@@ -62,9 +57,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-11-22T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbdc/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-11-29T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-11-29T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-12-06T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbjb/

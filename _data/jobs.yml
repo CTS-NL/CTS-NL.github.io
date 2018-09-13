@@ -1,3 +1,49 @@
+- company: zedit
+  jobs:
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: 'IT Security & Network Architect'
+          link: "https://www.careerbeacon.com/en/job/1490059/group-zed/it-security-network-architect/st-john-s"
+    -
+      post_date: 2018-08-30
+      jobs:
+        - title: Java Developer
+          link: "http://jobs.zedsuite.com/index.php?m=portal&a=details&jobOrderID=10906207"
+- company: kraken
+  jobs:
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: FPGA Engineer
+          link: https://www.careerbeacon.com/en/job/1490068/kraken-robotic-systems-inc/fpga-engineer/st-john-s
+- company: nalcor
+  jobs:
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: Programmer
+          link: https://www.careerbeacon.com/en/job/1490077/nalcor-energy/programmer/st-john-s
+- company: imperva
+  jobs:
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: Junior Software Engineer
+          link: http://jobs.jobvite.com/careers/imperva/job/oXym8fwJ
+
+
+      post_date: 2018-08-30
+      jobs:
+        - title: Software Engineer
+          link: http://jobs.jobvite.com/careers/imperva/job/oYFg8fwL
+- company: ccore
+  jobs:
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: Project Engineer - Software
+          link: https://ca.indeed.com/job/project-engineer-software-b491e7c2881d0331
 - company: verafin
   jobs:
     -
@@ -43,41 +89,6 @@
       jobs:
         - title: Software Engineers/Developers
           link: https://www.careerbeacon.com/en/job/1479646/compusult/software-engineers-developers/mount-pearl
-- company: creativemaple
-  jobs:
-    -
-      post_date: 2018-08-30
-      jobs:
-        - title: Technical Lead
-          link: "https://ca.indeed.com/job/technical-lead-bbdbbb8cf764412b"
-- company: zedit
-  jobs:
-    -
-      post_date: 2018-08-30
-      jobs:
-        - title: Java Developer
-          link: "http://jobs.zedsuite.com/index.php?m=portal&a=details&jobOrderID=10906207"
-    -
-      post_date: 2018-07-26
-      jobs:
-        - title: IT Application Analyst
-          link: "https://www.careerbeacon.com/en/job/1479671/group-zed/it-application-analyst/st-john-s"
-        - title: IT Security Analyst
-          link: "https://www.careerbeacon.com/en/job/1479672/group-zed/it-security-analyst/st-john-s"
-- company: imperva
-  jobs:
-    -
-      post_date: 2018-08-30
-      jobs:
-        - title: Software Engineer
-          link: http://jobs.jobvite.com/careers/imperva/job/oYFg8fwL
-- company: wekaplex
-  jobs:
-    -
-      post_date: 2018-08-23
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/job/software-developer-java-97dee52ee3728752
 - company: genoa
   jobs:
     -
@@ -104,13 +115,6 @@
       jobs:
         - title: Back-End Developer (Analytics)
           link: https://www.colabsoftware.com/job/back-end-developer-analytics
-- company: otherocean
-  jobs:
-    -
-      post_date: 2018-05-31
-      jobs:
-        - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27690485
 - company: infotech
   jobs:
     -

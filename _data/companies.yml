@@ -13,6 +13,9 @@ bluedrop:
 cahill:
   name: Cahill Group
   url: http://www.cahill.ca
+canadacode:
+  name: "Canada Learning Code: St. John's Chapter"
+  url: https://www.canadalearningcode.ca/chapters/st-johns/
 ccore:
   name: C-CORE
   url: https://www.c-core.ca
@@ -43,6 +46,9 @@ genoa:
 govnl:
   name: Government of Newfoundland and Labrador
   url: https://www.gov.nl.ca/
+ici:
+  name: ICI Innovations
+  url: http://www.iciinnovations.com
 ioa:
   name: IOA Software Solutions
   url: http://www.ioass.com/

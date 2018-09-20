@@ -2,14 +2,6 @@
   start: "2018-09-24T19:30:00-03:30"
   url: http://gamedevnl.org/index.php/2018/08/29/september-meetup-at-the-geek-bar/
 
-- title: "Gamedev NL: September Meetup at the Geek Bar"
-  start: "2018-09-20T18:00:00-03:30"
-  url: http://gamedevnl.org/index.php/2018/08/29/september-meetup-at-the-geek-bar/
-
-- title: "Security BSides St. John's 2018"
-  start: "2018-09-20T08:00:00-03:30"
-  url: https://www.eventbrite.ca/e/security-bsides-st-johns-2018-tickets-48694332058
-
 - title: "Canada Learning Code: Intro to Browser Extensions with JavaScript"
   start: "2018-09-22T10:00:00-03:30"
   url: https://www.eventbrite.ca/e/national-learn-to-code-day-intro-to-browser-extensions-with-javascript-st-johns-registration-48620051884?aff=es2
@@ -27,9 +19,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-09-20T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbbc/
 - title: "Tech Project Evening and Meetup"
   start: "2018-09-27T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbkc/
@@ -60,9 +49,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-11-29T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-12-06T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbjb/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-12-06T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbjb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-12-13T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/

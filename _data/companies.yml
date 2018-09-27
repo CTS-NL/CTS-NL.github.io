@@ -40,6 +40,9 @@ easternhealth:
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+fugro:
+  name: Fugro
+  url: https://www.fugro.com/
 genoa:
   name: Genoa Design International
   url: http://genoadesign.com/

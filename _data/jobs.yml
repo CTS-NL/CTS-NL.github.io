@@ -1,3 +1,53 @@
+- company: wood
+  jobs:
+    -
+      post_date: 2018-09-27
+      jobs:
+      - title: Web/Application Developer
+        link: https://amecfw-canadaexternal.icims.com/jobs/29928/web---application-developer/job
+- company: fugro
+  jobs:
+    -
+      post_date: 2018-09-27
+      jobs:
+      - title: Lead Software Engineer
+        link: https://ca.indeed.com/job/lead-software-engineer-d95784a49cc66616
+- company: clockworkfox
+  jobs:
+    -
+      post_date: 2018-09-27
+      jobs:
+      - title: Backend Web Developer
+        link: http://clockworkfoxstudios.com/back-end-web-developer/
+- company: ccore
+  jobs:
+    -
+      post_date: 2018-09-27
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/job/software-developer-8c5394dcd1a3d66d
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: Project Engineer - Software
+          link: https://ca.indeed.com/job/project-engineer-software-b491e7c2881d0331
+- company: kraken
+  jobs:
+    -
+      post_date: 2018-09-27
+      jobs:
+        - title: Full Stack Web Developer
+          link: https://www.careerbeacon.com/en/job/1493337/kraken-robotic-systems-inc/full-stack-web-developer/st-john-s
+    -
+      post_date: 2018-09-13
+      jobs:
+        - title: FPGA Engineer
+          link: https://www.careerbeacon.com/en/job/1490068/kraken-robotic-systems-inc/fpga-engineer/st-john-s
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Software Developer
+          link: http://krakenrobotics.com/about/careers/
 - company: canadacode
   jobs:
     -
@@ -18,33 +68,7 @@
       post_date: 2018-09-20
       jobs:
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28030591?source=searchresults
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-09-20
-      jobs:
-        - title: Data Installer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BM7foIAD
-    -
-      post_date: 2018-09-06
-      jobs:
-        - title: Salesforce Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BeCHrIAN
-    -
-      post_date: 2018-08-23
-      jobs:
-        - title: Security Analyst
-          link: https://verafin.secure.force.com/apply?id=a17C000000BMggTIAT
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
-        - title: Cloud Admin
-          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmIIAT
-        - title: Cloud Automation Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28030591
 - company: zedit
   jobs:
     -
@@ -52,26 +76,6 @@
       jobs:
         - title: 'IT Security & Network Architect'
           link: "https://www.careerbeacon.com/en/job/1490059/group-zed/it-security-network-architect/st-john-s"
-- company: kraken
-  jobs:
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: FPGA Engineer
-          link: https://www.careerbeacon.com/en/job/1490068/kraken-robotic-systems-inc/fpga-engineer/st-john-s
-    -
-      post_date: 2018-02-08
-      jobs:
-        - title: Software Developer
-          link: http://krakenrobotics.com/about/careers/
-
-- company: nalcor
-  jobs:
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: Programmer
-          link: https://www.careerbeacon.com/en/job/1490077/nalcor-energy/programmer/st-john-s
 - company: imperva
   jobs:
     -
@@ -84,13 +88,6 @@
       jobs:
         - title: Software Engineer
           link: http://jobs.jobvite.com/careers/imperva/job/oYFg8fwL
-- company: ccore
-  jobs:
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: Project Engineer - Software
-          link: https://ca.indeed.com/job/project-engineer-software-b491e7c2881d0331
 - company: fytics
   jobs:
     -
@@ -105,18 +102,15 @@
       jobs:
         - title: Systems Engineer
           link: https://www.careerbeacon.com/en/job/1488869/compusult/systems-engineer/mount-pearl
-#    -
-#      post_date: 2018-08-23
-#      jobs:
-#        - title: Software Engineers/Developers
-#          link: https://www.careerbeacon.com/en/job/1479646/compusult/software-engineers-developers/mount-pearl
-- company: genoa
+- company: verafin
   jobs:
     -
       post_date: 2018-08-09
       jobs:
         - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1482778/genoa-design-international/software-developer/st-john-s
+          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
+        - title: Cloud Automation Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
 - company: colab
   jobs:
     -
@@ -142,10 +136,3 @@
           link: http://www.infotechsolutions.com/careers/senior-web-designer
         - title: Systems Analyst
           link: http://www.infotechsolutions.com/careers/systems-analyst
-- company: clockworkfox
-  jobs:
-    -
-      post_date: 2018-03-01
-      jobs:
-      - title: Backend Web Developer
-        link: http://clockworkfoxstudios.com/back-end-web-developer/

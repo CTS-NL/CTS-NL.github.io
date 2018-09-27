@@ -28,3 +28,6 @@ muncompsci:
 ndev:
   name: NL Software Developers
   url: https://www.meetup.com/ndevmeetup/
+rbar:
+  name: "R-Bar at Memorial University"
+  url: https://daniellequinn.github.io/RBarMUN/

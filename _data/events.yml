@@ -1,11 +1,9 @@
-- title: "NDev 29 - An Intro to Threat Modeling"
-  start: "2018-09-24T19:30:00-03:30"
-  url: http://gamedevnl.org/index.php/2018/08/29/september-meetup-at-the-geek-bar/
-
-- title: "Canada Learning Code: Intro to Browser Extensions with JavaScript"
-  start: "2018-09-22T10:00:00-03:30"
-  url: https://www.eventbrite.ca/e/national-learn-to-code-day-intro-to-browser-extensions-with-javascript-st-johns-registration-48620051884?aff=es2
-
+- title: "R-Bar: Dealing with Data in RStudio"
+  start: "2018-10-01T07:30:00-03:30"
+  url: https://daniellequinn.github.io/RBarMUN/#1-october-2018---dealing-with-data-in-rstudio
+- title: "R-Bar: Dealing with Data in RStudio"
+  start: "2018-10-01T08:30:00-03:30"
+  url: https://daniellequinn.github.io/RBarMUN/#1-october-2018---co-working-session
 - title: "Teachers Learning Code: TeacherCon 2018 - St. John's"
   start: "2018-10-13T09:30:00-03:30"
   url: https://www.eventbrite.ca/e/teachers-learning-code-teachercon-2018-st-johns-registration-49195625440
@@ -19,12 +17,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-09-27T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbkc/
-- title: "Tech Project Evening and Meetup"
-  start: "2018-10-04T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbgb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-10-11T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbpb/
@@ -52,9 +44,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-12-06T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbjb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-12-13T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-12-13T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2018-12-20T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbbc/

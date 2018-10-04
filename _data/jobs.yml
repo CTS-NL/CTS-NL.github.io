@@ -1,3 +1,10 @@
+- company: mun
+  jobs:
+    -
+      post_date: 2018-10-04
+      jobs:
+      - title: Programmer Consultant-Web
+        link: https://www.careerbeacon.com/en/job/1493672/memorial-university-of-newfoundland/programmer-consultant-web/st-john-s
 - company: wood
   jobs:
     -
@@ -12,13 +19,6 @@
       jobs:
       - title: Lead Software Engineer
         link: https://ca.indeed.com/job/lead-software-engineer-d95784a49cc66616
-- company: clockworkfox
-  jobs:
-    -
-      post_date: 2018-09-27
-      jobs:
-      - title: Backend Web Developer
-        link: http://clockworkfoxstudios.com/back-end-web-developer/
 - company: ccore
   jobs:
     -
@@ -26,11 +26,6 @@
       jobs:
         - title: Software Developer
           link: https://ca.indeed.com/job/software-developer-8c5394dcd1a3d66d
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: Project Engineer - Software
-          link: https://ca.indeed.com/job/project-engineer-software-b491e7c2881d0331
 - company: kraken
   jobs:
     -
@@ -68,7 +63,7 @@
       post_date: 2018-09-20
       jobs:
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28030591
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28115060
 - company: zedit
   jobs:
     -

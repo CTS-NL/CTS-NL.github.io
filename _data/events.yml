@@ -1,6 +1,9 @@
 - title: "Teachers Learning Code: TeacherCon 2018 - St. John's"
   start: "2018-10-13T09:30:00-03:30"
   url: https://www.eventbrite.ca/e/teachers-learning-code-teachercon-2018-st-johns-registration-49195625440
+- title: "NLOWE: Morning with a Rocket Scientist: Innovating Success"
+  start: "2018-10-15T08:30:00-03:30"
+  url: https://www.nlowe.org/event-3064440
 
 #Auto load from Meetup with:
 #var o = [];
@@ -11,9 +14,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-10-11T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbpb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-10-18T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
@@ -41,12 +41,12 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-12-13T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-12-20T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbbc/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2018-12-27T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbkc/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-12-20T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbbc/
+- title: "Tech Project Evening and Meetup"
+  start: "2018-12-27T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbkc/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2019-01-03T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbfb/

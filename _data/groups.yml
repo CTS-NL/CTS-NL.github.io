@@ -22,6 +22,9 @@ hackinghealth:
 nati:
   name: NATI
   url: http://www.nati.net/
+nlowe:
+  name: Newfoundland and Labrador Organization of Women Entrepreneurs
+  url: https://www.nlowe.org
 muncompsci:
   name: MUN Computer Science Society
   url: https://muncompsci.ca/

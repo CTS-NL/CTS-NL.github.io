@@ -19,18 +19,21 @@ gamedevnl:
 hackinghealth:
   name: Hacking Health St. John's
   url: https://www.facebook.com/HHStJohnsNL/
-nati:
-  name: NATI
-  url: http://www.nati.net/
-nlowe:
-  name: Newfoundland and Labrador Organization of Women Entrepreneurs
-  url: https://www.nlowe.org
 muncompsci:
   name: MUN Computer Science Society
   url: https://muncompsci.ca/
+nati:
+  name: NATI
+  url: http://www.nati.net/
 ndev:
   name: NL Software Developers
   url: https://www.meetup.com/ndevmeetup/
+nlowe:
+  name: Newfoundland and Labrador Organization of Women Entrepreneurs
+  url: https://www.nlowe.org
 rbar:
   name: "R-Bar at Memorial University"
   url: https://daniellequinn.github.io/RBarMUN/
+startupnl:
+  name: Startup Newfoundland &  Labrador
+  url: https://startupnl.wordpress.com/

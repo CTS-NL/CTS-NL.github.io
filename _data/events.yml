@@ -1,9 +1,9 @@
-- title: "Teachers Learning Code: TeacherCon 2018 - St. John's"
-  start: "2018-10-13T09:30:00-03:30"
-  url: https://www.eventbrite.ca/e/teachers-learning-code-teachercon-2018-st-johns-registration-49195625440
-- title: "NLOWE: Morning with a Rocket Scientist: Innovating Success"
-  start: "2018-10-15T08:30:00-03:30"
-  url: https://www.nlowe.org/event-3064440
+- title: "Startup Weekend NL: Ocean Innovation"
+  start: "2018-11-09T08:00:00-03:30"
+  url: https://www.eventbrite.com/e/startup-weekend-newfoundland-labrador-ocean-innovation-tickets-49963259454
+- title: "Gamedev NL: Workshop Series: Unity"
+  start: "2018-10-26T18:00:00-03:30"
+  url: http://gamedevnl.org/index.php/2018/10/17/unity-workshop-1-unity-editor-ui-scene-creation-and-project-hierarchy/
 
 #Auto load from Meetup with:
 #var o = [];
@@ -14,9 +14,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-10-18T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-10-25T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbhc/
@@ -47,9 +44,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2018-12-27T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbkc/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2019-01-03T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbfb/
+- title: "Tech Project Evening and Meetup"
+  start: "2019-01-03T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbfb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2019-01-10T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbnb/

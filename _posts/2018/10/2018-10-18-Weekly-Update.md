@@ -9,16 +9,16 @@ categories:
     - news
 
 events:
-  - group: startupnl
-    events:
-      - title: "Ocean Innovation"
-        start: "2018-11-09T08:00:00-03:30"
-        url: https://www.eventbrite.com/e/startup-weekend-newfoundland-labrador-ocean-innovation-tickets-49963259454
   - group: gamedevnl
     events:
       - title: "Workshop Series: Unity"
         start: "2018-10-26T18:00:00-03:30"
         url: http://gamedevnl.org/index.php/2018/10/17/unity-workshop-1-unity-editor-ui-scene-creation-and-project-hierarchy/
+  - group: startupnl
+    events:
+      - title: "Ocean Innovation"
+        start: "2018-11-09T08:00:00-03:30"
+        url: https://www.eventbrite.com/e/startup-weekend-newfoundland-labrador-ocean-innovation-tickets-49963259454
       
 meetup:
   - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbhc/

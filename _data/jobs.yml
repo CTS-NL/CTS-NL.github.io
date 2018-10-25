@@ -1,3 +1,24 @@
+- company: rutter
+  jobs:
+    -
+      post_date: 2018-10-25
+      jobs:
+      - title: Software Developer
+        link: https://www.careerbeacon.com/en/job/1498667/rutter-inc/software-developer/st-john-s
+- company: pal
+  jobs:
+    -
+      post_date: 2018-10-25
+      jobs:
+      - title: Senior Software Developer
+        link: https://www.indeed.com/viewjob?jk=b5ce78871345878fz
+- company: govnl
+  jobs:
+    -
+      post_date: 2018-10-25
+      jobs:
+      - title: Programmer Analyst
+        link: https://www.careerbeacon.com/en/job/1498371/newfoundland-labrador-housing-corporation/programmer-analyst/st-john-s
 - company: wood
   jobs:
     -
@@ -5,13 +26,6 @@
       jobs:
       - title: Web/Application Developer
         link: https://amecfw-canadaexternal.icims.com/jobs/29928/web---application-developer/job
-- company: fugro
-  jobs:
-    -
-      post_date: 2018-09-27
-      jobs:
-      - title: Lead Software Engineer
-        link: https://ca.indeed.com/job/lead-software-engineer-d95784a49cc66616
 - company: kraken
   jobs:
     -
@@ -30,7 +44,7 @@
       post_date: 2018-09-20
       jobs:
         - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28115060
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28320593
 - company: zedit
   jobs:
     -

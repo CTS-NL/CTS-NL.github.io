@@ -1,9 +1,9 @@
 - title: "Startup Weekend NL: Ocean Innovation"
   start: "2018-11-09T08:00:00-03:30"
   url: https://www.eventbrite.com/e/startup-weekend-newfoundland-labrador-ocean-innovation-tickets-49963259454
-- title: "Gamedev NL: Workshop Series: Unity"
-  start: "2018-10-26T18:00:00-03:30"
-  url: http://gamedevnl.org/index.php/2018/10/17/unity-workshop-1-unity-editor-ui-scene-creation-and-project-hierarchy/
+- title: "WISENL Annual General Meeting & 30th Anniversary Celebration"
+  start: "2018-11-21T13:00:00-03:30"
+  url: https://www.eventbrite.ca/e/wisenl-annual-general-meeting-30th-anniversary-celebration-tickets-51383687994
 
 #Auto load from Meetup with:
 #var o = [];
@@ -14,9 +14,6 @@
 #});
 #console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2018-11-01T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbcb/
 - title: "Tech Project Evening and Meetup"
   start: "2018-11-08T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpblb/
@@ -47,9 +44,9 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-10T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbnb/
-#- title: "Tech Project Evening and Meetup"
-#  start: "2019-01-17T22:30:00-03:30"
-#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbwb/
+- title: "Tech Project Evening and Meetup"
+  start: "2019-01-17T22:30:00-03:30"
+  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbwb/
 #- title: "Tech Project Evening and Meetup"
 #  start: "2019-01-24T22:30:00-03:30"
 #  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbgc/

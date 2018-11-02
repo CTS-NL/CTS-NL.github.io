@@ -1,3 +1,57 @@
+- company: pal
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
+- company: colab
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Full Stack/QA Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
+    -
+      post_date: 2018-07-26
+      jobs:
+        - title: Full Stack Developer
+          link: https://www.colabsoftware.com/job/senior-full-stack-developer
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Front-End Development Intern
+          link: https://www.colabsoftware.com/job/front-end-development-intern
+        - title: Back-End Development Intern
+          link: https://www.colabsoftware.com/job/back-end-development-intern
+- company: infotech
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Senior .NET Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/rth15XpxbMoROOHB72SQg-mtVejjrUpL2qt_8oQbVrbCpBTQ_YIwsQ
+        - title: Senior Web Designer
+          link: https://www.workopolis.com/jobsearch/viewjob/QjngzAaTVytXTPs64bmNHslnCrv4qkvuwZQRNQa0BKZ00LMBG6uTbg?ak=Software&l=Newfoundland+and+Labrador%2CCANADA&isp=0
+    -
+      post_date: 2018-03-08
+      jobs:
+        - title: Systems Analyst
+          link: http://www.infotechsolutions.com/careers/systems-analyst
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+      - title: "Cloud & Infrastructure Team Lead - WinOps"
+        link: https://www.careerbeacon.com/en/job/1499535/inmarsat/cloud-infrastructure-team-lead-winops/st-john-s
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+      - title: "Cloud & Infrastructure Team Lead - WinOps"
+        link: https://www.careerbeacon.com/en/job/1499535/inmarsat/cloud-infrastructure-team-lead-winops/st-john-s
 - company: rutter
   jobs:
     -
@@ -5,20 +59,6 @@
       jobs:
       - title: Software Developer
         link: https://www.careerbeacon.com/en/job/1498667/rutter-inc/software-developer/st-john-s
-- company: pal
-  jobs:
-    -
-      post_date: 2018-10-25
-      jobs:
-      - title: Senior Software Developer
-        link: https://www.indeed.com/viewjob?jk=b5ce78871345878fz
-- company: govnl
-  jobs:
-    -
-      post_date: 2018-10-25
-      jobs:
-      - title: Programmer Analyst
-        link: https://www.careerbeacon.com/en/job/1498371/newfoundland-labrador-housing-corporation/programmer-analyst/st-john-s
 - company: wood
   jobs:
     -
@@ -28,11 +68,6 @@
         link: https://amecfw-canadaexternal.icims.com/jobs/29928/web---application-developer/job
 - company: kraken
   jobs:
-    -
-      post_date: 2018-09-27
-      jobs:
-        - title: Full Stack Web Developer
-          link: https://www.careerbeacon.com/en/job/1493337/kraken-robotic-systems-inc/full-stack-web-developer/st-john-s
     -
       post_date: 2018-02-08
       jobs:
@@ -45,13 +80,6 @@
       jobs:
         - title: Software Programmer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/28320593
-- company: zedit
-  jobs:
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: 'IT Security & Network Architect'
-          link: "https://www.careerbeacon.com/en/job/1490059/group-zed/it-security-network-architect/st-john-s"
 - company: imperva
   jobs:
     -
@@ -73,28 +101,3 @@
           link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
         - title: Cloud Automation Developer
           link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT
-- company: colab
-  jobs:
-    -
-      post_date: 2018-07-26
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.colabsoftware.com/job/senior-full-stack-developer
-    -
-      post_date: 2018-05-17
-      jobs:
-        - title: Front-End Development Intern
-          link: https://www.colabsoftware.com/job/front-end-development-intern
-        - title: Back-End Development Intern
-          link: https://www.colabsoftware.com/job/back-end-development-intern
-- company: infotech
-  jobs:
-    -
-      post_date: 2018-03-08
-      jobs:
-        - title: Senior .NET Developer
-          link: http://www.infotechsolutions.com/careers/senior-developer
-        - title: Senior Web Designer
-          link: http://www.infotechsolutions.com/careers/senior-web-designer
-        - title: Systems Analyst
-          link: http://www.infotechsolutions.com/careers/systems-analyst

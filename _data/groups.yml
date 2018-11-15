@@ -40,3 +40,6 @@ startupnl:
 wise:
   name: WISE Newfoundland and Labrador
   url: http://wisenl.ca/
+mun-med-3d:
+  name: Mun Med 3D
+  url: https://www.med.mun.ca/Biomedical-Engineering/MUN-MED-3D.aspx

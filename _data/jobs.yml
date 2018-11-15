@@ -1,3 +1,10 @@
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-11-15
+      jobs:
+        - title: Systems Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
 - company: integrated
   jobs:
     -
@@ -45,13 +52,6 @@
       jobs:
         - title: Systems Analyst
           link: http://www.infotechsolutions.com/careers/systems-analyst
-- company: rutter
-  jobs:
-    -
-      post_date: 2018-10-25
-      jobs:
-      - title: Software Developer
-        link: https://www.careerbeacon.com/en/job/1498667/rutter-inc/software-developer/st-john-s
 - company: wood
   jobs:
     -

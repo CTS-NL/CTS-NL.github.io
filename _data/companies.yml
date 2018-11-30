@@ -133,6 +133,9 @@ quorum:
 radient:
   name: Radient360
   url: http://radient360.com/
+rayagency:
+  name: Ray Creative Agency
+  url: https://rayagency.ca
 rsa:
   name: RSA Canada
   url: https://www.rsagroup.ca/

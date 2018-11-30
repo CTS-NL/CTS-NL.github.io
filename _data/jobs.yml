@@ -1,3 +1,49 @@
+- company: rayagency
+  jobs:
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Web Developer
+          link: https://www.careerbeacon.com/en/job/1505165/ray-agency/web-developer/st-john-s
+        - title: QE Automation Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/Kp7M5J-fB3ZgEGxz-Xg2FeQWLRNDSMZzhkkqP_4SgksdTK8gScnb_Q
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Senior Analyst Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/YmaqxZjipQE4XzQ6g_RZ2zcZabyU_QEUxyeeRxZNEA6D8qOT7tvWsw
+        - title: QE Automation Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/Kp7M5J-fB3ZgEGxz-Xg2FeQWLRNDSMZzhkkqP_4SgksdTK8gScnb_Q
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+    -
+      post_date: 2018-08-09
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
+- company: colab
+  jobs:
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Full Stack Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
+        - title: Front-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
+        - title: Back-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Full Stack/QA Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
 - company: andersvr
   jobs:
     -
@@ -29,22 +75,19 @@
 - company: colab
   jobs:
     -
+      post_date: 2018-11-29
+      jobs:
+        - title: Full Stack Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
+        - title: Front-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
+        - title: Back-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
+    -
       post_date: 2018-11-01
       jobs:
         - title: Full Stack/QA Developer
           link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
-    -
-      post_date: 2018-07-26
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.colabsoftware.com/job/senior-full-stack-developer
-    -
-      post_date: 2018-05-17
-      jobs:
-        - title: Front-End Development Intern
-          link: https://www.colabsoftware.com/job/front-end-development-intern
-        - title: Back-End Development Intern
-          link: https://www.colabsoftware.com/job/back-end-development-intern
 - company: infotech
   jobs:
     -
@@ -92,12 +135,3 @@
       jobs:
         - title: Software Engineer
           link: http://jobs.jobvite.com/careers/imperva/job/oYFg8fwL
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
-        - title: Cloud Automation Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BLpmXIAT

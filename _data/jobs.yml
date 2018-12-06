@@ -1,3 +1,22 @@
+- company: vision33
+  jobs:
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Java Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/gTuigeFeBQ2iNZbKWzuIs1lhuvN6sYO_74MpbZJC4HoAlaP1lpuf8g"
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.workopolis.com/jobsearch/viewjob/a5DK8Az6m2xwBtLtWmnnXHlVRSFffrDlXn22pQa7-4DH-GCdjUzYuA"
+    -
+      post_date: 2018-11-15
+      jobs:
+        - title: Systems Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
 - company: rayagency
   jobs:
     -
@@ -5,17 +24,15 @@
       jobs:
         - title: Web Developer
           link: https://www.careerbeacon.com/en/job/1505165/ray-agency/web-developer/st-john-s
-        - title: QE Automation Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/Kp7M5J-fB3ZgEGxz-Xg2FeQWLRNDSMZzhkkqP_4SgksdTK8gScnb_Q
 - company: inmarsat
   jobs:
     -
       post_date: 2018-11-29
       jobs:
         - title: Senior Analyst Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/YmaqxZjipQE4XzQ6g_RZ2zcZabyU_QEUxyeeRxZNEA6D8qOT7tvWsw
+          link: https://www.careerbeacon.com/en/job/1506203/inmarsat/senior-analyst-developer/st-john-s
         - title: QE Automation Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/Kp7M5J-fB3ZgEGxz-Xg2FeQWLRNDSMZzhkkqP_4SgksdTK8gScnb_Q
+          link: https://www.careerbeacon.com/en/job/1506199/inmarsat/quality-assurance-and-automation-engineer/st-john-s
 - company: verafin
   jobs:
     -
@@ -51,13 +68,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/TTWe26vfm1YHqIOXWlE24kVW3fMlRZfp54uGj0xQzRSRXRVmpUu_uQ
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-11-15
-      jobs:
-        - title: Systems Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
 - company: integrated
   jobs:
     -
@@ -72,22 +82,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
-- company: colab
-  jobs:
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
-        - title: Front-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
-        - title: Back-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Full Stack/QA Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
 - company: infotech
   jobs:
     -
@@ -123,15 +117,3 @@
       jobs:
         - title: Software Programmer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/28495481
-- company: imperva
-  jobs:
-    -
-      post_date: 2018-09-13
-      jobs:
-        - title: Junior Software Engineer
-          link: http://jobs.jobvite.com/careers/imperva/job/oXym8fwJ
-    -
-      post_date: 2018-08-30
-      jobs:
-        - title: Software Engineer
-          link: http://jobs.jobvite.com/careers/imperva/job/oYFg8fwL

@@ -160,6 +160,9 @@ triware:
 verafin:
   name: Verafin
   url: https://verafin.com
+vision33:
+  name: Vision33
+  url: https://www.vision33.com/
 wekaplex:
   name: WekaPlex
   url: http://www.wekaplex.com/

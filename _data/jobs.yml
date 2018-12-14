@@ -1,3 +1,46 @@
+- company: pal
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Software Developers (Intermediate and Senior)
+          link: https://www.workopolis.com/jobsearch/viewjob/a44GdIxU90AOSz-jED-3ojuWEUFY2khWW_loR43WbR0UBc4FEzasKw
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
+- company: focus
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Intermediate Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
+- company: whalecompany
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Software Developer (Coop)
+          link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: QA Software Release Tester
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bh0ksIAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+    -
+      post_date: 2018-08-09
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
 - company: vision33
   jobs:
     -
@@ -24,27 +67,6 @@
       jobs:
         - title: Web Developer
           link: https://www.careerbeacon.com/en/job/1505165/ray-agency/web-developer/st-john-s
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Senior Analyst Developer
-          link: https://www.careerbeacon.com/en/job/1506203/inmarsat/senior-analyst-developer/st-john-s
-        - title: QE Automation Engineer
-          link: https://www.careerbeacon.com/en/job/1506199/inmarsat/quality-assurance-and-automation-engineer/st-john-s
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
 - company: colab
   jobs:
     -
@@ -75,13 +97,6 @@
       jobs:
         - title: GIS Developer
           link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
-- company: pal
-  jobs:
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Senior Software Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
 - company: infotech
   jobs:
     -

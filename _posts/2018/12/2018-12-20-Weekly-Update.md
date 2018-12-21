@@ -25,3 +25,9 @@ x-talk:
 ## Upcoming Events
 
 {% include events %}
+
+## Jumping Bean Barista's Christmas Card
+
+![Jumping Bean Barista's Christmas Card]({{site.urlimg}}jb_card.jpg "Jumping Bean Barista's Christmas Card")
+
+Thank you Allie and Jed!

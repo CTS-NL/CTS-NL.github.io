@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Weekly Digest - Week 51 - 2018"
-teaser: "The weekly computer technology digest December 14 - 20, 2018"
+title: "Weekly Digest - Week 52 - 2018"
+teaser: "The weekly computer technology digest December 21 - 27, 2018"
 header:
     image: "logo.png"
     pattern: "header-texture.png"
@@ -23,11 +23,4 @@ x-talk:
 ---
 
 ## Upcoming Events
-
 {% include events %}
-
-## Jumping Bean Barista's Christmas Card
-
-![Jumping Bean Barista's Christmas Card]({{site.urlimg}}jb_card.jpg "Jumping Bean Barista's Christmas Card")
-
-Thank you Allie and Jed!

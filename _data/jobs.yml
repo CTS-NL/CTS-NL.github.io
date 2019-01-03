@@ -1,3 +1,10 @@
+- company: ioa
+  jobs:
+    -
+      post_date: 2019-01-03
+      jobs:
+        - title: Software Development Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28795041
 - company: pal
   jobs:
     -
@@ -60,13 +67,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
-- company: rayagency
-  jobs:
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Web Developer
-          link: https://www.careerbeacon.com/en/job/1505165/ray-agency/web-developer/st-john-s
 - company: colab
   jobs:
     -

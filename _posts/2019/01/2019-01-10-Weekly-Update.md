@@ -9,10 +9,10 @@ categories:
     - news
 
 jobs:
-- company: ioa
+- company: averro
   jobs:
-    - title: Software Development Programmer
-      link: https://www.jobbank.gc.ca/jobsearch/jobposting/28795041
+    - title: Software/Robotics Programmer
+      link: https://www.workopolis.com/jobsearch/viewjob/D30i9rj4dShA2Yf_24fo9pUnCvFzMgWya61JPzHlrE4qpEA0sPexHA?
 
 events:
   - group: gamedevnl

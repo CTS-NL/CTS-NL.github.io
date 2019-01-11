@@ -33,7 +33,7 @@ events:
 
 
 meetup:
-- link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbmb/
+  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbmb/
   date: 2018-08-09
   
 x-talk:

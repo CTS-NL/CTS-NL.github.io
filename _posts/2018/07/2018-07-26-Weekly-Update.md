@@ -42,7 +42,7 @@ jobs:
 xevents: []
 
 meetup:
-- link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbdb/
+  link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxlbdb/
   date: 2018-08-02
   
 x-talk:

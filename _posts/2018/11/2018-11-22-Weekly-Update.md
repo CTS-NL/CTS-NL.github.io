@@ -27,7 +27,7 @@ events:
         link: https://www.eventbrite.ca/e/simtec-simulation-symposium-2018-tickets-50490453305
 
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpbmc/
     date: 2018-11-29
   
 x-talk:

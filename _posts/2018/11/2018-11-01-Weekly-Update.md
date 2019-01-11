@@ -46,7 +46,7 @@ events:
         link: https://www.eventbrite.ca/e/wisenl-annual-general-meeting-30th-anniversary-celebration-tickets-51383687994
       
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpblb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxpblb/
     date: 2018-11-08
   
 x-talk:

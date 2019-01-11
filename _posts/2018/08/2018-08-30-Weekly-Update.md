@@ -52,7 +52,7 @@ events:
         link: https://www.eventbrite.ca/e/teachers-learning-code-teachercon-2018-st-johns-registration-49195625440
 
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbjb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxmbjb/
     date: 2018-09-06
   
 x-talk:

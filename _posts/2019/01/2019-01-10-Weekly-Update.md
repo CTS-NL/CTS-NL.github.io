@@ -30,7 +30,7 @@ events:
         link: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
  
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbwb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbwb/
     date: 2019-01-17
   
 x-talk:

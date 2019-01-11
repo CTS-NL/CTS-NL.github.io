@@ -21,7 +21,7 @@ jobs:
 events: []
 
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxqbrb/
     date: 2018-12-13
   
 x-talk:

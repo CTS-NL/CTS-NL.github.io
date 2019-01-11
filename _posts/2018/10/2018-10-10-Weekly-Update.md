@@ -27,7 +27,7 @@ events:
         link: https://www.nlowe.org/event-3064440
 
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbxb/
     date: 2018-10-18
   
 x-talk:

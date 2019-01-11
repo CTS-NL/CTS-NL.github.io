@@ -21,7 +21,7 @@ events:
         link: https://www.eventbrite.com/e/startup-weekend-newfoundland-labrador-ocean-innovation-tickets-49963259454
       
 meetup:
-  - link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbhc/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyxnbhc/
     date: 2018-10-25
   
 x-talk:

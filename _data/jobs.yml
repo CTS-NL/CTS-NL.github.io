@@ -1,3 +1,27 @@
+- company: celtx
+  jobs:
+    -
+      post_date: 2019-01-17
+      jobs:
+        - title: Data Analyst
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPOZGMQJvJy1Z
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-01-17
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1513633/verafin/software-developer/st-john-s
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: QA Software Release Tester
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bh0ksIAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: averro
   jobs:
     -
@@ -38,23 +62,6 @@
       jobs:
         - title: Software Developer (Coop)
           link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
-- company: verafin
-  jobs:
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: QA Software Release Tester
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bh0ksIAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
-    -
-      post_date: 2018-08-09
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000BKBUCIA5
 - company: vision33
   jobs:
     -
@@ -132,10 +139,3 @@
       jobs:
         - title: Software Developer
           link: http://krakenrobotics.com/about/careers/
-- company: otherocean
-  jobs:
-    -
-      post_date: 2018-09-20
-      jobs:
-        - title: Software Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28704469

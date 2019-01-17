@@ -13,6 +13,12 @@
 - title: "Canada Learning Code: JavaScript for Beginners"
   start: "2019-02-23T11:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
+- title: "NDev: User Experience With Artificial Intelligence"
+  start: "2019-01-30T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/257988822/
+- title: "Hacking Health: Optimizing Efficient Resource Utilization"
+  start: "2019-01-23T18:00:00-03:30"
+  url: https://www.eventbrite.ca/e/eastern-health-hacking-health-optimizing-efficient-resource-utilization-tickets-54710195668
 
 #Auto load from Meetup with:
 #var o = [];
@@ -47,10 +53,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-10T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbnb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-17T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbwb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-24T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbgc/

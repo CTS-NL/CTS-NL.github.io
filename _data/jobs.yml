@@ -1,3 +1,17 @@
+- company: mun
+  jobs:
+    -
+      post_date: 2019-01-24
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1514730/memorial-university-of-newfoundland/senior-programmer-analyst/st-john-s
+- company: cna
+  jobs:
+    -
+      post_date: 2019-01-24
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://www.workopolis.com/jobsearch/viewjob/ZEXv-PiJfYb725gR3roiV98pHkH1kxdkj9zDeU43KUv1Z1-hv4beKQ
 - company: celtx
   jobs:
     -
@@ -125,13 +139,6 @@
       jobs:
         - title: Systems Analyst
           link: http://www.infotechsolutions.com/careers/systems-analyst
-- company: wood
-  jobs:
-    -
-      post_date: 2018-09-27
-      jobs:
-      - title: Web/Application Developer
-        link: https://amecfw-canadaexternal.icims.com/jobs/29928/web---application-developer/job
 - company: kraken
   jobs:
     -

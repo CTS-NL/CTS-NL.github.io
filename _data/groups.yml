@@ -31,6 +31,9 @@ ndev:
 nlowe:
   name: Newfoundland and Labrador Organization of Women Entrepreneurs
   url: https://www.nlowe.org
+pintofscience:
+  name: Pint of Science - St. John's
+  url: https://pintofscience.ca/
 rbar:
   name: "R-Bar at Memorial University"
   url: https://daniellequinn.github.io/RBarMUN/

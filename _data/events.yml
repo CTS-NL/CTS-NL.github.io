@@ -30,6 +30,10 @@
   start: "2019-02-23T11:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
 
+- title: "Canada Learning Code: An Introduction to Programming for the Classroom"
+  start: "2019-03-09T10:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-teachers-learning-code-an-introduction-to-programming-for-the-classroom/
+
 #Auto load from Meetup with:
 #var o = [];
 #document.querySelectorAll('.eventCard').forEach((a) => {
@@ -69,10 +73,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-24T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbgc/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-01-31T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzcbpc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-07T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbkb/

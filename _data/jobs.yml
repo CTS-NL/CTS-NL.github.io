@@ -1,10 +1,38 @@
 - company: mun
   jobs:
     -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
+    -
       post_date: 2019-01-24
       jobs:
         - title: Senior Programmer Analyst
           link: https://www.careerbeacon.com/en/job/1514730/memorial-university-of-newfoundland/senior-programmer-analyst/st-john-s
+- company: johnson
+  jobs:
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: Developer, Salesforce Development
+          link: https://www.workopolis.com/jobsearch/viewjob/5xySER4d4qE8c-EaDyPWvQETp_DHDzzoO58dZThPQY2-h-xMuaGn9Q
+- company: q5
+  jobs:
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/Wxooh-1Z132iRtwA4bOHeQ8TSzHfr4cZ4Z7UiuQonnNIgqMSkfkNeA
+        - title: Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/_UqKPDYJVQIMCJJPTPBQJpg3m32dIgvA3VvbpyZrdS50_9pm4ebxuQ
+- company: radient
+  jobs:
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: Developer Operations
+          link: https://www.indeed.com/viewjob?jk=a12ccf00bfb6b203
 - company: cna
   jobs:
     -

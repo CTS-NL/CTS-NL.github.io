@@ -1,3 +1,19 @@
+- company: compusult
+  jobs:
+    - post_date: 2018-02-07
+      jobs:
+        - title: "Software Testers"
+          link: "https://www.workopolis.com/jobsearch/viewjob/S0DHoLMeMSBptkGKjs0Fhq-ee30owhXMT65LLLm9NvYNoh4tGaubDg"
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.workopolis.com/jobsearch/viewjob/a5DK8Az6m2xwBtLtWmnnXHlVRSFffrDlXn22pQa7-4DH-GCdjUzYuA"
+    -
+      post_date: 2018-11-15
+      jobs:
+        - title: Systems Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
 - company: mun
   jobs:
     -
@@ -5,11 +21,6 @@
       jobs:
         - title: System Administrator IV
           link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
-    -
-      post_date: 2019-01-24
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1514730/memorial-university-of-newfoundland/senior-programmer-analyst/st-john-s
 - company: johnson
   jobs:
     -
@@ -71,13 +82,6 @@
       jobs:
         - title: Software/Robotics Programmer
           link: https://www.workopolis.com/jobsearch/viewjob/D30i9rj4dShA2Yf_24fo9pUnCvFzMgWya61JPzHlrE4qpEA0sPexHA?
-- company: ioa
-  jobs:
-    -
-      post_date: 2019-01-03
-      jobs:
-        - title: Software Development Programmer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/28795041
 - company: pal
   jobs:
     -
@@ -111,18 +115,6 @@
       jobs:
         - title: "Java Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/gTuigeFeBQ2iNZbKWzuIs1lhuvN6sYO_74MpbZJC4HoAlaP1lpuf8g"
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-12-06
-      jobs:
-        - title: "Software Engineers/Developers (Entry and Senior Level)"
-          link: "https://www.workopolis.com/jobsearch/viewjob/a5DK8Az6m2xwBtLtWmnnXHlVRSFffrDlXn22pQa7-4DH-GCdjUzYuA"
-    -
-      post_date: 2018-11-15
-      jobs:
-        - title: Systems Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
 - company: colab
   jobs:
     -

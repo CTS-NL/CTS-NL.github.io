@@ -34,6 +34,15 @@
   start: "2019-03-09T10:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-teachers-learning-code-an-introduction-to-programming-for-the-classroom/
 
+- title: "GamedevNL: Social Gathering!"
+  start: "2019-02-23T19:00:00-03:30"
+  url: https://gamedevnl.org/social-gathering/
+
+- title: "NDev: Webmaking with HTML & CSS"
+  start: "2019-02-26T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/258934761/
+
+
 #Auto load from Meetup with:
 #var o = [];
 #document.querySelectorAll('.eventCard').forEach((a) => {
@@ -79,10 +88,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-07T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbkb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-14T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbsb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-21T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbcc/

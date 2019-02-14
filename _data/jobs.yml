@@ -1,3 +1,10 @@
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-02-14
+      jobs:
+        - title: "Java Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
 - company: compusult
   jobs:
     - post_date: 2018-02-07
@@ -108,13 +115,6 @@
       jobs:
         - title: Software Developer (Coop)
           link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
-- company: vision33
-  jobs:
-    -
-      post_date: 2018-12-06
-      jobs:
-        - title: "Java Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/gTuigeFeBQ2iNZbKWzuIs1lhuvN6sYO_74MpbZJC4HoAlaP1lpuf8g"
 - company: colab
   jobs:
     -

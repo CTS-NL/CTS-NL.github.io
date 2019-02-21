@@ -41,10 +41,10 @@ jobs:
 events:
   - group: canadacode
     events:
-      - title: "Canada Learning Code: JavaScript for Beginners"
+      - title: "JavaScript for Beginners"
         start: "2019-02-23"
         link: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
-      - title: "Canada Learning Code: An Introduction to Programming for the Classroom"
+      - title: "An Introduction to Programming for the Classroom"
         start: "2019-03-09"
         link: https://www.canadalearningcode.ca/experiences/st-johns-chapter-teachers-learning-code-an-introduction-to-programming-for-the-classroom/
   - group: gamedevnl

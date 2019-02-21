@@ -30,6 +30,10 @@
   start: "2019-02-23T11:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
 
+- title: "Hacking Health: Hackathon 2019"
+  start: "2019-01-23T18:00:00-03:30"
+  url: https://www.eventbrite.ca/e/hacking-health-st-johns-hackathon-2019-tickets-55895711578
+
 - title: "Canada Learning Code: An Introduction to Programming for the Classroom"
   start: "2019-03-09T10:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-teachers-learning-code-an-introduction-to-programming-for-the-classroom/
@@ -91,10 +95,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-14T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbsb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-21T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdbcc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-28T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdblc/

@@ -1,3 +1,67 @@
+- company: govnl
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1522087/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://www.careerbeacon.com/en/job/1522687/eastern-health/computer-programmer-analyst-4-positions/st-john-s
+- company: mun
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1522979/memorial-university-of-newfoundland/programmer-analyst/st-john-s
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
+- company: pal
+  jobs:
+    -
+      post_date: 2018-12-21
+      jobs:
+        - title: IT Network Administrator
+          link: https://www.careerbeacon.com/en/job/1522662/pal-group/it-network-administrator/st-john-s
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Software Developers (Intermediate and Senior)
+          link: https://www.workopolis.com/jobsearch/viewjob/a44GdIxU90AOSz-jED-3ojuWEUFY2khWW_loR43WbR0UBc4FEzasKw
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Full Stack Web Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
+- company: totaliq
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Senior Cloud Platform Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/GrEqwTTHPo_o4vAGYu5o7ZYoXQsMUcjTSrpcaPuGaFRzpzznpj-cBQ"
+- company: ccore
+  jobs:
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Project Engineer - Software Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
 - company: vision33
   jobs:
     -
@@ -21,13 +85,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
-- company: mun
-  jobs:
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: johnson
   jobs:
     -
@@ -89,18 +146,6 @@
       jobs:
         - title: Software/Robotics Programmer
           link: https://www.workopolis.com/jobsearch/viewjob/D30i9rj4dShA2Yf_24fo9pUnCvFzMgWya61JPzHlrE4qpEA0sPexHA?
-- company: pal
-  jobs:
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: Software Developers (Intermediate and Senior)
-          link: https://www.workopolis.com/jobsearch/viewjob/a44GdIxU90AOSz-jED-3ojuWEUFY2khWW_loR43WbR0UBc4FEzasKw
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Senior Software Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
 - company: focus
   jobs:
     -

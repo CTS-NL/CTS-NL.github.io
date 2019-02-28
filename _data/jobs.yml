@@ -1,17 +1,41 @@
+- company: whalecompany
+  jobs:
+    -
+      post_date: 2018-02-28
+      jobs:
+        - title: Software Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/zpC11ww-l6bBlH8lHsOgMNeaaTJb92NIpQktqANCFgHiYfc3p2UDgQ
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Software Developer (Coop)
+          link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2019-02-28
+      jobs:
+        - title: Computer Systems Analyst II
+          link: https://www.careerbeacon.com/en/job/1523731/eastern-health/computer-systems-analyst-ii/st-john-s
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-02-28
+      jobs:
+        - title: Cloud & Infrastructure Delivery Lead
+          link: https://www.careerbeacon.com/en/job/1525164/inmarsat/cloud-infrastructure-delivery-lead/st-john-s
 - company: govnl
   jobs:
+    -
+      post_date: 2019-02-28
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://www.careerbeacon.com/en/job/1522965/government-of-newfoundland-and-labrador/computer-systems-analyst-i/st-john-s
     -
       post_date: 2019-02-21
       jobs:
         - title: Senior Programmer Analyst
           link: https://www.careerbeacon.com/en/job/1522087/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: Computer Programmer/Analyst
-          link: https://www.careerbeacon.com/en/job/1522687/eastern-health/computer-programmer-analyst-4-positions/st-john-s
 - company: mun
   jobs:
     -
@@ -130,11 +154,6 @@
         - title: Software Developer
           link: https://www.careerbeacon.com/en/job/1513633/verafin/software-developer/st-john-s
     -
-      post_date: 2018-12-13
-      jobs:
-        - title: QA Software Release Tester
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bh0ksIAB
-    -
       post_date: 2018-11-29
       jobs:
         - title: Cloud Automation Developer
@@ -153,13 +172,6 @@
       jobs:
         - title: Intermediate Software Developers
           link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
-- company: whalecompany
-  jobs:
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: Software Developer (Coop)
-          link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
 - company: colab
   jobs:
     -

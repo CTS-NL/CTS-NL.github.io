@@ -103,6 +103,9 @@ nlchi:
 nsbenergy:
   name: NSB Energy
   url: https://www.nsbenergy.com/
+omega:
+  name: Omega AS
+  url: https://www.omega.no/location/st-johns
 otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
@@ -172,6 +175,9 @@ wekaplex:
 whalecompany:
   name: HeyOrca
   url: https://www.heyorca.com/
+whiterock:
+  name: "White Rock Consulting & Communications"
+  url: http://www.whiterocknl.com
 wood:
   name: Wood PLC
   url: https://www.woodplc.com

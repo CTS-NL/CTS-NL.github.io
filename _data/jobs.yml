@@ -1,3 +1,53 @@
+- company: govnl
+  jobs:
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1525472/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
+- company: radient
+  jobs:
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: Developer Operations
+          link: https://www.careerbeacon.com/en/job/1527411/radient360/developer-operations/st-john-s
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer (Mobile Apps)"
+          link: "https://www.workopolis.com/jobsearch/viewjob/h0UScKv8RWMv_0tHLnZ8_E3ybztW-2bUkzabTj4TiGV5pG9nS-qYpA"
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Full Stack Web Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
+
+- company: whiterock
+  jobs:
+    -
+      post_date: 2018-03-07
+      jobs:
+        - title: Web designer
+          link: https://www.workopolis.com/jobsearch/viewjob/a3Ps-tgvJl27SRg7njoC_rceMPeMOtJeH3ul1ODiryECw7eECLdGkA
+- company: omega
+  jobs:
+    -
+      post_date: 2018-03-07
+      jobs:
+        - title: Intermediate Programmer (GIS)
+          link: https://www.workopolis.com/jobsearch/viewjob/9UdE1Rvxx3V-lOPhwU-aDgi5dKWuk55iVII_QGRZq62Q4nbykDJ6iw
+- company: nsbenergy
+  jobs:
+    -
+      post_date: 2018-03-07
+      jobs:
+        - title: Intermediate Programmer
+          link: https://www.workopolis.com/jobsearch/viewjob/YAqt2TD6JsUJLRAZ5FnsAAQqLFlEYngQHxEmetLSkSQFJLm5YAF-zg
+        - title: Intermediate Programmer (GIS)
+          link: https://www.workopolis.com/jobsearch/viewjob/ZmEX166ZJ8EmpK5EQl6k-T_ThbeHpysGkiYcwmojGDuL7WGFMmzhAQ
 - company: whalecompany
   jobs:
     -
@@ -10,13 +60,6 @@
       jobs:
         - title: Software Developer (Coop)
           link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2019-02-28
-      jobs:
-        - title: Computer Systems Analyst II
-          link: https://www.careerbeacon.com/en/job/1523731/eastern-health/computer-systems-analyst-ii/st-john-s
 - company: inmarsat
   jobs:
     -
@@ -24,25 +67,8 @@
       jobs:
         - title: Cloud & Infrastructure Delivery Lead
           link: https://www.careerbeacon.com/en/job/1525164/inmarsat/cloud-infrastructure-delivery-lead/st-john-s
-- company: govnl
-  jobs:
-    -
-      post_date: 2019-02-28
-      jobs:
-        - title: Computer Systems Analyst I
-          link: https://www.careerbeacon.com/en/job/1522965/government-of-newfoundland-and-labrador/computer-systems-analyst-i/st-john-s
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1522087/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
 - company: mun
   jobs:
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1522979/memorial-university-of-newfoundland/programmer-analyst/st-john-s
     -
       post_date: 2019-01-31
       jobs:
@@ -65,13 +91,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://www.workopolis.com/jobsearch/viewjob/XIYlbEeS0gCk-Yhw0sR5E8DKdAGWEnLHE4aEaRJjIu1kaM5dzQe8Pg
-- company: lemur
-  jobs:
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: "Full Stack Web Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
 - company: totaliq
   jobs:
     -
@@ -125,13 +144,6 @@
           link: https://www.workopolis.com/jobsearch/viewjob/Wxooh-1Z132iRtwA4bOHeQ8TSzHfr4cZ4Z7UiuQonnNIgqMSkfkNeA
         - title: Software Developer
           link: https://www.workopolis.com/jobsearch/viewjob/_UqKPDYJVQIMCJJPTPBQJpg3m32dIgvA3VvbpyZrdS50_9pm4ebxuQ
-- company: radient
-  jobs:
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: Developer Operations
-          link: https://www.indeed.com/viewjob?jk=a12ccf00bfb6b203
 - company: cna
   jobs:
     -
@@ -139,13 +151,6 @@
       jobs:
         - title: Computer Systems Analyst I
           link: https://www.workopolis.com/jobsearch/viewjob/ZEXv-PiJfYb725gR3roiV98pHkH1kxdkj9zDeU43KUv1Z1-hv4beKQ
-- company: celtx
-  jobs:
-    -
-      post_date: 2019-01-17
-      jobs:
-        - title: Data Analyst
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPOZGMQJvJy1Z
 - company: verafin
   jobs:
     -

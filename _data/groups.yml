@@ -40,6 +40,9 @@ rbar:
 startupnl:
   name: Startup Newfoundland &  Labrador
   url: https://startupnl.wordpress.com/
+stjohnsteachers:
+  name: "St. John's Teacher Meetup"
+  url: https://www.meetup.com/St-Johns-Teacher-Meetup/
 wise:
   name: WISE Newfoundland and Labrador
   url: http://wisenl.ca/

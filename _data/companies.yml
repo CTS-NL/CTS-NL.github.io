@@ -103,6 +103,9 @@ nlchi:
 nsbenergy:
   name: NSB Energy
   url: https://www.nsbenergy.com/
+ntv:
+  name: Newfoundland Broadcasting
+  url: http://ntv.ca/
 omega:
   name: Omega AS
   url: https://www.omega.no/location/st-johns

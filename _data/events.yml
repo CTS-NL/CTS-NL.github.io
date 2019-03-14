@@ -26,9 +26,17 @@
   start: "2019-02-09T12:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-girls-learning-code-webmaking-with-html-css/
 
+- title: "NDev: Webmaking with HTML & CSS"
+  start: "2019-02-26T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/258934761/
+
 - title: "Canada Learning Code: JavaScript for Beginners"
   start: "2019-02-23T11:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-javascript-for-beginners-an-introduction-to-the-fundamentals-of-web-programming/
+
+- title: "GamedevNL: Social Gathering!"
+  start: "2019-02-23T19:00:00-03:30"
+  url: https://gamedevnl.org/social-gathering/
 
 - title: "Hacking Health: Hackathon 2019"
   start: "2019-03-01T18:00:00-03:30"
@@ -38,13 +46,21 @@
   start: "2019-03-09T10:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-teachers-learning-code-an-introduction-to-programming-for-the-classroom/
 
-- title: "GamedevNL: Social Gathering!"
-  start: "2019-02-23T19:00:00-03:30"
-  url: https://gamedevnl.org/social-gathering/
+- title: "St. John's Teacher Meetup: Micro:bit as a musical instrument!"
+  start: "2019-03-23T10:30:00-03:30"
+  url: https://www.meetup.com/St-Johns-Teacher-Meetup/events/259689058/
 
-- title: "NDev: Webmaking with HTML & CSS"
-  start: "2019-02-26T19:30:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/258934761/
+- title: "NDev: Interactive Web Apps with RShiny"
+  start: "2019-03-27T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/259727599/
+
+- title: "Canada Learning Code: Generative Art with Processing"
+  start: "2019-04-13T12:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-generative-art-with-processing/
+
+- title: "Canada Learning Code: Entrepreneurship & Webmaking"
+  start: "2019-05-11T13:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-girls-learning-code-entrepreneurship-webmaking/
 
 
 #Auto load from Meetup with:
@@ -101,13 +117,13 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-02-28T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzdblc/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-03-07T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzfbkb/
 - title: "Tech Project Evening and Meetup"
   start: "2019-03-14T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzfbsb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-03-21T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzfbcc/

@@ -1,10 +1,24 @@
-- company: govnl
+- company: johnson
   jobs:
     -
-      post_date: 2019-03-07
+      post_date: 2019-03-14
       jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1525472/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
+        - title: Developer, Salesforce Development
+          link: https://www.workopolis.com/jobsearch/viewjob/fPGyGTmA1WAnFDZdK293THvhCZUp7Ub1ZYE8VDkzV5_UJjZD61zRkA
+- company: ntv
+  jobs:
+    -
+      post_date: 2019-03-14
+      jobs:
+        - title: Full Stack Web Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/VnMolOB9NiUiNaBicGoGW3qiE575aNr5QhulWp3TSSHfB_INtsYyuA
+- company: triware
+  jobs:
+    -
+      post_date: 2019-03-14
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1527877/triware-technologies-inc/programmer-analyst/st-john-s
 - company: radient
   jobs:
     -
@@ -60,13 +74,6 @@
       jobs:
         - title: Software Developer (Coop)
           link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-02-28
-      jobs:
-        - title: Cloud & Infrastructure Delivery Lead
-          link: https://www.careerbeacon.com/en/job/1525164/inmarsat/cloud-infrastructure-delivery-lead/st-john-s
 - company: mun
   jobs:
     -
@@ -221,10 +228,3 @@
       jobs:
         - title: Systems Analyst
           link: http://www.infotechsolutions.com/careers/systems-analyst
-- company: kraken
-  jobs:
-    -
-      post_date: 2018-02-08
-      jobs:
-        - title: Software Developer
-          link: http://krakenrobotics.com/about/careers/

@@ -175,6 +175,9 @@ vision33:
 wekaplex:
   name: WekaPlex
   url: http://www.wekaplex.com/
+waterwerks:
+  name: "WaterWerks Communications"
+  url: 'https://waterwerkscommunications.com/'
 whalecompany:
   name: HeyOrca
   url: https://www.heyorca.com/

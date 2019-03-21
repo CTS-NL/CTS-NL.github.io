@@ -1,3 +1,34 @@
+- company: waterwerks
+  jobs:
+    -
+      post_date: 2019-03-21
+      jobs:
+        - title: Experience Designer (UI UX)
+          link: https://www.careerbeacon.com/en/job/1531257/waterwerks-communications/experience-designer-ui-ux/st-john-s
+- company: focus
+  jobs:
+    -
+      post_date: 2019-03-21
+      jobs:
+        - title: Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/O2HHud0dp_VvVEIUATCJXElqTCKJ0f6MdEKuaACigRxccDF2y4QW_g
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Intermediate Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-03-21
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1528956/verafin/software-developer/st-john-s
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: johnson
   jobs:
     -
@@ -84,11 +115,6 @@
 - company: pal
   jobs:
     -
-      post_date: 2018-12-21
-      jobs:
-        - title: IT Network Administrator
-          link: https://www.careerbeacon.com/en/job/1522662/pal-group/it-network-administrator/st-john-s
-    -
       post_date: 2018-12-13
       jobs:
         - title: Software Developers (Intermediate and Senior)
@@ -158,18 +184,6 @@
       jobs:
         - title: Computer Systems Analyst I
           link: https://www.workopolis.com/jobsearch/viewjob/ZEXv-PiJfYb725gR3roiV98pHkH1kxdkj9zDeU43KUv1Z1-hv4beKQ
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-01-17
-      jobs:
-        - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1513633/verafin/software-developer/st-john-s
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: averro
   jobs:
     -
@@ -177,13 +191,6 @@
       jobs:
         - title: Software/Robotics Programmer
           link: https://www.workopolis.com/jobsearch/viewjob/D30i9rj4dShA2Yf_24fo9pUnCvFzMgWya61JPzHlrE4qpEA0sPexHA?
-- company: focus
-  jobs:
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: Intermediate Software Developers
-          link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
 - company: colab
   jobs:
     -

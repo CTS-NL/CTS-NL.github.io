@@ -1,3 +1,22 @@
+- company: ccore
+  jobs:
+    -
+      post_date: 2019-03-28
+      jobs:
+        - title: "Junior Software Developer/Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/awLLdUnK1bGj-RUz9RnzahyrNe_rz8Hw-zt2oJF2EZN8_mGwaVCTfA"
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Project Engineer - Software Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
+- company: waterwerks
+  jobs:
+    -
+      post_date: 2019-03-21
+      jobs:
+        - title: Experience Designer (UI UX)
+          link: https://www.careerbeacon.com/en/job/1531257/waterwerks-communications/experience-designer-ui-ux/st-john-s
 - company: waterwerks
   jobs:
     -
@@ -131,13 +150,6 @@
       jobs:
         - title: "Senior Cloud Platform Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/GrEqwTTHPo_o4vAGYu5o7ZYoXQsMUcjTSrpcaPuGaFRzpzznpj-cBQ"
-- company: ccore
-  jobs:
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: "Project Engineer - Software Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
 - company: vision33
   jobs:
     -

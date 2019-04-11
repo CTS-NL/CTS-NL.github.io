@@ -1,3 +1,29 @@
+- company: wood
+  jobs:
+    -
+      post_date: 2019-04-11
+      jobs:
+        - title: "Web/Application Developer, Co-Op"
+          link: https://www.workopolis.com/jobsearch/viewjob/vvv3JO9X8HPXafs2DXwxHmZZ6DI2e8HCWuvXQPsKsKsO080awHOnOg
+- company: integrated
+  jobs:
+    -
+      post_date: 2019-04-11
+      jobs:
+        - title: Python Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/wfdCY_DhFeBil2XHoiKAgNvsoDSfw5LA37weYkDJsJr_JMukNXQkTg
+    -
+      post_date: 2018-11-08
+      jobs:
+        - title: GIS Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-04-11
+      jobs:
+        - title: "Senior Software Engineer (Temporary)"
+          link: "https://www.careerbeacon.com/en/job/1534933/inmarsat/senior-software-engineer-temporary/st-john-s"
 - company: beap
   jobs:
     -
@@ -17,20 +43,6 @@
       jobs:
         - title: "Project Engineer - Software Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
-- company: waterwerks
-  jobs:
-    -
-      post_date: 2019-03-21
-      jobs:
-        - title: Experience Designer (UI UX)
-          link: https://www.careerbeacon.com/en/job/1531257/waterwerks-communications/experience-designer-ui-ux/st-john-s
-- company: waterwerks
-  jobs:
-    -
-      post_date: 2019-03-21
-      jobs:
-        - title: Experience Designer (UI UX)
-          link: https://www.careerbeacon.com/en/job/1531257/waterwerks-communications/experience-designer-ui-ux/st-john-s
 - company: focus
   jobs:
     -
@@ -69,20 +81,6 @@
       jobs:
         - title: Full Stack Web Developer
           link: https://www.workopolis.com/jobsearch/viewjob/VnMolOB9NiUiNaBicGoGW3qiE575aNr5QhulWp3TSSHfB_INtsYyuA
-- company: triware
-  jobs:
-    -
-      post_date: 2019-03-14
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1527877/triware-technologies-inc/programmer-analyst/st-john-s
-- company: radient
-  jobs:
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: Developer Operations
-          link: https://www.careerbeacon.com/en/job/1527411/radient360/developer-operations/st-john-s
 - company: lemur
   jobs:
     -
@@ -233,13 +231,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/TTWe26vfm1YHqIOXWlE24kVW3fMlRZfp54uGj0xQzRSRXRVmpUu_uQ
-- company: integrated
-  jobs:
-    -
-      post_date: 2018-11-08
-      jobs:
-        - title: GIS Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
 - company: infotech
   jobs:
     -

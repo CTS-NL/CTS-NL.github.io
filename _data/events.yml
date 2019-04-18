@@ -26,6 +26,10 @@
   start: "2019-05-11T13:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-girls-learning-code-entrepreneurship-webmaking/
 
+- title: "MUN Software Carpentry Workshop - Programming in Python"
+  start: "2019-04-22T08:30:00-03:30"
+  url: https://www.eventbrite.ca/e/mun-software-carpentry-workshop-programming-in-python-tickets-60142271152
+
 - title: "NDev: Take Back Control with Event Driven Code"
   start: "2019-04-30T19:30:00-03:30"
   url: https://www.meetup.com/NDevMeetup/events/260481000/
@@ -69,10 +73,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-04-18T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzgbxb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-04-25T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzgbhc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-02T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbdb/

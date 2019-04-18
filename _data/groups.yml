@@ -22,6 +22,9 @@ hackinghealth:
 muncompsci:
   name: MUN Computer Science Society
   url: https://muncompsci.ca/
+munsoftwarecarpentry:
+  name: MUN Software Carpentry
+  url: https://mun-swc-hub.github.io/2019-04-22-mun/
 nati:
   name: NATI
   url: http://www.nati.net/

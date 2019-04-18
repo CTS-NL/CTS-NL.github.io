@@ -1,7 +1,45 @@
+- company: govnl
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: "https://www.careerbeacon.com/en/job/1536514/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s"
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.careerbeacon.com/en/job/1536921/vision33-inc/software-developer/st-john-s"
+    -
+      post_date: 2019-02-14
+      jobs:
+        - title: "Java Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
+- company: fytics
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/9KKVkjZ5mfQdf3xyy0iDhFaVFnN9JrDNdFo2m3G4TSntz_pL265wkQ
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: quorum
   jobs:
     -
-      post_date: 2019-04-15
+      post_date: 2019-04-18
       jobs:
         - title: "Intermediate Back End Developer"
           link: https://jobs.careerbeacon.com/details/intermediate-backend-developer/1536936
@@ -65,10 +103,10 @@
 - company: verafin
   jobs:
     -
-      post_date: 2019-03-21
+      post_date: 2019-04-18
       jobs:
         - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1528956/verafin/software-developer/st-john-s
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
     -
       post_date: 2018-11-29
       jobs:
@@ -162,13 +200,6 @@
       jobs:
         - title: "Senior Cloud Platform Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/GrEqwTTHPo_o4vAGYu5o7ZYoXQsMUcjTSrpcaPuGaFRzpzznpj-cBQ"
-- company: vision33
-  jobs:
-    -
-      post_date: 2019-02-14
-      jobs:
-        - title: "Java Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
 - company: compusult
   jobs:
     - post_date: 2018-02-07

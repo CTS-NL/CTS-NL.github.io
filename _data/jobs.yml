@@ -62,13 +62,6 @@
       jobs:
         - title: GIS Developer
           link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-04-11
-      jobs:
-        - title: "Senior Software Engineer (Temporary)"
-          link: "https://www.careerbeacon.com/en/job/1534933/inmarsat/senior-software-engineer-temporary/st-john-s"
 - company: beap
   jobs:
     -
@@ -100,18 +93,6 @@
       jobs:
         - title: Intermediate Software Developers
           link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: johnson
   jobs:
     -
@@ -216,13 +197,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
-- company: johnson
-  jobs:
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: Developer, Salesforce Development
-          link: https://www.workopolis.com/jobsearch/viewjob/5xySER4d4qE8c-EaDyPWvQETp_DHDzzoO58dZThPQY2-h-xMuaGn9Q
 - company: q5
   jobs:
     -

@@ -34,6 +34,14 @@
   start: "2019-04-30T19:30:00-03:30"
   url: https://www.meetup.com/NDevMeetup/events/260481000/
 
+- title: "Software Carpentry Workshop (Unix Shell, R and Git) at MUN"
+  start: "2019-05-09T08:30:00-03:30"
+  url: https://mun-swc-hub.github.io/2019-05-09-mun/
+
+- title: "NATI Tech Transformation Summit"
+  start: "2019-04-29T09:00:00-03:30"
+  url: https://www.eventbrite.ca/e/nati-tech-transformation-summit-tickets-59222888253?aff=ebdssbcitybrowse
+
 #Auto load from Meetup with:
 #var o = [];
 #document.querySelectorAll('.eventCard').forEach((a) => {
@@ -76,10 +84,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-04-25T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzgbhc/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-02T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbdb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-09T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbmb/

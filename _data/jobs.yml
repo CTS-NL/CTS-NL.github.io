@@ -1,10 +1,34 @@
-- company: govnl
+- company: verafin
   jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: Salesforce Developer
+          link: https://www.careerbeacon.com/en/job/1539822/verafin/salesforce-developer/st-john-s
     -
       post_date: 2019-04-18
       jobs:
-        - title: "Senior Programmer Analyst"
-          link: "https://www.careerbeacon.com/en/job/1536514/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s"
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+- company: mysa
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "UI/UX Designer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
+- company: nlrt
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "IT Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/w0RBuN_Ubta-FERkGP8XBf2LUQmk3DFajcix7LveFfE02SOEPoUD9g"
 - company: vision33
   jobs:
     -
@@ -24,25 +48,6 @@
       jobs:
         - title: Software Developer
           link: https://www.workopolis.com/jobsearch/viewjob/9KKVkjZ5mfQdf3xyy0iDhFaVFnN9JrDNdFo2m3G4TSntz_pL265wkQ
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
-- company: quorum
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: "Intermediate Back End Developer"
-          link: https://jobs.careerbeacon.com/details/intermediate-backend-developer/1536936
 - company: wood
   jobs:
     -

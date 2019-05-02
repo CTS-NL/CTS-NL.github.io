@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Digest - Week 16 - 2019"
-teaser: "The weekly computer technology digest April 12 - April 18, 2019"
+teaser: "The weekly computer technology digest April 12 - 18, 2019"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

@@ -109,6 +109,9 @@ nsbenergy:
 ntv:
   name: Newfoundland Broadcasting
   url: http://ntv.ca/
+nlrt:
+  name: Newfoundland and Labrador Research Technologies
+  url: http://www.nlrt.ca/
 omega:
   name: Omega AS
   url: https://www.omega.no/location/st-johns

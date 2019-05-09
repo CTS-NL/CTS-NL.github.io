@@ -169,6 +169,9 @@ subc:
 totaliq:
   name: totaliQ
   url: https://totaliq.ca/
+target:
+  name: Target Marketing
+  url: https://targetmarketing.ca/
 triware:
   name: Triware Technologies Inc.
   url: http://triware.ca/

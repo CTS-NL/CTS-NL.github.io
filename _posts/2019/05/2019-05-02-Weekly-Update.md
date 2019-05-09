@@ -40,7 +40,7 @@ events:
       link: https://www.canadalearningcode.ca/experiences/st-johns-chapter-girls-learning-code-entrepreneurship-webmaking/
 
 meetup:
-    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbvb/
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbmb/
     date: 2019-05-09
   
 x-talk:

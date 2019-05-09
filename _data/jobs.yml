@@ -1,3 +1,10 @@
+- company: target
+  jobs:
+    -
+      post_date: 2019-05-09
+      jobs:
+        - title: Front End Developer
+          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
 - company: verafin
   jobs:
     -

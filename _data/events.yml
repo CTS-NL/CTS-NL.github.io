@@ -30,6 +30,10 @@
   start: "2019-04-22T08:30:00-03:30"
   url: https://www.eventbrite.ca/e/mun-software-carpentry-workshop-programming-in-python-tickets-60142271152
 
+- title: "NATI Tech Transformation Summit"
+  start: "2019-04-29T09:00:00-03:30"
+  url: https://www.eventbrite.ca/e/nati-tech-transformation-summit-tickets-59222888253?aff=ebdssbcitybrowse
+
 - title: "NDev: Take Back Control with Event Driven Code"
   start: "2019-04-30T19:30:00-03:30"
   url: https://www.meetup.com/NDevMeetup/events/260481000/
@@ -42,9 +46,17 @@
   start: "2019-05-10T09:00:00-03:30"
   url: https://gdnl.ca/gamedev-nl-social-may-10/
 
-- title: "NATI Tech Transformation Summit"
-  start: "2019-04-29T09:00:00-03:30"
-  url: https://www.eventbrite.ca/e/nati-tech-transformation-summit-tickets-59222888253?aff=ebdssbcitybrowse
+- title: "Canada Learning Code: Programming with Python"
+  start: "2019-05-25T10:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-ladies-learning-code-data-insights-with-python-for-beginners/
+
+- title: "NDev: An Opinionated Guide to Cloud-Native Product Development for Startups"
+  start: "2019-05-29T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/260481000/
+
+- title: "Canada Learning Code: Data Insights with Python for Beginners"
+  start: "2019-06-29T13:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-programming-with-python/
 
 #Auto load from Meetup with:
 #var o = [];
@@ -97,10 +109,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-16T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbvb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-23T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbfc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-05-30T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbnc/

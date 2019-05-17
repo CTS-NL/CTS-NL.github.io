@@ -1,12 +1,10 @@
-- company: target
-  jobs:
-    -
-      post_date: 2019-05-09
-      jobs:
-        - title: Front End Developer
-          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
 - company: verafin
   jobs:
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: Security Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
     -
       post_date: 2019-05-02
       jobs:
@@ -22,13 +20,53 @@
       jobs:
         - title: Cloud Automation Developer
           link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+- company: subc
+  jobs:
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: "Software Quality Assurance Lead"
+          link: "https://www.workopolis.com/jobsearch/viewjob/V4ErXD__sNCmrm1XRGuZQ6qC0hjMD2dg9ES0qKIeY774nOEoJSf8Og"
 - company: mysa
   jobs:
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: "Junior Full Stack Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
     -
       post_date: 2019-05-02
       jobs:
         - title: "UI/UX Designer"
           link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
+- company: whalecompany
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Software Quality Assurance Engineer (Co-op)
+          link: https://www.workopolis.com/jobsearch/viewjob/qwdh-7R00ftjVN_C8iVFdPdfTgNTtsWqQcSKgCGXRheTOrFDsHIR_Q
+        - title: Software Engineer (Full Time)
+          link: https://www.workopolis.com/jobsearch/viewjob/L6JhluAQoEGCcgHeifJN9HBdbxTf7O7WpqqBRTh0npHhQnhMA0Li2w
+        - title: Software Engineer (Co-op)
+          link: https://www.workopolis.com/jobsearch/viewjob/xBc2y6hUWrWheZBIU9ki5V-Wh3LYDh7TdpI-lIvcPSjlFa8WgsZk4g
+    -
+      post_date: 2018-02-28
+      jobs:
+        - title: Software Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/zpC11ww-l6bBlH8lHsOgMNeaaTJb92NIpQktqANCFgHiYfc3p2UDgQ
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Software Developer (Coop)
+          link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
+- company: target
+  jobs:
+    -
+      post_date: 2019-05-09
+      jobs:
+        - title: Front End Developer
+          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
 - company: nlrt
   jobs:
     -
@@ -38,11 +76,6 @@
           link: "https://www.workopolis.com/jobsearch/viewjob/w0RBuN_Ubta-FERkGP8XBf2LUQmk3DFajcix7LveFfE02SOEPoUD9g"
 - company: vision33
   jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.careerbeacon.com/en/job/1536921/vision33-inc/software-developer/st-john-s"
     -
       post_date: 2019-02-14
       jobs:
@@ -155,18 +188,6 @@
           link: https://www.workopolis.com/jobsearch/viewjob/YAqt2TD6JsUJLRAZ5FnsAAQqLFlEYngQHxEmetLSkSQFJLm5YAF-zg
         - title: Intermediate Programmer (GIS)
           link: https://www.workopolis.com/jobsearch/viewjob/ZmEX166ZJ8EmpK5EQl6k-T_ThbeHpysGkiYcwmojGDuL7WGFMmzhAQ
-- company: whalecompany
-  jobs:
-    -
-      post_date: 2018-02-28
-      jobs:
-        - title: Software Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/zpC11ww-l6bBlH8lHsOgMNeaaTJb92NIpQktqANCFgHiYfc3p2UDgQ
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: Software Developer (Coop)
-          link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
 - company: mun
   jobs:
     -

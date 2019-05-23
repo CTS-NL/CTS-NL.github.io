@@ -46,8 +46,8 @@ events:
       link: https://www.meetup.com/NDevMeetup/events/260481000/
 
 meetup:
-    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbnc/
-    date: 2019-05-30
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbfc/
+    date: 2019-05-23
   
 x-talk:
   name:

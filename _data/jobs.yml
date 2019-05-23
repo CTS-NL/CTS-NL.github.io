@@ -1,3 +1,15 @@
+- company: mun
+  jobs:
+    -
+      post_date: 2019-05-23
+      jobs:
+        - title: "Programmer Consultant (Band 7)"
+          link: https://www.careerbeacon.com/en/job/1547930/memorial-university-of-newfoundland/programmer-consultant-band-7/st-john-s
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: verafin
   jobs:
     -
@@ -188,13 +200,6 @@
           link: https://www.workopolis.com/jobsearch/viewjob/YAqt2TD6JsUJLRAZ5FnsAAQqLFlEYngQHxEmetLSkSQFJLm5YAF-zg
         - title: Intermediate Programmer (GIS)
           link: https://www.workopolis.com/jobsearch/viewjob/ZmEX166ZJ8EmpK5EQl6k-T_ThbeHpysGkiYcwmojGDuL7WGFMmzhAQ
-- company: mun
-  jobs:
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: pal
   jobs:
     -

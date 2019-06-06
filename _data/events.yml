@@ -54,6 +54,10 @@
   start: "2019-05-29T19:30:00-03:30"
   url: https://www.meetup.com/NDevMeetup/events/260481000/
 
+- title: "Devs on the ROCK: An Evening of Interactive Art and Technology Talks"
+  start: "2019-06-06T18:00:00-03:30"
+  url: https://www.eventbrite.ca/e/devs-on-the-rock-an-evening-of-interactive-art-and-technology-talks-tickets-61971753182
+
 - title: "Canada Learning Code: Data Insights with Python for Beginners"
   start: "2019-06-29T13:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-programming-with-python/
@@ -118,10 +122,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-06-06T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzjbjb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-06-13T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzjbrb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-06-20T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzjbbc/

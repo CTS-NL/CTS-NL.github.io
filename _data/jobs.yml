@@ -1,3 +1,41 @@
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://www.careerbeacon.com/en/job/1551805/eastern-health/computer-programmer-analyst-4-positions-repost/st-john-s"
+- company: celtx
+  jobs:
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Web Designer/Developer"
+          link: "https://www.careerbeacon.com/en/job/1551940/celtx/web-designer-developer/st-john-s"
+- company: axis
+  jobs:
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Web Administrator"
+          link: "https://www.workopolis.com/jobsearch/viewjob/ME03JOfGrmndynKhhR-82oBVVC8c3EthTdHkO3-Bq7wHhEMv5mMmAA"
+- company: mysa
+  jobs:
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Embedded Firmware Designer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/y-2_TPlM5xsUMxQz2u4TlhlnlgiBTS5WOuZWmi8UJgza8Kf0R-uoGQ"
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: "Junior Full Stack Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "UI/UX Designer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
 - company: inmarsat
   jobs:
     -
@@ -17,18 +55,6 @@
       jobs:
         - title: "Java Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
-- company: mun
-  jobs:
-    -
-      post_date: 2019-05-23
-      jobs:
-        - title: "Programmer Consultant (Band 7)"
-          link: https://www.careerbeacon.com/en/job/1547930/memorial-university-of-newfoundland/programmer-consultant-band-7/st-john-s
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: verafin
   jobs:
     -
@@ -36,11 +62,6 @@
       jobs:
         - title: Security Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
-    -
-      post_date: 2019-05-02
-      jobs:
-        - title: Salesforce Developer
-          link: https://www.careerbeacon.com/en/job/1539822/verafin/salesforce-developer/st-john-s
     -
       post_date: 2019-04-18
       jobs:
@@ -58,18 +79,6 @@
       jobs:
         - title: "Software Quality Assurance Lead"
           link: "https://www.workopolis.com/jobsearch/viewjob/V4ErXD__sNCmrm1XRGuZQ6qC0hjMD2dg9ES0qKIeY774nOEoJSf8Og"
-- company: mysa
-  jobs:
-    -
-      post_date: 2019-05-16
-      jobs:
-        - title: "Junior Full Stack Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
-    -
-      post_date: 2019-05-02
-      jobs:
-        - title: "UI/UX Designer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
 - company: whalecompany
   jobs:
     -
@@ -131,13 +140,6 @@
       jobs:
         - title: GIS Developer
           link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
-- company: beap
-  jobs:
-    -
-      post_date: 2019-04-04
-      jobs:
-        - title: "Data Scientist"
-          link: "https://slack-files.com/T0KUW40N8-FHEN7M77G-e53d25c00d"
 - company: ccore
   jobs:
     -
@@ -247,6 +249,13 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
+- company: mun
+  jobs:
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: q5
   jobs:
     -

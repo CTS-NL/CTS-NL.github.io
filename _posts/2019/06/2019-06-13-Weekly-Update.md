@@ -11,11 +11,8 @@ categories:
 jobs:
 - company: lemur
   jobs:
-    -
-      post_date: 2019-06-13
-      jobs:
-        - title: "Embedded Systems Engineer / Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/MaNnDtbI8Wa3l-3470S5jxhV7_-duJ08VFOvc8aeQc9F3wNycqLOXQ"
+    - title: "Embedded Systems Engineer / Developer"
+      link: "https://www.workopolis.com/jobsearch/viewjob/MaNnDtbI8Wa3l-3470S5jxhV7_-duJ08VFOvc8aeQc9F3wNycqLOXQ"
  
 events:
 - group: canadacode

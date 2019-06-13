@@ -1,10 +1,20 @@
-- company: easternhealth
+- company: lemur
   jobs:
     -
-      post_date: 2019-06-06
+      post_date: 2019-06-13
       jobs:
-        - title: "Computer Programmer/Analyst"
-          link: "https://www.careerbeacon.com/en/job/1551805/eastern-health/computer-programmer-analyst-4-positions-repost/st-john-s"
+        - title: "Embedded Systems Engineer / Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/MaNnDtbI8Wa3l-3470S5jxhV7_-duJ08VFOvc8aeQc9F3wNycqLOXQ"
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer (Mobile Apps)"
+          link: "https://www.workopolis.com/jobsearch/viewjob/h0UScKv8RWMv_0tHLnZ8_E3ybztW-2bUkzabTj4TiGV5pG9nS-qYpA"
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Full Stack Web Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
 - company: celtx
   jobs:
     -
@@ -100,13 +110,6 @@
       jobs:
         - title: Software Developer (Coop)
           link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w
-- company: target
-  jobs:
-    -
-      post_date: 2019-05-09
-      jobs:
-        - title: Front End Developer
-          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
 - company: nlrt
   jobs:
     -
@@ -178,19 +181,6 @@
       jobs:
         - title: Full Stack Web Developer
           link: https://www.workopolis.com/jobsearch/viewjob/VnMolOB9NiUiNaBicGoGW3qiE575aNr5QhulWp3TSSHfB_INtsYyuA
-- company: lemur
-  jobs:
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: "Software Developer / Engineer (Mobile Apps)"
-          link: "https://www.workopolis.com/jobsearch/viewjob/h0UScKv8RWMv_0tHLnZ8_E3ybztW-2bUkzabTj4TiGV5pG9nS-qYpA"
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: "Full Stack Web Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
-
 - company: whiterock
   jobs:
     -

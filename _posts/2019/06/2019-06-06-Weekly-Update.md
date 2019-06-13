@@ -30,7 +30,7 @@ events:
 - group: gamedevnl
   events:
     - title: "An Evening of Interactive Art and Technology Talks"
-      start: "2019-06-06"
+      start: "2019-06-12"
       link: https://www.eventbrite.ca/e/devs-on-the-rock-an-evening-of-interactive-art-and-technology-talks-tickets-61971753182
 - group: canadacode
   events:

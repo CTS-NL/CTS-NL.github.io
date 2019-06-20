@@ -1,3 +1,15 @@
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-06-20
+      jobs:
+        - title: "Junior Analyst Developer"
+          link: "https://www.careerbeacon.com/en/job/1554845/inmarsat/junior-analyst-developer/st-john-s"
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Senior Software Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: lemur
   jobs:
     -
@@ -46,13 +58,6 @@
       jobs:
         - title: "UI/UX Designer"
           link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Senior Software Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: vision33
   jobs:
     -

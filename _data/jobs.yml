@@ -1,3 +1,58 @@
+- company: genoa
+  jobs:
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1554483/genoa-design-international/programmer-analyst/mount-pearl
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: UX Designer
+          link: https://www.careerbeacon.com/en/job/1556610/verafin/ux-designer/st-john-s
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: Security Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+- company: acenet
+  jobs:
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Cybersecurity Analyst
+          link: https://www.careerbeacon.com/en/job/1556601/acenet/cybersecurity-analyst/st-john-s
+- company: nalcor
+  jobs:
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Programmer Analyst (Temporary)
+          link: https://www.workopolis.com/jobsearch/viewjob/TnjFReQo25IvuupK91W4SxsuD-AARAJjJ-MPniAYYP5TZQ0PRZGZFA
+- company: mun
+  jobs:
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.workopolis.com/jobsearch/viewjob/eNBPx-Ndc06vCpEo6xens1bkVUscr44DhjxicS2XUZWabM95iWfUkg
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: inmarsat
   jobs:
     -
@@ -47,7 +102,7 @@
       post_date: 2019-06-06
       jobs:
         - title: "Embedded Firmware Designer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/y-2_TPlM5xsUMxQz2u4TlhlnlgiBTS5WOuZWmi8UJgza8Kf0R-uoGQ"
+          link: "https://www.careerbeacon.com/en/job/1556096/mysa-smart-thermostat/embedded-firmware-designer/st-john-s"
     -
       post_date: 2019-05-16
       jobs:
@@ -70,23 +125,6 @@
       jobs:
         - title: "Java Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-05-16
-      jobs:
-        - title: Security Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: subc
   jobs:
     -
@@ -244,13 +282,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
-- company: mun
-  jobs:
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: q5
   jobs:
     -

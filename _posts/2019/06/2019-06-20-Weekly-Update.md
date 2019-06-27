@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Weekly Digest - Week 24 - 2019"
+title: "Weekly Digest - Week 25 - 2019"
 teaser: "The weekly computer technology digest June 14 - 20, 2019"
 header:            
     image: "logo.png"

@@ -1,10 +1,60 @@
-- company: genoa
+- company: govnl
   jobs:
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: Computer Programmer I
+          link: https://www.careerbeacon.com/en/job/1556867/government-of-newfoundland-and-labrador/computer-programmer-i/st-john-s
+- company: workplacenl
+  jobs:
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: Senior Programmer
+          link: https://www.careerbeacon.com/en/job/1557109/workplacenl/senior-programmer/st-john-s
+- company: acenet
+  jobs:
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: Computational Research Consultant
+          link: https://www.careerbeacon.com/en/job/1557678/memorial-university-of-newfoundland/computational-research-consultant/st-john-s
     -
       post_date: 2019-06-27
       jobs:
+        - title: Cybersecurity Analyst
+          link: https://www.careerbeacon.com/en/job/1556601/acenet/cybersecurity-analyst/st-john-s
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: "Junior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Senior Software Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
+- company: mun
+  jobs:
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: System Administrator III
+          link: https://www.workopolis.com/jobsearch/viewjob/d5O6nD-9QCQDQsSf4B9GjJ-CqXXTLFZIrq-63-aBknDNXj8vvOC5xw
         - title: Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1554483/genoa-design-international/programmer-analyst/mount-pearl
+          link: https://www.careerbeacon.com/en/job/1557459/memorial-university-of-newfoundland/programmer-analyst/st-john-s
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.workopolis.com/jobsearch/viewjob/eNBPx-Ndc06vCpEo6xens1bkVUscr44DhjxicS2XUZWabM95iWfUkg
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: verafin
   jobs:
     -
@@ -27,13 +77,6 @@
       jobs:
         - title: Cloud Automation Developer
           link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
-- company: acenet
-  jobs:
-    -
-      post_date: 2019-06-27
-      jobs:
-        - title: Cybersecurity Analyst
-          link: https://www.careerbeacon.com/en/job/1556601/acenet/cybersecurity-analyst/st-john-s
 - company: nalcor
   jobs:
     -
@@ -41,30 +84,6 @@
       jobs:
         - title: Programmer Analyst (Temporary)
           link: https://www.workopolis.com/jobsearch/viewjob/TnjFReQo25IvuupK91W4SxsuD-AARAJjJ-MPniAYYP5TZQ0PRZGZFA
-- company: mun
-  jobs:
-    -
-      post_date: 2019-06-27
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.workopolis.com/jobsearch/viewjob/eNBPx-Ndc06vCpEo6xens1bkVUscr44DhjxicS2XUZWabM95iWfUkg
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-06-20
-      jobs:
-        - title: "Junior Analyst Developer"
-          link: "https://www.careerbeacon.com/en/job/1554845/inmarsat/junior-analyst-developer/st-john-s"
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Senior Software Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: lemur
   jobs:
     -

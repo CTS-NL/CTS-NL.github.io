@@ -202,6 +202,9 @@ whiterock:
 wood:
   name: Wood PLC
   url: https://www.woodplc.com
+workplacenl:
+  name: WorkplaceNL
+  url: https://workplacenl.ca/
 zedit:
   name: ZedIT
   url: http://www.zedit.com/

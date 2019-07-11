@@ -1,3 +1,53 @@
+- company: triware
+  jobs:
+    -
+      post_date: 2019-07-11
+      jobs:
+        - title: "Programmer / Developer"
+          link: "https://www.careerbeacon.com/en/job/1558473/triware-technologies-inc/programmer-developer/st-john-s"
+- company: mysa
+  jobs:
+    -
+      post_date: 2019-07-11
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.workopolis.com/jobsearch/viewjob/pIUq3RmZ3nXvdPasMLzN-gedCxXS5jTeqTXmuM2iQPnrDRrB_KwvaA"
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Embedded Firmware Designer"
+          link: "https://www.careerbeacon.com/en/job/1556096/mysa-smart-thermostat/embedded-firmware-designer/st-john-s"
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: "Junior Full Stack Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "UI/UX Designer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
+- company: colab
+  jobs:
+    -
+      post_date: 2019-07-11
+      jobs:
+        - title: Full Stack Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/Omdkf0IHdF9ekkJniRDyULnt_-ZH2gPEHFx80bYts4pEWmQpgWsjFg
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Full Stack Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
+        - title: Front-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
+        - title: Back-End Development Intern
+          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Full Stack/QA Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
 - company: govnl
   jobs:
     -
@@ -5,13 +55,6 @@
       jobs:
         - title: Computer Programmer I
           link: https://www.careerbeacon.com/en/job/1556867/government-of-newfoundland-and-labrador/computer-programmer-i/st-john-s
-- company: workplacenl
-  jobs:
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: Senior Programmer
-          link: https://www.careerbeacon.com/en/job/1557109/workplacenl/senior-programmer/st-john-s
 - company: acenet
   jobs:
     -
@@ -101,13 +144,6 @@
       jobs:
         - title: "Full Stack Web Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/F_1GFxCTiZBfTjZlMRBTWSLPCYq9jeiUGeeHyzp7ZhXaOkRtgHAAgw"
-- company: celtx
-  jobs:
-    -
-      post_date: 2019-06-06
-      jobs:
-        - title: "Web Designer/Developer"
-          link: "https://www.careerbeacon.com/en/job/1551940/celtx/web-designer-developer/st-john-s"
 - company: axis
   jobs:
     -
@@ -117,6 +153,11 @@
           link: "https://www.workopolis.com/jobsearch/viewjob/ME03JOfGrmndynKhhR-82oBVVC8c3EthTdHkO3-Bq7wHhEMv5mMmAA"
 - company: mysa
   jobs:
+    -
+      post_date: 2019-06-06
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.careerbeacon.com/en/job/1556096/mysa-smart-thermostat/embedded-firmware-designer/st-john-s"
     -
       post_date: 2019-06-06
       jobs:
@@ -324,22 +365,6 @@
       jobs:
         - title: Software/Robotics Programmer
           link: https://www.workopolis.com/jobsearch/viewjob/D30i9rj4dShA2Yf_24fo9pUnCvFzMgWya61JPzHlrE4qpEA0sPexHA?
-- company: colab
-  jobs:
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
-        - title: Front-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
-        - title: Back-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Full Stack/QA Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
 - company: andersvr
   jobs:
     -

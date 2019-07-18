@@ -48,13 +48,6 @@
       jobs:
         - title: Full Stack/QA Developer
           link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
-- company: govnl
-  jobs:
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: Computer Programmer I
-          link: https://www.careerbeacon.com/en/job/1556867/government-of-newfoundland-and-labrador/computer-programmer-i/st-john-s
 - company: acenet
   jobs:
     -
@@ -86,8 +79,6 @@
       jobs:
         - title: System Administrator III
           link: https://www.workopolis.com/jobsearch/viewjob/d5O6nD-9QCQDQsSf4B9GjJ-CqXXTLFZIrq-63-aBknDNXj8vvOC5xw
-        - title: Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1557459/memorial-university-of-newfoundland/programmer-analyst/st-john-s
     -
       post_date: 2019-06-27
       jobs:
@@ -151,28 +142,6 @@
       jobs:
         - title: "Web Administrator"
           link: "https://www.workopolis.com/jobsearch/viewjob/ME03JOfGrmndynKhhR-82oBVVC8c3EthTdHkO3-Bq7wHhEMv5mMmAA"
-- company: mysa
-  jobs:
-    -
-      post_date: 2019-06-06
-      jobs:
-        - title: "Software Developers"
-          link: "https://www.careerbeacon.com/en/job/1556096/mysa-smart-thermostat/embedded-firmware-designer/st-john-s"
-    -
-      post_date: 2019-06-06
-      jobs:
-        - title: "Embedded Firmware Designer"
-          link: "https://www.careerbeacon.com/en/job/1556096/mysa-smart-thermostat/embedded-firmware-designer/st-john-s"
-    -
-      post_date: 2019-05-16
-      jobs:
-        - title: "Junior Full Stack Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
-    -
-      post_date: 2019-05-02
-      jobs:
-        - title: "UI/UX Designer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
 - company: vision33
   jobs:
     -
@@ -219,7 +188,7 @@
       post_date: 2019-05-02
       jobs:
         - title: "IT Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/w0RBuN_Ubta-FERkGP8XBf2LUQmk3DFajcix7LveFfE02SOEPoUD9g"
+          link: "https://www.workopolis.com/jobsearch/viewjob/WQ7A1vW_nkVs6pqP4s1AHPZ4xmidE5Pg2wl0sdf0Xe5r31vMVQkRtw"
 - company: fytics
   jobs:
     -

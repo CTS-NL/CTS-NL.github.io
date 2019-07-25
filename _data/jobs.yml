@@ -1,3 +1,27 @@
+- company: cpsnl
+  jobs:
+    -
+      post_date: 2019-07-25
+      jobs:
+        - title: "Database Administrator"
+          link: "https://www.careerbeacon.com/en/job/1561341/the-college-of-physicians-and-surgeons-of-newfoundland-and-labrador/database-administrator/st-john-s"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-07-25
+      jobs:
+        - title: "Senior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/ZInOyX8Y1b4P9TeSkXQWt9U0dZPiHM84qBUEY9kaLEJj0utLZ2RQSQ"
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: "Junior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Senior Software Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: triware
   jobs:
     -
@@ -60,18 +84,6 @@
       jobs:
         - title: Cybersecurity Analyst
           link: https://www.careerbeacon.com/en/job/1556601/acenet/cybersecurity-analyst/st-john-s
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: "Junior Analyst Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Senior Software Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: mun
   jobs:
     -

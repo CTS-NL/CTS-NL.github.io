@@ -22,6 +22,12 @@ hackinghealth:
 muncompsci:
   name: MUN Computer Science Society
   url: https://muncompsci.ca/
+mun-computer-science:
+  name: MUN Computer Science
+  url: https://www.mun.ca/computerscience/
+mun-med-3d:
+  name: MUN Med 3D
+  url: https://www.med.mun.ca/Biomedical-Engineering/MUN-MED-3D.aspx
 munsoftwarecarpentry:
   name: MUN Software Carpentry
   url: https://mun-swc-hub.github.io/2019-04-22-mun/
@@ -49,6 +55,3 @@ stjohnsteachers:
 wise:
   name: WISE Newfoundland and Labrador
   url: http://wisenl.ca/
-mun-med-3d:
-  name: Mun Med 3D
-  url: https://www.med.mun.ca/Biomedical-Engineering/MUN-MED-3D.aspx

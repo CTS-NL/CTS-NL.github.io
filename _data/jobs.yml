@@ -1,18 +1,86 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: IT Systems Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CAzIhAAL
+        - title: Solutions Architect - Security Automation
+          link: https://verafin.secure.force.com/apply?id=a173b00000CAu62AAD
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: Security Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Software Quality Assurance
+          link: https://www.careerbeacon.com/en/job/1564477/kraken-robotic-systems-inc/software-quality-assurance/st-john-s
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1564469/kraken-robotic-systems-inc/software-developer/st-john-s
+        - title: Full Stack Developer - Software Developer
+          link: https://www.careerbeacon.com/en/job/1564475/kraken-robotic-systems-inc/full-stack-developer-software-developer/st-john-s
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/ylKVH3vYK_MNhbzZFDNPfNnpHdQJL578M8yOyBaTmhipnp3zfgi4ZA
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/92qDymDe54B8jBRNieOLlYlqOIJznLJWJFTSQ76c3YpLd1wn8nMMZw"
+    -
+      post_date: 2019-02-14
+      jobs:
+        - title: "Java Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
+- company: focus
+  jobs:
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/_U4pb2UEzD-XP_pUftF9d2IgY-RQm27g26bWyWuWX2LeaBJv46CUEQ
+    -
+      post_date: 2019-03-21
+      jobs:
+        - title: Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/O2HHud0dp_VvVEIUATCJXElqTCKJ0f6MdEKuaACigRxccDF2y4QW_g
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: Intermediate Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
+- company: nsbenergy
+  jobs:
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: "Senior GIS Solution Architect"
+          link: "https://www.workopolis.com/jobsearch/viewjob/YF8r7poLxPsfSrfUDynxOBgSNoAlveps395yhRYm8MCrXAsUrJTElQ"
 - company: inmarsat
   jobs:
     -
       post_date: 2019-08-01
       jobs:
-        - title: "Senior Solution Designer"
-          link: "https://www.careerbeacon.com/en/job/1562801/inmarsat/senior-solution-designer/st-john-s"
         - title: "Senior Cloud Engineer"
           link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
-        - title: "Solution Designer - Sigma"
-          link: "https://www.careerbeacon.com/en/job/1562819/inmarsat/solution-designer-sigma/st-john-s"
-        - title: "Solution Designer - Salesforce"
-          link: "https://www.careerbeacon.com/en/job/1562808/inmarsat/solution-designer-salesforce/st-john-s"
-        - title: "Senior Analyst Developer – Integration Services"
-          link: "https://www.careerbeacon.com/en/job/1562848/inmarsat/senior-analyst-developer-integration-services/st-john-s"
     -
       post_date: 2019-07-25
       jobs:
@@ -104,13 +172,6 @@
       jobs:
         - title: Full Stack/QA Developer
           link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
-- company: acenet
-  jobs:
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: Computational Research Consultant
-          link: https://www.careerbeacon.com/en/job/1557678/memorial-university-of-newfoundland/computational-research-consultant/st-john-s
 - company: mun
   jobs:
     -
@@ -128,23 +189,6 @@
       jobs:
         - title: System Administrator IV
           link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-05-16
-      jobs:
-        - title: Security Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: nalcor
   jobs:
     -
@@ -176,18 +220,6 @@
       jobs:
         - title: "Web Administrator"
           link: "https://www.workopolis.com/jobsearch/viewjob/ME03JOfGrmndynKhhR-82oBVVC8c3EthTdHkO3-Bq7wHhEMv5mMmAA"
-- company: vision33
-  jobs:
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/92qDymDe54B8jBRNieOLlYlqOIJznLJWJFTSQ76c3YpLd1wn8nMMZw"
-    -
-      post_date: 2019-02-14
-      jobs:
-        - title: "Java Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
 - company: subc
   jobs:
     -
@@ -261,18 +293,6 @@
       jobs:
         - title: "Project Engineer - Software Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
-- company: focus
-  jobs:
-    -
-      post_date: 2019-03-21
-      jobs:
-        - title: Software Developers
-          link: https://www.workopolis.com/jobsearch/viewjob/O2HHud0dp_VvVEIUATCJXElqTCKJ0f6MdEKuaACigRxccDF2y4QW_g
-    -
-      post_date: 2018-12-13
-      jobs:
-        - title: Intermediate Software Developers
-          link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
 - company: johnson
   jobs:
     -

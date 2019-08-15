@@ -1,3 +1,36 @@
+- company: workplacenl
+  jobs:
+    -
+      post_date: 2019-08-15
+      jobs:
+        - title: "Senior Programmer"
+          link: https://www.careerbeacon.com/en/job/1565541/workplacenl/senior-programmer/st-john-s
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2019-08-15
+      jobs:
+        - title: "Senior DevOps Engineer"
+          link: https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s
+- company: target
+  jobs:
+    -
+      post_date: 2019-08-15
+      jobs:
+        - title: "Front End Developer"
+          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
+- company: wood
+  jobs:
+    -
+      post_date: 2019-08-15
+      jobs:
+        - title: "Web/Application Developer"
+          link: https://www.workopolis.com/jobsearch/viewjob/Iw4ulc6c--HSBkR14xSoDiwOgUdlNvB_6bymfci39M0ObGacjl1oIQ
+    -
+      post_date: 2019-04-11
+      jobs:
+        - title: "Web/Application Developer, Co-Op"
+          link: https://www.workopolis.com/jobsearch/viewjob/vvv3JO9X8HPXafs2DXwxHmZZ6DI2e8HCWuvXQPsKsKsO080awHOnOg
 - company: verafin
   jobs:
     -
@@ -77,11 +110,6 @@
 - company: inmarsat
   jobs:
     -
-      post_date: 2019-08-01
-      jobs:
-        - title: "Senior Cloud Engineer"
-          link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
-    -
       post_date: 2019-07-25
       jobs:
         - title: "Senior Analyst Developer"
@@ -102,8 +130,6 @@
       jobs:
         - title: "GIS Analysts, Developers and Data Administrators"
           link: "https://www.careerbeacon.com/en/job/1563444/compusult/gis-analysts-developers-and-data-administrators-for-esri-arcgis-products/mount-pearl"
-        - title: "GIS Analysts, Developers and Data Administrators"
-          link: "https://www.careerbeacon.com/en/job/1563444/compusult/gis-analysts-developers-and-data-administrators-for-esri-arcgis-products/mount-pearl"
         - title: "Entry and Senior level Software Engineers/Developers"
           link: "https://www.careerbeacon.com/en/job/1563450/compusult/entry-and-senior-level-software-engineers-developers/mount-pearl"
     - post_date: 2018-02-07
@@ -120,20 +146,6 @@
       jobs:
         - title: Systems Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/RNgjw3YDLU44og_yflHhbVRGSWQpX3WvuM6ZcaQcvVjihaq9bt9_9g
-- company: cpsnl
-  jobs:
-    -
-      post_date: 2019-07-25
-      jobs:
-        - title: "Database Administrator"
-          link: "https://www.careerbeacon.com/en/job/1561341/the-college-of-physicians-and-surgeons-of-newfoundland-and-labrador/database-administrator/st-john-s"
-- company: triware
-  jobs:
-    -
-      post_date: 2019-07-11
-      jobs:
-        - title: "Programmer / Developer"
-          link: "https://www.careerbeacon.com/en/job/1558473/triware-technologies-inc/programmer-developer/st-john-s"
 - company: mysa
   jobs:
     -
@@ -262,13 +274,6 @@
       jobs:
         - title: Software Developer
           link: https://www.workopolis.com/jobsearch/viewjob/9KKVkjZ5mfQdf3xyy0iDhFaVFnN9JrDNdFo2m3G4TSntz_pL265wkQ
-- company: wood
-  jobs:
-    -
-      post_date: 2019-04-11
-      jobs:
-        - title: "Web/Application Developer, Co-Op"
-          link: https://www.workopolis.com/jobsearch/viewjob/vvv3JO9X8HPXafs2DXwxHmZZ6DI2e8HCWuvXQPsKsKsO080awHOnOg
 - company: integrated
   jobs:
     -

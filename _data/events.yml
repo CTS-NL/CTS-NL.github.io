@@ -66,6 +66,14 @@
   start: "2019-08-08T11:00:00-03:30"
   url: https://gazette.mun.ca/events/medical-imaging-bioinformatics-computational-technologies-towards-better-understanding-the-brain-and-improving-patient-care/
 
+- title: "NDev 39: The Unimplemented Type - Null"
+  start: "2019-08-27T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/264134285/
+
+- title: "Security BSides St. John's 2019"
+  start: "2019-09-19T08:00:00-03:30"
+  url: https://www.eventbrite.ca/e/security-bsides-st-johns-2019-tickets-61151396473
+
 #Auto load from Meetup with:
 #var o = [];
 #document.querySelectorAll('.eventCard').forEach((a) => {
@@ -159,10 +167,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-08-22T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzlbdc/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-08-29T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzlbmc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-09-05T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzmbhb/

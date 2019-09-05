@@ -16,6 +16,9 @@ averro:
 axis:
   name: AXIS Career Services
   url: https://www.axiscareers.net
+breathesuite:
+  name: BreatheSuite
+  url: https://www.breathesuite.com/
 bluedrop:
   name: Bluedrop Learning Networks
   url: http://www.bluedroplearningnetworks.com/

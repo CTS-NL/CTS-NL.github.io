@@ -1,5 +1,39 @@
+- company: govnl
+  jobs:
+    -
+      post_date: 2019-09-05
+      jobs:
+        - title: "Senior Systems Analyst (Database Administrator)"
+          link: "https://www.careerbeacon.com/en/job/1568938/government-of-newfoundland-and-labrador/senior-systems-analyst-database-administrator/st-john-s"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-09-05
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
+    -
+      post_date: 2019-07-25
+      jobs:
+        - title: "Senior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/ZInOyX8Y1b4P9TeSkXQWt9U0dZPiHM84qBUEY9kaLEJj0utLZ2RQSQ"
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: "Junior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Senior Software Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: vision33
   jobs:
+    -
+      post_date: 2019-09-05
+      jobs:
+        - title: Front End Developer
+          link: https://www.careerbeacon.com/en/job/1569128/vision33-inc/front-end-developer/st-john-s
     -
       post_date: 2019-08-22
       jobs:
@@ -20,6 +54,13 @@
       jobs:
         - title: "Java Developer"
           link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2019-09-05
+      jobs:
+        - title: Software Engineer (Developer)
+          link: https://www.workopolis.com/jobsearch/viewjob/7DgPrr3E53t7lBWhLj-ENQbjU3nNEhvUBqZD0XAL22b9Kl_nadIsQg
 - company: bluedrop
   jobs:
     -
@@ -103,31 +144,8 @@
       jobs:
         - title: "Senior GIS Solution Architect"
           link: "https://www.workopolis.com/jobsearch/viewjob/YF8r7poLxPsfSrfUDynxOBgSNoAlveps395yhRYm8MCrXAsUrJTElQ"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-07-25
-      jobs:
-        - title: "Senior Analyst Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/ZInOyX8Y1b4P9TeSkXQWt9U0dZPiHM84qBUEY9kaLEJj0utLZ2RQSQ"
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: "Junior Analyst Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Senior Software Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: compusult
   jobs:
-    - post_date: 2018-08-01
-      jobs:
-        - title: "GIS Analysts, Developers and Data Administrators"
-          link: "https://www.careerbeacon.com/en/job/1563444/compusult/gis-analysts-developers-and-data-administrators-for-esri-arcgis-products/mount-pearl"
-        - title: "Entry and Senior level Software Engineers/Developers"
-          link: "https://www.careerbeacon.com/en/job/1563450/compusult/entry-and-senior-level-software-engineers-developers/mount-pearl"
     - post_date: 2018-02-07
       jobs:
         - title: "Software Testers"

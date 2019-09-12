@@ -35,8 +35,8 @@ events:
       link: https://www.eventbrite.ca/e/security-bsides-st-johns-2019-tickets-61151396473
 
 meetup:
-    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzmbhb/
-    date: 2019-09-05
+    link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzmbqb/
+    date: 2019-09-12
   
 x-talk:
   name:

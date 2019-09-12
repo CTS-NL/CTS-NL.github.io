@@ -175,6 +175,9 @@ rutter:
 fytics:
   name: Fytics
   url: http://fytics.com/
+sulis:
+  name: SULIS Subsea Corporation
+  url: http://www.sulissubsea.com/
 subc:
   name: SubC Imaging
   url: http://subcimaging.com/

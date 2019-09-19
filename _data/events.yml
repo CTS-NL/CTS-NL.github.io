@@ -74,6 +74,10 @@
   start: "2019-09-19T08:00:00-03:30"
   url: https://www.eventbrite.ca/e/security-bsides-st-johns-2019-tickets-61151396473
 
+- title: "NDev 40: Selenium 2019 - Page Objects and Beyond"
+  start: "2019-09-19T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/264902508/
+
 #Auto load from Meetup with:
 #  var o = [];
 #  document.querySelectorAll('.eventCard').forEach((a) => {

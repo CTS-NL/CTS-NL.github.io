@@ -16,6 +16,9 @@ averro:
 axis:
   name: AXIS Career Services
   url: https://www.axiscareers.net
+beaufort:
+  name: Beaufort Solutions Inc.
+  url: https://www.beaufortsolutions.com/
 breathesuite:
   name: BreatheSuite
   url: https://www.breathesuite.com/
@@ -49,6 +52,9 @@ colab:
 compusult:
   name: Compusult
   url: http://www.compusult.net/
+cougar:
+  name: Cougar Helicopters Inc.
+  url: https://www.cougar.ca/
 cpsnl:
   name: The College of Physicians and Surgeons of Newfoundland and Labrador
   url: https://www.cpsnl.ca/
@@ -100,6 +106,7 @@ kraken:
 lemur:
   name: Lemur Vehicle Monitors
   url: https://www.bluedriver.com/
+# Mariner posts jobs for St. John, NB as St. John's. They can be ignored.
 mun:
   name: Memorial University of Newfoundland
   url: https://www.mun.ca

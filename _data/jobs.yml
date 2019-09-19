@@ -1,3 +1,41 @@
+- company: cougar
+  jobs:
+    - post_date: 2019-09-19
+      jobs:
+        - title: Junior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/gqftiG671DruQhExtyqC-xWjGvYSw9wr1vKUHoMO0TGuJn1QqfweFg
+- company: beaufort
+  jobs:
+    - post_date: 2019-09-19
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/EyWuz_6mouVQCat-kXgC2psT2gGsqHcEhHhsNT9Fyp1g_WA9ZU-2wQ
+- company: quorum
+  jobs:
+    - post_date: 2019-09-19
+      jobs:
+        - title: Junior Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/0MGj-11KK7SfN4191Gr0YZk-n5cNDU6Icz5Bo9vs6LpXTqgLz9NTMA
+- company: mun
+  jobs:
+    - post_date: 2019-09-19
+      jobs:
+        - title: Systems Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/b7nxRB5ad71hwaswyN-cyDsygeQa6jaoVN5MytOdb0szI1TlQsWPVA
+    - post_date: 2019-07-04
+      jobs:
+        - title: System Administrator III
+          link: https://www.workopolis.com/jobsearch/viewjob/d5O6nD-9QCQDQsSf4B9GjJ-CqXXTLFZIrq-63-aBknDNXj8vvOC5xw
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.workopolis.com/jobsearch/viewjob/eNBPx-Ndc06vCpEo6xens1bkVUscr44DhjxicS2XUZWabM95iWfUkg
+    -
+      post_date: 2019-01-31
+      jobs:
+        - title: System Administrator IV
+          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: bluedrop
   jobs:
     -
@@ -55,13 +93,6 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.workopolis.com/jobsearch/viewjob/ulyYWoI3Cs6aUQ1eugLmisRn_45JjMWLzua37lDgEK9hT-cm78U8uQ"
-- company: govnl
-  jobs:
-    -
-      post_date: 2019-09-05
-      jobs:
-        - title: "Senior Systems Analyst (Database Administrator)"
-          link: "https://www.careerbeacon.com/en/job/1568938/government-of-newfoundland-and-labrador/senior-systems-analyst-database-administrator/st-john-s"
 - company: inmarsat
   jobs:
     -
@@ -118,13 +149,6 @@
       jobs:
         - title: Software Engineer (Developer)
           link: https://www.workopolis.com/jobsearch/viewjob/7DgPrr3E53t7lBWhLj-ENQbjU3nNEhvUBqZD0XAL22b9Kl_nadIsQg
-- company: target
-  jobs:
-    -
-      post_date: 2019-08-15
-      jobs:
-        - title: "Front End Developer"
-          link: https://www.careerbeacon.com/en/job/1545877/target-marketing-communications-inc/front-end-developer/st-john-s
 - company: wood
   jobs:
     -
@@ -237,23 +261,6 @@
       jobs:
         - title: Full Stack/QA Developer
           link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
-- company: mun
-  jobs:
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: System Administrator III
-          link: https://www.workopolis.com/jobsearch/viewjob/d5O6nD-9QCQDQsSf4B9GjJ-CqXXTLFZIrq-63-aBknDNXj8vvOC5xw
-    -
-      post_date: 2019-06-27
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.workopolis.com/jobsearch/viewjob/eNBPx-Ndc06vCpEo6xens1bkVUscr44DhjxicS2XUZWabM95iWfUkg
-    -
-      post_date: 2019-01-31
-      jobs:
-        - title: System Administrator IV
-          link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
 - company: nalcor
   jobs:
     -

@@ -1,3 +1,50 @@
+- company: nalcor
+  jobs:
+    -
+      post_date: 2019-09-26
+      jobs:
+        - title: "Team Lead, IS Security"
+          link: https://www.careerbeacon.com/en/job/1573063/nalcor-energy/team-lead-is-security/st-john-s
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2019-09-26
+      jobs:
+        - title: "Senior Front End Developer"
+          link: https://www.careerbeacon.com/en/job/1573467/bluedrop-learning-networks/senior-front-end-developer/st-john-s
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-09-26
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/25tY7Gjh3bf_DQ_tdOAFqhxan5ol0Li6mb1zTbQg0_iw48EsIcJzlQ
+    -
+      post_date: 2019-08-22
+      jobs:
+        - title: User Experience / Web Designer
+          link: https://www.workopolis.com/jobsearch/viewjob/MT-RhnmLzZRHRkMn5hJoHOrvD5Xho1jaNvwhkskV6_Rz7H4REB2GBw
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Software Developers
+          link: https://www.workopolis.com/jobsearch/viewjob/ylKVH3vYK_MNhbzZFDNPfNnpHdQJL578M8yOyBaTmhipnp3zfgi4ZA
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/92qDymDe54B8jBRNieOLlYlqOIJznLJWJFTSQ76c3YpLd1wn8nMMZw"
+    -
+      post_date: 2019-02-14
+      jobs:
+        - title: "Java Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
+- company: tatasteel
+  jobs:
+    - post_date: 2019-09-26
+      jobs:
+        - title: Systems Programmer
+          link: https://www.workopolis.com/jobsearch/viewjob/PmWya4KYrjhbEf33_VgawQnAVR3UycigRp9SNhLyvm8CP61ktwpBXA
 - company: cougar
   jobs:
     - post_date: 2019-09-19
@@ -36,13 +83,6 @@
       jobs:
         - title: System Administrator IV
           link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2019-09-12
-      jobs:
-        - title: "Senior DevOps Engineer"
-          link: https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s
 - company: genoa
   jobs:
     -
@@ -115,33 +155,6 @@
       jobs:
         - title: "Senior Software Engineer"
           link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
-- company: vision33
-  jobs:
-    -
-      post_date: 2019-09-05
-      jobs:
-        - title: Front End Developer
-          link: https://www.careerbeacon.com/en/job/1569128/vision33-inc/front-end-developer/st-john-s
-    -
-      post_date: 2019-08-22
-      jobs:
-        - title: User Experience / Web Designer
-          link: https://www.workopolis.com/jobsearch/viewjob/MT-RhnmLzZRHRkMn5hJoHOrvD5Xho1jaNvwhkskV6_Rz7H4REB2GBw
-    -
-      post_date: 2019-08-08
-      jobs:
-        - title: Software Developers
-          link: https://www.workopolis.com/jobsearch/viewjob/ylKVH3vYK_MNhbzZFDNPfNnpHdQJL578M8yOyBaTmhipnp3zfgi4ZA
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/92qDymDe54B8jBRNieOLlYlqOIJznLJWJFTSQ76c3YpLd1wn8nMMZw"
-    -
-      post_date: 2019-02-14
-      jobs:
-        - title: "Java Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/XgABYDOuSIJbBwTC6BO7wte5oJXfgQk2j5gzhgKxpEbCg6cYQx5Ttg"
 - company: breathesuite
   jobs:
     -
@@ -453,8 +466,3 @@
           link: https://www.workopolis.com/jobsearch/viewjob/rth15XpxbMoROOHB72SQg-mtVejjrUpL2qt_8oQbVrbCpBTQ_YIwsQ
         - title: Senior Web Designer
           link: https://www.workopolis.com/jobsearch/viewjob/QjngzAaTVytXTPs64bmNHslnCrv4qkvuwZQRNQa0BKZ00LMBG6uTbg
-    -
-      post_date: 2018-03-08
-      jobs:
-        - title: Systems Analyst
-          link: http://www.infotechsolutions.com/careers/systems-analyst

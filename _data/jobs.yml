@@ -1,3 +1,76 @@
+- company: ccore
+  jobs:
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Junior Software Developer/Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/8SR25LClMO4z0DBPjmhbRd6lR4eUfXGLYZwJfSC44h5C2jqudfKqCw"
+    -
+      post_date: 2019-02-21
+      jobs:
+        - title: "Project Engineer - Software Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
+- company: skyhawk
+  jobs:
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Software Developer"
+          link: https://www.workopolis.com/jobsearch/viewjob/K12PF3my7YHifrgyKaGiXr_8EAor_Zevi0_QxIk0SGWRkA8S_MOssw
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Database Administrator"
+          link: https://www.careerbeacon.com/en/job/1574140/verafin/database-administrator/st-john-s
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Solutions Architect - Security Automation
+          link: https://verafin.secure.force.com/apply?id=a173b00000CAu62AAD
+    -
+      post_date: 2019-05-16
+      jobs:
+        - title: Security Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+    -
+      post_date: 2018-11-29
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Database Administrator"
+          link: "https://www.careerbeacon.com/en/job/1575391/inmarsat/database-administrator-dba/mount-pearl"
+    -
+      post_date: 2019-09-05
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
+    -
+      post_date: 2019-07-25
+      jobs:
+        - title: "Senior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/ZInOyX8Y1b4P9TeSkXQWt9U0dZPiHM84qBUEY9kaLEJj0utLZ2RQSQ"
+    -
+      post_date: 2019-07-04
+      jobs:
+        - title: "Junior Analyst Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
+    -
+      post_date: 2019-05-30
+      jobs:
+        - title: "Senior Software Engineer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: nalcor
   jobs:
     -
@@ -83,13 +156,6 @@
       jobs:
         - title: System Administrator IV
           link: https://www.workopolis.com/jobsearch/viewjob/8zwsRUvB3Z7ourHMdJlZXcQVNmf7RfF5gaIyrh43MdeaUtw5dzFk0A
-- company: genoa
-  jobs:
-    -
-      post_date: 2019-09-12
-      jobs:
-        - title: Software Developer/Coder
-          link: https://www.careerbeacon.com/en/job/1570010/genoa-design-international/software-developer-coder/mount-pearl
 - company: colab
   jobs:
     -
@@ -133,28 +199,6 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.workopolis.com/jobsearch/viewjob/ulyYWoI3Cs6aUQ1eugLmisRn_45JjMWLzua37lDgEK9hT-cm78U8uQ"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-09-05
-      jobs:
-        - title: "Senior Cloud Engineer"
-          link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
-    -
-      post_date: 2019-07-25
-      jobs:
-        - title: "Senior Analyst Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/ZInOyX8Y1b4P9TeSkXQWt9U0dZPiHM84qBUEY9kaLEJj0utLZ2RQSQ"
-    -
-      post_date: 2019-07-04
-      jobs:
-        - title: "Junior Analyst Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Q55PTP5nGS0PbjnGaU-RP9EQPM4tVhBix_QnROR5YBk3LwS-p0WMrQ"
-    -
-      post_date: 2019-05-30
-      jobs:
-        - title: "Senior Software Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
 - company: breathesuite
   jobs:
     -
@@ -174,28 +218,6 @@
       jobs:
         - title: "Web/Application Developer, Co-Op"
           link: https://www.workopolis.com/jobsearch/viewjob/vvv3JO9X8HPXafs2DXwxHmZZ6DI2e8HCWuvXQPsKsKsO080awHOnOg
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-08-08
-      jobs:
-        - title: Solutions Architect - Security Automation
-          link: https://verafin.secure.force.com/apply?id=a173b00000CAu62AAD
-    -
-      post_date: 2019-05-16
-      jobs:
-        - title: Security Engineer
-          link: https://www.workopolis.com/jobsearch/viewjob/LwJmxdr9byQtbrQjhrHrVpN80_znDpFfoyVDi6Y8QdKi_53vCRom8Q
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/4AOvdUGjFJuIwoTMGFdYxdOqrX_JWgI6Rbq3xRQ1TXyNVhDfWUYO9g
 - company: focus
   jobs:
     -
@@ -253,27 +275,6 @@
       jobs:
         - title: "UI/UX Designer"
           link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
-- company: colab
-  jobs:
-    -
-      post_date: 2019-07-11
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/Omdkf0IHdF9ekkJniRDyULnt_-ZH2gPEHFx80bYts4pEWmQpgWsjFg
-    -
-      post_date: 2018-11-29
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/lLwJHrRl9C3NSPhgWATqjKVqVvfDCBVukRenoPdYFozsh5tv2NdQ_w
-        - title: Front-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/JdGyFSx_6Z35FejlSNRiiV5ntJ2ynLEVK69e92a2TbZIW1qbuut4fQ
-        - title: Back-End Development Intern
-          link: https://www.workopolis.com/jobsearch/viewjob/IF_H0zDjlIBj3oDWTGtAJ487Crc3CZ_YthY4jWhpRFP-o4_d41Ztew
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Full Stack/QA Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/AoTWR8nHAvFNNMM5boL6_DJbDkcCtifXDPaLvYOPQauFzKHDDXA4TQ
 - company: nalcor
   jobs:
     -
@@ -359,18 +360,6 @@
       jobs:
         - title: GIS Developer
           link: https://www.workopolis.com/jobsearch/viewjob/qZAVNXlP4chuOkgqSkrsi0FD0ptbjd4umJQJd5QS5wtZcdNS5qczSQ
-- company: ccore
-  jobs:
-    -
-      post_date: 2019-03-28
-      jobs:
-        - title: "Junior Software Developer/Engineer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/awLLdUnK1bGj-RUz9RnzahyrNe_rz8Hw-zt2oJF2EZN8_mGwaVCTfA"
-    -
-      post_date: 2019-02-21
-      jobs:
-        - title: "Project Engineer - Software Developer"
-          link: "https://www.workopolis.com/jobsearch/viewjob/0tUkVD-7uo4Eodl8xHoj2dL4lAa0PLQjb3JbPjgKOWYObAmJUe6w2A"
 - company: johnson
   jobs:
     -

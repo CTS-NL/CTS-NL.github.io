@@ -182,6 +182,9 @@ rutter:
 fytics:
   name: Fytics
   url: http://fytics.com/
+skyhawk:
+  name: SkyHawk Telematics
+  url: http://skyhawktelematics.com/
 sulis:
   name: SULIS Subsea Corporation
   url: http://www.sulissubsea.com/

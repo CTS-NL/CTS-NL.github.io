@@ -224,6 +224,9 @@ whiterock:
 wood:
   name: Wood PLC
   url: https://www.woodplc.com
+worldfurexchange:
+  name: World Fur Exchange
+  url: http://worldfurexchange.com/
 workplacenl:
   name: WorkplaceNL
   url: https://workplacenl.ca/

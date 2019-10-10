@@ -1,3 +1,17 @@
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Software Programmer/Developer"
+          link: "https://www.workopolis.com/jobsearch/viewjob/W5Ol3vqrjVNnuVU0dPVInjs7J8DtocI6svYeydm5NtISvahFpItOzQ"
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://www.careerbeacon.com/en/job/1575738/kraken-robotic-systems-inc/computer-vision-engineer/mount-pearl"
 - company: ccore
   jobs:
     -
@@ -52,11 +66,6 @@
         - title: "Database Administrator"
           link: "https://www.careerbeacon.com/en/job/1575391/inmarsat/database-administrator-dba/mount-pearl"
     -
-      post_date: 2019-09-05
-      jobs:
-        - title: "Senior Cloud Engineer"
-          link: "https://www.careerbeacon.com/en/job/1562843/inmarsat/senior-cloud-engineer/st-john-s"
-    -
       post_date: 2019-07-25
       jobs:
         - title: "Senior Analyst Developer"
@@ -71,13 +80,6 @@
       jobs:
         - title: "Senior Software Engineer"
           link: "https://www.workopolis.com/jobsearch/viewjob/Qqm3E9op4MlRhFF_bXe3APLIGjOW57cQbYO5cg2vAKdaZu_WvVwdSg"
-- company: nalcor
-  jobs:
-    -
-      post_date: 2019-09-26
-      jobs:
-        - title: "Team Lead, IS Security"
-          link: https://www.careerbeacon.com/en/job/1573063/nalcor-energy/team-lead-is-security/st-john-s
 - company: bluedrop
   jobs:
     -
@@ -145,7 +147,7 @@
     - post_date: 2019-07-04
       jobs:
         - title: System Administrator III
-          link: https://www.workopolis.com/jobsearch/viewjob/d5O6nD-9QCQDQsSf4B9GjJ-CqXXTLFZIrq-63-aBknDNXj8vvOC5xw
+          link: https://www.careerbeacon.com/en/job/1576368/memorial-university-of-newfoundland/system-administrator-iii/st-john-s
     -
       post_date: 2019-06-27
       jobs:

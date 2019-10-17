@@ -23,7 +23,7 @@ events: []
 
 meetup:
     link: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyznbwb/
-    date: 2019-10-21
+    date: 2019-10-17
   
 x-talk:
   name:

@@ -1,3 +1,24 @@
+- company: nlchi
+  jobs:
+    -
+      post_date: 2019-10-17
+      jobs:
+        - title: Security Analyst II
+          link: https://www.careerbeacon.com/en/job/1576655/newfoundland-and-labrador-centre-for-health-information/security-analyst-ii/st-john-s
+        - title: Technical Architect II
+          link: https://www.careerbeacon.com/en/job/1576658/newfoundland-and-labrador-centre-for-health-information/technical-architect-ii/st-john-s
+- company: nalcor
+  jobs:
+    -
+      post_date: 2019-10-17
+      jobs:
+        - title: Software Specialist
+          link: https://www.careerbeacon.com/en/job/1577671/nalcor-energy/software-specialist/st-john-s
+    -
+      post_date: 2019-06-27
+      jobs:
+        - title: Programmer Analyst (Temporary)
+          link: https://www.workopolis.com/jobsearch/viewjob/TnjFReQo25IvuupK91W4SxsuD-AARAJjJ-MPniAYYP5TZQ0PRZGZFA
 - company: worldfurexchange
   jobs:
     -
@@ -277,13 +298,6 @@
       jobs:
         - title: "UI/UX Designer"
           link: "https://www.workopolis.com/jobsearch/viewjob/MljCMUSYeqs8KVDU068cv1WOOVlhivt6CyW7YjYAOIr9Wh1rjKYmLw"
-- company: nalcor
-  jobs:
-    -
-      post_date: 2019-06-27
-      jobs:
-        - title: Programmer Analyst (Temporary)
-          link: https://www.workopolis.com/jobsearch/viewjob/TnjFReQo25IvuupK91W4SxsuD-AARAJjJ-MPniAYYP5TZQ0PRZGZFA
 - company: lemur
   jobs:
     -

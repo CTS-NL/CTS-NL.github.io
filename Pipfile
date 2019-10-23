@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+pyyaml = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+start = "python3 -m ValidateJobs"

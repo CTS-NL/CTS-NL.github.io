@@ -78,3 +78,35 @@ Items can be added to the top navigation bar by modifying `_data/navigation.yml`
 ## Side Bar Navigation
 
 The side bar navigation is not setup through `_data/` and instead if changed by modifying `_includes/_sidebar.html`.
+
+## Validation
+
+The python script `ValidateJobs.py` is for validating the `companies.yml` and `jobs.yml` files.
+
+It does the following checks:
+* Duplicate keys, names, and urls in `companies.yml`
+* Company keys in jobs.yml but not `companies.yml`
+* Duplicate company keys in `jobs.yml`
+* Duplicate links in `jobs.yml`
+
+### Running the script
+
+You can run the script from the shell on it's own or with python3 by passing in the relative path to `_data` where the `jobs.yml` and `companies.yml` files are located.
+
+If you have pyyaml installed just run:
+```
+./ValidateJobs.py path/to/_data
+```
+OR
+```
+python3 ValidateJobs.py path/to/_data
+```
+
+Alternatively, you can install and run this using pipenv:
+```
+# To install
+pipenv install
+
+# To run once installed
+pipenv run start
+```

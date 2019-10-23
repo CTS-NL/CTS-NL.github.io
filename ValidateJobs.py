@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+import sys
 import yaml
 
 
@@ -115,8 +118,16 @@ def checkForDuplicateLinks(jobsGenerator, addNewline):
 
 if __name__ == '__main__':
 
-  jobsFile = '_data/jobs.yml'
-  companiesFile = '_data/companies.yml'
+  if len(sys.argv) < 2:
+    path = './'
+  else:
+    if sys.argv[1][-1] == '/':
+      path = sys.argv[1]
+    else:
+      path = sys.argv[1] + '/'
+
+  jobsFile = f'{path}_data/jobs.yml'
+  companiesFile = f'{path}_data/companies.yml'
 
   resultA = 0
   resultB = 0

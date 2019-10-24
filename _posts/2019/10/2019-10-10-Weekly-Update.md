@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Digest - Week 41 - 2019"
-teaser: "The weekly computer technology digest Oct 3 - Oct 10, 2019"
+teaser: "The weekly computer technology digest Oct 3 - 10, 2019"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

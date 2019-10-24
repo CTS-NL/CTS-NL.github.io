@@ -1,12 +1,12 @@
-- company: nlchi
+- company: celtx
   jobs:
     -
-      post_date: 2019-10-17
+      post_date: 2019-10-24
       jobs:
-        - title: Security Analyst II
-          link: https://www.careerbeacon.com/en/job/1576655/newfoundland-and-labrador-centre-for-health-information/security-analyst-ii/st-john-s
-        - title: Technical Architect II
-          link: https://www.careerbeacon.com/en/job/1576658/newfoundland-and-labrador-centre-for-health-information/technical-architect-ii/st-john-s
+        - title: Data Engineer
+          link: https://www.careerbeacon.com/en/job/1578811/celtx/data-engineer/st-john-s
+        - title: Data Scientist
+          link: https://www.careerbeacon.com/en/job/1578812/celtx/data-scientist/st-john-s
 - company: nalcor
   jobs:
     -
@@ -165,10 +165,6 @@
       jobs:
         - title: Systems Administrator IV
           link: https://www.workopolis.com/jobsearch/viewjob/b7nxRB5ad71hwaswyN-cyDsygeQa6jaoVN5MytOdb0szI1TlQsWPVA
-    - post_date: 2019-07-04
-      jobs:
-        - title: System Administrator III
-          link: https://www.careerbeacon.com/en/job/1576368/memorial-university-of-newfoundland/system-administrator-iii/st-john-s
     -
       post_date: 2019-06-27
       jobs:

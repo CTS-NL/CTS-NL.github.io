@@ -21,6 +21,6 @@ jobs:
           git clone https://github.com/CTS-NL/slack-post-bot.git
           cd slack-post-bot
           npm ci
-          npm run lint
+          npm run post:jobs
         env:
           SLACK_POST_URL: ${{ secrets.SLACK_POST_URL }}

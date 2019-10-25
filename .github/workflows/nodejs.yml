@@ -22,3 +22,5 @@ jobs:
           cd slack-post-bot
           npm ci
           npm run lint
+        env:
+          SLACK_POST_URL: ${{ secrets.SLACK_POST_URL }}

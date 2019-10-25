@@ -1,0 +1,33 @@
+name: Slack Post Bot
+
+on:
+  pull_request:
+    types: ['closed']
+    branches:
+    - steve/add-slack-post-bot-action
+    paths:
+    - '**/jobs.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      max-parallel: 4
+      matrix:
+        node-version: [10.x]
+      
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - if: contains(github.event.pull_request.labels.*.name, 'Post to Slack')
+        run: |
+          git clone https://github.com/CTS-NL/slack-post-bot.git
+          cd slack-post-bot
+          npm ci
+          node src/bin/cts.js jobs ../_data/ --date 2019-10-24
+        env:
+          SLACK_POST_URL: ${{ secrets.SLACK_POST_URL }}

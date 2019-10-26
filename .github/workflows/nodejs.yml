@@ -20,7 +20,7 @@ jobs:
       - run: |
           git clone https://github.com/CTS-NL/slack-post-bot.git
           cd slack-post-bot
-          ls
+          ls ../
           pwd
           npm ci
           node src/bin/cts.js jobs ../_data/ 2019-10-24

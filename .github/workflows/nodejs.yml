@@ -1,6 +1,8 @@
 name: Slack Post Bot
 
-on: [push]
+on:
+  pull_request:
+    types: [closed]
 
 jobs:
   build:

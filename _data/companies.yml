@@ -143,13 +143,13 @@ pal:
 pangeo:
   name: PanGeo Subsea
   url: https://www.pangeosubsea.com/
-pinnacle:
+pinncle:
   name: Pinnacle Networks Inc.
   url: https://www.pinnacleoffice.ca/networks/
 poweredbyb:
   name: Powered by b
   url: http://www.poweredbyb.ca/
-provident:
+proident:
   name: Provident10
   url: https://provident10.ca/
 procom:
@@ -161,7 +161,7 @@ q5:
 quidder:
   name: Quidder
   url: https://qwidder.com/
-quorum:
+quorm:
   name: Quorum Information Systems
   url: http://www.quorumdms.com/
 radient:

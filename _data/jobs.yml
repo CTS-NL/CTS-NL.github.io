@@ -1,15 +1,30 @@
+- company: radient
+  jobs:
+    - post_date: 2019-11-07
+      jobs:
+        - title: "Software Quality Assurance Specialist"
+          indeed: "aed50057a2686e69"
+        - title: "Developer Operations (DevOps)"
+          indeed: "89b2ed12696332f6"
+        - title: "IT Cloud System Administrator"
+          indeed: "cd787d18e09c71f8"
+- company: breathesuite
+  jobs:
+    - post_date: 2019-11-07
+      jobs:
+        - title: Lead DevOps / DevSecOps Engineer
+          link: https://www.indeedjobs.com/breathesuite/jobs/6049f53c2a2249798c86
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Software Engineer
+          link: https://www.indeedjobs.com/breathesuite/jobs/df459e9d4fb17fa750d1
 - company: mysa
   jobs:
     - post_date: 2019-10-31
       jobs:
         - title: Software Developers
           link: https://www.careerbeacon.com/en/job/1580598/mysa-smart-thermostat/software-developers/st-john-s
-- company: govnl
-  jobs:
-    - post_date: 2019-10-31
-      jobs:
-        - title: Senior Systems Analyst
-          link: https://www.careerbeacon.com/en/job/1578493/government-of-newfoundland-and-labrador/senior-systems-analyst-security-and-information-protection-analyst/st-john-s
 - company: quorum
   jobs:
     - post_date: 2019-10-31
@@ -20,10 +35,6 @@
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=312153
 - company: compusult
   jobs:
-    - post_date: 2019-10-31
-      jobs:
-        - title: "GIS Analyst/Developer/Database Administrator"
-          link: "https://www.compusult.com/web/guest/careers"
     -
       post_date: 2018-12-06
       jobs:
@@ -50,13 +61,6 @@
       jobs:
         - title: Software Developer
           link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-- company: breathesuite
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: Software Engineer
-          link: https://www.indeedjobs.com/breathesuite/jobs/df459e9d4fb17fa750d1
 - company: celtx
   jobs:
     -
@@ -94,14 +98,6 @@
       jobs:
         - title: "Computer Vision Engineer"
           link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
-- company: skyhawk
-  jobs:
-    -
-      post_date: 2019-10-03
-      jobs:
-        - title: "Software Developer"
-          indeed: "66c5de9eabb0f5fe"
-
 - company: inmarsat
   jobs:
     -
@@ -121,13 +117,13 @@
       jobs:
         - title: Security Analyst
           link: https://colabsoftware.humi.ca/job-board/software+development/1064
-        - title: Full Stack Developer
+        - title: Senior Backend Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1065
         - title: Full Stack Developer (Intern)
           link: https://colabsoftware.humi.ca/job-board/software+development/1069
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-        - title: Senior Web Developer
+        - title: Senior Frontend Developer (React)
           link: https://colabsoftware.humi.ca/job-board/software+development/1062
         - title: Mobile App Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1066
@@ -155,12 +151,8 @@
     -
       post_date: 2018-05-16
       jobs:
-        - title: Software Quality Assurance Engineer (Co-op)
-          link: https://secure.collage.co/jobs/heyorca/11324
         - title: Experienced Software Developer (Fulltime)
           link: https://secure.collage.co/jobs/heyorca/11328
-        - title: Software Engineer (Co-op)
-          link: https://secure.collage.co/jobs/heyorca/11310
 - company: nlrt
   jobs:
     -

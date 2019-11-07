@@ -7,7 +7,11 @@ No new job posts this week.
   {% include company company=listing.company %} is looking for:
     <ul>
       {% for job in listing.jobs %}
-        <li><a href="{{ job.link }}">{{ job.title }}</a></li>
+		{% if job.indeed %}
+			<li><a href="https://www.indeed.com/viewjob?jk={{ job.indeed }}">{{ job.title }}</a></li>
+		{% else %}
+			<li><a href="{{ job.link }}">{{ job.title }}</a></li>
+		{% endif %}
       {% endfor %}
     </ul>
   </li>

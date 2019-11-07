@@ -93,7 +93,7 @@ def checkForDuplicateCompanies(jobsGenerator, addNewline):
   return errorCount
 
 
-def checkForDuplicateLinks(jobsGenerator, addNewline):
+def checkForDuplicateLinks(jobsGenerator, ignoredUrls, addNewline):
   urls = []
   firstDuplicateFound = False
   company = ''
@@ -101,8 +101,10 @@ def checkForDuplicateLinks(jobsGenerator, addNewline):
   for job in jobsGenerator:
     if type(job) == yaml.events.ScalarEvent and job.value == 'company':
       company = next(jobsGenerator).value
-    if type(job) == yaml.events.ScalarEvent and job.value == 'link':
+    if type(job) == yaml.events.ScalarEvent and (job.value == 'link' or job.value == 'indeed'):
       nextValue = next(jobsGenerator)
+      if nextValue.value in ignoredUrls:
+      	continue
       if nextValue.value not in urls:
         urls.append(nextValue.value)
       else:
@@ -112,7 +114,7 @@ def checkForDuplicateLinks(jobsGenerator, addNewline):
             print('\n')
           firstDuplicateFound = True
           print('There are duplicate urls in the jobs.yml file:')
-        print(f'\tDuplicate link found for:    {company}\n\t\tLine {nextValue.start_mark.line+1}: {nextValue.value}\n')
+        print(f'\tDuplicate posting found for:    {company}\n\t\tLine {nextValue.start_mark.line+1}: {nextValue.value}\n')
   return errorCount
 
 
@@ -128,6 +130,7 @@ if __name__ == '__main__':
 
   jobsFile = f'{path}_data/jobs.yml'
   companiesFile = f'{path}_data/companies.yml'
+  lintingConfigFile = f'{path}_data/lint_config.yml'
 
   resultA = 0
   resultB = 0
@@ -135,6 +138,7 @@ if __name__ == '__main__':
   resultD = 0
   addNewline = False
 
+  lintingConfig = getFile(lintingConfigFile)
   resultA = checkCompaniesFileForDuplicates(getFileGenerator(companiesFile))
   if resultA > 0:
     addNewline = True
@@ -144,7 +148,7 @@ if __name__ == '__main__':
   resultC = checkForDuplicateCompanies(getFileGenerator(jobsFile), addNewline)
   if resultC > 0:
     addNewline = True
-  resultD = checkForDuplicateLinks(getFileGenerator(jobsFile), addNewline)
+  resultD = checkForDuplicateLinks(getFileGenerator(jobsFile), lintingConfig['duplication']['ignored_urls'], addNewline)
 
   results = resultA + resultB + resultC + resultD
   if results > 0:

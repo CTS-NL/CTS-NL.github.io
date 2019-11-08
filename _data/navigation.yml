@@ -27,6 +27,10 @@
   url: "/jobs/"
   side: right
 
+- title: Finances
+  url: "/finances/"
+  side: right
+
 - title: "Contact"
   url: "/contact/"
   side: right

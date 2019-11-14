@@ -78,6 +78,10 @@
   start: "2019-09-19T19:30:00-03:30"
   url: https://www.meetup.com/NDevMeetup/events/264902508/
 
+- title: "NDev: The Y Combinator Experience + Dev Life"
+  start: "2019-11-25T19:30:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/266408699/
+
 #Auto load from Meetup with:
 #  var o = [];
 #  document.querySelectorAll('.eventCard').forEach((a) => {
@@ -159,10 +163,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-11-14T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzpbsb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2019-11-21T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzpbcc/
+
 - title: "Tech Project Evening and Meetup"
   start: "2019-11-28T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzpblc/

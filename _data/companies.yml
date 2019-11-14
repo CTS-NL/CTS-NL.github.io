@@ -131,6 +131,9 @@ ntv:
 nlrt:
   name: Newfoundland and Labrador Research Technologies
   url: http://www.nlrt.ca/
+mobia:
+  name: 'MOBIA Technology Innovations'
+  url: "https://mobia.io/"
 omega:
   name: Omega AS
   url: https://www.omega.no/location/st-johns

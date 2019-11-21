@@ -1,3 +1,30 @@
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2019-11-21
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://www.careerbeacon.com/en/job/1583841/eastern-health/computer-programmer-analyst-2-positions-repost/st-john-s"
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-11-21
+      jobs:
+        - title: "Senior Software Developer"
+          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/12951907-Senior-Software-Developer--Services--Innovations-Team--Open-Location--Eastern-Canada"
+- company: mysa
+  jobs:
+    -
+      post_date: 2019-11-21
+      jobs:
+        - title: "Software Developers"
+          indeed: "d7b6ac0db30ef05c"
+- company: pal
+  jobs:
+    - post_date: 2019-11-21
+      jobs:
+        - title: "Intermediate Software Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&jobId=263219"
 - company: ccore
   jobs:
     -
@@ -50,8 +77,6 @@
   jobs:
     - post_date: 2019-10-31
       jobs:
-        - title: Junior Internal Network Specialist
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=317893
         - title: Junior Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=312153
 - company: compusult
@@ -89,20 +114,6 @@
       jobs:
         - title: Web Application Developer - Co-op Term
           link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPJ0aCIhJhygY
-    -
-      post_date: 2019-10-24
-      jobs:
-        - title: Data Engineer
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPFlGRoyEoCX3
-        - title: Data Scientist
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPFNmPaqAmonQ
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2019-10-10
-      jobs:
-        - title: "Software Programmer/Developer"
-          indeed: "123024ac46119d3f"
 - company: kraken
   jobs:
     -
@@ -132,17 +143,8 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1069
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-        - title: Senior Frontend Developer (React)
-          link: https://colabsoftware.humi.ca/job-board/software+development/1062
         - title: Mobile App Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1066
-- company: sulis
-  jobs:
-    -
-      post_date: 2019-09-12
-      jobs:
-        - title: "Software Engineer"
-          indeed: "48d815278a893c1b"
 - company: lemur
   jobs:
     -

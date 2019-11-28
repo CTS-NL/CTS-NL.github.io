@@ -1,10 +1,24 @@
-- company: easternhealth
+- company: mun
   jobs:
     -
-      post_date: 2019-11-21
+      post_date: 2019-11-28
       jobs:
-        - title: "Computer Programmer/Analyst"
-          link: "https://www.careerbeacon.com/en/job/1583841/eastern-health/computer-programmer-analyst-2-positions-repost/st-john-s"
+        - title: "Programmer Analyst"
+          link: "https://www.mun.ca/hr/careers/career.php?id=668"
+- company: workplacenl
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Programmer"
+          link: "https://www.careerbeacon.com/en/job/1584868/workplacenl/programmer/st-john-s"
+- company: mentic
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31620173"
 - company: vision33
   jobs:
     -
@@ -19,12 +33,6 @@
       jobs:
         - title: "Software Developers"
           indeed: "d7b6ac0db30ef05c"
-- company: pal
-  jobs:
-    - post_date: 2019-11-21
-      jobs:
-        - title: "Intermediate Software Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&jobId=263219"
 - company: ccore
   jobs:
     -
@@ -51,11 +59,6 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
-    -
-      post_date: 2019-10-03
-      jobs:
-        - title: "Database Administrator"
-          link: "https://jobs.smartrecruiters.com/Inmarsat/743999696138412-database-administrator"
 - company: radient
   jobs:
     - post_date: 2019-11-07
@@ -66,13 +69,6 @@
           indeed: "89b2ed12696332f6"
         - title: "IT Cloud System Administrator"
           indeed: "cd787d18e09c71f8"
-- company: breathesuite
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: Software Engineer
-          link: https://www.indeedjobs.com/breathesuite/jobs/df459e9d4fb17fa750d1
 - company: quorum
   jobs:
     - post_date: 2019-10-31

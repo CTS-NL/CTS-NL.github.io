@@ -106,6 +106,9 @@ kraken:
 lemur:
   name: Lemur Vehicle Monitors
   url: https://www.bluedriver.com/
+mentic:
+  name: Mentic Wellness Technologies
+  url: https://mentic.co/
 # Mariner posts jobs for St. John, NB as St. John's. They can be ignored.
 mun:
   name: Memorial University of Newfoundland

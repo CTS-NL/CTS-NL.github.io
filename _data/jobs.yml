@@ -1,3 +1,17 @@
+- company: triware
+  jobs:
+    -
+      post_date: 2019-12-05
+      jobs:
+        - title: "Programmer / Developer"
+          link: 'https://www.careerbeacon.com/en/job/1585750/triware-technologies-inc/programmer-developer/st-john-s-nl'
+- company: metricsflow
+  jobs:
+    -
+      post_date: 2019-12-05
+      jobs:
+        - title: "Software Developer"
+          indeed: d302662984c06b13
 - company: mun
   jobs:
     -
@@ -5,13 +19,6 @@
       jobs:
         - title: "Programmer Analyst"
           link: "https://www.mun.ca/hr/careers/career.php?id=668"
-- company: workplacenl
-  jobs:
-    -
-      post_date: 2019-11-28
-      jobs:
-        - title: "Programmer"
-          link: "https://www.careerbeacon.com/en/job/1584868/workplacenl/programmer/st-john-s"
 - company: mentic
   jobs:
     -
@@ -59,16 +66,6 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
-- company: radient
-  jobs:
-    - post_date: 2019-11-07
-      jobs:
-        - title: "Software Quality Assurance Specialist"
-          indeed: "aed50057a2686e69"
-        - title: "Developer Operations (DevOps)"
-          indeed: "89b2ed12696332f6"
-        - title: "IT Cloud System Administrator"
-          indeed: "cd787d18e09c71f8"
 - company: quorum
   jobs:
     - post_date: 2019-10-31
@@ -89,15 +86,6 @@
       jobs:
         - title: Database Administrator
           link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
-        - title: UX Designer
-          link: https://verafin.secure.force.com/apply?id=a173b00000CQnYGAA1
-        - title: Software Developer - Fall Career Fairs
-          link: https://verafin.secure.force.com/apply?id=a173b00000CTYruAAH
-    -
-      post_date: 2019-08-08
-      jobs:
-        - title: Solutions Architect - Security Automation
-          link: https://verafin.secure.force.com/apply?id=a173b00000CAu62AAD
     -
       post_date: 2019-04-18
       jobs:
@@ -139,8 +127,6 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1069
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-        - title: Mobile App Developer
-          link: https://colabsoftware.humi.ca/job-board/software+development/1066
 - company: lemur
   jobs:
     -

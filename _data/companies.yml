@@ -134,6 +134,9 @@ ntv:
 nlrt:
   name: Newfoundland and Labrador Research Technologies
   url: http://www.nlrt.ca/
+metricsflow:
+  name: Metricsflow
+  url: http://metricsflow.com/
 mobia:
   name: 'MOBIA Technology Innovations'
   url: "https://mobia.io/"

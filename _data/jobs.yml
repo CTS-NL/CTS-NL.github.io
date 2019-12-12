@@ -12,13 +12,6 @@
       jobs:
         - title: "Software Developer"
           indeed: d302662984c06b13
-- company: mun
-  jobs:
-    -
-      post_date: 2019-11-28
-      jobs:
-        - title: "Programmer Analyst"
-          link: "https://www.mun.ca/hr/careers/career.php?id=668"
 - company: mentic
   jobs:
     -
@@ -40,13 +33,6 @@
       jobs:
         - title: "Software Developers"
           indeed: "d7b6ac0db30ef05c"
-- company: ccore
-  jobs:
-    -
-      post_date: 2019-11-14
-      jobs:
-        - title: "Software Systems Engineer"
-          indeed: "5cb51c58983445bb"
 - company: mobia
   jobs:
     -
@@ -66,12 +52,6 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
-- company: quorum
-  jobs:
-    - post_date: 2019-10-31
-      jobs:
-        - title: Junior Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=312153
 - company: compusult
   jobs:
     -

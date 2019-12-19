@@ -76,6 +76,9 @@ genoa:
 govnl:
   name: Government of Newfoundland and Labrador
   url: https://www.gov.nl.ca/
+hatch:
+  name: Hatch
+  url: https://www.hatch.com
 ici:
   name: ICI Innovations
   url: http://www.iciinnovations.com

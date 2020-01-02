@@ -16,6 +16,9 @@ cna:
 devsontherock:
   name: Devs on the Rock
   url: https://gdnl.ca/
+flutterhub:
+  name: FlutterHub
+  url: https://flutterhub.io
 gamedevnl:
   name: Gamedev NL
   url: http://gamedevnl.org

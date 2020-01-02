@@ -1,3 +1,10 @@
+- company: ccore
+  jobs:
+    -
+      post_date: 2020-01-02
+      jobs:
+        - title: "Software Engineer"
+          indeed: '531b500690be9aaa'
 - company: hatch
   jobs:
     -
@@ -26,13 +33,6 @@
       jobs:
         - title: "Software Developer - Services"
           link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13028917-Software-Developer-Services"
-- company: triware
-  jobs:
-    -
-      post_date: 2019-12-05
-      jobs:
-        - title: "Programmer / Developer"
-          link: 'https://www.careerbeacon.com/en/job/1585750/triware-technologies-inc/programmer-developer/st-john-s-nl'
 - company: metricsflow
   jobs:
     -
@@ -46,7 +46,7 @@
       post_date: 2019-11-28
       jobs:
         - title: "Web Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31620173"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
 - company: mobia
   jobs:
     -
@@ -117,8 +117,6 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1064
         - title: Senior Backend Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1065
-        - title: Full Stack Developer (Intern)
-          link: https://colabsoftware.humi.ca/job-board/software+development/1069
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
 - company: lemur

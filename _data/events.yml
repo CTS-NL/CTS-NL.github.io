@@ -86,6 +86,10 @@
   start: "2019-11-28T20:00:00-03:30"
   url: https://www.facebook.com/events/425656421677252
 
+- title: "FlutterHub: Let's Learn How to Make Mobile Apps"
+  start: "2019-01-15T18:00:00-03:30"
+  url: https://www.eventbrite.ca/e/lets-learn-how-to-make-mobile-apps-tickets-86042899629
+
 #Auto load from Meetup with:
 #  var o = [];
 #  document.querySelectorAll('.eventCard').forEach((a) => {
@@ -182,10 +186,10 @@
 - title: "Tech Project Evening and Meetup"
   start: "2019-12-19T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzqbzb/
-
 - title: "Tech Project Evening and Meetup"
   start: "2020-01-02T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpybccbdb/
+
 - title: "Tech Project Evening and Meetup"
   start: "2020-01-09T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpybccbmb/

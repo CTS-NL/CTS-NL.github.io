@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Weekly Digest - Week 01 - 2020"
-teaser: "The weekly computer technology digest Dec 26 - Jan 2, 2020"
+title: "Weekly Digest - Week 1 - 2020"
+teaser: "The weekly computer technology digest Dec 26 2019 - Jan 2, 2020"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

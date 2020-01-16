@@ -13,15 +13,15 @@ canadacode:
 cna:
   name: "College of the North Atlantic"
   url: https://www.cna.nl.ca/
-devsontherock:
-  name: Devs on the Rock
-  url: https://gdnl.ca/
 flutterhub:
   name: FlutterHub
   url: https://flutterhub.io
-gamedevnl:
+gamedevnl: # defunct, replaced with gdnl
   name: Gamedev NL
   url: http://gamedevnl.org
+gdnl:
+  name: GDNL
+  url: https://gdnl.ca
 hackinghealth:
   name: Hacking Health St. John's
   url: https://www.facebook.com/HHStJohnsNL/

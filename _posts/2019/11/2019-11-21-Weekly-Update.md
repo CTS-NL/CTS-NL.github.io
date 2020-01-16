@@ -34,7 +34,7 @@ events:
     - title: "The Y Combinator Experience + Dev Life"
       start: "2019-11-25"
       link: https://www.meetup.com/NDevMeetup/events/266408699/
-- group: devsontherock
+- group: gdnl
   events:
     - title: "Social"
       start: "2019-11-28"

@@ -1,3 +1,40 @@
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location"
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Unity Developer
+          link: https://www.inspectar.com/careers/unity-developer
+        - title: Engineering COOP Student
+          link: https://www.inspectar.com/careers/engineering-coop-student
+- company: govnl
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Senior Systems Analyst (Database Administrator)
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23318
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Software developer
+          indeed: 8f381a1eb41372b4
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Computer Systems Analyst II
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000073500
 - company: colab
   jobs:
     -
@@ -50,8 +87,6 @@
       jobs:
         - title: "Senior Software Developer"
           indeed: "f8a7e0b2facadf24"
-        - title: "Software Developer"
-          indeed: "30f9d645c8012056"
 - company: celtx
   jobs:
     -
@@ -59,20 +94,6 @@
       jobs:
         - title: Web Application Developer - Co-op Term
           link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
-- company: mun
-  jobs:
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "System Administrator (Band Level 7)"
-          link: 'https://www.mun.ca/hr/careers/career.php?id=748'
-- company: ccore
-  jobs:
-    -
-      post_date: 2020-01-02
-      jobs:
-        - title: "Software Engineer"
-          indeed: '531b500690be9aaa'
 - company: hatch
   jobs:
     -
@@ -80,13 +101,6 @@
       jobs:
         - title: "Junior .Net Software Developer"
           link: "https://jobs.hatch.com/job/St_-John's-Junior-_Net-Software-Developer-NL/615258200"
-- company: vision33
-  jobs:
-    -
-      post_date: 2019-12-19
-      jobs:
-        - title: "Software Developer - Services"
-          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13028917-Software-Developer-Services"
 - company: mentic
   jobs:
     -
@@ -103,11 +117,6 @@
           link: "https://canr57.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/311"
 - company: inmarsat
   jobs:
-    -
-      post_date: 2019-11-14
-      jobs:
-        - title: "Solution Designer - ServiceNow"
-          link: "https://jobs.smartrecruiters.com/Inmarsat/743999699504819-solution-designer-servicenow"
     -
       post_date: 2019-10-31
       jobs:
@@ -137,10 +146,6 @@
     -
       post_date: 2019-10-31
       jobs:
-        - title: "Software Quality Assurance"
-          link: "https://jobs.careerbeacon.com/details/software-quality-assurance/1564477"
-        - title: "Full Stack Developer - Software Developer"
-          link: "https://jobs.careerbeacon.com/details/full-stack-developer--software-developer/1564475"
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
     -

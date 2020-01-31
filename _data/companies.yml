@@ -91,6 +91,9 @@ imperva:
 inmarsat:
   name: Inmarsat
   url: https://www.inmarsat.com/
+inspectar:
+  name: Inspectar
+  url: https://www.inspectar.com/
 infotech:
   name: Infotech
   url: http://www.infotechsolutions.com/

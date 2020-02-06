@@ -1,12 +1,10 @@
-- company: vision33
+- company: inspectar
   jobs:
     -
       post_date: 2020-01-30
       jobs:
-        - title: "Software Developer"
-          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location"
-- company: inspectar
-  jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/careers/c-sharp-developer
     -
       post_date: 2020-01-30
       jobs:
@@ -14,6 +12,13 @@
           link: https://www.inspectar.com/careers/unity-developer
         - title: Engineering COOP Student
           link: https://www.inspectar.com/careers/engineering-coop-student
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location"
 - company: govnl
   jobs:
     -
@@ -28,13 +33,6 @@
       jobs:
         - title: Software developer
           indeed: 8f381a1eb41372b4
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: Computer Systems Analyst II
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000073500
 - company: colab
   jobs:
     -
@@ -78,8 +76,6 @@
           link: "https://www.milkmoovement.com/careers/senior-developer"
         - title: "Junior Developer (Work Term) Spring 2020"
           link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
-        - title: "Junior Developer (Work Term) Winter 2020"
-          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-winter-2020"
 - company: skyhawk
   jobs:
     -
@@ -108,13 +104,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
-- company: mobia
-  jobs:
-    -
-      post_date: 2019-11-14
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://canr57.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/311"
 - company: inmarsat
   jobs:
     -
@@ -179,14 +168,3 @@
       jobs:
         - title: "IT Engineer"
           link: "http://nlrt.ca/careers.html"
-- company: infotech
-  jobs:
-    -
-      post_date: 2018-11-01
-      jobs:
-        - title: Systems Analyst
-          link: http://www.infotechsolutions.com/careers/systems-analyst
-        - title: Senior .NET Developer
-          link: http://www.infotechsolutions.com/careers/senior-developer
-        - title: Senior Web Designer
-          link: http://www.infotechsolutions.com/careers/senior-web-designer

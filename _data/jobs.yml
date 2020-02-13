@@ -1,3 +1,45 @@
+- company: govnl
+  jobs:
+    -
+      post_date: 2020-02-13
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1596646/government-of-newfoundland-and-labrador/programmer-analyst/st-john-s
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Senior Systems Analyst (Database Administrator)
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23318
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.ziprecruiter.com/jobs/compusult-limited-bfdc1320/software-developer-d9084894"
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: johnson
+  jobs:
+    -
+      post_date: 2020-02-13
+      jobs:
+        - title: Developer, Customer Relationship Centre of Excellence
+          link: 'https://johnson.njoyn.com/cl2/xweb/Xweb.asp?tbtoken=Z11cRRgXCG4BZ3F0MVRQCFo%2FBhVEcFEpd0hYUC4FExYrKkJqUEAYcWR3BwkbVhJaS3YqWA%3D%3D&chk=ZVpaShw%3D&page=jobdetails&JobID=J0220-0108&BRID=254248'
+- company: radient
+  jobs:
+    -
+      post_date: 2020-02-13
+      jobs:
+        - title: Senior Software Developer
+          indeed: d44b41a571f52272
+        - title: Intermediate Software Developer
+          indeed: ac82b2ec0fc5d20d
+        - title: Software Quality Assurance (QA) Specialist
+          indeed: 05ca3f1385ef0786
 - company: inspectar
   jobs:
     -
@@ -12,20 +54,6 @@
           link: https://www.inspectar.com/careers/unity-developer
         - title: Engineering COOP Student
           link: https://www.inspectar.com/careers/engineering-coop-student
-- company: vision33
-  jobs:
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location"
-- company: govnl
-  jobs:
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: Senior Systems Analyst (Database Administrator)
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23318
 - company: worldfurexchange
   jobs:
     -
@@ -59,14 +87,14 @@
     -
       post_date: 2020-01-09
       jobs:
-        - title: "Software Developers"
-          link: "https://jobs.careerbeacon.com/details/software-developers/1590990"
+        - title: "Software Developers (Multiple)"
+          indeed: "d7b6ac0db30ef05c"
         - title: "QA Analyst"
-          link: "https://jobs.careerbeacon.com/details/qa-analyst/1590599"
+          indeed: "a9df069a22a97a56"
         - title: "Software Support Specialist"
-          link: "https://jobs.careerbeacon.com/details/software-support-specialist/1590598"
+          indeed: "718cbbe6eee37695"
         - title: "UI/UX Designer"
-          link: "https://jobs.careerbeacon.com/details/uiux-designer/1590597"
+          indeeed: "e230edb5b3b9f91d"
 - company: milkmoovement
   jobs:
     -
@@ -76,13 +104,6 @@
           link: "https://www.milkmoovement.com/careers/senior-developer"
         - title: "Junior Developer (Work Term) Spring 2020"
           link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
-- company: skyhawk
-  jobs:
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "Senior Software Developer"
-          indeed: "f8a7e0b2facadf24"
 - company: celtx
   jobs:
     -
@@ -111,13 +132,6 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-12-06
-      jobs:
-        - title: "Software Engineers/Developers (Entry and Senior Level)"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: verafin
   jobs:
     -

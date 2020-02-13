@@ -27,10 +27,6 @@ x-talk:
   link:
 ---
 
-## Interruption
-
-Due to the major storm that took place on the Avalon the past week. This weekly update spans two weeks.
-
 ## Upcoming Events
 {% include events %}
 

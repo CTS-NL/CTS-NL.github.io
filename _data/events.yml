@@ -18,6 +18,14 @@
   start: "2020-01-31T07:00:00-03:30"
   url: https://globalgamejam.org/2020/jam-sites/gdnl
 
+- title: "NDev 44: Implementing Data-Driven Insights"
+  start: "2020-02-26T19:00:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/268738799/
+
+- title: "Kids Learning Code: Generative Art with Processing"
+  start: "2020-05-31T13:00:00-03:30"
+  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-generative-art-with-processing/
+
 #Auto load from Meetup with:
 #  var o = [];
 #  document.querySelectorAll('.eventCard').forEach((a) => {

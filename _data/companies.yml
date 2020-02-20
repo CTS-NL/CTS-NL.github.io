@@ -212,6 +212,7 @@ subc:
 tatasteel:
   name: Tata Steel
   url: http://www.tatasteelcanada.com/
+# Thermo Fisher Scientific is from the Netherlands not Newfoundland
 totaliq:
   name: totaliQ
   url: https://totaliq.ca/

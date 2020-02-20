@@ -1,3 +1,38 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: Technical Writer
+          link: https://verafin.secure.force.com/apply?id=a173b00000Cfs0OAAR
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          indeed: 8e7ef606cf47c1c6
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "Software Developers (Multiple)"
+          indeed: "d7b6ac0db30ef05c"
+        - title: "QA Analyst"
+          indeed: "a9df069a22a97a56"
+        - title: "Software Support Specialist"
+          indeed: "718cbbe6eee37695"
+        - title: "UI/UX Designer"
+          indeed: "e230edb5b3b9f91d"
 - company: govnl
   jobs:
     -
@@ -77,24 +112,6 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1065
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-01-16
-      jobs:
-        - title: "QA Lead"
-          link: "https://jobs.careerbeacon.com/details/qa-lead/1592210"
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "Software Developers (Multiple)"
-          indeed: "d7b6ac0db30ef05c"
-        - title: "QA Analyst"
-          indeed: "a9df069a22a97a56"
-        - title: "Software Support Specialist"
-          indeed: "718cbbe6eee37695"
-        - title: "UI/UX Designer"
-          indeeed: "e230edb5b3b9f91d"
 - company: milkmoovement
   jobs:
     -
@@ -132,18 +149,6 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: Database Administrator
-          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
 - company: kraken
   jobs:
     -
@@ -167,7 +172,7 @@
       post_date: 2019-03-07
       jobs:
         - title: "Software Developer / Engineer"
-          indeed: ffade93e169e0680
+          link: https://www.bluedriver.com/about-us/careers
 - company: whalecompany
   jobs:
     -

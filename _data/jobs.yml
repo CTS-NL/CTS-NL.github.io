@@ -1,10 +1,47 @@
-- company: verafin
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software QA Specialist
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPNlA5zDBUPVc
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://www.careerbeacon.com/en/job/1599442/eastern-health/computer-programmer-analyst-2-positions-repost/st-john-s
+- company: mysa
   jobs:
     -
       post_date: 2020-02-20
       jobs:
-        - title: Technical Writer
-          link: https://verafin.secure.force.com/apply?id=a173b00000Cfs0OAAR
+        - title: "Software Developer"
+          indeed: e38c0fbc6ef7d2e6
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          indeed: 8e7ef606cf47c1c6
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "QA Analyst"
+          indeed: "a9df069a22a97a56"
+        - title: "Software Support Specialist"
+          indeed: "718cbbe6eee37695"
+        - title: "UI/UX Designer"
+          indeed: "e230edb5b3b9f91d"
+- company: verafin
+  jobs:
     -
       post_date: 2019-10-31
       jobs:
@@ -15,36 +52,6 @@
       jobs:
         - title: Software Developer
           link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-02-20
-      jobs:
-        - title: "Senior Embedded Developer"
-          indeed: 8e7ef606cf47c1c6
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "Software Developers (Multiple)"
-          indeed: "d7b6ac0db30ef05c"
-        - title: "QA Analyst"
-          indeed: "a9df069a22a97a56"
-        - title: "Software Support Specialist"
-          indeed: "718cbbe6eee37695"
-        - title: "UI/UX Designer"
-          indeed: "e230edb5b3b9f91d"
-- company: govnl
-  jobs:
-    -
-      post_date: 2020-02-13
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1596646/government-of-newfoundland-and-labrador/programmer-analyst/st-john-s
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: Senior Systems Analyst (Database Administrator)
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23318
 - company: compusult
   jobs:
     -
@@ -121,13 +128,6 @@
           link: "https://www.milkmoovement.com/careers/senior-developer"
         - title: "Junior Developer (Work Term) Spring 2020"
           link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
-- company: celtx
-  jobs:
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: Web Application Developer - Co-op Term
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
 - company: hatch
   jobs:
     -

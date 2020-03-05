@@ -1,3 +1,36 @@
+- company: mun
+  jobs:
+    -
+      post_date: 2020-03-05
+      jobs:
+        - title: Programmer Consultant
+          link: https://www.mun.ca/hr/careers/career.php?id=845
+- company: omega
+  jobs:
+    -
+      post_date: 2020-03-05
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.omega365.com/jobs/jobinfo/47864
+        - title: Programmer Analyst- GIS Support
+          link: https://www.omega365.com/jobs/jobinfo/47826
+- company: verafin
+  jobs:
+    -
+      post_date: 2020-03-05
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: celtx
   jobs:
     -
@@ -12,13 +45,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Computer Programmer/Analyst
-          link: https://www.careerbeacon.com/en/job/1599442/eastern-health/computer-programmer-analyst-2-positions-repost/st-john-s
 - company: mysa
   jobs:
     -
@@ -36,22 +62,6 @@
       jobs:
         - title: "QA Analyst"
           indeed: "a9df069a22a97a56"
-        - title: "Software Support Specialist"
-          indeed: "718cbbe6eee37695"
-        - title: "UI/UX Designer"
-          indeed: "e230edb5b3b9f91d"
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: Database Administrator
-          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
 - company: compusult
   jobs:
     -

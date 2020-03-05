@@ -1,26 +1,14 @@
-- title: "NDev: The Y Combinator Experience + Dev Life"
-  start: "2019-11-25T19:30:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/266408699/
+- title: "DesignNL: #1"
+  start: "2020-03-11T18:00:00-03:30"
+  url: https://www.eventbrite.ca/e/design-nl-1-tickets-97739229667
 
-- title: "Devs on the Rock: Social"
-  start: "2019-11-28T20:00:00-03:30"
-  url: https://www.facebook.com/events/425656421677252
+- title: "RBar: Basic Statistics in R"
+  start: "2020-03-09T17:30:00-03:30"
+  url: https://www.eventbrite.ca/e/design-nl-1-tickets-97739229667
 
-- title: "FlutterHub: Let's Learn How to Make Mobile Apps"
-  start: "2019-01-15T18:00:00-03:30"
-  url: https://www.eventbrite.ca/e/lets-learn-how-to-make-mobile-apps-tickets-86042899629
-
-- title: "NDev 43: Bringing Design Culture to Software Teams"
-  start: "2020-01-28T19:30:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/267840192/
-
-- title: "GDNL: Global Game Jam 2020"
-  start: "2020-01-31T07:00:00-03:30"
-  url: https://globalgamejam.org/2020/jam-sites/gdnl
-
-- title: "NDev 44: Implementing Data-Driven Insights"
-  start: "2020-02-26T19:00:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/268738799/
+- title: "Get Coding: Web Dev 101 Workshop"
+  start: "2020-03-18T19:00:00-03:30"
+  url: https://www.eventbrite.ca/e/web-dev-101-workshop-registration-97416923641
 
 - title: "Kids Learning Code: Generative Art with Processing"
   start: "2020-05-31T13:00:00-03:30"
@@ -35,29 +23,6 @@
 #  });
 #  console.log(o.join('\n'))
 
-
-- title: "Tech Project Evening and Meetup"
-  start: "2020-01-16T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybccbvb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-01-23T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybccbfc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-01-30T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybccbnc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-02-06T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcdbjb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-02-13T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcdbrb/
-
-- title: "Tech Project Evening and Meetup"
-  start: "2020-02-20T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcdbbc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-02-27T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcdbkc/
 - title: "Tech Project Evening and Meetup"
   start: "2020-03-05T22:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcfbhb/
@@ -85,75 +50,76 @@
 - title: "Tech Project Evening and Meetup"
   start: "2020-04-30T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbnc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-05-07T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbkb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-05-14T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbsb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-05-21T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbcc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-05-28T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchblc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-06-04T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbgb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-06-11T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbpb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-06-18T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbxb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-06-25T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbhc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-07-02T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbdb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-07-09T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbmb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-07-16T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbvb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-07-23T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbfc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-07-30T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbnc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-08-06T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbjb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-08-13T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbrb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-08-20T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbbc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-08-27T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbkc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-09-03T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbfb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-09-10T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbnb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-09-17T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbwb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-09-24T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbgc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-10-01T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnbcb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-10-08T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnblb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-10-15T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnbtb/
+
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-05-07T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbkb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-05-14T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbsb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-05-21T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchbcc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-05-28T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybchblc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-06-04T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbgb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-06-11T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbpb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-06-18T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbxb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-06-25T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcjbhc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-07-02T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbdb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-07-09T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbmb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-07-16T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbvb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-07-23T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbfc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-07-30T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybckbnc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-08-06T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbjb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-08-13T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbrb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-08-20T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbbc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-08-27T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybclbkc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-09-03T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbfb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-09-10T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbnb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-09-17T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbwb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-09-24T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcmbgc/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-10-01T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnbcb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-10-08T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnblb/
+#- title: "Tech Project Evening and Meetup"
+#  start: "2020-10-15T21:30:00-03:30"
+#  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcnbtb/

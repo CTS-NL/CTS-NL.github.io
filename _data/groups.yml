@@ -13,12 +13,18 @@ canadacode:
 cna:
   name: "College of the North Atlantic"
   url: https://www.cna.nl.ca/
+designnl:
+  name: "DesignNL"
+  url: https://communityinviter.com/apps/designnl/designnl
 flutterhub:
   name: FlutterHub
   url: https://flutterhub.io
 gamedevnl: # defunct, replaced with gdnl
   name: Gamedev NL
   url: http://gamedevnl.org
+getcoding:
+  name: Get Coding
+  url: https://www.get-coding.ca/
 gdnl:
   name: GDNL
   url: https://gdnl.ca

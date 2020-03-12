@@ -1,19 +1,26 @@
+- company: totaliq
+  jobs:
+    -
+      post_date: 2020-03-12
+      jobs:
+        - title: Fall Work Term Full Stack Developer
+          link: 'https://yourtotaliq.freshteam.com/jobs/KH7nEyUuNkwg/fall-work-term-full-stack-developer'
+        - title: Full Stack Developer
+          link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
+- company: genoa
+  jobs:
+    -
+      post_date: 2020-03-12
+      jobs:
+        - title: Programmer Analyst
+          indeed: 9854c5c8d5e3fdc0
 - company: mun
   jobs:
     -
       post_date: 2020-03-05
       jobs:
         - title: Programmer Consultant
-          link: https://www.mun.ca/hr/careers/career.php?id=845
-- company: omega
-  jobs:
-    -
-      post_date: 2020-03-05
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.omega365.com/jobs/jobinfo/47864
-        - title: Programmer Analyst- GIS Support
-          link: https://www.omega365.com/jobs/jobinfo/47826
+          link: https://www.mun.ca/hr/careers/career.php?id=845z
 - company: verafin
   jobs:
     -
@@ -21,11 +28,6 @@
       jobs:
         - title: Cloud Automation Developer
           link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: Database Administrator
-          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
     -
       post_date: 2019-04-18
       jobs:
@@ -74,13 +76,6 @@
       jobs:
         - title: "Software Engineers/Developers (Entry and Senior Level)"
           link: "https://www.compusult.com/web/guest/careers"
-- company: johnson
-  jobs:
-    -
-      post_date: 2020-02-13
-      jobs:
-        - title: Developer, Customer Relationship Centre of Excellence
-          link: 'https://johnson.njoyn.com/cl2/xweb/Xweb.asp?tbtoken=Z11cRRgXCG4BZ3F0MVRQCFo%2FBhVEcFEpd0hYUC4FExYrKkJqUEAYcWR3BwkbVhJaS3YqWA%3D%3D&chk=ZVpaShw%3D&page=jobdetails&JobID=J0220-0108&BRID=254248'
 - company: radient
   jobs:
     -
@@ -106,13 +101,6 @@
           link: https://www.inspectar.com/careers/unity-developer
         - title: Engineering COOP Student
           link: https://www.inspectar.com/careers/engineering-coop-student
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: Software developer
-          indeed: 8f381a1eb41372b4
 - company: colab
   jobs:
     -

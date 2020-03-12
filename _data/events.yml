@@ -10,6 +10,10 @@
   start: "2020-03-18T19:00:00-03:30"
   url: https://www.eventbrite.ca/e/web-dev-101-workshop-registration-97416923641
 
+- title: "NDev + Mysa: Internet of Thermostats – Managing 1 Million Devices on AWS IoT"
+  start: "2020-03-26T19:00:00-03:30"
+  url: https://www.meetup.com/NDevMeetup/events/269231142/
+
 - title: "Kids Learning Code: Generative Art with Processing"
   start: "2020-05-31T13:00:00-03:30"
   url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-generative-art-with-processing/
@@ -23,9 +27,6 @@
 #  });
 #  console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2020-03-05T22:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcfbhb/
 - title: "Tech Project Evening and Meetup"
   start: "2020-03-12T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcfbqb/

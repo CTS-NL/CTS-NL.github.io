@@ -1,3 +1,29 @@
+- company: bullseyebranding
+  jobs:
+    -
+      post_date: 2020-03-19
+      jobs:
+        - title: WordPress Developer
+          link: https://www.bullseyebranding.ca/opportunities/
+- company: hatch
+  jobs:
+    -
+      post_date: 2020-03-19
+      jobs:
+        - title: Junior .Net Software Developer
+          link: https://www.localwork.ca/job/1013540/junior-net-software-developer/
+- company: genoa
+  jobs:
+    -
+      post_date: 2020-03-19
+      jobs:
+        - title: Software Developer/Coder
+          indeed: b2f79c4150498940
+    -
+      post_date: 2020-03-12
+      jobs:
+        - title: Programmer Analyst
+          indeed: 9854c5c8d5e3fdc0
 - company: totaliq
   jobs:
     -
@@ -7,20 +33,6 @@
           link: 'https://yourtotaliq.freshteam.com/jobs/KH7nEyUuNkwg/fall-work-term-full-stack-developer'
         - title: Full Stack Developer
           link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
-- company: genoa
-  jobs:
-    -
-      post_date: 2020-03-12
-      jobs:
-        - title: Programmer Analyst
-          indeed: 9854c5c8d5e3fdc0
-- company: mun
-  jobs:
-    -
-      post_date: 2020-03-05
-      jobs:
-        - title: Programmer Consultant
-          link: https://www.mun.ca/hr/careers/career.php?id=845z
 - company: verafin
   jobs:
     -
@@ -33,13 +45,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: celtx
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software QA Specialist
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPNlA5zDBUPVc
 - company: vision33
   jobs:
     -
@@ -53,24 +58,24 @@
       post_date: 2020-02-27
       jobs:
         - title: "Software Developer"
-          indeed: e38c0fbc6ef7d2e6
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
     -
       post_date: 2020-02-20
       jobs:
         - title: "Senior Embedded Developer"
-          indeed: 8e7ef606cf47c1c6
+          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
     -
       post_date: 2020-01-09
       jobs:
         - title: "QA Analyst"
-          indeed: "a9df069a22a97a56"
+          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: compusult
   jobs:
     -
       post_date: 2018-12-13
       jobs:
         - title: "Software Developer"
-          link: "https://www.ziprecruiter.com/jobs/compusult-limited-bfdc1320/software-developer-d9084894"
+          link: "https://www.compusult.com/web/guest/careers"
     -
       post_date: 2018-12-06
       jobs:
@@ -126,13 +131,6 @@
           link: "https://www.milkmoovement.com/careers/senior-developer"
         - title: "Junior Developer (Work Term) Spring 2020"
           link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
-- company: hatch
-  jobs:
-    -
-      post_date: 2019-12-19
-      jobs:
-        - title: "Junior .Net Software Developer"
-          link: "https://jobs.hatch.com/job/St_-John's-Junior-_Net-Software-Developer-NL/615258200"
 - company: mentic
   jobs:
     -
@@ -178,10 +176,3 @@
       jobs:
         - title: Experienced Software Developer (Fulltime)
           link: https://secure.collage.co/jobs/heyorca/11328
-- company: nlrt
-  jobs:
-    -
-      post_date: 2019-05-02
-      jobs:
-        - title: "IT Engineer"
-          link: "http://nlrt.ca/careers.html"

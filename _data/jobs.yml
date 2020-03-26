@@ -1,3 +1,19 @@
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2020-03-26
+      jobs:
+        - title: Senior Back-End Developer
+          link: https://www.careerbeacon.com/en/job/1628034/bluedrop-learning-networks/senior-back-end-developer/st-john-s
+        - title: Senior Front-End Developer
+          link: https://www.careerbeacon.com/en/job/1628036/bluedrop-learning-networks/senior-front-end-developer/st-john-s
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-03-26
+      jobs:
+        - title: Web Application Developer - Co-op term
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
 - company: bullseyebranding
   jobs:
     -
@@ -72,26 +88,10 @@
 - company: compusult
   jobs:
     -
-      post_date: 2018-12-13
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.compusult.com/web/guest/careers"
-    -
       post_date: 2018-12-06
       jobs:
         - title: "Software Engineers/Developers (Entry and Senior Level)"
           link: "https://www.compusult.com/web/guest/careers"
-- company: radient
-  jobs:
-    -
-      post_date: 2020-02-13
-      jobs:
-        - title: Senior Software Developer
-          indeed: d44b41a571f52272
-        - title: Intermediate Software Developer
-          indeed: ac82b2ec0fc5d20d
-        - title: Software Quality Assurance (QA) Specialist
-          indeed: 05ca3f1385ef0786
 - company: inspectar
   jobs:
     -
@@ -109,11 +109,6 @@
 - company: colab
   jobs:
     -
-      post_date: 2020-01-16
-      jobs:
-        - title: Senior Software Architect
-          link: https://colabsoftware.humi.ca/job-board/software+development/1582
-    -
       post_date: 2019-09-12
       jobs:
         - title: Security Analyst
@@ -122,15 +117,6 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1065
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-- company: milkmoovement
-  jobs:
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "Senior Developer"
-          link: "https://www.milkmoovement.com/careers/senior-developer"
-        - title: "Junior Developer (Work Term) Spring 2020"
-          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
 - company: mentic
   jobs:
     -

@@ -64,6 +64,9 @@ startupnl:
 stjohnsteachers:
   name: "St. John's Teacher Meetup"
   url: https://www.meetup.com/St-Johns-Teacher-Meetup/
+wcss:
+  name: Women CyberSecurity Society of St. John's
+  url: https://www.meetup.com/WCS2-St-Johns/
 wise:
   name: WISE Newfoundland and Labrador
   url: http://wisenl.ca/

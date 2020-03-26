@@ -1,22 +1,6 @@
-- title: "DesignNL: #1"
-  start: "2020-03-11T18:00:00-03:30"
-  url: https://www.eventbrite.ca/e/design-nl-1-tickets-97739229667
-
-- title: "RBar: Basic Statistics in R"
-  start: "2020-03-09T17:30:00-03:30"
-  url: https://www.eventbrite.ca/e/design-nl-1-tickets-97739229667
-
-- title: "Get Coding: Web Dev 101 Workshop"
-  start: "2020-03-18T19:00:00-03:30"
-  url: https://www.eventbrite.ca/e/web-dev-101-workshop-registration-97416923641
-
-- title: "NDev + Mysa: Internet of Thermostats – Managing 1 Million Devices on AWS IoT"
-  start: "2020-03-26T19:00:00-03:30"
-  url: https://www.meetup.com/NDevMeetup/events/269231142/
-
-- title: "Kids Learning Code: Generative Art with Processing"
-  start: "2020-05-31T13:00:00-03:30"
-  url: https://www.canadalearningcode.ca/experiences/st-johns-chapter-kids-learning-code-generative-art-with-processing/
+- title: "The Women CyberSecurity Society: Cybersecurity Conversations"
+  start: "2020-04-18T18:30:00-03:30"
+  url: https://www.meetup.com/WCS2-St-Johns/events/jhwrqrybcgbxb/
 
 #Auto load from Meetup with:
 #  var o = [];
@@ -27,12 +11,6 @@
 #  });
 #  console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2020-03-12T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcfbqb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-04-02T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbdb/
 - title: "Tech Project Evening and Meetup"
   start: "2020-04-09T21:30:00-03:30"
   url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbmb/

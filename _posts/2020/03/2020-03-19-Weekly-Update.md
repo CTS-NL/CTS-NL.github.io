@@ -32,7 +32,7 @@ x-talk:
 ---
 
 ## Upcoming Events
-Due to the COVID-19 outbreak, next weeks Project Night and Meetup has been cancelled.
+Due to the COVID-19 outbreak, next week's Project Night and Meetup has been cancelled.
 {% include events %}
 
 ## New Job Postings

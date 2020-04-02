@@ -1,3 +1,42 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2020-04-02
+      jobs:
+        - title: QA Software Release Tester
+          link: https://www.careerbeacon.com/en/job/1631382/verafin/qa-software-release-tester/st-john-s
+    -
+      post_date: 2020-03-05
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-04-02
+      jobs:
+        - title: "Software Support Specialist"
+          link: "https://jobs.lever.co/getmysa/050e0ee7-3182-4700-bef3-f6172cfa0069"
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "QA Analyst"
+          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: bluedrop
   jobs:
     -
@@ -21,13 +60,6 @@
       jobs:
         - title: WordPress Developer
           link: https://www.bullseyebranding.ca/opportunities/
-- company: hatch
-  jobs:
-    -
-      post_date: 2020-03-19
-      jobs:
-        - title: Junior .Net Software Developer
-          link: https://www.localwork.ca/job/1013540/junior-net-software-developer/
 - company: genoa
   jobs:
     -
@@ -49,18 +81,6 @@
           link: 'https://yourtotaliq.freshteam.com/jobs/KH7nEyUuNkwg/fall-work-term-full-stack-developer'
         - title: Full Stack Developer
           link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
-- company: verafin
-  jobs:
-    -
-      post_date: 2020-03-05
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: vision33
   jobs:
     -
@@ -68,23 +88,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-    -
-      post_date: 2020-02-20
-      jobs:
-        - title: "Senior Embedded Developer"
-          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: compusult
   jobs:
     -
@@ -124,13 +127,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: "Senior Cloud Engineer"
-          link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
 - company: kraken
   jobs:
     -

@@ -82,6 +82,9 @@ govnl:
 hatch:
   name: Hatch
   url: https://www.hatch.com
+hyke:
+  name: Hyke
+  url: https://hykeup.com/
 ici:
   name: ICI Innovations
   url: http://www.iciinnovations.com

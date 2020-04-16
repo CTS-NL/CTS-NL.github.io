@@ -1,3 +1,17 @@
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2020-04-16
+      jobs:
+        - title: Firmware Engineer
+          link: https://www.indeedjobs.com/breathesuite/jobs/bcd4e1d9ad8fd76ab413
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-04-16
+      jobs:
+        - title: Computer Software Engineer
+          link: https://www.careerbeacon.com/en/job/1633592/hyke-technologies-inc/computer-software-engineer/st-john-s
 - company: verafin
   jobs:
     -
@@ -53,13 +67,6 @@
       jobs:
         - title: Web Application Developer - Co-op term
           link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
-- company: bullseyebranding
-  jobs:
-    -
-      post_date: 2020-03-19
-      jobs:
-        - title: WordPress Developer
-          link: https://www.bullseyebranding.ca/opportunities/
 - company: genoa
   jobs:
     -
@@ -102,9 +109,6 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
-    -
-      post_date: 2020-01-30
-      jobs:
         - title: Unity Developer
           link: https://www.inspectar.com/careers/unity-developer
         - title: Engineering COOP Student

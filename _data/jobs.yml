@@ -1,3 +1,12 @@
+- company: compusult
+  jobs:
+    -
+      post_date: 2020-04-23
+      jobs:
+        - title: "Robotics Developer"
+          link: "https://www.compusult.com/web/guest/careers"
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
 - company: breathesuite
   jobs:
     -
@@ -14,16 +23,6 @@
           link: https://www.careerbeacon.com/en/job/1633592/hyke-technologies-inc/computer-software-engineer/st-john-s
 - company: verafin
   jobs:
-    -
-      post_date: 2020-04-02
-      jobs:
-        - title: QA Software Release Tester
-          link: https://www.careerbeacon.com/en/job/1631382/verafin/qa-software-release-tester/st-john-s
-    -
-      post_date: 2020-03-05
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
     -
       post_date: 2019-04-18
       jobs:
@@ -51,15 +50,6 @@
       jobs:
         - title: "QA Analyst"
           link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2020-03-26
-      jobs:
-        - title: Senior Back-End Developer
-          link: https://www.careerbeacon.com/en/job/1628034/bluedrop-learning-networks/senior-back-end-developer/st-john-s
-        - title: Senior Front-End Developer
-          link: https://www.careerbeacon.com/en/job/1628036/bluedrop-learning-networks/senior-front-end-developer/st-john-s
 - company: celtx
   jobs:
     -
@@ -95,13 +85,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: compusult
-  jobs:
-    -
-      post_date: 2018-12-06
-      jobs:
-        - title: "Software Engineers/Developers (Entry and Senior Level)"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: inspectar
   jobs:
     -

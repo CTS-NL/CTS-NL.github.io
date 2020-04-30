@@ -1,3 +1,40 @@
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: Software Developer / Software Engineer
+          link: https://hykeup.freshteam.com/jobs/Ub8uXaO8FDmR/software-developer-software-engineer
+        - title: Front End Developer
+          link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
+        - title: Mobile App Developer
+          link: https://hykeup.freshteam.com/jobs/Lx1QRtzn2HIJ/mobile-app-developer
+- company: qualiteas
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Junior Software Developer"
+          indeed: 98ab65cca54a641d
+- company: mentic
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.careerbeacon.com/en/job/1641678/kraken-robotic-systems-inc/software-developer/st-john-s"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
 - company: compusult
   jobs:
     -
@@ -14,13 +51,6 @@
       jobs:
         - title: Firmware Engineer
           link: https://www.indeedjobs.com/breathesuite/jobs/bcd4e1d9ad8fd76ab413
-- company: hyke
-  jobs:
-    -
-      post_date: 2020-04-16
-      jobs:
-        - title: Computer Software Engineer
-          link: https://www.careerbeacon.com/en/job/1633592/hyke-technologies-inc/computer-software-engineer/st-john-s
 - company: verafin
   jobs:
     -
@@ -107,25 +137,6 @@
           link: https://colabsoftware.humi.ca/job-board/software+development/1065
         - title: Integration Developer
           link: https://colabsoftware.humi.ca/job-board/software+development/1067
-- company: mentic
-  jobs:
-    -
-      post_date: 2019-11-28
-      jobs:
-        - title: "Web Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
-- company: kraken
-  jobs:
-    -
-      post_date: 2019-10-31
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
-    -
-      post_date: 2019-10-10
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
 - company: lemur
   jobs:
     -

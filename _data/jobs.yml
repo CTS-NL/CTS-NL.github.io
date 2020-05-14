@@ -1,3 +1,15 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2020-05-14
+      jobs:
+        - title: Business Software Developer
+          link: https://jobs.lever.co/verafin/a338d856-7640-4822-80d4-a9175527fb98
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: mysa
   jobs:
     -
@@ -30,8 +42,6 @@
     -
       post_date: 2020-04-30
       jobs:
-        - title: Software Developer / Software Engineer
-          link: https://hykeup.freshteam.com/jobs/Ub8uXaO8FDmR/software-developer-software-engineer
         - title: Front End Developer
           link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
         - title: Mobile App Developer
@@ -56,7 +66,7 @@
       post_date: 2020-04-30
       jobs:
         - title: "Software Developer"
-          link: "https://www.careerbeacon.com/en/job/1641678/kraken-robotic-systems-inc/software-developer/st-john-s"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
     -
       post_date: 2019-10-10
       jobs:
@@ -71,13 +81,6 @@
           link: "https://www.compusult.com/web/guest/careers"
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: celtx
   jobs:
     -
@@ -119,10 +122,6 @@
       jobs:
         - title: Security Analyst
           link: https://colabsoftware.humi.ca/job-board/software+development/1064
-        - title: Senior Backend Developer
-          link: https://colabsoftware.humi.ca/job-board/software+development/1065
-        - title: Integration Developer
-          link: https://colabsoftware.humi.ca/job-board/software+development/1067
 - company: lemur
   jobs:
     -

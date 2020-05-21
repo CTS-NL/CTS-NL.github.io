@@ -1,3 +1,22 @@
+- company: beaufort
+  jobs:
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Senior and Intermediate Software Developers
+          link: https://www.careerbeacon.com/en/job/1644310/beaufort-solutions/senior-and-intermediate-software-developers/st-john-s
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Intern Software Developer / Software Engineer
+          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: Front End Developer
+          link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
 - company: verafin
   jobs:
     -
@@ -37,22 +56,6 @@
       jobs:
         - title: "QA Analyst"
           link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
-- company: hyke
-  jobs:
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: Front End Developer
-          link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
-        - title: Mobile App Developer
-          link: https://hykeup.freshteam.com/jobs/Lx1QRtzn2HIJ/mobile-app-developer
-- company: qualiteas
-  jobs:
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Junior Software Developer"
-          indeed: 98ab65cca54a641d
 - company: mentic
   jobs:
     -

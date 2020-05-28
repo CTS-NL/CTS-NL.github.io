@@ -1,3 +1,26 @@
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-05-28
+      jobs:
+        - title: Software Developer CO-OP Student
+          link: https://www.inspectar.com/careers/software-developer-co-op-student
+        - title: QA Engineer CO-OP Student
+          link: https://www.inspectar.com/careers/qa-engineer-co-op-student
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/careers/c-sharp-developer
+        - title: Unity Developer
+          link: https://www.inspectar.com/careers/unity-developer
+- company: avalonholo
+  jobs:
+    -
+      post_date: 2020-05-28
+      jobs:
+        - title: Software Engineer
+          indeed: cc67d152c5b46369
 - company: beaufort
   jobs:
     -
@@ -37,11 +60,6 @@
         - title: "Remote Software Developer"
           link: "https://jobs.lever.co/getmysa/39856fec-2c99-495d-8f04-ec0bcb7aad80"
     -
-      post_date: 2020-04-02
-      jobs:
-        - title: "Software Support Specialist"
-          link: "https://jobs.lever.co/getmysa/050e0ee7-3182-4700-bef3-f6172cfa0069"
-    -
       post_date: 2020-02-27
       jobs:
         - title: "Software Developer"
@@ -51,11 +69,6 @@
       jobs:
         - title: "Senior Embedded Developer"
           link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
-    -
-      post_date: 2020-01-09
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: mentic
   jobs:
     -
@@ -107,17 +120,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: inspectar
-  jobs:
-    -
-      post_date: 2020-01-30
-      jobs:
-        - title: C# Developer
-          link: https://www.inspectar.com/careers/c-sharp-developer
-        - title: Unity Developer
-          link: https://www.inspectar.com/careers/unity-developer
-        - title: Engineering COOP Student
-          link: https://www.inspectar.com/careers/engineering-coop-student
 - company: colab
   jobs:
     -

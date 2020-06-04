@@ -1,5 +1,41 @@
+- company: compusult
+  jobs:
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: "Software Testing Specialist"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2020-04-23
+      jobs:
+        - title: "Robotics Developer"
+          link: "https://www.compusult.com/web/guest/careers"
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: "Remote Senior Embedded Developer"
+          link: "https://jobs.lever.co/getmysa/f817e592-1f3b-47e1-9035-8dec01f6cf55"
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
 - company: inspectar
   jobs:
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: Senior Unity Developer
+          link: https://www.inspectar.com/careers/sr-unity-developer
     -
       post_date: 2020-05-28
       jobs:
@@ -12,8 +48,6 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
-        - title: Unity Developer
-          link: https://www.inspectar.com/careers/unity-developer
 - company: avalonholo
   jobs:
     -
@@ -52,23 +86,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-05-07
-      jobs:
-        - title: "Remote Software Developer"
-          link: "https://jobs.lever.co/getmysa/39856fec-2c99-495d-8f04-ec0bcb7aad80"
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-    -
-      post_date: 2020-02-20
-      jobs:
-        - title: "Senior Embedded Developer"
-          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
 - company: mentic
   jobs:
     -
@@ -88,15 +105,6 @@
       jobs:
         - title: "Computer Vision Engineer"
           link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
-- company: compusult
-  jobs:
-    -
-      post_date: 2020-04-23
-      jobs:
-        - title: "Robotics Developer"
-          link: "https://www.compusult.com/web/guest/careers"
-        - title: "Software Developers"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: celtx
   jobs:
     -

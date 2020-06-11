@@ -9,7 +9,7 @@ categories:
     - news
 
 jobs:
-- company: whalecompany
+- company: heyorca
   jobs:
     - title: Software Engineer
       link: https://www.workopolis.com/jobsearch/viewjob/zpC11ww-l6bBlH8lHsOgMNeaaTJb92NIpQktqANCFgHiYfc3p2UDgQ

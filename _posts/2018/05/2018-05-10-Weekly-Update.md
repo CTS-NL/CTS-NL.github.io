@@ -76,6 +76,6 @@ View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!
 [triware]:http://triware.ca/
 [verafin]:https://verafin.com
 [wekaplex]:http://www.wekaplex.com/
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [wood]:https://www.woodplc.com
 [zedit]:http://www.zedit.com/

@@ -82,6 +82,9 @@ govnl:
 hatch:
   name: Hatch
   url: https://www.hatch.com
+heyorca:
+  name: HeyOrca
+  url: https://www.heyorca.com/
 hyke:
   name: Hyke
   url: https://hykeup.com/
@@ -243,9 +246,6 @@ wekaplex:
 waterwerks:
   name: "WaterWerks Communications"
   url: 'https://waterwerkscommunications.com/'
-whalecompany:
-  name: HeyOrca
-  url: https://www.heyorca.com/
 whiterock:
   name: "White Rock Consulting & Communications"
   url: http://www.whiterocknl.com

@@ -17,7 +17,7 @@ jobs:
   jobs:
     - title: Intermediate Software Developers
       link: https://www.workopolis.com/jobsearch/viewjob/KiB7e6YTUJUveUusnk5vLK2aE_4U-qcBYxk1H4njbnFxPX0HNWXzgw
-- company: whalecompany
+- company: heyorca
   jobs:
     - title: Software Developer (Coop)
       link: https://www.workopolis.com/jobsearch/viewjob/kr_m61N82uihQSj_y1iklEfixDd7nrFWcrqHxARSLawGifeIuKsr2w

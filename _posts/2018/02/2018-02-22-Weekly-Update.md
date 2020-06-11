@@ -23,7 +23,7 @@ categories:
 
 ## New Job Postings
 
-* [HeyOrca][whalecompany] is looking for a [Senior UX Designer](https://jobs.careerbeacon.com/details/senior-ux-designer/1099612) and a [Experienced Software Developer](https://jobs.careerbeacon.com/details/experienced-software-developer/590925).
+* [HeyOrca][heyorca] is looking for a [Senior UX Designer](https://jobs.careerbeacon.com/details/senior-ux-designer/1099612) and a [Experienced Software Developer](https://jobs.careerbeacon.com/details/experienced-software-developer/590925).
 * [Verafin][verafin] is looking for a [Technical Support Specialist](https://www.careerbeacon.com/en/posting/729868/verafin/technical-support-specialist/st-john-s).
 
 View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!
@@ -51,7 +51,7 @@ View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!
 [radient]:http://radient360.com/
 [subc]:http://subcimaging.com/
 [verafin]:https://verafin.com
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [zedit]:http://www.zedit.com/
 [nlchi]:https://www.nlchi.nl.ca/
 [triware]:http://triware.ca/

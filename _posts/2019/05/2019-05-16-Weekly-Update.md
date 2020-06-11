@@ -21,7 +21,7 @@ jobs:
   jobs:
     - title: "Junior Full Stack Developer"
       link: "https://www.workopolis.com/jobsearch/viewjob/qNA-LvHfuM75qEG7AzkhDr1JQEJ5ybHAoXDEEtKVe1UU7A5z46fsgw"
-- company: whalecompany
+- company: heyorca
   jobs:
     - title: Software Quality Assurance Engineer (Co-op)
       link: https://www.workopolis.com/jobsearch/viewjob/qwdh-7R00ftjVN_C8iVFdPdfTgNTtsWqQcSKgCGXRheTOrFDsHIR_Q

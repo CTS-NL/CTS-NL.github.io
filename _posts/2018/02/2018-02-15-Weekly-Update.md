@@ -53,7 +53,7 @@ View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!
 [radient]:http://radient360.com/
 [subc]:http://subcimaging.com/
 [verafin]:https://verafin.com
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [zedit]:http://www.zedit.com/
 [nlchi]:https://www.nlchi.nl.ca/
 [triware]:http://triware.ca/

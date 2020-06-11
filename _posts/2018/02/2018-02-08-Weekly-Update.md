@@ -47,5 +47,5 @@ categories:
 [radient]:http://radient360.com/
 [subc]:http://subcimaging.com/
 [verafin]:https://verafin.com
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [zedit]:http://www.zedit.com/

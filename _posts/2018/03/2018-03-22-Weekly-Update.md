@@ -59,5 +59,5 @@ View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!
 [subc]:http://subcimaging.com/
 [triware]:http://triware.ca/
 [verafin]:https://verafin.com
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [zedit]:http://www.zedit.com/

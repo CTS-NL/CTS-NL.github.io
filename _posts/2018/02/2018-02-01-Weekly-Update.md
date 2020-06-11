@@ -20,7 +20,7 @@ categories:
 
 ## Jobs
 
-* [HeyOrca][whalecompany] is looking for a [Software Quality Assurance Specialist](https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219)
+* [HeyOrca][heyorca] is looking for a [Software Quality Assurance Specialist](https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219)
 and a [Full-Stack Web Developer](https://jobs.careerbeacon.com/details/fullstack-web-developer/590925).
 * [Wood Group](https://www.woodgroup.com/) is looking for a [Software Configuration Administrator / Data Manager](https://www.workopolis.com/jobsearch/job/17933675?uc=E8&sc=3.5111&sp=1).
 * [Provident10][provident] is looking for a [Data Analyst](https://www.careerbeacon.com/en/posting/724772/provident10/data-analyst/st-john-s).
@@ -39,7 +39,7 @@ and a [Network Services Technical Specialist](https://www.careerbeacon.com/en/po
 [hackinghealth]:https://www.facebook.com/HHStJohnsNL/
 [gamedevnl]:http://gamedevnl.org
 
-[whalecompany]:https://www.heyorca.com/
+[heyorca]:https://www.heyorca.com/
 [bluedrop]:http://www.bluedroplearningnetworks.com/
 [chummy]:https://chummygames.com
 [colab]:https://www.colabsoftware.com/

@@ -73,6 +73,9 @@ focus:
 fugro:
   name: Fugro
   url: https://www.fugro.com/
+fytics:
+  name: Fytics
+  url: http://fytics.com/
 genoa:
   name: Genoa Design International
   url: http://genoadesign.com/
@@ -209,9 +212,9 @@ robustic:
 rutter:
   name: Rutter
   url: http://www.rutter.ca/
-fytics:
-  name: Fytics
-  url: http://fytics.com/
+sequencebio:
+  name: Sequence Bio
+  url: https://www.sequencebio.com/
 skyhawk:
   name: SkyHawk Telematics
   url: http://skyhawktelematics.com/

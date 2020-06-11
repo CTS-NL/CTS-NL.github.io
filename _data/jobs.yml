@@ -1,3 +1,31 @@
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Application Developer"
+          link: "https://www.sequencebio.com/careers"
+        - title: "Cloud Developer"
+          link: "https://www.sequencebio.com/careers"
+- company: quorum
+  jobs:
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "JR Front-End Web Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=364315&lang=en_CA&source=TW"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
 - company: compusult
   jobs:
     -
@@ -93,18 +121,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
-- company: kraken
-  jobs:
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-    -
-      post_date: 2019-10-10
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
 - company: celtx
   jobs:
     -

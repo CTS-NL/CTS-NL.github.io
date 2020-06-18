@@ -1,3 +1,21 @@
+- company: milkmoovement
+  jobs:
+    -
+      post_date: 2020-06-18
+      jobs:
+        - title: "Mobile Developer (React Native)"
+          link: "https://www.milkmoovement.com/careers/mobile-developer-react-native"
+        - title: "Junior Front-End Developer"
+          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
+        - title: "Junior Developer (Work Term) Fall 2020"
+          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
+- company: metricsflow
+  jobs:
+    -
+      post_date: 2020-06-18
+      jobs:
+        - title: "Software Developer"
+          indeed: "2752cd2af0f90e63"
 - company: sequencebio
   jobs:
     -
@@ -102,18 +120,6 @@
       jobs:
         - title: Front End Developer
           link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
-- company: verafin
-  jobs:
-    -
-      post_date: 2020-05-14
-      jobs:
-        - title: Business Software Developer
-          link: https://jobs.lever.co/verafin/a338d856-7640-4822-80d4-a9175527fb98
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: mentic
   jobs:
     -
@@ -121,13 +127,13 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
-- company: celtx
+- company: verafin
   jobs:
     -
-      post_date: 2020-03-26
+      post_date: 2019-04-18
       jobs:
-        - title: Web Application Developer - Co-op term
-          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: totaliq
   jobs:
     -

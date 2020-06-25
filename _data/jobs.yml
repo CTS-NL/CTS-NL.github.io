@@ -54,17 +54,10 @@
     -
       post_date: 2020-04-23
       jobs:
-        - title: "Robotics Developer"
-          link: "https://www.compusult.com/web/guest/careers"
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: mysa
   jobs:
-    -
-      post_date: 2020-06-04
-      jobs:
-        - title: "Remote Senior Embedded Developer"
-          link: "https://jobs.lever.co/getmysa/f817e592-1f3b-47e1-9035-8dec01f6cf55"
     -
       post_date: 2020-02-27
       jobs:
@@ -94,20 +87,6 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
-- company: avalonholo
-  jobs:
-    -
-      post_date: 2020-05-28
-      jobs:
-        - title: Software Engineer
-          indeed: cc67d152c5b46369
-- company: beaufort
-  jobs:
-    -
-      post_date: 2020-05-21
-      jobs:
-        - title: Senior and Intermediate Software Developers
-          link: https://www.careerbeacon.com/en/job/1644310/beaufort-solutions/senior-and-intermediate-software-developers/st-john-s
 - company: hyke
   jobs:
     -
@@ -118,7 +97,7 @@
     -
       post_date: 2020-04-30
       jobs:
-        - title: Front End Developer
+        - title: Intern Front End Developer
           link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
 - company: mentic
   jobs:

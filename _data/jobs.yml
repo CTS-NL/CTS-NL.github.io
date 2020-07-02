@@ -1,3 +1,10 @@
+- company: oliverpos
+  jobs:
+    -
+      post_date: 2020-07-02
+      jobs:
+        - title: "Lead UI/UX Developer"
+          indeed: "2d0319495ce57cc4"
 - company: milkmoovement
   jobs:
     -
@@ -25,13 +32,6 @@
           link: "https://www.sequencebio.com/careers"
         - title: "Cloud Developer"
           link: "https://www.sequencebio.com/careers"
-- company: quorum
-  jobs:
-    -
-      post_date: 2020-06-11
-      jobs:
-        - title: "JR Front-End Web Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=364315&lang=en_CA&source=TW"
 - company: kraken
   jobs:
     -
@@ -63,11 +63,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-    -
-      post_date: 2020-02-20
-      jobs:
-        - title: "Senior Embedded Developer"
-          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
 - company: inspectar
   jobs:
     -
@@ -129,13 +124,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: colab
-  jobs:
-    -
-      post_date: 2019-09-12
-      jobs:
-        - title: Security Analyst
-          link: https://colabsoftware.humi.ca/job-board/software+development/1064
 - company: lemur
   jobs:
     -

@@ -1,3 +1,17 @@
+- company: avalonholo
+  jobs:
+    -
+      post_date: 2020-07-09
+      jobs:
+        - title: "Software Engineer"
+          link: "https://www.avalonholographics.com/careers"
+- company: ccore
+  jobs:
+    -
+      post_date: 2020-07-09
+      jobs:
+        - title: "Software Systems Engineer"
+          indeed: "3b1f58520a071f7b"
 - company: oliverpos
   jobs:
     -
@@ -136,10 +150,3 @@
       jobs:
         - title: "Software Developer / Engineer"
           link: https://www.bluedriver.com/about-us/careers
-- company: heyorca
-  jobs:
-    -
-      post_date: 2018-05-16
-      jobs:
-        - title: Experienced Software Developer (Fulltime)
-          link: https://secure.collage.co/jobs/heyorca/11328

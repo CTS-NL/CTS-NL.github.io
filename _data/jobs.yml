@@ -1,3 +1,10 @@
+- company: avalonholo
+  jobs:
+    -
+      post_date: 2020-07-23
+      jobs:
+        - title: "Software Engineer"
+          link: "https://www.avalonholographics.com/careers"
 - company: ccore
   jobs:
     -
@@ -23,13 +30,6 @@
           link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
         - title: "Junior Developer (Work Term) Fall 2020"
           link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
-- company: metricsflow
-  jobs:
-    -
-      post_date: 2020-06-18
-      jobs:
-        - title: "Software Developer"
-          indeed: "2752cd2af0f90e63"
 - company: sequencebio
   jobs:
     -

@@ -1,3 +1,38 @@
+- company: quorum
+  jobs:
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Junior Developer"
+          link: 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645'
+- company: focus
+  jobs:
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Software Developers"
+          indeed: cc7f978664d2dadd
+- company: govnl
+  jobs:
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Computer Programmer Analyst"
+          link: "https://www.careerbeacon.com/en/job/1656982/government-of-newfoundland-and-labrador/computer-programmer-analyst/st-john-s"
+- company: colab
+  jobs:
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Full Stack Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Software Engineer"
+          link: "https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s"
 - company: avalonholo
   jobs:
     -
@@ -5,20 +40,6 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.avalonholographics.com/careers"
-- company: ccore
-  jobs:
-    -
-      post_date: 2020-07-09
-      jobs:
-        - title: "Software Systems Engineer"
-          indeed: "3b1f58520a071f7b"
-- company: oliverpos
-  jobs:
-    -
-      post_date: 2020-07-02
-      jobs:
-        - title: "Lead UI/UX Developer"
-          indeed: "2d0319495ce57cc4"
 - company: milkmoovement
   jobs:
     -

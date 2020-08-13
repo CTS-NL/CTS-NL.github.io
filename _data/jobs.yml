@@ -1,3 +1,40 @@
+- company: verafin
+  jobs:
+    - post_date: 2020-08-13
+      jobs:
+        - title: Security Engineer
+          link: https://jobs.lever.co/verafin/99043fc5-beff-4961-950f-f58c1580e8d0
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2020-08-13
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000076696"
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-08-13
+      jobs:
+        - title: "QA Analyst"
+          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+- company: metricsflow
+  jobs:
+    -
+      post_date: 2020-08-13
+      jobs:
+        - title: "Front End UI Developer"
+          indeed: '2facd7a0241625d1'
 - company: quorum
   jobs:
     -
@@ -12,13 +49,6 @@
       jobs:
         - title: "Software Developers"
           indeed: cc7f978664d2dadd
-- company: govnl
-  jobs:
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Computer Programmer Analyst"
-          link: "https://www.careerbeacon.com/en/job/1656982/government-of-newfoundland-and-labrador/computer-programmer-analyst/st-john-s"
 - company: colab
   jobs:
     -
@@ -84,13 +114,6 @@
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
 - company: inspectar
   jobs:
     -
@@ -129,13 +152,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: totaliq
   jobs:
     -

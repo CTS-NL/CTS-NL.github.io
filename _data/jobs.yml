@@ -1,3 +1,47 @@
+- company: rutter
+  jobs:
+    -
+      post_date: 2020-08-20
+      jobs:
+        - title: "Software Developer"
+          indeed: 23f9d93698de5b79
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-08-20
+      jobs:
+        - title: "Data Scientist"
+          link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1372422"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-08-20
+      jobs:
+        - title: "Data Processor/Tester"
+          link: "https://www.careerbeacon.com/en/job/1659206/kraken-robotic-systems-inc/data-processor-tester/mount-pearl"
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
+- company: milkmoovement
+  jobs:
+    - post_date: 2020-08-20
+      jobs:
+        - title: "Mobile Developer (React Native)"
+          link: "https://www.careerbeacon.com/en/job/1659394/milk-moovement/mobile-developer-react-native/st-john-s"
+    -
+      post_date: 2020-06-18
+      jobs:
+        - title: "Junior Front-End Developer"
+          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
+        - title: "Junior Developer (Work Term) Fall 2020"
+          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
 - company: verafin
   jobs:
     - post_date: 2020-08-13
@@ -9,13 +53,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: easternhealth
-  jobs:
-    -
-      post_date: 2020-08-13
-      jobs:
-        - title: "Computer Programmer/Analyst"
-          link: "https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000076696"
 - company: mysa
   jobs:
     -
@@ -42,13 +79,6 @@
       jobs:
         - title: "Junior Developer"
           link: 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645'
-- company: focus
-  jobs:
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Software Developers"
-          indeed: cc7f978664d2dadd
 - company: colab
   jobs:
     -
@@ -70,17 +100,6 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.avalonholographics.com/careers"
-- company: milkmoovement
-  jobs:
-    -
-      post_date: 2020-06-18
-      jobs:
-        - title: "Mobile Developer (React Native)"
-          link: "https://www.milkmoovement.com/careers/mobile-developer-react-native"
-        - title: "Junior Front-End Developer"
-          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
-        - title: "Junior Developer (Work Term) Fall 2020"
-          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
 - company: sequencebio
   jobs:
     -
@@ -90,18 +109,6 @@
           link: "https://www.sequencebio.com/careers"
         - title: "Cloud Developer"
           link: "https://www.sequencebio.com/careers"
-- company: kraken
-  jobs:
-    -
-      post_date: 2020-06-11
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
 - company: compusult
   jobs:
     -

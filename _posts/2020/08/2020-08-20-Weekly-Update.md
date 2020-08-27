@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Weekly Digest - Week 33 - 2020"
+title: "Weekly Digest - Week 34 - 2020"
 teaser: "The weekly computer technology digest Aug 14 - 20, 2020"
 header:
     image: "logo.png"

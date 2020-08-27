@@ -1,3 +1,17 @@
+- company: mentic
+  jobs:
+    -
+      post_date: 2020-08-27
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32872226"
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-08-27
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32864934"
 - company: rutter
   jobs:
     -
@@ -86,13 +100,6 @@
       jobs:
         - title: "Full Stack Developer"
           link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Software Engineer"
-          link: "https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s"
 - company: avalonholo
   jobs:
     -
@@ -152,13 +159,6 @@
       jobs:
         - title: Intern Front End Developer
           link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
-- company: mentic
-  jobs:
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Web Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
 - company: totaliq
   jobs:
     -

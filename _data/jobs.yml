@@ -1,3 +1,34 @@
+- company: govnl
+  jobs:
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Computer Programmer"
+          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/22930"
+- company: cabotbusiness
+  jobs:
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Computer Programmer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32902580"
+- company: breathesuite
+  jobs:
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.indeedjobs.com/breathesuite/jobs/4d20e2da8e81534bb6b5"
+- company: mysa
+  jobs:
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Software Developer (App)"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+        - title: "Software Developer (DevOps)"
+          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
+    -
+      post_date: 2020-08-13
+      jobs:
+        - title: "QA Analyst"
+          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: mentic
   jobs:
     -
@@ -43,19 +74,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: milkmoovement
-  jobs:
-    - post_date: 2020-08-20
-      jobs:
-        - title: "Mobile Developer (React Native)"
-          link: "https://www.careerbeacon.com/en/job/1659394/milk-moovement/mobile-developer-react-native/st-john-s"
-    -
-      post_date: 2020-06-18
-      jobs:
-        - title: "Junior Front-End Developer"
-          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
-        - title: "Junior Developer (Work Term) Fall 2020"
-          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
 - company: verafin
   jobs:
     - post_date: 2020-08-13
@@ -67,32 +85,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: mysa
-  jobs:
-    -
-      post_date: 2020-08-13
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-- company: metricsflow
-  jobs:
-    -
-      post_date: 2020-08-13
-      jobs:
-        - title: "Front End UI Developer"
-          indeed: '2facd7a0241625d1'
-- company: quorum
-  jobs:
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Junior Developer"
-          link: 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645'
 - company: colab
   jobs:
     -
@@ -107,6 +99,15 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.avalonholographics.com/careers"
+- company: milkmoovement
+  jobs:
+    -
+      post_date: 2020-06-18
+      jobs:
+        - title: "Junior Front-End Developer"
+          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
+        - title: "Junior Developer (Work Term) Fall 2020"
+          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
 - company: sequencebio
   jobs:
     -

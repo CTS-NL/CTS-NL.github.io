@@ -1,3 +1,55 @@
+- company: quorum
+  jobs:
+    -
+      post_date: 2020-09-10
+      jobs:
+        - title: "Junior Front-End Web Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=371864"
+- company: milkmoovement
+  jobs:
+    -
+      post_date: 2020-09-10
+      jobs:
+        - title: "Mobile Developer - React Native - Remote"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/ievzjUHDENpC/mobile-developer-react-native-remote"
+        - title: "Junior Front-End Developer - Remote"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/cgS72zqxhF3Y/junior-front-end-developer-remote"
+        - title: "Junior Developer (Work Term) Winter 2020 - Remote"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/gxjTffK2TblJ/junior-developer-work-term-winter-2020-remote"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-09-10
+      jobs:
+        - title: "Software Developer - Vision Systems"
+          link: "https://www.careerbeacon.com/en/job/1662372/kraken-robotic-systems-inc/software-developer-vision-systems/mount-pearl"
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
+- company: mysa
+  jobs:
+    - post_date: 2020-09-10
+      jobs:
+        - title: "Cybersecurity Specialist"
+          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Software Developer (App)"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+        - title: "Software Developer (DevOps)"
+          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
+    -
+      post_date: 2020-08-13
+      jobs:
+        - title: "QA Analyst"
+          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: govnl
   jobs:
     - post_date: 2020-09-04
@@ -16,19 +68,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.indeedjobs.com/breathesuite/jobs/4d20e2da8e81534bb6b5"
-- company: mysa
-  jobs:
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Software Developer (App)"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-        - title: "Software Developer (DevOps)"
-          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
-    -
-      post_date: 2020-08-13
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
 - company: mentic
   jobs:
     -
@@ -57,23 +96,6 @@
       jobs:
         - title: "Data Scientist"
           link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1372422"
-- company: kraken
-  jobs:
-    -
-      post_date: 2020-08-20
-      jobs:
-        - title: "Data Processor/Tester"
-          link: "https://www.careerbeacon.com/en/job/1659206/kraken-robotic-systems-inc/data-processor-tester/mount-pearl"
-    -
-      post_date: 2020-06-11
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
 - company: verafin
   jobs:
     - post_date: 2020-08-13
@@ -99,15 +121,6 @@
       jobs:
         - title: "Software Engineer"
           link: "https://www.avalonholographics.com/careers"
-- company: milkmoovement
-  jobs:
-    -
-      post_date: 2020-06-18
-      jobs:
-        - title: "Junior Front-End Developer"
-          link: "https://www.milkmoovement.com/careers/junior-front-end-developer"
-        - title: "Junior Developer (Work Term) Fall 2020"
-          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-fall-2020"
 - company: sequencebio
   jobs:
     -

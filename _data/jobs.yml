@@ -1,3 +1,17 @@
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2020-09-17
+      jobs:
+        - title: "Senior DevOps Engineer"
+          link: "https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s"
+- company: beaufort
+  jobs:
+    -
+      post_date: 2020-09-17
+      jobs:
+        - title: "Senior/Intermediate Software Developers"
+          link: "https://www.careerbeacon.com/en/job/1662999/beaufort-solutions/senior-intermediate-software-developers/st-john-s"
 - company: quorum
   jobs:
     -
@@ -45,29 +59,12 @@
           link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
         - title: "Software Developer (DevOps)"
           link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
-    -
-      post_date: 2020-08-13
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/6fc97dca-a2c3-4aa8-ac61-655366604738"
-- company: govnl
-  jobs:
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Computer Programmer"
-          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/22930"
 - company: cabotbusiness
   jobs:
     - post_date: 2020-09-04
       jobs:
         - title: "Computer Programmer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32902580"
-- company: breathesuite
-  jobs:
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.indeedjobs.com/breathesuite/jobs/4d20e2da8e81534bb6b5"
 - company: mentic
   jobs:
     -
@@ -75,20 +72,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32872226"
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2020-08-27
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32864934"
-- company: rutter
-  jobs:
-    -
-      post_date: 2020-08-20
-      jobs:
-        - title: "Software Developer"
-          indeed: 23f9d93698de5b79
 - company: celtx
   jobs:
     -
@@ -96,17 +79,6 @@
       jobs:
         - title: "Data Scientist"
           link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1372422"
-- company: verafin
-  jobs:
-    - post_date: 2020-08-13
-      jobs:
-        - title: Security Engineer
-          link: https://jobs.lever.co/verafin/99043fc5-beff-4961-950f-f58c1580e8d0
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: colab
   jobs:
     -
@@ -178,8 +150,6 @@
     -
       post_date: 2020-03-12
       jobs:
-        - title: Fall Work Term Full Stack Developer
-          link: 'https://yourtotaliq.freshteam.com/jobs/KH7nEyUuNkwg/fall-work-term-full-stack-developer'
         - title: Full Stack Developer
           link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
 - company: vision33
@@ -189,6 +159,13 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: lemur
   jobs:
     -

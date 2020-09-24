@@ -1,3 +1,50 @@
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Robotic Process Automation Developer"
+          link: "https://jobs.smartrecruiters.com/Inmarsat/743999720274525-robotic-process-automation-rpa-developer"
+- company: arcticeider
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Arctic Eider Society"
+          indeed: 00b25d9d9a2e0454
+- company: metricsflow
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Salesforce Developer"
+          indeed: 29a002ffbb32979f
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33023600"
+- company: creativemaple
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33049879"
+- company: quorum
+  jobs:
+    -
+      post_date: 2020-09-24
+      jobs:
+        - title: "Junior Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
+    -
+      post_date: 2020-09-10
+      jobs:
+        - title: "Junior Front-End Web Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=371864"
 - company: bluedrop
   jobs:
     -
@@ -5,27 +52,11 @@
       jobs:
         - title: "Senior DevOps Engineer"
           link: "https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s"
-- company: beaufort
-  jobs:
-    -
-      post_date: 2020-09-17
-      jobs:
-        - title: "Senior/Intermediate Software Developers"
-          link: "https://www.careerbeacon.com/en/job/1662999/beaufort-solutions/senior-intermediate-software-developers/st-john-s"
-- company: quorum
-  jobs:
-    -
-      post_date: 2020-09-10
-      jobs:
-        - title: "Junior Front-End Web Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=371864"
 - company: milkmoovement
   jobs:
     -
       post_date: 2020-09-10
       jobs:
-        - title: "Mobile Developer - React Native - Remote"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/ievzjUHDENpC/mobile-developer-react-native-remote"
         - title: "Junior Front-End Developer - Remote"
           link: "https://milkmoovement-talent.freshteam.com/jobs/cgS72zqxhF3Y/junior-front-end-developer-remote"
         - title: "Junior Developer (Work Term) Winter 2020 - Remote"
@@ -72,13 +103,6 @@
       jobs:
         - title: "Web Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32872226"
-- company: celtx
-  jobs:
-    -
-      post_date: 2020-08-20
-      jobs:
-        - title: "Data Scientist"
-          link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1372422"
 - company: colab
   jobs:
     -
@@ -86,13 +110,6 @@
       jobs:
         - title: "Full Stack Developer"
           link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
-- company: avalonholo
-  jobs:
-    -
-      post_date: 2020-07-23
-      jobs:
-        - title: "Software Engineer"
-          link: "https://www.avalonholographics.com/careers"
 - company: sequencebio
   jobs:
     -

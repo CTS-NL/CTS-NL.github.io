@@ -10,7 +10,7 @@
     -
       post_date: 2020-09-24
       jobs:
-        - title: "Arctic Eider Society"
+        - title: "Senior Software Developer (Remote)"
           indeed: 00b25d9d9a2e0454
 - company: metricsflow
   jobs:
@@ -40,11 +40,6 @@
       jobs:
         - title: "Junior Developer"
           link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
-    -
-      post_date: 2020-09-10
-      jobs:
-        - title: "Junior Front-End Web Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=371864"
 - company: bluedrop
   jobs:
     -
@@ -57,8 +52,6 @@
     -
       post_date: 2020-09-10
       jobs:
-        - title: "Junior Front-End Developer - Remote"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/cgS72zqxhF3Y/junior-front-end-developer-remote"
         - title: "Junior Developer (Work Term) Winter 2020 - Remote"
           link: "https://milkmoovement-talent.freshteam.com/jobs/gxjTffK2TblJ/junior-developer-work-term-winter-2020-remote"
 - company: kraken
@@ -118,7 +111,7 @@
         - title: "Application Developer"
           link: "https://www.sequencebio.com/careers"
         - title: "Cloud Developer"
-          link: "https://www.sequencebio.com/careers"
+          link: "https://sequencebio.bamboohr.com/jobs/view.php?id=23"
 - company: compusult
   jobs:
     -
@@ -157,11 +150,6 @@
       jobs:
         - title: Intern Software Developer / Software Engineer
           link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: Intern Front End Developer
-          link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
 - company: totaliq
   jobs:
     -

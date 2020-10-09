@@ -1,3 +1,54 @@
+- company: genoa
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Developer
+          indeed: 29ebc7fb202c3d27
+        - title: Junior Software Developer
+          indeed: 7b1290c35a68f741
+- company: mariner
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
+        - title: Senior System Programmer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999721366740-senior-system-programmer-racf-and-acf2
+- company: rayagency
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Back-end Web Developer
+          link: https://rayagency.ca/careers-back-end-dev/
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/33108968
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13754519-Senior-Software-Developer-General-Application-Open-Location
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: heyorca
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: "Experienced Software Developer (Fulltime) - Remote"
+          link: "https://secure.collage.co/jobs/heyorca/11328"
 - company: inmarsat
   jobs:
     -
@@ -19,13 +70,6 @@
       jobs:
         - title: "Salesforce Developer"
           indeed: 29a002ffbb32979f
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2020-09-24
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33023600"
 - company: creativemaple
   jobs:
     -
@@ -40,20 +84,6 @@
       jobs:
         - title: "Junior Developer"
           link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2020-09-17
-      jobs:
-        - title: "Senior DevOps Engineer"
-          link: "https://www.careerbeacon.com/en/job/1565570/bluedrop-learning-networks/senior-devops-engineer/st-john-s"
-- company: milkmoovement
-  jobs:
-    -
-      post_date: 2020-09-10
-      jobs:
-        - title: "Junior Developer (Work Term) Winter 2020 - Remote"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/gxjTffK2TblJ/junior-developer-work-term-winter-2020-remote"
 - company: kraken
   jobs:
     -
@@ -89,13 +119,6 @@
       jobs:
         - title: "Computer Programmer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32902580"
-- company: mentic
-  jobs:
-    -
-      post_date: 2020-08-27
-      jobs:
-        - title: "Web Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32872226"
 - company: colab
   jobs:
     -
@@ -157,13 +180,6 @@
       jobs:
         - title: Full Stack Developer
           link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
-- company: vision33
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: verafin
   jobs:
     -

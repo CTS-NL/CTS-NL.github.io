@@ -1,3 +1,88 @@
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
+- company: mysa
+  jobs:
+    - post_date: 2020-10-15
+      jobs:
+        - title: "Embedded Software Developer"
+          link: "https://www.careerbeacon.com/en/job/1667669/mysa-smart-thermostat/embedded-software-developer/st-john-s"
+        - title: "Software Developer (DevOps)"
+          link: "https://www.careerbeacon.com/en/job/1668259/mysa-smart-thermostat/software-developer-devops/st-john-s"
+    - post_date: 2020-09-10
+      jobs:
+        - title: "Cybersecurity Specialist"
+          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
+    - post_date: 2020-09-04
+      jobs:
+        - title: "Embedded Software Developer"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: Software Developer / Software Engineer - Winter 2021
+          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer-winter-2021
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Intern Software Developer / Software Engineer
+          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
+- company: totaliq
+  jobs:
+    - post_date: 2020-10-15
+      jobs:
+        - title: 'Full Stack Developer (ML/Data Science/AI Focus) (Remote)'
+          link: 'https://yourtotaliq.freshteam.com/jobs/dZH1CBRSK5Gk/full-stack-developer-ml-data-science-ai-focus-remote'
+    -
+      post_date: 2020-03-12
+      jobs:
+        - title: Full Stack Developer
+          link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
+- company: colab
+  jobs:
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "DevSecOps-Cloud Security Specialist"
+          link: "https://colabsoftware.humi.ca/job-board/security/2788"
+        - title: "Integration Specialist"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
+    -
+      post_date: 2020-07-30
+      jobs:
+        - title: "Full Stack Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "Software Developer – Underwater Vehicle Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1668297"
+        - title: "Software Developer - Vision Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1662372"
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
+- company: quorum
+  jobs:
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "Junior Developer"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
 - company: genoa
   jobs:
     -
@@ -70,62 +155,6 @@
       jobs:
         - title: "Salesforce Developer"
           indeed: 29a002ffbb32979f
-- company: creativemaple
-  jobs:
-    -
-      post_date: 2020-09-24
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33049879"
-- company: quorum
-  jobs:
-    -
-      post_date: 2020-09-24
-      jobs:
-        - title: "Junior Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
-- company: kraken
-  jobs:
-    -
-      post_date: 2020-09-10
-      jobs:
-        - title: "Software Developer - Vision Systems"
-          link: "https://www.careerbeacon.com/en/job/1662372/kraken-robotic-systems-inc/software-developer-vision-systems/mount-pearl"
-    -
-      post_date: 2020-06-11
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: mysa
-  jobs:
-    - post_date: 2020-09-10
-      jobs:
-        - title: "Cybersecurity Specialist"
-          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Software Developer (App)"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-        - title: "Software Developer (DevOps)"
-          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
-- company: cabotbusiness
-  jobs:
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Computer Programmer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32902580"
-- company: colab
-  jobs:
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
 - company: sequencebio
   jobs:
     -
@@ -166,20 +195,6 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
-- company: hyke
-  jobs:
-    -
-      post_date: 2020-05-21
-      jobs:
-        - title: Intern Software Developer / Software Engineer
-          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
-- company: totaliq
-  jobs:
-    -
-      post_date: 2020-03-12
-      jobs:
-        - title: Full Stack Developer
-          link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
 - company: verafin
   jobs:
     -

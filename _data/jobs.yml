@@ -1,11 +1,23 @@
-- company: ioa
+- company: focus
   jobs:
-    - post_date: 2020-10-10
+    - post_date: 2020-10-22
       jobs:
-        - title: "Programmer / Analyst"
-          link: "https://ioass.com/careers-1"
+        - title: "Software Developers"
+          link: "https://focusfs.com/company/careers/software-developers/"
+- company: govnl
+  jobs:
+    - post_date: 2020-10-22
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23096"
+        - title: "Computer Programmer Analyst"
+          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23796"
 - company: mysa
   jobs:
+    - post_date: 2020-10-22
+      jobs:
+        - title: "Software Developer (App)"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
     - post_date: 2020-10-15
       jobs:
         - title: "Embedded Software Developer"
@@ -16,22 +28,12 @@
       jobs:
         - title: "Cybersecurity Specialist"
           link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
-    - post_date: 2020-09-04
-      jobs:
-        - title: "Embedded Software Developer"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
-- company: hyke
+- company: ioa
   jobs:
-    -
-      post_date: 2020-10-15
+    - post_date: 2020-10-10
       jobs:
-        - title: Software Developer / Software Engineer - Winter 2021
-          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer-winter-2021
-    -
-      post_date: 2020-05-21
-      jobs:
-        - title: Intern Software Developer / Software Engineer
-          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
 - company: totaliq
   jobs:
     - post_date: 2020-10-15
@@ -141,20 +143,6 @@
       jobs:
         - title: "Robotic Process Automation Developer"
           link: "https://jobs.smartrecruiters.com/Inmarsat/743999720274525-robotic-process-automation-rpa-developer"
-- company: arcticeider
-  jobs:
-    -
-      post_date: 2020-09-24
-      jobs:
-        - title: "Senior Software Developer (Remote)"
-          indeed: 00b25d9d9a2e0454
-- company: metricsflow
-  jobs:
-    -
-      post_date: 2020-09-24
-      jobs:
-        - title: "Salesforce Developer"
-          indeed: 29a002ffbb32979f
 - company: sequencebio
   jobs:
     -
@@ -195,6 +183,13 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Intern Software Developer / Software Engineer
+          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
 - company: verafin
   jobs:
     -

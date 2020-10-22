@@ -1,7 +1,3 @@
-- title: "The Women CyberSecurity Society: Cybersecurity Conversations"
-  start: "2020-04-18T18:30:00-03:30"
-  url: https://www.meetup.com/WCS2-St-Johns/events/jhwrqrybcgbxb/
-
 #Auto load from Meetup with:
 #  var o = [];
 #  document.querySelectorAll('.eventCard').forEach((a) => {
@@ -11,15 +7,3 @@
 #  });
 #  console.log(o.join('\n'))
 
-- title: "Tech Project Evening and Meetup"
-  start: "2020-04-09T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbmb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-04-16T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbvb/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-04-23T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbfc/
-- title: "Tech Project Evening and Meetup"
-  start: "2020-04-30T21:30:00-03:30"
-  url: https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/ddlmkrybcgbnc/

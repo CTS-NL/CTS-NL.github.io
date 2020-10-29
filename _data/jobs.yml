@@ -1,3 +1,9 @@
+- company: polyunity
+  jobs:
+    - post_date: 2020-10-29
+      jobs:
+        - title: "Full Stack Developer"
+          indeed: "9a3239f4d857ec63"
 - company: focus
   jobs:
     - post_date: 2020-10-22
@@ -14,10 +20,6 @@
           link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23796"
 - company: mysa
   jobs:
-    - post_date: 2020-10-22
-      jobs:
-        - title: "Software Developer (App)"
-          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
     - post_date: 2020-10-15
       jobs:
         - title: "Embedded Software Developer"

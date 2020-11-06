@@ -1,23 +1,15 @@
+- company: creativemaple
+  jobs:
+    - post_date: 2020-11-05
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33330786"
 - company: polyunity
   jobs:
     - post_date: 2020-10-29
       jobs:
         - title: "Full Stack Developer"
           indeed: "9a3239f4d857ec63"
-- company: focus
-  jobs:
-    - post_date: 2020-10-22
-      jobs:
-        - title: "Software Developers"
-          link: "https://focusfs.com/company/careers/software-developers/"
-- company: govnl
-  jobs:
-    - post_date: 2020-10-22
-      jobs:
-        - title: "Senior Programmer Analyst"
-          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23096"
-        - title: "Computer Programmer Analyst"
-          link: "https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23796"
 - company: mysa
   jobs:
     - post_date: 2020-10-15
@@ -56,11 +48,6 @@
           link: "https://colabsoftware.humi.ca/job-board/security/2788"
         - title: "Integration Specialist"
           link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
-    -
-      post_date: 2020-07-30
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/2376"
 - company: kraken
   jobs:
     -
@@ -80,22 +67,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: quorum
-  jobs:
-    -
-      post_date: 2020-10-15
-      jobs:
-        - title: "Junior Developer"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=369645"
-- company: genoa
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Developer
-          indeed: 29ebc7fb202c3d27
-        - title: Junior Software Developer
-          indeed: 7b1290c35a68f741
 - company: mariner
   jobs:
     -

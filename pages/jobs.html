@@ -18,11 +18,7 @@ permalink: "/jobs/"
         <h6><b>{{ postings.post_date | date: "%b %d, %Y" }}</b></h6>
         <ul>
             {% for job in postings.jobs %}
-				{% if job.indeed %}
-	                <li><a href="https://www.indeed.com/viewjob?jk={{ job.indeed }}">{{ job.title }}</a></li>
-				{% else %}
-					<li><a href="{{ job.link }}">{{ job.title }}</a></li>
-				{% endif %}
+				<li><a href="{{ job.link }}">{{ job.title }}</a></li>
             {% endfor %}
         </ul>
     {% endfor %}

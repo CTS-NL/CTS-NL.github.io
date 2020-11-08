@@ -1,0 +1,14 @@
+---
+layout: null
+---
+{
+	"meta": {
+		"lastUpdate": {{ 'now' | date: "%b %d, %Y" | jsonify}}
+	},
+	"data": {
+		"jobs": {{ site.data.jobs | jsonify }},
+		"companies": {{ site.data.companies | jsonify }},
+		"events": {{ site.data.events | jsonify }},
+		"groups": {{ site.data.groups | jsonify }}
+	}
+}

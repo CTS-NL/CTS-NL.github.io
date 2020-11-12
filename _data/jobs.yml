@@ -1,3 +1,41 @@
+- company: venor
+  jobs:
+    - post_date: 2020-11-12
+      jobs:
+        - title: 'Senior DevOps Engineer'
+          link: 'https://venor.ca/opportunity/senior-devops-engineer/'
+        - title: 'Account Executive TransMedia - Video Games (Celtx)'
+          link: 'https://venor.ca/opportunity/account-executive-transmedia-video-games/'
+- company: ccore
+  jobs:
+    - post_date: 2020-11-12
+      jobs:
+        - title: 'Software Systems Engineer'
+          link: 'https://ca.indeed.com/viewjob?jk=465eec013d836d26'
+- company: totaliq
+  jobs:
+    - post_date: 2020-11-12
+      jobs:
+        - title: 'Full Stack Developer (Remote)'
+          link: 'https://yourtotaliq.freshteam.com/jobs/BWdAX9fYT3FV/full-stack-developer-remote'
+    - post_date: 2020-10-15
+      jobs:
+        - title: 'Full Stack Developer (ML/Data Science/AI Focus) (Remote)'
+          link: 'https://yourtotaliq.freshteam.com/jobs/dZH1CBRSK5Gk/full-stack-developer-ml-data-science-ai-focus-remote'
+- company: mariner
+  jobs:
+    -
+      post_date: 2020-11-14
+      jobs:
+        - title: Senior System Programmer - RACF and ACF2
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999724111634-senior-system-programmer-racf-and-acf2
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
+        - title: Senior System Programmer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999721366740-senior-system-programmer-racf-and-acf2
 - company: creativemaple
   jobs:
     - post_date: 2020-11-05
@@ -14,8 +52,6 @@
   jobs:
     - post_date: 2020-10-15
       jobs:
-        - title: "Embedded Software Developer"
-          link: "https://www.careerbeacon.com/en/job/1667669/mysa-smart-thermostat/embedded-software-developer/st-john-s"
         - title: "Software Developer (DevOps)"
           link: "https://www.careerbeacon.com/en/job/1668259/mysa-smart-thermostat/software-developer-devops/st-john-s"
     - post_date: 2020-09-10
@@ -28,17 +64,6 @@
       jobs:
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
-- company: totaliq
-  jobs:
-    - post_date: 2020-10-15
-      jobs:
-        - title: 'Full Stack Developer (ML/Data Science/AI Focus) (Remote)'
-          link: 'https://yourtotaliq.freshteam.com/jobs/dZH1CBRSK5Gk/full-stack-developer-ml-data-science-ai-focus-remote'
-    -
-      post_date: 2020-03-12
-      jobs:
-        - title: Full Stack Developer
-          link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
 - company: colab
   jobs:
     -
@@ -67,15 +92,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: mariner
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Engineer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-        - title: Senior System Programmer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999721366740-senior-system-programmer-racf-and-acf2
 - company: rayagency
   jobs:
     -
@@ -156,13 +172,6 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/careers/c-sharp-developer
-- company: hyke
-  jobs:
-    -
-      post_date: 2020-05-21
-      jobs:
-        - title: Intern Software Developer / Software Engineer
-          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
 - company: verafin
   jobs:
     -

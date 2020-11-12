@@ -9,17 +9,24 @@ permalink: "/jobs/"
 ---
 
 <p class="teaser" itemprop="description">
-    Last updated {{ 'now' | date: "%b %d, %Y" }} and updated every Thursday.
+	Last updated {{ 'now' | date: "%b %d, %Y" }} and updated every Thursday.
 </p>
 
-{% for entry in site.data.jobs %}
-    <h4><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h4>
-    {% for postings in entry.jobs %}
-        <h6><b>{{ postings.post_date | date: "%b %d, %Y" }}</b></h6>
-        <ul>
-            {% for job in postings.jobs %}
-				<li><a href="{{ job.link }}">{{ job.title }}</a></li>
-            {% endfor %}
-        </ul>
-    {% endfor %}
-{% endfor %}
+<div class="jobs">
+	{% for entry in site.data.jobs %}
+		<h4><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h4>
+		{% if site.data.companies[entry.company].note %}
+			<div class="company_note">
+				{{ site.data.companies[entry.company].note | markdownify }}
+			</div>
+		{% endif %}
+		{% for postings in entry.jobs %}
+			<h6><b>{{ postings.post_date | date: "%b %d, %Y" }}</b></h6>
+			<ul>
+				{% for job in postings.jobs %}
+					<li><a href="{{ job.link }}">{{ job.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endfor %}
+	{% endfor %}
+</div>

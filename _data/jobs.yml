@@ -1,3 +1,21 @@
+- company: mysa
+  jobs:
+    - post_date: 2020-11-19
+      jobs:
+        - title: "Embedded Software Developer"
+          link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
+        - title: "Software Developer (DevOps)"
+          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
+    - post_date: 2020-09-10
+      jobs:
+        - title: "Cybersecurity Specialist"
+          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
+- company: quorum
+  jobs:
+    - post_date: 2020-11-19
+      jobs:
+        - title: 'Intermediate Developer'
+          link: 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=375336'
 - company: venor
   jobs:
     - post_date: 2020-11-12
@@ -48,16 +66,6 @@
       jobs:
         - title: "Full Stack Developer"
           link: "https://www.indeed.com/viewjob?jk=9a3239f4d857ec63"
-- company: mysa
-  jobs:
-    - post_date: 2020-10-15
-      jobs:
-        - title: "Software Developer (DevOps)"
-          link: "https://www.careerbeacon.com/en/job/1668259/mysa-smart-thermostat/software-developer-devops/st-john-s"
-    - post_date: 2020-09-10
-      jobs:
-        - title: "Cybersecurity Specialist"
-          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
 - company: ioa
   jobs:
     - post_date: 2020-10-10
@@ -69,8 +77,6 @@
     -
       post_date: 2020-10-15
       jobs:
-        - title: "DevSecOps-Cloud Security Specialist"
-          link: "https://colabsoftware.humi.ca/job-board/security/2788"
         - title: "Integration Specialist"
           link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
 - company: kraken

@@ -24,12 +24,6 @@
           link: 'https://venor.ca/opportunity/senior-devops-engineer/'
         - title: 'Account Executive TransMedia - Video Games (Celtx)'
           link: 'https://venor.ca/opportunity/account-executive-transmedia-video-games/'
-- company: ccore
-  jobs:
-    - post_date: 2020-11-12
-      jobs:
-        - title: 'Software Systems Engineer'
-          link: 'https://ca.indeed.com/viewjob?jk=465eec013d836d26'
 - company: totaliq
   jobs:
     - post_date: 2020-11-12
@@ -60,12 +54,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33330786"
-- company: polyunity
-  jobs:
-    - post_date: 2020-10-29
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://www.indeed.com/viewjob?jk=9a3239f4d857ec63"
 - company: ioa
   jobs:
     - post_date: 2020-10-10
@@ -124,13 +112,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: heyorca
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: "Experienced Software Developer (Fulltime) - Remote"
-          link: "https://secure.collage.co/jobs/heyorca/11328"
 - company: inmarsat
   jobs:
     -

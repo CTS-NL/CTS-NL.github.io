@@ -1,3 +1,9 @@
+- company: lghealth
+  jobs:
+    - post_date: 2020-12-03
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://www.careers.lghealth.ca/VacancyDetail.aspx?VacancyUID=000000005158"
 - company: mysa
   jobs:
     - post_date: 2020-11-19
@@ -10,12 +16,6 @@
       jobs:
         - title: "Cybersecurity Specialist"
           link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
-- company: quorum
-  jobs:
-    - post_date: 2020-11-19
-      jobs:
-        - title: 'Intermediate Developer'
-          link: 'https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=375336'
 - company: venor
   jobs:
     - post_date: 2020-11-12

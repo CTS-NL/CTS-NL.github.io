@@ -127,6 +127,9 @@ keyassets:
 kraken:
   name: Kraken Robotics
   url: http://krakenrobotics.com/
+lghealth:
+  name: Labrador-Grenfell Health
+  url: https://www.lghealth.ca/
 lemur:
   name: Lemur Vehicle Monitors
   url: https://www.bluedriver.com/

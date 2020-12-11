@@ -1,21 +1,59 @@
+- company: clockworkfox
+  jobs:
+    - post_date: 2020-12-10
+      jobs:
+        - title: "Senior Front End Web Developer"
+          link: "https://ca.indeed.com/viewjob?jk=fb88aa6bd074486d"
+        - title: "Junior Front End Web Developer"
+          link: "https://ca.indeed.com/viewjob?jk=f29a8f9343c19229"
+- company: quorum
+  jobs:
+    - post_date: 2020-12-10
+      jobs:
+        - title: "Data Architect"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=376041"
+- company: vmt
+  jobs:
+    - post_date: 2020-12-10
+      jobs:
+        - title: "Software/Game Developer"
+          link: "https://ca.indeed.com/viewjob?jk=c54b1cddefaf71f1"
+- company: easternhealth
+  jobs:
+    - post_date: 2020-12-10
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://www.careerbeacon.com/en/job/1676817/eastern-health/computer-programmer-analyst-2-positions/st-john-s"
+- company: mysa
+  jobs:
+    - post_date: 2020-12-10
+      jobs:
+        - title: "Software Developer (AC)"
+          link: "https://jobs.lever.co/getmysa/ec859b43-1bfe-4674-992e-2fde6183e84f"
+    - post_date: 2020-11-19
+      jobs:
+        - title: "Embedded Software Developer"
+          link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
+- company: colab
+  jobs:
+    -
+      post_date: 2020-12-10
+      jobs:
+        - title: "Senior Frontend Developer (React)"
+          link: "https://colabsoftware.humi.ca/job-board/software/3202"
+        - title: "Software QA & Release Lead"
+          link: "https://colabsoftware.humi.ca/job-board/software/3203"
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "Integration Specialist"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
 - company: lghealth
   jobs:
     - post_date: 2020-12-03
       jobs:
         - title: "Computer Programmer/Analyst"
           link: "https://www.careers.lghealth.ca/VacancyDetail.aspx?VacancyUID=000000005158"
-- company: mysa
-  jobs:
-    - post_date: 2020-11-19
-      jobs:
-        - title: "Embedded Software Developer"
-          link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
-        - title: "Software Developer (DevOps)"
-          link: "https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30"
-    - post_date: 2020-09-10
-      jobs:
-        - title: "Cybersecurity Specialist"
-          link: "https://jobs.lever.co/getmysa/f765c72b-98b2-4512-bfcd-cc2b986fcf11"
 - company: venor
   jobs:
     - post_date: 2020-11-12
@@ -30,43 +68,12 @@
       jobs:
         - title: 'Full Stack Developer (Remote)'
           link: 'https://yourtotaliq.freshteam.com/jobs/BWdAX9fYT3FV/full-stack-developer-remote'
-    - post_date: 2020-10-15
-      jobs:
-        - title: 'Full Stack Developer (ML/Data Science/AI Focus) (Remote)'
-          link: 'https://yourtotaliq.freshteam.com/jobs/dZH1CBRSK5Gk/full-stack-developer-ml-data-science-ai-focus-remote'
-- company: mariner
-  jobs:
-    -
-      post_date: 2020-11-14
-      jobs:
-        - title: Senior System Programmer - RACF and ACF2
-          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999724111634-senior-system-programmer-racf-and-acf2
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Engineer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-        - title: Senior System Programmer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999721366740-senior-system-programmer-racf-and-acf2
 - company: creativemaple
   jobs:
     - post_date: 2020-11-05
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33330786"
-- company: ioa
-  jobs:
-    - post_date: 2020-10-10
-      jobs:
-        - title: "Programmer / Analyst"
-          link: "https://ioass.com/careers-1"
-- company: colab
-  jobs:
-    -
-      post_date: 2020-10-15
-      jobs:
-        - title: "Integration Specialist"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
 - company: kraken
   jobs:
     -
@@ -93,13 +100,6 @@
       jobs:
         - title: Back-end Web Developer
           link: https://rayagency.ca/careers-back-end-dev/
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/33108968
 - company: vision33
   jobs:
     -
@@ -112,6 +112,13 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: mariner
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
 - company: inmarsat
   jobs:
     -
@@ -119,6 +126,12 @@
       jobs:
         - title: "Robotic Process Automation Developer"
           link: "https://jobs.smartrecruiters.com/Inmarsat/743999720274525-robotic-process-automation-rpa-developer"
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
 - company: sequencebio
   jobs:
     -

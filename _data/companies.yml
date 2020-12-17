@@ -235,6 +235,9 @@ sequencebio:
 skyhawk:
   name: SkyHawk Telematics
   url: http://skyhawktelematics.com/
+strong:
+  name: Strong Data Automation
+  url: https://www.strongdata.ca/
 sulis:
   name: SULIS Subsea Corporation
   url: http://www.sulissubsea.com/

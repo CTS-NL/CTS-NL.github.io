@@ -1,3 +1,29 @@
+- company: strong
+  jobs:
+    -
+      post_date: 2020-12-17
+      jobs:
+        - title: "Full Stack Developer"
+          link: "https://ca.indeed.com/viewjob?jk=86b8dfeac58960a8"
+- company: colab
+  jobs:
+    -
+      post_date: 2020-12-17
+      jobs:
+        - title: "Senior Backend Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/3298"
+    -
+      post_date: 2020-12-10
+      jobs:
+        - title: "Senior Frontend Developer (React)"
+          link: "https://colabsoftware.humi.ca/job-board/software/3202"
+        - title: "Software QA & Release Lead"
+          link: "https://colabsoftware.humi.ca/job-board/software/3203"
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "Integration Specialist"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
 - company: clockworkfox
   jobs:
     - post_date: 2020-12-10
@@ -18,12 +44,6 @@
       jobs:
         - title: "Software/Game Developer"
           link: "https://ca.indeed.com/viewjob?jk=c54b1cddefaf71f1"
-- company: easternhealth
-  jobs:
-    - post_date: 2020-12-10
-      jobs:
-        - title: "Computer Programmer/Analyst"
-          link: "https://www.careerbeacon.com/en/job/1676817/eastern-health/computer-programmer-analyst-2-positions/st-john-s"
 - company: mysa
   jobs:
     - post_date: 2020-12-10
@@ -34,20 +54,6 @@
       jobs:
         - title: "Embedded Software Developer"
           link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
-- company: colab
-  jobs:
-    -
-      post_date: 2020-12-10
-      jobs:
-        - title: "Senior Frontend Developer (React)"
-          link: "https://colabsoftware.humi.ca/job-board/software/3202"
-        - title: "Software QA & Release Lead"
-          link: "https://colabsoftware.humi.ca/job-board/software/3203"
-    -
-      post_date: 2020-10-15
-      jobs:
-        - title: "Integration Specialist"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/2787"
 - company: lghealth
   jobs:
     - post_date: 2020-12-03

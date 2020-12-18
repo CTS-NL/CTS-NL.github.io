@@ -12,7 +12,7 @@ permalink: "/contact/"
 Want to get in touch with us? Use this convenient form below of email us directly at
 [computer.tech.society.nl@gmail.com](mailto:computer.tech.society.nl@gmail.com).
 
-<form id="contact-form" action="https://formspree.io/f/qqqxdopwqkr" method="POST">
+<form id="contact-form" action="https://formspree.io/f/xdopwqkr" method="POST">
 	<input type="hidden" name="_next" value="{{site.url}}/contact-thankyou/">
 	<input type="hidden" name="_format" value="plain" />
 	<input type="text" name="_gotcha" style="display:none" />
@@ -27,15 +27,10 @@ Want to get in touch with us? Use this convenient form below of email us directl
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {
-
-    // get the form elements defined in your form HTML above
-    
     var form = document.getElementById("contact-form");
     var button = document.getElementById("contact-form-button");
     var status_success = document.getElementById("contact-form-success");
     var status_error = document.getElementById("contact-form-error");
-
-    // Success and Error functions for after the form is submitted
     
     function success() {
       form.reset();
@@ -50,8 +45,6 @@ Want to get in touch with us? Use this convenient form below of email us directl
       status.innerHTML = "Oops! There was a problem.";
     }
 
-    // handle the form submission event
-
     form.addEventListener("submit", function(ev) {
       ev.preventDefault();
       var data = new FormData(form);
@@ -59,8 +52,6 @@ Want to get in touch with us? Use this convenient form below of email us directl
     });
   });
   
-  // helper function for sending an AJAX request
-
   function ajax(method, url, data, success, error) {
     var xhr = new XMLHttpRequest();
     xhr.open(method, url);

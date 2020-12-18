@@ -13,6 +13,10 @@ jobs:
 - company: strong
   jobs:
     - title: "Full Stack Developer"
+      link: "https://ca.indeed.com/viewjob?jk=72ed46ae3f9c31c0"
+- company: polyunity
+  jobs:
+    - title: "Full Stack Developer"
       link: "https://ca.indeed.com/viewjob?jk=86b8dfeac58960a8"
 - company: colab
   jobs:

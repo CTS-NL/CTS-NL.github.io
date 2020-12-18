@@ -10,8 +10,9 @@ permalink: "/jobs/"
 
 <p class="teaser" itemprop="description">
 	Last updated {{ 'now' | date: "%b %d, %Y" }} and updated every Thursday.
+	<p><a href="{{ site.url }}{{ site.baseurl }}/contact/" title="Contact Us">Contact us</a> to add a missing job posting.</p>
 </p>
-
+<hr/>
 <div class="jobs">
 	{% for entry in site.data.jobs %}
 		<h4><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h4>
@@ -28,5 +29,6 @@ permalink: "/jobs/"
 				{% endfor %}
 			</ul>
 		{% endfor %}
+		<hr/>
 	{% endfor %}
 </div>

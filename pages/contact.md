@@ -12,7 +12,7 @@ permalink: "/contact/"
 Want to get in touch with us? Use this convenient form below of email us directly at
 [computer.tech.society.nl@gmail.com](mailto:computer.tech.society.nl@gmail.com).
 
-<form action="https://formspree.io/computer.tech.society.nl@gmail.com" method="POST">
+<form id="contact-form" action="https://formspree.io/f/qqqxdopwqkr" method="POST">
 	<input type="hidden" name="_next" value="{{site.url}}/contact-thankyou/">
 	<input type="hidden" name="_format" value="plain" />
 	<input type="text" name="_gotcha" style="display:none" />
@@ -20,5 +20,59 @@ Want to get in touch with us? Use this convenient form below of email us directl
 	<input type="email" name="email" placeholder="Your Email Address"/>
 	<input type="text" name="_subject" placeholder="Subject" />
 	<textarea rows="10" name="message" placeholder="Message"></textarea>
-	<button type="submit" class="expanded">Send Email</button>
+	<button id="contact-form-button" type="submit" class="expanded">Send Email</button>
 </form>
+<div style="display: none" id="contact-form-success">{% include alert text='Thanks! We will get back to you soon!' %}</div>
+<div style="display: none" id="contact-form-error">{% include alert alert='Please try again, or contact us via the email address above!' %}</div>
+
+<script>
+  window.addEventListener("DOMContentLoaded", function() {
+
+    // get the form elements defined in your form HTML above
+    
+    var form = document.getElementById("contact-form");
+    var button = document.getElementById("contact-form-button");
+    var status_success = document.getElementById("contact-form-success");
+    var status_error = document.getElementById("contact-form-error");
+
+    // Success and Error functions for after the form is submitted
+    
+    function success() {
+      form.reset();
+      status_error.style = "display: none";
+      button.style = "display: none ";
+      status_success.style = "display: block";
+    }
+
+    function error() {
+      status_success.style = "display: none";
+      status_error.style = "display: block";
+      status.innerHTML = "Oops! There was a problem.";
+    }
+
+    // handle the form submission event
+
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      var data = new FormData(form);
+      ajax(form.method, form.action, data, success, error);
+    });
+  });
+  
+  // helper function for sending an AJAX request
+
+  function ajax(method, url, data, success, error) {
+    var xhr = new XMLHttpRequest();
+    xhr.open(method, url);
+    xhr.setRequestHeader("Accept", "application/json");
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState !== XMLHttpRequest.DONE) return;
+      if (xhr.status === 200) {
+        success(xhr.response, xhr.responseType);
+      } else {
+        error(xhr.status, xhr.response, xhr.responseType);
+      }
+    };
+    xhr.send(data);
+  }
+</script>

@@ -1,3 +1,19 @@
+- company: lemur
+  jobs:
+    - post_date: 2021-01-21
+      jobs:
+        - title: "Software Developer / Engineer (Mobile Apps)"
+          link: https://ca.indeed.com/viewjob?jk=ccf833408ae43094
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers
 - company: focus
   jobs:
     -
@@ -75,20 +91,6 @@
       jobs:
         - title: "Computer Programmer/Analyst"
           link: "https://www.careers.lghealth.ca/VacancyDetail.aspx?VacancyUID=000000005158"
-- company: venor
-  jobs:
-    - post_date: 2020-11-12
-      jobs:
-        - title: 'Senior DevOps Engineer'
-          link: 'https://venor.ca/opportunity/senior-devops-engineer/'
-        - title: 'Account Executive TransMedia - Video Games (Celtx)'
-          link: 'https://venor.ca/opportunity/account-executive-transmedia-video-games/'
-- company: totaliq
-  jobs:
-    - post_date: 2020-11-12
-      jobs:
-        - title: 'Full Stack Developer (Remote)'
-          link: 'https://yourtotaliq.freshteam.com/jobs/BWdAX9fYT3FV/full-stack-developer-remote'
 - company: kraken
   jobs:
     -
@@ -187,15 +189,3 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: lemur
-  jobs:
-    -
-      post_date: 2019-06-13
-      jobs:
-        - title: "Embedded Systems Engineer / Developer"
-          link: https://www.bluedriver.com/about-us/careers
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: "Software Developer / Engineer"
-          link: https://www.bluedriver.com/about-us/careers

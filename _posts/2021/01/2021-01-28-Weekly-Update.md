@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Weekly Digest - Week 3 - 2021"
-teaser: "The weekly computer technology digest Jan 15 - 21, 2021"
+title: "Weekly Digest - Week 4 - 2021"
+teaser: "The weekly computer technology digest Jan 22 - 28, 2021"
 header:
     image: "logo.png"
     pattern: "header-texture.png"
@@ -10,14 +10,14 @@ categories:
 
 
 jobs: 
-- company: lemur
+- company: celtx
   jobs:
-    - title: "Software Developer / Engineer (Mobile Apps)"
-      link: https://ca.indeed.com/viewjob?jk=ccf833408ae43094
-
+    - title: "Data Analyst"
+      link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1490155&#job
 
 
 events: []
+
 
 x-talk:
   name:

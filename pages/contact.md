@@ -12,7 +12,7 @@ permalink: "/contact/"
 Want to get in touch with us? Use this convenient form below of email us directly at
 [computer.tech.society.nl@gmail.com](mailto:computer.tech.society.nl@gmail.com).
 
-<form id="contact-form" action="https://formspree.io/f/xdopwqkr" method="POST">
+<form id="contact-form" action="" method="POST">
 	<input type="hidden" name="_next" value="{{site.url}}/contact-thankyou/">
 	<input type="hidden" name="_format" value="plain" />
 	<input type="text" name="_gotcha" style="display:none" />
@@ -48,7 +48,8 @@ Want to get in touch with us? Use this convenient form below of email us directl
     form.addEventListener("submit", function(ev) {
       ev.preventDefault();
       var data = new FormData(form);
-      ajax(form.method, form.action, data, success, error);
+      var action = atob("aHR0cHM6Ly9mb3Jtc3ByZWUuaW8vZi94cWtnbnZybg==");
+      ajax(form.method, action, data, success, error);
     });
   });
   

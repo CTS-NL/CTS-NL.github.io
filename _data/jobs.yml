@@ -1,3 +1,57 @@
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Front-End Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=124
+        - title: Intermediate Full-Stack Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=126
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
+- company: creativemaple
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: "Software Development Manager"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820274"
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820275"
+- company: nlpower
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: "Security Analyst"
+          link: "https://www.newfoundlandpower.com/Careers/GetDocument/11104"
+- company: colab
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: "QA & Test Automation Developer"
+          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/3711"
+    -
+      post_date: 2021-01-14
+      jobs:
+        - title: "Security Analyst"
+          link: "https://colabsoftware.humi.ca/job-board/information+security/3509"
+    -
+      post_date: 2020-12-10
+      jobs:
+        - title: "Senior Frontend Developer (React)"
+          link: "https://colabsoftware.humi.ca/job-board/software/3202"
 - company: celtx
   jobs:
     - post_date: 2021-01-28
@@ -43,25 +97,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
-- company: colab
-  jobs:
-    -
-      post_date: 2021-01-14
-      jobs:
-        - title: "Security Analyst"
-          link: "https://colabsoftware.humi.ca/job-board/information+security/3509"
-    -
-      post_date: 2020-12-17
-      jobs:
-        - title: "Senior Backend Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/3298"
-    -
-      post_date: 2020-12-10
-      jobs:
-        - title: "Senior Frontend Developer (React)"
-          link: "https://colabsoftware.humi.ca/job-board/software/3202"
-        - title: "Software QA & Release Lead"
-          link: "https://colabsoftware.humi.ca/job-board/software/3203"
 - company: worldfurexchange
   jobs:
     -
@@ -76,11 +111,6 @@
       jobs:
         - title: "Software Developer (Full-time)"
           link: "https://secure.collage.co/jobs/heyorca/10025"
-    -
-      post_date: 2021-01-07
-      jobs:
-        - title: "Experienced Software Developer (Fulltime) - Remote"
-          link: "https://secure.collage.co/jobs/heyorca/11328"
 - company: mysa
   jobs:
     - post_date: 2020-12-10
@@ -135,13 +165,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: mariner
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Engineer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
 - company: ioa
   jobs:
     - post_date: 2020-10-10

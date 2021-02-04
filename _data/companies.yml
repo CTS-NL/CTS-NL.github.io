@@ -157,6 +157,9 @@ nalcor:
 nlc:
   name: Newfoundland Labrador Liquor Corporation
   url: http://www.nlliquor.com/
+nlpower:
+  name: Newfoundland Power
+  url: https://www.newfoundlandpower.com/
 nlchi:
   name: Newfoundland and Labrador Centre for Health Information
   url: https://www.nlchi.nl.ca/

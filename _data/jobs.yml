@@ -1,14 +1,29 @@
-- company: bluedrop
+- company: pal
   jobs:
     -
-      post_date: 2021-02-04
+      post_date: 2021-02-11
       jobs:
-        - title: Senior Front-End Developer
-          link: https://careers.bluedroplearningnetworks.com/?page_id=124
-        - title: Intermediate Full-Stack Developer
-          link: https://careers.bluedroplearningnetworks.com/?page_id=126
+        - title: Senior Software Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401560
+    -
+      post_date: 2021-01-14
+      jobs:
+        - title: "Data Analyst"
+          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401781"
+- company: govnl
+  jobs:
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.careerbeacon.com/en/job/1692331/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
 - company: mariner
   jobs:
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: Senior .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999734504259-senior-net-developer
     -
       post_date: 2021-02-04
       jobs:
@@ -19,24 +34,13 @@
       jobs:
         - title: Senior Software Engineer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-- company: creativemaple
-  jobs:
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: "Software Development Manager"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820274"
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820275"
-- company: nlpower
-  jobs:
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: "Security Analyst"
-          link: "https://www.newfoundlandpower.com/Careers/GetDocument/11104"
 - company: colab
   jobs:
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: "Application Support Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/3804"
     -
       post_date: 2021-02-04
       jobs:
@@ -52,6 +56,24 @@
       jobs:
         - title: "Senior Frontend Developer (React)"
           link: "https://colabsoftware.humi.ca/job-board/software/3202"
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Front-End Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=124
+        - title: Intermediate Full-Stack Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=126
+- company: creativemaple
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: "Software Development Manager"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820274"
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820275"
 - company: celtx
   jobs:
     - post_date: 2021-01-28
@@ -80,16 +102,9 @@
       post_date: 2021-01-14
       jobs:
         - title: "Application Development Lead"
-          link: "https://www.careerbeacon.com/en/job/1685026/focus-fs/application-development-lead/st-john-s"
+          link: "https://focusfs.com/company/careers/application-development-lead/"
         - title: "Application QA Lead"
-          link: "https://www.careerbeacon.com/en/job/1684405/focus-fs/application-qa-lead/st-john-s"
-- company: pal
-  jobs:
-    -
-      post_date: 2021-01-14
-      jobs:
-        - title: "Data Analyst"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401781"
+          link: "https://focusfs.com/company/careers/application-qa-lead/"
 - company: ironberry
   jobs:
     -
@@ -97,13 +112,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2021-01-07
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33628543"
 - company: heyorca
   jobs:
     -
@@ -198,19 +206,19 @@
       post_date: 2020-06-04
       jobs:
         - title: Senior Unity Developer
-          link: https://www.inspectar.com/careers/sr-unity-developer
+          link: https://www.inspectar.com/career/sr-unity-developer
     -
       post_date: 2020-05-28
       jobs:
         - title: Software Developer CO-OP Student
-          link: https://www.inspectar.com/careers/software-developer-co-op-student
+          link: https://www.inspectar.com/career/software-developer-co-op-student
         - title: QA Engineer CO-OP Student
-          link: https://www.inspectar.com/careers/qa-engineer-co-op-student
+          link: https://www.inspectar.com/career/qa-engineer-co-op-student
     -
       post_date: 2020-01-30
       jobs:
         - title: C# Developer
-          link: https://www.inspectar.com/careers/c-sharp-developer
+          link: https://www.inspectar.com/career/c-sharp-developer
 - company: verafin
   jobs:
     -

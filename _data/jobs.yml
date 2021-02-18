@@ -1,3 +1,30 @@
+- company: mysa
+  jobs:
+    - post_date: 2021-02-18
+      jobs:
+        - title: "QA Analyst"
+          link: "https://jobs.lever.co/getmysa/316ea523-1fef-4a54-90df-7da0290c80f6"
+    - post_date: 2020-11-19
+      jobs:
+        - title: "Embedded Software Developer"
+          link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
+- company: compusult
+  jobs:
+    -
+      post_date: 2021-02-18
+      jobs:
+        - title: "Senior Software Engineer (AI or 3D Geospatial Rendering)"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: "Software Testing Specialist"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2020-04-23
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
 - company: pal
   jobs:
     -
@@ -5,18 +32,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401560
-    -
-      post_date: 2021-01-14
-      jobs:
-        - title: "Data Analyst"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401781"
-- company: govnl
-  jobs:
-    -
-      post_date: 2021-02-11
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.careerbeacon.com/en/job/1692331/government-of-newfoundland-and-labrador/senior-programmer-analyst/st-john-s
 - company: mariner
   jobs:
     -
@@ -74,12 +89,6 @@
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820274"
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820275"
-- company: celtx
-  jobs:
-    - post_date: 2021-01-28
-      jobs:
-        - title: "Data Analyst"
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1490155&#job
 - company: lemur
   jobs:
     - post_date: 2021-01-21
@@ -112,23 +121,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
-- company: heyorca
-  jobs:
-    -
-      post_date: 2021-01-14
-      jobs:
-        - title: "Software Developer (Full-time)"
-          link: "https://secure.collage.co/jobs/heyorca/10025"
-- company: mysa
-  jobs:
-    - post_date: 2020-12-10
-      jobs:
-        - title: "Software Developer (AC)"
-          link: "https://jobs.lever.co/getmysa/ec859b43-1bfe-4674-992e-2fde6183e84f"
-    - post_date: 2020-11-19
-      jobs:
-        - title: "Embedded Software Developer"
-          link: "https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682"
 - company: lghealth
   jobs:
     - post_date: 2020-12-03
@@ -188,18 +180,6 @@
           link: "https://www.sequencebio.com/careers"
         - title: "Cloud Developer"
           link: "https://www.sequencebio.com/careers"
-- company: compusult
-  jobs:
-    -
-      post_date: 2020-06-04
-      jobs:
-        - title: "Software Testing Specialist"
-          link: "https://www.compusult.com/web/guest/careers"
-    -
-      post_date: 2020-04-23
-      jobs:
-        - title: "Software Developers"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: inspectar
   jobs:
     -

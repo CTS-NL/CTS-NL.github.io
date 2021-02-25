@@ -254,6 +254,9 @@ tatasteel:
   name: Tata Steel
   url: http://www.tatasteelcanada.com/
 # Thermo Fisher Scientific is from the Netherlands not Newfoundland
+telus:
+  name: Telus
+  url: https://www.telus.com/
 totaliq:
   name: totaliQ
   url: https://totaliq.ca/

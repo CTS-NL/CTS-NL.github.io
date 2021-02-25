@@ -1,3 +1,59 @@
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-02-25
+      jobs:
+        - title: Data Installer
+          link: https://jobs.lever.co/verafin/4bbf8195-e712-40fd-b5e1-7be0c64c507c
+        - title: Data Scientist
+          link: https://jobs.lever.co/verafin/a0764ab5-1173-402f-96c9-ea5b80312332
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: inmarsat
+  jobs:
+    - post_date: 2021-02-25
+      jobs:
+        - title: "Solution Designer"
+          link: "https://jobs.smartrecruiters.com/Inmarsat/743999735799093-solution-designer"
+- company: telus
+  jobs:
+    - post_date: 2021-02-25
+      jobs:
+        - title: "Senior Software Developer"
+          link: "https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=TEC11813-21"
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-02-25
+      jobs:
+        - title: "UX Team Lead"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/ux-team-lead"
+        - title: "Lead Back End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bh_sFkI_EHyx/lead-back-end-developer-remote"
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-02-25
+      jobs:
+        - title: Senior Technical Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999736222760-senior-technical-architect
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: Senior .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999734504259-senior-net-developer
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
 - company: mysa
   jobs:
     - post_date: 2021-02-18
@@ -32,23 +88,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401560
-- company: mariner
-  jobs:
-    -
-      post_date: 2021-02-11
-      jobs:
-        - title: Senior .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999734504259-senior-net-developer
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: Senior Software Developer
-          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Engineer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
 - company: colab
   jobs:
     -
@@ -146,13 +185,13 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: rayagency
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Back-end Web Developer
-          link: https://rayagency.ca/careers-back-end-dev/
+#- company: rayagency
+#  jobs:
+#    -
+#      post_date: 2020-10-08
+#      jobs:
+#        - title: Back-end Web Developer
+#          link: https://rayagency.ca/careers-back-end-dev/
 - company: vision33
   jobs:
     -
@@ -199,10 +238,3 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/career/c-sharp-developer
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00

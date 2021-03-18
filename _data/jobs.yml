@@ -1,10 +1,34 @@
-- company: westernhealth
+- company: ccore
   jobs:
     -
       post_date: 2021-03-11
       jobs:
-        - title: Computer Systems Analyst I
-          link: https://employment.westernhealth.nl.ca/VacancyDetail.aspx?VacancyUID=000000009868
+        - title: Cloud Application Developer
+          link: https://ca.indeed.com/viewjob?jk=90686ad93ea03f7a
+- company: avalonholo
+  jobs:
+    - post_date: 2021-03-18
+      jobs:
+        - title: "Visualization / Compression Architect"
+          link: "https://www.avalonholographics.com/careers"
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-03-18
+      jobs:
+        - title: "Dev Ops Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
+        - title: "Junior Back End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YQLpekqnGFgl/junior-back-end-developer-remote"
+        - title: "Junior Front End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/3J99aFKyoPXx/junior-front-end-developer-remote"
+        - title: "Lead Front End Developer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/lead-front-end-developer"
+        - title: "UX Designer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/1NEFd1RE-Ntb/ux-designer"
+    - post_date: 2021-02-25
+      jobs:
+        - title: "Lead Back End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bh_sFkI_EHyx/lead-back-end-developer-remote"
 - company: rutter
   jobs:
     -
@@ -47,7 +71,7 @@
       post_date: 2021-03-11
       jobs:
         - title: Firmware Engineer
-          link: https://www.indeedjobs.com/breathesuite/jobs/6c754a6f997ccdb82bff
+          link: https://ca.indeed.com/viewjob?jk=715c545218d1b955
 - company: celtx
   jobs:
     -
@@ -55,25 +79,6 @@
       jobs:
         - title: Software Tester (QA)
           link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1537913
-- company: verafin
-  jobs:
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Data Integration Developer
-          link: https://jobs.lever.co/verafin/21911856-1155-42e2-9832-e732aaf2a913
-    -
-      post_date: 2021-02-25
-      jobs:
-        - title: Data Installer
-          link: https://jobs.lever.co/verafin/4bbf8195-e712-40fd-b5e1-7be0c64c507c
-        - title: Data Scientist
-          link: https://jobs.lever.co/verafin/a0764ab5-1173-402f-96c9-ea5b80312332
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: inmarsat
   jobs:
     - post_date: 2021-02-25
@@ -86,14 +91,6 @@
       jobs:
         - title: "Senior Software Developer"
           link: "https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=TEC11813-21"
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-02-25
-      jobs:
-        - title: "UX Team Lead"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/ux-team-lead"
-        - title: "Lead Back End Developer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/bh_sFkI_EHyx/lead-back-end-developer-remote"
 - company: mysa
   jobs:
     - post_date: 2021-02-18
@@ -150,21 +147,12 @@
           link: https://careers.bluedroplearningnetworks.com/?page_id=124
         - title: Intermediate Full-Stack Developer
           link: https://careers.bluedroplearningnetworks.com/?page_id=126
-- company: creativemaple
-  jobs:
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: "Software Development Manager"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820274"
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33820275"
 - company: lemur
   jobs:
     - post_date: 2021-01-21
       jobs:
         - title: "Software Developer / Engineer (Mobile Apps)"
-          link: https://ca.indeed.com/viewjob?jk=ccf833408ae43094
+          link: https://www.bluedriver.com/about-us/careers
     -
       post_date: 2019-06-13
       jobs:
@@ -216,13 +204,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-#- company: rayagency
-#  jobs:
-#    -
-#      post_date: 2020-10-08
-#      jobs:
-#        - title: Back-end Web Developer
-#          link: https://rayagency.ca/careers-back-end-dev/
 - company: vision33
   jobs:
     -
@@ -269,3 +250,10 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/career/c-sharp-developer
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00

@@ -1,16 +1,9 @@
 - company: ccore
   jobs:
-    -
-      post_date: 2021-03-11
+    - post_date: 2021-03-18
       jobs:
         - title: Cloud Application Developer
           link: https://ca.indeed.com/viewjob?jk=90686ad93ea03f7a
-- company: avalonholo
-  jobs:
-    - post_date: 2021-03-18
-      jobs:
-        - title: "Visualization / Compression Architect"
-          link: "https://www.avalonholographics.com/careers"
 - company: milkmoovement
   jobs:
     - post_date: 2021-03-18
@@ -91,12 +84,6 @@
       jobs:
         - title: "Senior Software Developer"
           link: "https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=TEC11813-21"
-- company: mysa
-  jobs:
-    - post_date: 2021-02-18
-      jobs:
-        - title: "QA Analyst"
-          link: "https://jobs.lever.co/getmysa/316ea523-1fef-4a54-90df-7da0290c80f6"
 - company: compusult
   jobs:
     -

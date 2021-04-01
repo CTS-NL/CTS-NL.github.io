@@ -1,3 +1,9 @@
+- company: mysa
+  jobs:
+    - post_date: 2021-04-01
+      jobs:
+        - title: Software Developer (Mysa App)
+          link: https://jobs.lever.co/getmysa/17133609-f6af-4478-9735-e0c571227360
 - company: ccore
   jobs:
     - post_date: 2021-03-18
@@ -16,8 +22,6 @@
           link: "https://milkmoovement-talent.freshteam.com/jobs/3J99aFKyoPXx/junior-front-end-developer-remote"
         - title: "Lead Front End Developer"
           link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/lead-front-end-developer"
-        - title: "UX Designer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/1NEFd1RE-Ntb/ux-designer"
     - post_date: 2021-02-25
       jobs:
         - title: "Lead Back End Developer (Remote)"
@@ -58,20 +62,6 @@
       jobs:
         - title: Senior Software Engineer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-- company: breathesuite
-  jobs:
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Firmware Engineer
-          link: https://ca.indeed.com/viewjob?jk=715c545218d1b955
-- company: celtx
-  jobs:
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Software Tester (QA)
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1537913
 - company: inmarsat
   jobs:
     - post_date: 2021-02-25
@@ -134,22 +124,6 @@
           link: https://careers.bluedroplearningnetworks.com/?page_id=124
         - title: Intermediate Full-Stack Developer
           link: https://careers.bluedroplearningnetworks.com/?page_id=126
-- company: lemur
-  jobs:
-    - post_date: 2021-01-21
-      jobs:
-        - title: "Software Developer / Engineer (Mobile Apps)"
-          link: https://www.bluedriver.com/about-us/careers
-    -
-      post_date: 2019-06-13
-      jobs:
-        - title: "Embedded Systems Engineer / Developer"
-          link: https://www.bluedriver.com/about-us/careers
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: "Software Developer / Engineer"
-          link: https://www.bluedriver.com/about-us/careers
 - company: focus
   jobs:
     -
@@ -214,10 +188,8 @@
     -
       post_date: 2020-06-11
       jobs:
-        - title: "Application Developer"
-          link: "https://www.sequencebio.com/careers"
         - title: "Cloud Developer"
-          link: "https://www.sequencebio.com/careers"
+          link: "https://sequencebio.bamboohr.com/jobs/view.php?id=29"
 - company: inspectar
   jobs:
     -
@@ -237,6 +209,18 @@
       jobs:
         - title: C# Developer
           link: https://www.inspectar.com/career/c-sharp-developer
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers
 - company: verafin
   jobs:
     -

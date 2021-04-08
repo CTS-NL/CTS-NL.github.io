@@ -1,15 +1,41 @@
+- company: avalonholo
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+        - title: DevOps Engineer
+          link: https://www.avalonholographics.com/careers
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-04-08
+      jobs:
+        - title: CICD Engineer
+          link: https://jobs.lever.co/verafin/96018757-1b8a-44d3-838b-224005b445b0
+    -
+      post_date: 2021-04-01
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: workplacenl
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: Application Support Analyst
+          link: https://www.careerbeacon.com/en/job/1702627/workplacenl/application-support-analyst/st-john-s
+- company: quorum
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: Software Developer (Back-End)
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=383679
 - company: mysa
   jobs:
     - post_date: 2021-04-01
       jobs:
         - title: Software Developer (Mysa App)
           link: https://jobs.lever.co/getmysa/17133609-f6af-4478-9735-e0c571227360
-- company: ccore
-  jobs:
-    - post_date: 2021-03-18
-      jobs:
-        - title: Cloud Application Developer
-          link: https://ca.indeed.com/viewjob?jk=90686ad93ea03f7a
 - company: milkmoovement
   jobs:
     - post_date: 2021-03-18
@@ -62,12 +88,6 @@
       jobs:
         - title: Senior Software Engineer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-- company: inmarsat
-  jobs:
-    - post_date: 2021-02-25
-      jobs:
-        - title: "Solution Designer"
-          link: "https://jobs.smartrecruiters.com/Inmarsat/743999735799093-solution-designer"
 - company: telus
   jobs:
     - post_date: 2021-02-25
@@ -221,10 +241,3 @@
       jobs:
         - title: "Software Developer / Engineer"
           link: https://www.bluedriver.com/about-us/careers
-- company: verafin
-  jobs:
-    -
-      post_date: 2019-04-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00

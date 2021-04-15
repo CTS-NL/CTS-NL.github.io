@@ -1,3 +1,9 @@
+- company: vish
+  jobs:
+    - post_date: 2021-04-15
+      jobs:
+        - title: Junior Software Engineer
+          link: https://www.workopolis.com/jobsearch/viewjob/srnK5jv07lWaJAzEoovYOf-EQVNBfHld94ARAcY88RdBX4bEZHi6pg
 - company: avalonholo
   jobs:
     - post_date: 2021-04-08
@@ -6,18 +12,6 @@
           link: https://www.avalonholographics.com/careers
         - title: DevOps Engineer
           link: https://www.avalonholographics.com/careers
-- company: verafin
-  jobs:
-    -
-      post_date: 2021-04-08
-      jobs:
-        - title: CICD Engineer
-          link: https://jobs.lever.co/verafin/96018757-1b8a-44d3-838b-224005b445b0
-    -
-      post_date: 2021-04-01
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: workplacenl
   jobs:
     - post_date: 2021-04-08
@@ -30,6 +24,13 @@
       jobs:
         - title: Software Developer (Back-End)
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=383679
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-04-01
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: mysa
   jobs:
     - post_date: 2021-04-01
@@ -46,19 +47,6 @@
           link: "https://milkmoovement-talent.freshteam.com/jobs/YQLpekqnGFgl/junior-back-end-developer-remote"
         - title: "Junior Front End Developer (Remote)"
           link: "https://milkmoovement-talent.freshteam.com/jobs/3J99aFKyoPXx/junior-front-end-developer-remote"
-        - title: "Lead Front End Developer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/lead-front-end-developer"
-    - post_date: 2021-02-25
-      jobs:
-        - title: "Lead Back End Developer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/bh_sFkI_EHyx/lead-back-end-developer-remote"
-- company: rutter
-  jobs:
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Software Developers
-          link: https://www.careerbeacon.com/en/job/1697977/rutter-inc/software-developers/st-john-s
 - company: mariner
   jobs:
     -

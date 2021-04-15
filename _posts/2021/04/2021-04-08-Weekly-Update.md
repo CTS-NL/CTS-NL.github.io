@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weekly Digest - Week 14 - 2021"
-teaser: "The weekly computer technology digest Apr 2 - Apr 8, 2021"
+teaser: "The weekly computer technology digest Apr 2 - 8, 2021"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

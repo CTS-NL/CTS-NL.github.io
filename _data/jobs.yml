@@ -1,5 +1,37 @@
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-04-29
+      jobs:
+        - title: Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999744240394-java-developer
+    -
+      post_date: 2021-03-11
+      jobs:
+        - title: Enterprise/Data Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999737687065-enterprise-data-architect
+    -
+      post_date: 2021-02-25
+      jobs:
+        - title: Senior Technical Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999736222760-senior-technical-architect
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
 - company: verafin
   jobs:
+    -
+      post_date: 2021-04-29
+      jobs:
+        - title: Security Specialist
+          link: https://jobs.lever.co/verafin/95e39c85-8089-417d-8c1f-a2c423f77580
     -
       post_date: 2021-04-22
       jobs:
@@ -28,52 +60,12 @@
       jobs:
         - title: Junior Software Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/srnK5jv07lWaJAzEoovYOf-EQVNBfHld94ARAcY88RdBX4bEZHi6pg
-- company: quorum
-  jobs:
-    - post_date: 2021-04-08
-      jobs:
-        - title: Software Developer (Back-End)
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=383679
-- company: mysa
-  jobs:
-    - post_date: 2021-04-01
-      jobs:
-        - title: Software Developer (Mysa App)
-          link: https://jobs.lever.co/getmysa/17133609-f6af-4478-9735-e0c571227360
 - company: milkmoovement
   jobs:
     - post_date: 2021-03-18
       jobs:
         - title: "Dev Ops Engineer"
           link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
-- company: mariner
-  jobs:
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Enterprise/Data Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999737687065-enterprise-data-architect
-    -
-      post_date: 2021-02-25
-      jobs:
-        - title: Senior Technical Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999736222760-senior-technical-architect
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: Senior Software Developer
-          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Engineer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
-- company: telus
-  jobs:
-    - post_date: 2021-02-25
-      jobs:
-        - title: "Senior Software Developer"
-          link: "https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=TEC11813-21"
 - company: compusult
   jobs:
     -
@@ -140,12 +132,6 @@
       jobs:
         - title: "Software Developer"
           link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
-- company: lghealth
-  jobs:
-    - post_date: 2020-12-03
-      jobs:
-        - title: "Computer Programmer/Analyst"
-          link: "https://www.careers.lghealth.ca/VacancyDetail.aspx?VacancyUID=000000005158"
 - company: kraken
   jobs:
     -

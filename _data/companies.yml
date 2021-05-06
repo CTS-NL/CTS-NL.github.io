@@ -76,6 +76,9 @@ easternhealth:
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+fonemed:
+  name: Fonemed
+  url: https://www.fonemed.com/
 fugro:
   name: Fugro
   url: https://www.fugro.com/

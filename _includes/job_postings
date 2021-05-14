@@ -1,21 +1,17 @@
 <ul>
-{% if page.jobs == empty %}
-No new job posts this week.
-{% endif %}
-{% for listing in page.jobs %}
-  <li>
-  {% include company company=listing.company %} is looking for:
-    <ul>
-      {% for job in listing.jobs %}
-		{% if job.indeed %}
-			<li><a href="https://www.indeed.com/viewjob?jk={{ job.indeed }}">{{ job.title }}</a></li>
-		{% else %}
-			<li><a href="{{ job.link }}">{{ job.title }}</a></li>
-		{% endif %}
-      {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
+	{% if page.jobs == empty %}
+		No new job posts this week.
+	{% endif %}
+	{% for listing in page.jobs %}
+		<li>
+			{% include company company=listing.company %} is looking for:
+			<ul>
+				{% for job in listing.jobs %}
+					<li><a href="{{ job.link }}">{{ job.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</li>
+	{% endfor %}
 </ul>
 
 View more jobs on our [Jobs Page]({{ site.url }}{{ site.baseurl }}/jobs)!

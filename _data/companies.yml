@@ -1,274 +1,364 @@
 acenet:
   name: ACENET
   url: https://www.ace-net.ca/
+  canadian: true
 andersvr:
   name: ANDES VR
   url: https://www.linkedin.com/organization-guest/company/andes-vr-corp
+  local: true
 atlanticlottery:
   name: Atlantic Lottery / Loteries de l’Atlantique
   url: http://www.alc.ca/
+  canadian: true
 arcticeider:
   name: Arctic Eider Society
   url: https://arcticeider.com/
+  canadian: true
 avalonholo:
   name: Avalon Holographics
   url: http://www.avalonholographics.com/
+  local: true
 averro:
   name: Averro Robotics and Technology
   url: https://averrorobotics.com/
+  local: true
 axis:
   name: AXIS Career Services
   url: https://www.axiscareers.net
+  local: true
 beaufort:
   name: Beaufort Solutions Inc.
   url: https://www.beaufortsolutions.com/
+  local: true
 breathesuite:
   name: BreatheSuite
   url: https://www.breathesuite.com/
+  local: true
 bluedrop:
   name: Bluedrop Learning Networks
   url: http://www.bluedroplearningnetworks.com/
+  local: true
 beap:
   name: BEAPLab
   url: http://www.beaplab.com/home/
+  local: true
 bullseyebranding:
   name: Bullseye Branding
   url: https://www.bullseyebranding.ca/
+  local: true
 cahill:
   name: Cahill Group
   url: http://www.cahill.ca
+  local: true
 cabotbusiness:
   name: Cabot Business Forms and Promotions
   url: https://www.cabotbusiness.ca/
+  local: true
 canadacode:
   name: "Canada Learning Code: St. John's Chapter"
   url: https://www.canadalearningcode.ca/chapters/st-johns/
+  local: true
 ccore:
   name: C-CORE
   url: https://www.c-core.ca
+  local: true
 celtx:
   name: Celtx
   url: https://www.celtx.com
+  local: true
 clockworkfox:
   name: Clockwork Fox
   url: http://clockworkfoxstudios.com
+  local: true
 cna:
   name: College of the North Atlantic
   url: https://www.cna.nl.ca
+  local: true
 colab:
   name: Colab Software
   url: https://www.colabsoftware.com/
+  local: true
 compusult:
   name: Compusult
   url: http://www.compusult.net/
+  local: true
 cougar:
   name: Cougar Helicopters Inc.
   url: https://www.cougar.ca/
+  local: true
 cpsnl:
   name: The College of Physicians and Surgeons of Newfoundland and Labrador
   url: https://www.cpsnl.ca/
+  local: true
 creativemaple:
   name: Creative Maple
   url: https://www.creativemaple.ca/
+  local: true
+easternacademy:
+  name: Eastern Academy
+  url: https://www.easternacademy.ca/
+  local: true
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/
+  local: true
 focus:
   name: Focus FS
   url: http://www.focusfs.com/
+  local: true
 fonemed:
   name: Fonemed
   url: https://www.fonemed.com/
+  local: true
 fugro:
   name: Fugro
   url: https://www.fugro.com/
+  canadian: true
 fytics:
   name: Fytics
   url: http://fytics.com/
+  local: true
 genoa:
   name: Genoa Design International
   url: http://genoadesign.com/
+  local: true
 govnl:
   name: Government of Newfoundland and Labrador
   url: https://www.gov.nl.ca/
+  local: true
 hatch:
   name: Hatch
   url: https://www.hatch.com
+  canadian: true
 heyorca:
   name: HeyOrca
   url: https://www.heyorca.com/
+  local: true
 hyke:
   name: Hyke
   url: https://hykeup.com/
+  local: true
 ici:
   name: ICI Innovations
   url: http://www.iciinnovations.com
+  local: true
 ioa:
   name: IOA Software Solutions
   url: http://www.ioass.com/
+  local: true
 imperva:
   name: Imperva
   url: https://apps.imperva.com/
 ironberry:
   name: Iron Berry
   url: https://ironberry.ca/
+  local: true
 inmarsat:
   name: Inmarsat
   url: https://www.inmarsat.com/
 inspectar:
   name: Inspectar
   url: https://www.inspectar.com/
+  local: true
 infotech:
   name: Infotech
   url: http://www.infotechsolutions.com/
+  canadian: true
 integrated:
   name: Integrated Informatics
   url: http://integrated-informatics.com/
 johnson:
   name: Johnson Insurance
   url: https://www1.johnson.ca/
+  local: true
 keyassets:
   name: 'Key Assets Newfoundland & Labrador'
   url: https://www.keyassetsnl.ca/
+  local: true
 kraken:
   name: Kraken Robotics
   url: http://krakenrobotics.com/
+  local: true
 lghealth:
   name: Labrador-Grenfell Health
   url: https://www.lghealth.ca/
+  local: true
 lemur:
   name: Lemur Vehicle Monitors
   url: https://www.bluedriver.com/
+  local: true
 mariner:
   name: Mariner Innovations
   url: https://www.marinerinnovations.com/
 mentic:
   name: Mentic Wellness Technologies
   url: https://mentic.co/
+  local: true
 mun:
   name: Memorial University of Newfoundland
   url: https://www.mun.ca
+  local: true
 milkmoovement:
   name: Milk Moovement
   url: https://www.milkmoovement.com/
+  local: true
 mysa:
   name: Mysa
   url: https://getmysa.com/
+  local: true
 nalcor:
   name: Nalcor Energy
   url: https://nalcorenergy.com/
+  local: true
 nlc:
   name: Newfoundland Labrador Liquor Corporation
   url: http://www.nlliquor.com/
+  local: true
 nlpower:
   name: Newfoundland Power
   url: https://www.newfoundlandpower.com/
+  local: true
 nlchi:
   name: Newfoundland and Labrador Centre for Health Information
   url: https://www.nlchi.nl.ca/
+  local: true
 nsbenergy:
   name: NSB Energy
   url: https://www.nsbenergy.com/
 ntv:
   name: Newfoundland Broadcasting
   url: http://ntv.ca/
+  local: true
 nlrt:
   name: Newfoundland and Labrador Research Technologies
   url: http://www.nlrt.ca/
+  local: true
 metricsflow:
   name: Metricsflow
   url: http://metricsflow.com/
+  local: true
 mobia:
   name: 'MOBIA Technology Innovations'
   url: "https://mobia.io/"
 oliverpos:
   name: Oliver POS
   url: https://oliverpos.com/
+  local: true
 omega:
   name: Omega AS
   url: https://www.omega.no/location/st-johns
 otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
+  local: true
 pal:
   name: PAL Airlines
   url: https://www.palairlines.ca/
+  local: true
 pangeo:
   name: PanGeo Subsea
   url: https://www.pangeosubsea.com/
+  local: true
 pinnacle:
   name: Pinnacle Networks Inc.
   url: https://www.pinnacleoffice.ca/networks/
+  local: true
 polyunity:
   name: PolyUnity
   url: https://polyunity.com/
+  local: true
 poweredbyb:
   name: Powered by b
   url: http://www.poweredbyb.ca/
+  local: true
 provident:
   name: Provident10
   url: https://provident10.ca/
+  local: true
 procom:
   name: Procom Data Services Inc
   url: http://www.gandercanada.com/business-directory/7907/procom-data-services-inc/
+  local: true
 qualiteas:
   name: qualiTEAS
   url: http://www.qualiteas.ca/
+  local: true
 q5:
   name: Q5 Systems
   url: http://www.q5systems.com/
-quidder:
-  name: Quidder
-  url: https://qwidder.com/
+  local: true
 quorum:
   name: Quorum Information Systems
   url: http://www.quorumdms.com/
+  canadian: true
 radient:
   name: Radient360
   url: http://radient360.com/
+  local: true
 rayagency:
   name: Ray Creative Agency
   url: https://rayagency.ca
+  local: true
 rsa:
   name: RSA Canada
   url: https://www.rsagroup.ca/
+  canadian: true
 robustic:
   name: Robustic
   url: http://robustic.ca/
 rutter:
   name: Rutter
   url: http://www.rutter.ca/
+  local: true
+scirs:
+  name: SCI Resource Software
+  url: https://scirs.ca/
+  local: true
 sequencebio:
   name: Sequence Bio
   url: https://www.sequencebio.com/
+  local: true
 skyhawk:
   name: SkyHawk Telematics
   url: http://skyhawktelematics.com/
+  local: true
+stantec:
+  name: Stantec
+  url: https://www.stantec.com/en
+  canadian: true
 strong:
   name: Strong Data Automation
   url: https://www.strongdata.ca/
+  local: true
 sulis:
   name: SULIS Subsea Corporation
   url: http://www.sulissubsea.com/
+  local: true
 subc:
   name: SubC Imaging
   url: http://subcimaging.com/
+  local: true
 tatasteel:
   name: Tata Steel
   url: http://www.tatasteelcanada.com/
+  canadian: true
 # Thermo Fisher Scientific is from the Netherlands not Newfoundland
 telus:
   name: Telus
   url: https://www.telus.com/
+  canadian: true
 totaliq:
   name: totaliQ
   url: https://totaliq.ca/
+  local: true
 target:
   name: Target Marketing
   url: https://targetmarketing.ca/
+  local: true
 triware:
   name: Triware Technologies Inc.
   url: http://triware.ca/
+  local: true
 # Venor is a talent/recruitment company, but they are active in our Slack so I am allowing them - Tim
 venor:
   name: Venor
@@ -278,39 +368,51 @@ venor:
 
     If you are looking to apply, you can also direct message `@JF Ratthé` in the [CTS-NL Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk).
   url: https://venor.ca/
+  canadian: true
 verafin:
   name: Verafin
   url: https://verafin.com
+  local: true
 vision33:
   name: Vision33
   url: https://www.vision33.com/
+  local: true
 vish:
   name: Vish Ltd.
   url: https://getvish.com/
+  local: true
 vmt:
   name: Virtual Marine Technologies
   url: https://www.virtualmarine.ca/
+  local: true
 wekaplex:
   name: WekaPlex
   url: http://www.wekaplex.com/
+  canadian: true
 waterwerks:
   name: "WaterWerks Communications"
   url: 'https://waterwerkscommunications.com/'
+  local: true
 westernhealth:
   name: Western Health
   url: https://westernhealth.nl.ca/
+  local: true
 whiterock:
   name: "White Rock Consulting & Communications"
   url: http://www.whiterocknl.com
+  local: true
 wood:
   name: Wood PLC
   url: https://www.woodplc.com
 worldfurexchange:
   name: World Fur Exchange
   url: http://worldfurexchange.com/
+  local: true
 workplacenl:
   name: WorkplaceNL
   url: https://workplacenl.ca/
+  local: true
 zedit:
   name: ZedIT
   url: http://www.zedit.com/
+  local: true

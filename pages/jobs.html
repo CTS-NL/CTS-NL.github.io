@@ -15,7 +15,7 @@ permalink: "/jobs/"
 <hr/>
 <div class="jobs">
 	{% for entry in site.data.jobs %}
-		<h4><a href="{{ site.data.companies[entry.company].url }}">{{ site.data.companies[entry.company].name }}</a></h4>
+		<h4>{% include company company=entry.company %}</h4>
 		{% if site.data.companies[entry.company].note %}
 			<div class="company_note">
 				{{ site.data.companies[entry.company].note | markdownify }}

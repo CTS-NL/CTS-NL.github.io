@@ -1,19 +1,37 @@
-- company: fonemed
+- company: stantec
   jobs:
     -
-      post_date: 2021-05-06
+      post_date: 2021-05-14
       jobs:
-        - title: Senior Software Developer
-          link: https://fonemed.applytojob.com/apply/JOPlZwp7Zj/Senior-Software-Developer
-- company: target
+        - title: Senior Front-End Developer
+          link: https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/
+        - title: UI UX Designer
+          link: https://stantec.jobs/st-johns-nl/ui-ux-designer/5402A76FD7244A2894D0AE310F1DA2C3/job/
+        - title: Senior Back-End Developer
+          link: https://stantec.jobs/st-johns-nl/senior-back-end-developer/D1CABBD38044481D8302B945DC76D6AB/job/
+- company: easternacademy
   jobs:
     -
-      post_date: 2021-05-06
+      post_date: 2021-05-14
       jobs:
-        - title: Web Developer
-          link: https://targetmarketing.ca/news/web-developer-position/
+        - title: Instructor - Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/FnNFbqSsSnFtRsoxrmULLkzX6wrxdBAyxW1zxP-C9DMMPLn-s2b_0A
+- company: scirs
+  jobs:
+    -
+      post_date: 2021-05-14
+      jobs:
+        - title: Senior Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/B1ODT2r4LgAa5GLRfdg7Qvj0W55cgelvK_79hY5olDd1LLX7LwmFqA
 - company: mariner
   jobs:
+    -
+      post_date: 2021-05-14
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999745375161-senior-software-engineer
+        - title: Software/BI Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999741866003-software-bi-architect
     -
       post_date: 2021-04-29
       jobs:
@@ -34,23 +52,36 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
-- company: verafin
+- company: quorum
   jobs:
     -
-      post_date: 2021-04-29
+      post_date: 2021-05-15
       jobs:
-        - title: Security Specialist
-          link: https://jobs.lever.co/verafin/95e39c85-8089-417d-8c1f-a2c423f77580
+        - title: Junior Software Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386102
+- company: celtx
+  jobs:
     -
-      post_date: 2021-04-22
+      post_date: 2021-05-15
       jobs:
-        - title: Cloud Automation Developer
-          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
+        - title: Data Engineer
+          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603267
+        - title: Data Analyst
+          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603240
+- company: fonemed
+  jobs:
     -
-      post_date: 2021-04-01
+      post_date: 2021-05-06
       jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+        - title: Senior Software Developer
+          link: https://fonemed.applytojob.com/apply/JOPlZwp7Zj/Senior-Software-Developer
+- company: target
+  jobs:
+    -
+      post_date: 2021-05-06
+      jobs:
+        - title: Web Developer
+          link: https://targetmarketing.ca/news/web-developer-position/
 - company: avalonholo
   jobs:
     - post_date: 2021-04-22
@@ -69,6 +100,13 @@
       jobs:
         - title: Junior Software Engineer
           link: https://www.workopolis.com/jobsearch/viewjob/srnK5jv07lWaJAzEoovYOf-EQVNBfHld94ARAcY88RdBX4bEZHi6pg
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-04-01
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: milkmoovement
   jobs:
     - post_date: 2021-03-18
@@ -92,13 +130,6 @@
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: pal
-  jobs:
-    -
-      post_date: 2021-02-11
-      jobs:
-        - title: Senior Software Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401560
 - company: colab
   jobs:
     -
@@ -134,13 +165,6 @@
           link: "https://focusfs.com/company/careers/application-development-lead/"
         - title: "Application QA Lead"
           link: "https://focusfs.com/company/careers/application-qa-lead/"
-- company: ironberry
-  jobs:
-    -
-      post_date: 2021-01-14
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
 - company: kraken
   jobs:
     -
@@ -148,7 +172,7 @@
       jobs:
         - title: "Software Developer – Underwater Vehicle Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1668297"
-        - title: "Software Developer - Vision Systems"
+        - title: "Software Developer – Vision Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1662372"
     -
       post_date: 2020-06-11

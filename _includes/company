@@ -2,8 +2,12 @@
 	{{ site.data.companies[include.company].name }}
 </a>
 {% if site.data.companies[include.company].local %}
-<span class="info" role="img" title="Local Company" aria-label="Company from Newfoundland and Labrador">🏴󠁣󠁡󠁮󠁬󠁿</span>
+<span class="info" role="img" title="Local Company" aria-label="Company from Newfoundland and Labrador">
+	<img src="{{ site.urlimg }}nl-flag.png" width="25" alt="Local Company">
+</span>
 {% endif %}
 {% if site.data.companies[include.company].canadian %}
-<span class="info" role="img" title="Canadian Company" aria-label="Company from Canada">🇨🇦󠁣󠁡󠁮󠁬󠁿</span>
+<span class="info" role="img" title="Canadian Company" aria-label="Company from Canada">
+	<img src="{{ site.urlimg }}canada-flag.png" width="25" alt="Canadian Company">
+</span>
 {% endif %}

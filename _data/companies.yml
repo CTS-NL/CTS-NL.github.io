@@ -86,6 +86,10 @@ cougar:
   name: Cougar Helicopters Inc.
   url: https://www.cougar.ca/
   local: true
+cima:
+  name: "CIMA+"
+  url: https://www.cima.ca/en/
+  canadian: true
 cpsnl:
   name: The College of Physicians and Surgeons of Newfoundland and Labrador
   url: https://www.cpsnl.ca/

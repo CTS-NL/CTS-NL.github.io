@@ -1,21 +1,31 @@
-- company: pangeo
+- company: vish
   jobs:
     -
-      post_date: 2021-05-21
+      post_date: 2021-06-04
       jobs:
-        - title: Senior Software Engineer
-          link: https://www.careerbeacon.com/en/job/1709555/pangeo-subsea-inc/senior-software-engineer/st-john-s
-- company: radient
+        - title: Front-End Developer
+          link: https://www.technl.ca/job/vish-st-johns-nl-26-front-end-developer/
+- company: sequencebio
   jobs:
     -
-      post_date: 2021-05-21
+      post_date: 2021-06-04
       jobs:
-        - title: Senior Software Developer
-          link: https://ca.indeed.com/viewjob?jk=84a4c4ab653288c0
-        - title: Intermediate Software Developer
-          link: https://ca.indeed.com/viewjob?jk=c71f999254951bfc
+        - title: Data Science Internship
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=30
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2021-06-04
+      jobs:
+        - title: Cloud Engineer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999751450056-cloud-engineer
 - company: stantec
   jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: Database Administrator
+          link: https://stantec.jobs/st-johns-nl/database-administrator-oracle-ebs/F9523E4253F94818B66144C2CC251536/job/
     -
       post_date: 2021-05-21
       jobs:
@@ -26,54 +36,21 @@
       jobs:
         - title: Senior Front-End Developer
           link: https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/
-        - title: UI UX Designer
-          link: https://stantec.jobs/st-johns-nl/ui-ux-designer/5402A76FD7244A2894D0AE310F1DA2C3/job/
-        - title: Senior Back-End Developer
-          link: https://stantec.jobs/st-johns-nl/senior-back-end-developer/D1CABBD38044481D8302B945DC76D6AB/job/
-- company: ironberry
+- company: milkmoovement
   jobs:
-    -
-      post_date: 2021-05-21
+    - post_date: 2021-06-04
       jobs:
-        - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/34450320
-- company: quorum
-  jobs:
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: WordPress Front-End Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386184
-    -
-      post_date: 2021-05-15
-      jobs:
-        - title: Junior Software Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386102
-- company: inspectar
-  jobs:
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Frontend Developer/UI Designer CO-OP Student
-          link: https://www.inspectar.com/career/frontend-co-op-student
-        - title: Backend Developer CO-OP Student
-          link: https://www.inspectar.com/career/backend-developer-co-op-student
-- company: easternacademy
-  jobs:
-    -
-      post_date: 2021-05-14
-      jobs:
-        - title: Instructor - Software Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/FnNFbqSsSnFtRsoxrmULLkzX6wrxdBAyxW1zxP-C9DMMPLn-s2b_0A
-- company: scirs
-  jobs:
-    -
-      post_date: 2021-05-14
-      jobs:
-        - title: Senior Developer
-          link: https://www.workopolis.com/jobsearch/viewjob/B1ODT2r4LgAa5GLRfdg7Qvj0W55cgelvK_79hY5olDd1LLX7LwmFqA
+        - title: "Mobile Developer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/CNVCgZM_P_50/mobile-developer"
+        - title: "Full Stack Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/-b9rbcVs33qr/full-stack-developer-remote"
 - company: mariner
   jobs:
+    -
+      post_date: 2021-06-04
+      jobs:
+        - title: Senior Software Developer (Python)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999749440542-senior-software-developer-python-
     -
       post_date: 2021-05-14
       jobs:
@@ -101,6 +78,45 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
+- company: radient
+  jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: Senior Software Developer
+          link: https://ca.indeed.com/viewjob?jk=84a4c4ab653288c0
+        - title: Intermediate Software Developer
+          link: https://ca.indeed.com/viewjob?jk=c71f999254951bfc
+- company: ironberry
+  jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/34450320
+- company: quorum
+  jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: WordPress Front-End Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386184
+- company: inspectar
+  jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: Frontend Developer/UI Designer CO-OP Student
+          link: https://www.inspectar.com/career/frontend-co-op-student
+        - title: Backend Developer CO-OP Student
+          link: https://www.inspectar.com/career/backend-developer-co-op-student
+- company: easternacademy
+  jobs:
+    -
+      post_date: 2021-05-14
+      jobs:
+        - title: Instructor - Software Developer
+          link: https://www.workopolis.com/jobsearch/viewjob/FnNFbqSsSnFtRsoxrmULLkzX6wrxdBAyxW1zxP-C9DMMPLn-s2b_0A
 - company: celtx
   jobs:
     -
@@ -143,12 +159,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-03-18
-      jobs:
-        - title: "Dev Ops Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
 - company: compusult
   jobs:
     -
@@ -169,20 +179,10 @@
 - company: colab
   jobs:
     -
-      post_date: 2021-02-11
-      jobs:
-        - title: "Application Support Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/3804"
-    -
       post_date: 2021-02-04
       jobs:
         - title: "QA & Test Automation Developer"
-          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/3711"
-    -
-      post_date: 2020-12-10
-      jobs:
-        - title: "Senior Frontend Developer (React)"
-          link: "https://colabsoftware.humi.ca/job-board/software/3202"
+          link: "https://colabsoftware.humi.ca/job-board/qa+testing/5458"
 - company: bluedrop
   jobs:
     -

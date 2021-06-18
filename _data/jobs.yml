@@ -1,5 +1,17 @@
+- company: celtx
+  jobs:
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Data Engineer
+          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1640237
 - company: mysa
   jobs:
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Senior Software Developer (DevOps)
+          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
     -
       post_date: 2021-06-11
       jobs:
@@ -72,8 +84,6 @@
     -
       post_date: 2021-06-11
       jobs:
-        - title: Junior Software Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386102
         - title: Intermediate Front-End Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=387603
     -
@@ -88,13 +98,6 @@
       jobs:
         - title: Front-End Developer
           link: https://www.technl.ca/job/vish-st-johns-nl-26-front-end-developer/
-- company: sequencebio
-  jobs:
-    -
-      post_date: 2021-06-04
-      jobs:
-        - title: Data Science Internship
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=30
 - company: stantec
   jobs:
     -
@@ -144,13 +147,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
-- company: ironberry
-  jobs:
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Software Developer
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/34450320
 - company: inspectar
   jobs:
     -
@@ -160,15 +156,6 @@
           link: https://www.inspectar.com/career/frontend-co-op-student
         - title: Backend Developer CO-OP Student
           link: https://www.inspectar.com/career/backend-developer-co-op-student
-- company: celtx
-  jobs:
-    -
-      post_date: 2021-05-15
-      jobs:
-        - title: Data Engineer
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603267
-        - title: Data Analyst
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603240
 - company: fonemed
   jobs:
     -
@@ -191,8 +178,6 @@
           link: https://www.avalonholographics.com/careers
     - post_date: 2021-04-08
       jobs:
-        - title: FPGA Designer
-          link: https://www.avalonholographics.com/careers
         - title: DevOps Engineer
           link: https://www.avalonholographics.com/careers
 - company: verafin

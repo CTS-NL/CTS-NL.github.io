@@ -1,12 +1,19 @@
-- company: celtx
+- company: sequencebio
   jobs:
     -
-      post_date: 2021-06-18
+      post_date: 2021-06-25
       jobs:
-        - title: Data Engineer
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1640237
+        - title: Data Scientist
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=34
+        - title: Senior Computational Biologist
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=35
 - company: mysa
   jobs:
+    -
+      post_date: 2021-06-25
+      jobs:
+        - title: Web Developer
+          link: https://jobs.lever.co/getmysa/1a3d63f3-68ec-4435-a89c-842118cae97e
     -
       post_date: 2021-06-18
       jobs:
@@ -17,13 +24,64 @@
       jobs:
         - title: Intermediate Software Developer
           link: https://jobs.lever.co/getmysa/8251b6c3-4949-4fd3-af66-ce75fecd5dac
-- company: wood
+- company: kraken
   jobs:
     -
-      post_date: 2021-06-11
+      post_date: 2021-06-25
+      jobs:
+        - title: "Software Developer – Underwater Vehicle Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1714360"
+        - title: "Software Developer - Sonar Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
+        - title: "Software Developer – UI"
+          link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
+        - title: "Software Developer – Vision Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
+        - title: "Software Quality Assurance Coordinator"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-coordinator/1714367"
+        - title: "Software Quality Assurance Specialist"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1714368"
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-06-25
+      jobs:
+        - title: Cloud Automation Developer
+          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
+        - title: Database Administrator
+          link: https://jobs.lever.co/verafin/546503f7-e1fc-482b-932d-ea915685379a
+        - title: Cloud Automation Developer (Night Shift)
+          link: https://jobs.lever.co/verafin/6a6c5eeb-41a9-46e6-9af5-ef3be63867c2
+        - title: Security Specialist
+          link: https://jobs.lever.co/verafin/95e39c85-8089-417d-8c1f-a2c423f77580
+        - title: Release Engineer
+          link: https://jobs.lever.co/verafin/96018757-1b8a-44d3-838b-224005b445b0
+    -
+      post_date: 2021-04-01
       jobs:
         - title: Software Developer
-          link: https://woodplc-canadaexternal.icims.com/jobs/87625/job
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: avalonholo
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+    - post_date: 2021-04-22
+      jobs:
+        - title: Software Engineer
+          link: https://www.avalonholographics.com/careers
+    - post_date: 2021-04-08
+      jobs:
+        - title: DevOps Engineer
+          link: https://www.avalonholographics.com/careers
+- company: celtx
+  jobs:
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Data Engineer
+          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1640237
 - company: colab
   jobs:
     -
@@ -51,22 +109,6 @@
       jobs:
         - title: "Mobile Developer"
           link: "https://milkmoovement-talent.freshteam.com/jobs/CNVCgZM_P_50/mobile-developer"
-        - title: "Full Stack Developer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/-b9rbcVs33qr/full-stack-developer-remote"
-- company: radient
-  jobs:
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: Software Quality Assurance Specialist
-          link: https://ca.indeed.com/viewjob?jk=eee6c7987a80cc2c
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Senior Software Developer
-          link: https://ca.indeed.com/viewjob?jk=84a4c4ab653288c0
-        - title: Intermediate Software Developer
-          link: https://ca.indeed.com/viewjob?jk=c71f999254951bfc
 - company: inmarsat
   jobs:
     -
@@ -79,18 +121,6 @@
       jobs:
         - title: Cloud Engineer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999751450056-cloud-engineer
-- company: quorum
-  jobs:
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: Intermediate Front-End Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=387603
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: WordPress Front-End Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&jobId=386184
 - company: vish
   jobs:
     -
@@ -170,23 +200,6 @@
       jobs:
         - title: Web Developer
           link: https://targetmarketing.ca/news/web-developer-position/
-- company: avalonholo
-  jobs:
-    - post_date: 2021-04-22
-      jobs:
-        - title: Software Engineer
-          link: https://www.avalonholographics.com/careers
-    - post_date: 2021-04-08
-      jobs:
-        - title: DevOps Engineer
-          link: https://www.avalonholographics.com/careers
-- company: verafin
-  jobs:
-    -
-      post_date: 2021-04-01
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: compusult
   jobs:
     -
@@ -213,43 +226,19 @@
           link: https://careers.bluedroplearningnetworks.com/?page_id=124
         - title: Intermediate Full-Stack Developer
           link: https://careers.bluedroplearningnetworks.com/?page_id=126
-- company: kraken
-  jobs:
-    -
-      post_date: 2020-10-15
-      jobs:
-        - title: "Software Developer – Underwater Vehicle Systems"
-          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1668297"
-        - title: "Software Developer – Vision Systems"
-          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1662372"
-    -
-      post_date: 2020-06-11
-      jobs:
-        - title: "Computer Vision Engineer"
-          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
-    -
-      post_date: 2020-04-30
-      jobs:
-        - title: "Software Developer"
-          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
-- company: vision33
-  jobs:
-    -
-      post_date: 2020-10-08
-      jobs:
-        - title: Senior Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13754519-Senior-Software-Developer-General-Application-Open-Location
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: ioa
   jobs:
     - post_date: 2020-10-10
       jobs:
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: lemur
   jobs:
     -

@@ -1,3 +1,19 @@
+- company: ccore
+  jobs:
+    -
+      post_date: 2021-07-02
+      jobs:
+        - title: Software Systems Developer
+          link: https://ca.indeed.com/viewjob?jk=e0081856c51eea25
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2021-07-02
+      jobs:
+        - title: Senior Mobile Software Engineer
+          link: https://www.ziprecruiter.com/jobs/breathesuite-28f0627b/senior-mobile-software-engineer-17c99714
+        - title: Software QA Lead
+          link: https://www.ziprecruiter.com/jobs/breathesuite-28f0627b/software-qa-lead-28dbd1fe
 - company: sequencebio
   jobs:
     -
@@ -43,21 +59,7 @@
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1714368"
 - company: verafin
   jobs:
-    -
-      post_date: 2021-06-25
-      jobs:
-        - title: Cloud Automation Developer
-          link: https://jobs.lever.co/verafin/c7fd2d10-4c59-4574-9c2f-1044a7a0556e
-        - title: Database Administrator
-          link: https://jobs.lever.co/verafin/546503f7-e1fc-482b-932d-ea915685379a
-        - title: Cloud Automation Developer (Night Shift)
-          link: https://jobs.lever.co/verafin/6a6c5eeb-41a9-46e6-9af5-ef3be63867c2
-        - title: Security Specialist
-          link: https://jobs.lever.co/verafin/95e39c85-8089-417d-8c1f-a2c423f77580
-        - title: Release Engineer
-          link: https://jobs.lever.co/verafin/96018757-1b8a-44d3-838b-224005b445b0
-    -
-      post_date: 2021-04-01
+    - post_date: 2021-06-25
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
@@ -153,30 +155,10 @@
         - title: Senior Software Developer (Python)
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999749440542-senior-software-developer-python-
     -
-      post_date: 2021-05-14
-      jobs:
-        - title: Software/BI Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999741866003-software-bi-architect
-    -
       post_date: 2021-04-29
       jobs:
         - title: Java Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999744240394-java-developer
-    -
-      post_date: 2021-03-11
-      jobs:
-        - title: Enterprise/Data Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999737687065-enterprise-data-architect
-    -
-      post_date: 2021-02-25
-      jobs:
-        - title: Senior Technical Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999736222760-senior-technical-architect
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: Senior Software Developer
-          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
 - company: inspectar
   jobs:
     -

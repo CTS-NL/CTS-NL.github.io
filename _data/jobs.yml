@@ -1,3 +1,25 @@
+- company: totaliq
+  jobs:
+    - post_date: 2021-07-09
+      jobs:
+        - title: "Senior Full Stack Developer"
+          link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
+- company: compusult
+  jobs:
+    - post_date: 2021-07-09
+      jobs:
+        - title: "Web/Graphic Designer"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-07-09
+      jobs:
+        - title: "React Native Developer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/i3l36SJyDTv-/react-native-developer"
+    - post_date: 2021-06-11
+      jobs:
+        - title: "Dev Ops Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
 - company: ccore
   jobs:
     -
@@ -95,22 +117,8 @@
           link: "https://colabsoftware.humi.ca/job-board/software+development/5591"
         - title: "Backend Developer"
           link: "https://colabsoftware.humi.ca/job-board/software+development/5592"
-        - title: "3D Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/5669"
         - title: "Cloud Architect"
           link: "https://colabsoftware.humi.ca/job-board/devops/5671"
-        - title: "QA & Test Automation Lead"
-          link: "https://colabsoftware.humi.ca/job-board/qa+testing/5458"
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-06-11
-      jobs:
-        - title: "Dev Ops Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
-    - post_date: 2021-06-04
-      jobs:
-        - title: "Mobile Developer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/CNVCgZM_P_50/mobile-developer"
 - company: inmarsat
   jobs:
     -
@@ -118,11 +126,6 @@
       jobs:
         - title: API Designer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
-    -
-      post_date: 2021-06-04
-      jobs:
-        - title: Cloud Engineer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999751450056-cloud-engineer
 - company: vish
   jobs:
     -
@@ -182,23 +185,6 @@
       jobs:
         - title: Web Developer
           link: https://targetmarketing.ca/news/web-developer-position/
-- company: compusult
-  jobs:
-    -
-      post_date: 2021-02-18
-      jobs:
-        - title: "Senior Software Engineer (AI or 3D Geospatial Rendering)"
-          link: "https://www.compusult.com/web/guest/careers"
-    -
-      post_date: 2020-06-04
-      jobs:
-        - title: "Software Testing Specialist"
-          link: "https://www.compusult.com/web/guest/careers"
-    -
-      post_date: 2020-04-23
-      jobs:
-        - title: "Software Developers"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: bluedrop
   jobs:
     -

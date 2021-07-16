@@ -1,3 +1,25 @@
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-07-16
+      jobs:
+        - title: Software Developer - Automation
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761367189-software-developer-automation
+        - title: AWS Solution Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759823615-aws-solution-architect
+        - title: Senior AWS Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759714167-senior-aws-java-developer
+    -
+      post_date: 2021-06-04
+      jobs:
+        - title: Senior Software Developer (Python)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999749440542-senior-software-developer-python-
+- company: easternacademy
+  jobs:
+    - post_date: 2021-07-16
+      jobs:
+        - title: Software Developer Instructor
+          link: https://www.technl.ca/job/eastern-academy-st-johns-nl-26-software-developer-instructor/
 - company: totaliq
   jobs:
     - post_date: 2021-07-09
@@ -25,7 +47,7 @@
     -
       post_date: 2021-07-02
       jobs:
-        - title: Software Systems Developer
+        - title: Linux Software Developer
           link: https://ca.indeed.com/viewjob?jk=e0081856c51eea25
 - company: breathesuite
   jobs:
@@ -34,8 +56,6 @@
       jobs:
         - title: Senior Mobile Software Engineer
           link: https://www.ziprecruiter.com/jobs/breathesuite-28f0627b/senior-mobile-software-engineer-17c99714
-        - title: Software QA Lead
-          link: https://www.ziprecruiter.com/jobs/breathesuite-28f0627b/software-qa-lead-28dbd1fe
 - company: sequencebio
   jobs:
     -
@@ -150,18 +170,6 @@
       jobs:
         - title: Senior Front-End Developer
           link: https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/
-- company: mariner
-  jobs:
-    -
-      post_date: 2021-06-04
-      jobs:
-        - title: Senior Software Developer (Python)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999749440542-senior-software-developer-python-
-    -
-      post_date: 2021-04-29
-      jobs:
-        - title: Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999744240394-java-developer
 - company: inspectar
   jobs:
     -

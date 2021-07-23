@@ -241,6 +241,10 @@ metricsflow:
   name: Metricsflow
   url: http://metricsflow.com/
   local: true
+m5:
+  name: m5 Marketing Communications
+  url: https://m5.ca/
+  canadian: true
 mobia:
   name: 'MOBIA Technology Innovations'
   url: "https://mobia.io/"
@@ -325,6 +329,10 @@ sequencebio:
 skyhawk:
   name: SkyHawk Telematics
   url: http://skyhawktelematics.com/
+  local: true
+smartice:
+  name: SmartICE
+  url: http://www.smartice.org/
   local: true
 stantec:
   name: Stantec

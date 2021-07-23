@@ -1,5 +1,46 @@
+- company: wood
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Software Developer
+          link: https://woodplc-canadaexternal.icims.com/jobs/89184/job
+- company: m5
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Senior Drupal Developer
+          link: https://www.careerbeacon.com/en/job/1718909/m5/senior-drupal-developer/st-john-s
+- company: smartice
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Application Developer
+          link: http://www.smartice.org/jobs/
+- company: quorum
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Information Security Manager
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=390468
+        - title: Data Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=389142
+- company: verafin
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Cloud Administrator Developer (Night Shift)
+          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: mariner
   jobs:
+    -
+      post_date: 2021-07-23
+      jobs:
+        - title: Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761966085-java-developer
     -
       post_date: 2021-07-16
       jobs:
@@ -99,12 +140,6 @@
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-coordinator/1714367"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1714368"
-- company: verafin
-  jobs:
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25

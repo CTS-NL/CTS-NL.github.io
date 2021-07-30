@@ -1,3 +1,22 @@
+- company: celtx
+  jobs:
+    -
+      post_date: 2021-07-30
+      jobs:
+        - title: Data Analyst
+          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603240
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2021-07-30
+      jobs:
+        - title: Junior Analyst Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999762973302-junior-analyst-developer
+    -
+      post_date: 2021-06-11
+      jobs:
+        - title: API Designer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
 - company: wood
   jobs:
     - post_date: 2021-07-23
@@ -73,16 +92,6 @@
       jobs:
         - title: "Web/Graphic Designer"
           link: "https://www.compusult.com/web/guest/careers"
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-07-09
-      jobs:
-        - title: "React Native Developer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/i3l36SJyDTv-/react-native-developer"
-    - post_date: 2021-06-11
-      jobs:
-        - title: "Dev Ops Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
 - company: ccore
   jobs:
     -
@@ -154,13 +163,6 @@
       jobs:
         - title: DevOps Engineer
           link: https://www.avalonholographics.com/careers
-- company: celtx
-  jobs:
-    -
-      post_date: 2021-06-18
-      jobs:
-        - title: Data Engineer
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1640237
 - company: colab
   jobs:
     -
@@ -174,20 +176,6 @@
           link: "https://colabsoftware.humi.ca/job-board/software+development/5592"
         - title: "Cloud Architect"
           link: "https://colabsoftware.humi.ca/job-board/devops/5671"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: API Designer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
-- company: vish
-  jobs:
-    -
-      post_date: 2021-06-04
-      jobs:
-        - title: Front-End Developer
-          link: https://www.technl.ca/job/vish-st-johns-nl-26-front-end-developer/
 - company: stantec
   jobs:
     -
@@ -220,7 +208,7 @@
       post_date: 2021-05-06
       jobs:
         - title: Senior Software Developer
-          link: https://fonemed.applytojob.com/apply/JOPlZwp7Zj/Senior-Software-Developer
+          link: https://fonemed.applytojob.com/apply/2QDf41IN2X/Senior-Software-Developer
 - company: target
   jobs:
     -

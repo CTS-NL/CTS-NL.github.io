@@ -1,12 +1,10 @@
-- company: celtx
-  jobs:
-    -
-      post_date: 2021-07-30
-      jobs:
-        - title: Data Analyst
-          link: https://celtx.hrmdirect.com/employment/job-opening.php?req=1603240
 - company: inmarsat
   jobs:
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Analyst Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
     -
       post_date: 2021-07-30
       jobs:
@@ -17,34 +15,12 @@
       jobs:
         - title: API Designer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
-- company: wood
-  jobs:
-    - post_date: 2021-07-23
-      jobs:
-        - title: Software Developer
-          link: https://woodplc-canadaexternal.icims.com/jobs/89184/job
-- company: m5
-  jobs:
-    - post_date: 2021-07-23
-      jobs:
-        - title: Senior Drupal Developer
-          link: https://www.careerbeacon.com/en/job/1718909/m5/senior-drupal-developer/st-john-s
-- company: smartice
-  jobs:
-    - post_date: 2021-07-23
-      jobs:
-        - title: Application Developer
-          link: http://www.smartice.org/jobs/
-- company: quorum
-  jobs:
-    - post_date: 2021-07-23
-      jobs:
-        - title: Information Security Manager
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=390468
-        - title: Data Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=389142
 - company: verafin
   jobs:
+    - post_date: 2021-08-20
+      jobs:
+        - title: Security Analyst
+          link: https://jobs.lever.co/verafin/e5266f5f-515c-4447-8435-e928d2f9662a/
     - post_date: 2021-07-23
       jobs:
         - title: Cloud Administrator Developer (Night Shift)
@@ -53,8 +29,25 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: quorum
+  jobs:
+    - post_date: 2021-08-20
+      jobs:
+        - title: Sr. Front-End Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
+        - title: Senior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
+    - post_date: 2021-07-23
+      jobs:
+        - title: Information Security Manager
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=390468
 - company: mariner
   jobs:
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999766946572-senior-python-developer
     -
       post_date: 2021-07-23
       jobs:
@@ -69,11 +62,21 @@
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759823615-aws-solution-architect
         - title: Senior AWS Java Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759714167-senior-aws-java-developer
+- company: bluedrop
+  jobs:
     -
-      post_date: 2021-06-04
+      post_date: 2021-08-20
       jobs:
-        - title: Senior Software Developer (Python)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999749440542-senior-software-developer-python-
+        - title: Senior Dev Ops Engineer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=138
+        - title: Senior Back End Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=139
+- company: wood
+  jobs:
+    - post_date: 2021-07-23
+      jobs:
+        - title: Software Developer
+          link: https://woodplc-canadaexternal.icims.com/jobs/89184/job
 - company: easternacademy
   jobs:
     - post_date: 2021-07-16
@@ -99,13 +102,6 @@
       jobs:
         - title: Linux Software Developer
           link: https://ca.indeed.com/viewjob?jk=e0081856c51eea25
-- company: breathesuite
-  jobs:
-    -
-      post_date: 2021-07-02
-      jobs:
-        - title: Senior Mobile Software Engineer
-          link: https://www.ziprecruiter.com/jobs/breathesuite-28f0627b/senior-mobile-software-engineer-17c99714
 - company: sequencebio
   jobs:
     -
@@ -158,10 +154,6 @@
     - post_date: 2021-04-22
       jobs:
         - title: Software Engineer
-          link: https://www.avalonholographics.com/careers
-    - post_date: 2021-04-08
-      jobs:
-        - title: DevOps Engineer
           link: https://www.avalonholographics.com/careers
 - company: colab
   jobs:
@@ -216,15 +208,6 @@
       jobs:
         - title: Web Developer
           link: https://targetmarketing.ca/news/web-developer-position/
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2021-02-04
-      jobs:
-        - title: Senior Front-End Developer
-          link: https://careers.bluedroplearningnetworks.com/?page_id=124
-        - title: Intermediate Full-Stack Developer
-          link: https://careers.bluedroplearningnetworks.com/?page_id=126
 - company: ioa
   jobs:
     - post_date: 2020-10-10

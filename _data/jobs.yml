@@ -1,3 +1,60 @@
+- company: compusult
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Security Engineer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
+        - title: "Machine Learning Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
+- company: verafin
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: Cloud Administrator Developer (Night Shift)
+          link: https://jobs.lever.co/verafin/546503f7-e1fc-482b-932d-ea915685379a/
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: quorum
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: Data Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=389142
+    - post_date: 2021-08-20
+      jobs:
+        - title: Senior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
+- company: colab
+  jobs:
+    -
+      post_date: 2021-09-10
+      jobs:
+        - title: "Senior QA Analyst"
+          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/7131"
+- company: mysa
+  jobs:
+    -
+      post_date: 2021-09-10
+      jobs:
+        - title: Intermediate QA Analyst
+          link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+        - title: Junior QA Analyst
+          link: https://jobs.lever.co/getmysa/c844b939-360d-480d-b129-880a4065bf45
+        - title: Intermediate Embedded Software Developer
+          link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
 - company: inmarsat
   jobs:
     -
@@ -6,41 +63,10 @@
         - title: Analyst Developer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
     -
-      post_date: 2021-07-30
-      jobs:
-        - title: Junior Analyst Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999762973302-junior-analyst-developer
-    -
       post_date: 2021-06-11
       jobs:
         - title: API Designer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
-- company: verafin
-  jobs:
-    - post_date: 2021-08-20
-      jobs:
-        - title: Security Analyst
-          link: https://jobs.lever.co/verafin/e5266f5f-515c-4447-8435-e928d2f9662a/
-    - post_date: 2021-07-23
-      jobs:
-        - title: Cloud Administrator Developer (Night Shift)
-          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: quorum
-  jobs:
-    - post_date: 2021-08-20
-      jobs:
-        - title: Sr. Front-End Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
-        - title: Senior Full Stack Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
-    - post_date: 2021-07-23
-      jobs:
-        - title: Information Security Manager
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=390468
 - company: mariner
   jobs:
     -
@@ -71,12 +97,6 @@
           link: https://careers.bluedroplearningnetworks.com/?page_id=138
         - title: Senior Back End Developer
           link: https://careers.bluedroplearningnetworks.com/?page_id=139
-- company: wood
-  jobs:
-    - post_date: 2021-07-23
-      jobs:
-        - title: Software Developer
-          link: https://woodplc-canadaexternal.icims.com/jobs/89184/job
 - company: easternacademy
   jobs:
     - post_date: 2021-07-16
@@ -89,45 +109,13 @@
       jobs:
         - title: "Senior Full Stack Developer"
           link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
-- company: compusult
-  jobs:
-    - post_date: 2021-07-09
-      jobs:
-        - title: "Web/Graphic Designer"
-          link: "https://www.compusult.com/web/guest/careers"
-- company: ccore
-  jobs:
-    -
-      post_date: 2021-07-02
-      jobs:
-        - title: Linux Software Developer
-          link: https://ca.indeed.com/viewjob?jk=e0081856c51eea25
 - company: sequencebio
   jobs:
     -
       post_date: 2021-06-25
       jobs:
-        - title: Data Scientist
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=34
         - title: Senior Computational Biologist
           link: https://sequencebio.bamboohr.com/jobs/view.php?id=35
-- company: mysa
-  jobs:
-    -
-      post_date: 2021-06-25
-      jobs:
-        - title: Web Developer
-          link: https://jobs.lever.co/getmysa/1a3d63f3-68ec-4435-a89c-842118cae97e
-    -
-      post_date: 2021-06-18
-      jobs:
-        - title: Senior Software Developer (DevOps)
-          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: Intermediate Software Developer
-          link: https://jobs.lever.co/getmysa/8251b6c3-4949-4fd3-af66-ce75fecd5dac
 - company: kraken
   jobs:
     -
@@ -144,7 +132,7 @@
         - title: "Software Quality Assurance Coordinator"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-coordinator/1714367"
         - title: "Software Quality Assurance Specialist"
-          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1714368"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25
@@ -155,31 +143,8 @@
       jobs:
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
-- company: colab
-  jobs:
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/5590"
-        - title: "Frontend Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/5591"
-        - title: "Backend Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/5592"
-        - title: "Cloud Architect"
-          link: "https://colabsoftware.humi.ca/job-board/devops/5671"
 - company: stantec
   jobs:
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Database Administrator
-          link: https://stantec.jobs/st-johns-nl/database-administrator-oracle-ebs/F9523E4253F94818B66144C2CC251536/job/
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Application Security Specialist
-          link: https://stantec.jobs/st-johns-nl/application-security-specialist-application-penetration-testing/EB9017B3EBEA42B1BE9748A61495E113/job/
     -
       post_date: 2021-05-14
       jobs:

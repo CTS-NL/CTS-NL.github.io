@@ -342,6 +342,10 @@ strong:
   name: Strong Data Automation
   url: https://www.strongdata.ca/
   local: true
+solace:
+  name: Solace Power Inc.
+  url: https://www.solace.ca/
+  local: true
 sulis:
   name: SULIS Subsea Corporation
   url: http://www.sulissubsea.com/

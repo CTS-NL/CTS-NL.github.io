@@ -1,3 +1,74 @@
+- company: ici
+  jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Intermediate Software Developer
+          link: https://www.careerbeacon.com/en/job/1728424/ici-innovations-incorporated/intermediate-software-developer/st-john-s
+- company: solace
+  jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Software and Firmware Engineer
+          link: https://www.solace.ca/s/Software-Engineer-Solace-Power-Sept-2021.pdf
+- company: wood
+  jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Software Developer
+          link: https://woodplc-canadaexternal.icims.com/jobs/92750/job
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Developer, Software
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/35040270
+- company: quorum
+  jobs:
+    - post_date: 2021-09-24
+      jobs:
+        - title: Sr. Front-End Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
+    - post_date: 2021-08-20
+      jobs:
+        - title: Senior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
+- company: totaliq
+  jobs:
+    - post_date: 2021-09-24
+      jobs:
+        - title: "Full Stack Developer Internship"
+          link: "https://technl.ca/job/totaliq-26-full-stack-developer-internship/"
+    - post_date: 2021-07-09
+      jobs:
+        - title: "Senior Full Stack Developer (Remote)"
+          link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Senior Analyst Developer - Integration Services
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999775123826-senior-analyst-developer-integration-services
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Analyst Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
+    -
+      post_date: 2021-06-11
+      jobs:
+        - title: API Designer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
+- company: celtx
+  jobs:
+    - post_date: 2021-09-24
+      jobs:
+        - title: "Senior DevOps Engineer"
+          link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1756210&"
 - company: compusult
   jobs:
     - post_date: 2021-09-10
@@ -12,26 +83,6 @@
           link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
         - title: "Machine Learning Engineer"
           link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
-- company: verafin
-  jobs:
-    - post_date: 2021-09-10
-      jobs:
-        - title: Cloud Administrator Developer (Night Shift)
-          link: https://jobs.lever.co/verafin/546503f7-e1fc-482b-932d-ea915685379a/
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: quorum
-  jobs:
-    - post_date: 2021-09-10
-      jobs:
-        - title: Data Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=389142
-    - post_date: 2021-08-20
-      jobs:
-        - title: Senior Full Stack Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
 - company: colab
   jobs:
     -
@@ -55,30 +106,18 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2021-08-20
-      jobs:
-        - title: Analyst Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: API Designer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
 - company: mariner
   jobs:
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Systems Integrator
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999768502751-systems-integrator
     -
       post_date: 2021-08-20
       jobs:
         - title: Senior Python Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999766946572-senior-python-developer
-    -
-      post_date: 2021-07-23
-      jobs:
-        - title: Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761966085-java-developer
     -
       post_date: 2021-07-16
       jobs:
@@ -103,12 +142,12 @@
       jobs:
         - title: Software Developer Instructor
           link: https://www.technl.ca/job/eastern-academy-st-johns-nl-26-software-developer-instructor/
-- company: totaliq
+- company: verafin
   jobs:
-    - post_date: 2021-07-09
+    - post_date: 2021-06-25
       jobs:
-        - title: "Senior Full Stack Developer"
-          link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: sequencebio
   jobs:
     -
@@ -159,13 +198,6 @@
           link: https://www.inspectar.com/career/frontend-co-op-student
         - title: Backend Developer CO-OP Student
           link: https://www.inspectar.com/career/backend-developer-co-op-student
-- company: fonemed
-  jobs:
-    -
-      post_date: 2021-05-06
-      jobs:
-        - title: Senior Software Developer
-          link: https://fonemed.applytojob.com/apply/2QDf41IN2X/Senior-Software-Developer
 - company: target
   jobs:
     -

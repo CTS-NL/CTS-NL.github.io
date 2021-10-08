@@ -1,3 +1,38 @@
+- company: rutter
+  jobs:
+    -
+      post_date: 2021-10-08
+      jobs:
+        - title: Software Developer
+          link: https://www.careerbeacon.com/en/job/1732462/rutter/software-developer/st-john-s
+- company: heyorca
+  jobs:
+    -
+      post_date: 2021-10-08
+      jobs:
+        - title: Experienced Software Developer (Fulltime) - Remote
+          link: https://secure.collage.co/jobs/heyorca/11328
+        - title: Software Engineer (12 months intern)
+          link: https://secure.collage.co/jobs/heyorca/11310
+        - title: UX & UI Designer (Fulltime)- Remote
+          link: https://secure.collage.co/jobs/heyorca/25672
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2021-10-08
+      jobs:
+        - title: Front End Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999775274035-front-end-developer
+    -
+      post_date: 2021-09-24
+      jobs:
+        - title: Senior Analyst Developer - Integration Services
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999775123826-senior-analyst-developer-integration-services
+    -
+      post_date: 2021-06-11
+      jobs:
+        - title: API Designer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
 - company: ici
   jobs:
     -
@@ -32,10 +67,6 @@
       jobs:
         - title: Sr. Front-End Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
-    - post_date: 2021-08-20
-      jobs:
-        - title: Senior Full Stack Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
 - company: totaliq
   jobs:
     - post_date: 2021-09-24
@@ -46,23 +77,6 @@
       jobs:
         - title: "Senior Full Stack Developer (Remote)"
           link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2021-09-24
-      jobs:
-        - title: Senior Analyst Developer - Integration Services
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999775123826-senior-analyst-developer-integration-services
-    -
-      post_date: 2021-08-20
-      jobs:
-        - title: Analyst Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: API Designer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
 - company: celtx
   jobs:
     - post_date: 2021-09-24
@@ -109,11 +123,6 @@
 - company: mariner
   jobs:
     -
-      post_date: 2021-09-24
-      jobs:
-        - title: Systems Integrator
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999768502751-systems-integrator
-    -
       post_date: 2021-08-20
       jobs:
         - title: Senior Python Developer
@@ -121,8 +130,6 @@
     -
       post_date: 2021-07-16
       jobs:
-        - title: Software Developer - Automation
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761367189-software-developer-automation
         - title: AWS Solution Architect
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759823615-aws-solution-architect
         - title: Senior AWS Java Developer
@@ -168,8 +175,6 @@
           link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
         - title: "Software Developer – Vision Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
-        - title: "Software Quality Assurance Coordinator"
-          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-coordinator/1714367"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: avalonholo

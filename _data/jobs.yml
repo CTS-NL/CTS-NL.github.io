@@ -1,3 +1,40 @@
+- company: workplacenl
+  jobs:
+    - post_date: 2021-10-15
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: "https://www.careerbeacon.com/en/job/1733962/workplacenl/senior-programmer-analyst/st-john-s"
+- company: fonemed
+  jobs:
+    - post_date: 2021-10-15
+      jobs:
+        - title: "Software Development Team Lead"
+          link: "https://fonemed.applytojob.com/apply/gWn9jWeRHk/Software-Development-Team-Lead"
+- company: clearrisk
+  jobs:
+    - post_date: 2021-10-15
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.clearrisk.com/about-clearrisk/careers/softwaredeveloperintern-2021"
+- company: colab
+  jobs:
+    -
+      post_date: 2021-10-15
+      jobs:
+        - title: "Full Stack Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/8039"
+- company: quorum
+  jobs:
+    - post_date: 2021-10-15
+      jobs:
+        - title: Junior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=397002
+        - title: Senior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=397001
+    - post_date: 2021-09-24
+      jobs:
+        - title: Sr. Front-End Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
 - company: rutter
   jobs:
     -
@@ -33,13 +70,6 @@
       jobs:
         - title: API Designer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
-- company: ici
-  jobs:
-    -
-      post_date: 2021-09-24
-      jobs:
-        - title: Intermediate Software Developer
-          link: https://www.careerbeacon.com/en/job/1728424/ici-innovations-incorporated/intermediate-software-developer/st-john-s
 - company: solace
   jobs:
     -
@@ -61,12 +91,6 @@
       jobs:
         - title: Developer, Software
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/35040270
-- company: quorum
-  jobs:
-    - post_date: 2021-09-24
-      jobs:
-        - title: Sr. Front-End Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392407
 - company: totaliq
   jobs:
     - post_date: 2021-09-24
@@ -97,13 +121,6 @@
           link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
         - title: "Machine Learning Engineer"
           link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
-- company: colab
-  jobs:
-    -
-      post_date: 2021-09-10
-      jobs:
-        - title: "Senior QA Analyst"
-          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/7131"
 - company: mysa
   jobs:
     -

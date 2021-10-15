@@ -66,6 +66,10 @@ celtx:
   name: Celtx
   url: https://www.celtx.com
   local: true
+clearrisk:
+  name: ClearRisk
+  url: https://www.clearrisk.com/
+  local: true
 clockworkfox:
   name: Clockwork Fox
   url: http://clockworkfoxstudios.com

@@ -222,6 +222,10 @@ nlc:
   name: Newfoundland Labrador Liquor Corporation
   url: http://www.nlliquor.com/
   local: true
+nlhc:
+  name: Newfoundland and Labrador Housing Corporation
+  url: https://www.nlhc.nl.ca/
+  local: true
 nlpower:
   name: Newfoundland Power
   url: https://www.newfoundlandpower.com/

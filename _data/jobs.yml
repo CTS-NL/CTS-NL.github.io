@@ -1,3 +1,45 @@
+- company: atlanticlottery
+  jobs:
+    -
+      post_date: 2021-11-08
+      jobs:
+        - title: Senior Web Developer
+          link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254
+        - title: Junior or Intermediate Web Developer
+          link: https://www.careerbeacon.com/en/job/1737740/atlantic-lottery/junior-or-intermediate-web-developer-03-2241
+- company: ccore
+  jobs:
+    -
+      post_date: 2021-11-08
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/viewjob?jk=ba51864a405d7545
+        - title: Remote Sensing Engineer
+          link: https://ca.indeed.com/viewjob?jk=0e79a21e4286ebe8
+- company: vision33
+  jobs:
+    -
+      post_date: 2021-11-08
+      jobs:
+        - title: Development Manager
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14658721-Development-Manager
+        - title: Developer, Full Stack
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-11-08
+      jobs:
+        - title: "Machine Learning Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Security Engineer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
 - company: colab
   jobs:
     -
@@ -14,8 +56,6 @@
           link: "https://colabsoftware.humi.ca/job-board/customer+success/8137"
         - title: "PLM Integration Developer"
           link: "https://colabsoftware.humi.ca/job-board/software+development/8141"
-        - title: "Senior CI/CD Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/8101"
     -
       post_date: 2021-10-15
       jobs:
@@ -130,8 +170,6 @@
       jobs:
         - title: Experienced Software Developer (Fulltime) - Remote
           link: https://secure.collage.co/jobs/heyorca/11328
-        - title: Software Engineer (12 months intern)
-          link: https://secure.collage.co/jobs/heyorca/11310
         - title: UX & UI Designer (Fulltime)- Remote
           link: https://secure.collage.co/jobs/heyorca/25672
 - company: solace
@@ -154,24 +192,12 @@
       jobs:
         - title: "Full Stack Developer Internship"
           link: "https://technl.ca/job/totaliq-26-full-stack-developer-internship/"
-- company: celtx
-  jobs:
-    - post_date: 2021-09-24
-      jobs:
-        - title: "Senior DevOps Engineer"
-          link: "https://celtx.hrmdirect.com/employment/job-opening.php?req=1756210&"
 - company: compusult
   jobs:
     - post_date: 2021-09-10
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-09-10
-      jobs:
-        - title: "Software Security Engineer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: mariner
   jobs:
     -
@@ -179,13 +205,6 @@
       jobs:
         - title: Senior Python Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999766946572-senior-python-developer
-    -
-      post_date: 2021-07-16
-      jobs:
-        - title: AWS Solution Architect
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759823615-aws-solution-architect
-        - title: Senior AWS Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759714167-senior-aws-java-developer
 - company: bluedrop
   jobs:
     -
@@ -245,13 +264,6 @@
       jobs:
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
-- company: vision33
-  jobs:
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: lemur
   jobs:
     -

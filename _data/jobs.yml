@@ -1,3 +1,30 @@
+- company: quorum
+  jobs:
+    -
+      post_date: 2021-11-19
+      jobs:
+        - title: Data Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399504
+        - title: Machine Learning Data Engineer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399505
+- company: verafin
+  jobs:
+    - post_date: 2021-11-19
+      jobs:
+        - title: "Security & Risk Auditor"
+          link: https://jobs.lever.co/verafin/8899bf36-46fb-4a43-8633-263050c539d6
+    - post_date: 2021-10-29
+      jobs:
+        - title: "Security: Red, Blue & Yellow Teams"
+          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
+    - post_date: 2021-10-22
+      jobs:
+        - title: Cloud Administrator Developer
+          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: atlanticlottery
   jobs:
     -
@@ -35,11 +62,11 @@
     - post_date: 2021-11-08
       jobs:
         - title: "Machine Learning Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
     - post_date: 2021-09-10
       jobs:
         - title: "Software Security Engineer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: colab
   jobs:
     -
@@ -97,20 +124,6 @@
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
-- company: verafin
-  jobs:
-    - post_date: 2021-10-29
-      jobs:
-        - title: "Security: Red, Blue & Yellow Teams"
-          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
-    - post_date: 2021-10-22
-      jobs:
-        - title: Cloud Administrator Developer
-          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: hatch
   jobs:
     - post_date: 2021-10-22
@@ -144,34 +157,12 @@
       jobs:
         - title: "Software Engineer"
           link: "https://breathesuite.bamboohr.com/jobs/view.php?id=25"
-- company: fonemed
-  jobs:
-    - post_date: 2021-10-15
-      jobs:
-        - title: "Software Development Team Lead"
-          link: "https://fonemed.applytojob.com/apply/gWn9jWeRHk/Software-Development-Team-Lead"
 - company: clearrisk
   jobs:
     - post_date: 2021-10-15
       jobs:
         - title: "Software Developer"
           link: "https://www.clearrisk.com/about-clearrisk/careers/softwaredeveloperintern-2021"
-- company: rutter
-  jobs:
-    -
-      post_date: 2021-10-08
-      jobs:
-        - title: Software Developer
-          link: https://www.careerbeacon.com/en/job/1732462/rutter/software-developer/st-john-s
-- company: heyorca
-  jobs:
-    -
-      post_date: 2021-10-08
-      jobs:
-        - title: Experienced Software Developer (Fulltime) - Remote
-          link: https://secure.collage.co/jobs/heyorca/11328
-        - title: UX & UI Designer (Fulltime)- Remote
-          link: https://secure.collage.co/jobs/heyorca/25672
 - company: solace
   jobs:
     -
@@ -179,13 +170,6 @@
       jobs:
         - title: Software and Firmware Engineer
           link: https://www.solace.ca/s/Software-Engineer-Solace-Power-Sept-2021.pdf
-- company: worldfurexchange
-  jobs:
-    -
-      post_date: 2021-09-24
-      jobs:
-        - title: Developer, Software
-          link: https://www.jobbank.gc.ca/jobsearch/jobposting/35040270
 - company: totaliq
   jobs:
     - post_date: 2021-09-24
@@ -235,13 +219,6 @@
       jobs:
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
-- company: stantec
-  jobs:
-    -
-      post_date: 2021-05-14
-      jobs:
-        - title: Senior Front-End Developer
-          link: https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/
 - company: inspectar
   jobs:
     -

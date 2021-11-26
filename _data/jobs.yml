@@ -1,14 +1,54 @@
-- company: quorum
+- company: govnl
   jobs:
     -
-      post_date: 2021-11-19
+      post_date: 2021-11-26
       jobs:
-        - title: Data Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399504
-        - title: Machine Learning Data Engineer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399505
+        - title: "Computer Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24999
+        - title: "Computer Programmer I"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24995
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24525
+- company: triware
+  jobs:
+    -
+      post_date: 2021-11-26
+      jobs:
+        - title: "Programmer / Developer"
+          link: https://www.careerbeacon.com/en/job/1740775/triware-technologies-inc/programmer-developer/st-john-s
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-11-26
+      jobs:
+        - title: Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999788691490-python-developer
+        - title: Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999788689868-java-developer
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-11-26
+      jobs:
+        - title: "Full Stack Developer (Customer Onboarding)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/WSge6h5JG-w7/full-stack-developer-customer-onboarding"
+        - title: "Full Stack Developer (Producer Pay)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/GycoNnTrKTGS/full-stack-developer-producer-pay"
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Security Engineer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
+- company: heyorca
+  jobs:
+    - post_date: 2021-11-26
+      jobs:
+        - title: "UX & UI Designer"
+          link: https://secure.collage.co/jobs/heyorca/25672
 - company: verafin
   jobs:
+    - post_date: 2021-11-26
+      jobs:
+        - title: "QA Software Release Tester"
+          link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
     - post_date: 2021-11-19
       jobs:
         - title: "Security & Risk Auditor"
@@ -16,7 +56,7 @@
     - post_date: 2021-10-29
       jobs:
         - title: "Security: Red, Blue & Yellow Teams"
-          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
+          link: https://jobs.lever.co/verafin/4cdf29d964-e5de-415b-8d98-fac78a071fec/
     - post_date: 2021-10-22
       jobs:
         - title: Cloud Administrator Developer
@@ -25,6 +65,20 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: quorum
+  jobs:
+    -
+      post_date: 2021-11-26
+      jobs:
+        - title: Junior Software Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399706&
+    -
+      post_date: 2021-11-19
+      jobs:
+        - title: Data Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399504
+        - title: Machine Learning Data Engineer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399505
 - company: atlanticlottery
   jobs:
     -
@@ -57,16 +111,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-11-08
-      jobs:
-        - title: "Machine Learning Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
-    - post_date: 2021-09-10
-      jobs:
-        - title: "Software Security Engineer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: colab
   jobs:
     -
@@ -100,11 +144,6 @@
       jobs:
         - title: Senior Analyst Developer - Integration Services
           link: https://jobs.smartrecruiters.com/Inmarsat/743999775123826-senior-analyst-developer-integration-services
-    -
-      post_date: 2021-06-11
-      jobs:
-        - title: API Designer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
 - company: kraken
   jobs:
     - post_date: 2021-10-29
@@ -124,12 +163,6 @@
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
-- company: hatch
-  jobs:
-    - post_date: 2021-10-22
-      jobs:
-        - title: "Senior Software Developer - Frontend"
-          link: "https://jobs.hatch.com/job/St_-John's-Senior-Software-Developer-Frontend-NL/803898300/"
 - company: mysa
   jobs:
     - post_date: 2021-10-22
@@ -182,13 +215,6 @@
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: mariner
-  jobs:
-    -
-      post_date: 2021-08-20
-      jobs:
-        - title: Senior Python Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999766946572-senior-python-developer
 - company: bluedrop
   jobs:
     -
@@ -196,12 +222,6 @@
       jobs:
         - title: Senior Dev Ops Engineer
           link: https://careers.bluedroplearningnetworks.com/?page_id=138
-- company: easternacademy
-  jobs:
-    - post_date: 2021-07-16
-      jobs:
-        - title: Software Developer Instructor
-          link: https://www.technl.ca/job/eastern-academy-st-johns-nl-26-software-developer-instructor/
 - company: sequencebio
   jobs:
     -

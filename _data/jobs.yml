@@ -1,3 +1,35 @@
+- company: wood
+  jobs:
+    -
+      post_date: 2021-12-10
+      jobs:
+        - title: Web Developer - Co-op Student
+          link: https://woodplc-canadaexternal.icims.com/jobs/96449/job
+- company: atlanticlottery
+  jobs:
+    -
+      post_date: 2021-12-10
+      jobs:
+        - title: Senior Information Security Specialist
+          link: https://www.careerbeacon.com/en/job/1743559/atlantic-lottery/senior-information-security-specialist-03-2258/
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-12-10
+      jobs:
+        - title: "IoT Specialist"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/XhGcQQmGCCyP/iot-specialist"
+        - title: "Machine Learning Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
+    - post_date: 2021-11-26
+      jobs:
+        - title: "Full Stack Developer (Customer Onboarding)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/WSge6h5JG-w7/full-stack-developer-customer-onboarding"
+        - title: "Full Stack Developer (Producer Pay)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/GycoNnTrKTGS/full-stack-developer-producer-pay"
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Security Engineer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: sequencebio
   jobs:
     - post_date: 2021-12-03
@@ -39,8 +71,6 @@
     -
       post_date: 2021-11-26
       jobs:
-        - title: "Computer Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24999
         - title: "Computer Programmer I"
           link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24995
         - title: "Senior Programmer Analyst"
@@ -57,22 +87,8 @@
     -
       post_date: 2021-11-26
       jobs:
-        - title: Python Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999788691490-python-developer
         - title: Java Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999788689868-java-developer
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-11-26
-      jobs:
-        - title: "Full Stack Developer (Customer Onboarding)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/WSge6h5JG-w7/full-stack-developer-customer-onboarding"
-        - title: "Full Stack Developer (Producer Pay)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/GycoNnTrKTGS/full-stack-developer-producer-pay"
-    - post_date: 2021-09-10
-      jobs:
-        - title: "Software Security Engineer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: heyorca
   jobs:
     - post_date: 2021-11-26
@@ -110,15 +126,6 @@
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399504
         - title: Machine Learning Data Engineer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399505
-- company: atlanticlottery
-  jobs:
-    -
-      post_date: 2021-11-08
-      jobs:
-        - title: Senior Web Developer
-          link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254
-        - title: Junior or Intermediate Web Developer
-          link: https://www.careerbeacon.com/en/job/1737740/atlantic-lottery/junior-or-intermediate-web-developer-03-2241
 - company: ccore
   jobs:
     -
@@ -209,12 +216,6 @@
       jobs:
         - title: Software and Firmware Engineer
           link: https://www.solace.ca/s/Software-Engineer-Solace-Power-Sept-2021.pdf
-- company: totaliq
-  jobs:
-    - post_date: 2021-09-24
-      jobs:
-        - title: "Full Stack Developer Internship"
-          link: "https://technl.ca/job/totaliq-26-full-stack-developer-internship/"
 - company: compusult
   jobs:
     - post_date: 2021-09-10

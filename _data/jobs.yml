@@ -1,12 +1,149 @@
-- company: wood
+- company: rally
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Senior Frontend Engineer (Designer)"
+          link: https://rallynow.freshteam.com/jobs/KgVCGr64XdRm/senior-frontend-engineer-designer-who-can-code-or-coder-who-can-design
+        - title: "Senior Frontend Engineer"
+          link: https://rallynow.freshteam.com/jobs/1slTJv1jkDFQ/senior-frontend-engineer
+        - title: "Full-Stack Engineer"
+          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+- company: zorbits
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Game Developer"
+          link: https://ca.indeed.com/viewjob?jk=28c958948e27e116
+- company: mun
   jobs:
     -
-      post_date: 2021-12-10
+      post_date: 2022-01-14
       jobs:
-        - title: Web Developer - Co-op Student
-          link: https://woodplc-canadaexternal.icims.com/jobs/96449/job
+        - title: "Programmer Consultant"
+          link: https://www.careerbeacon.com/en/job/1751002/memorial-university-of-newfoundland/programmer-consultant-band-level-7/st-john-s
+- company: beaufort
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: "Intermediate Software QA Specialist"
+          link: https://www.careerbeacon.com/en/job/1752236/beaufort-solutions/intermediate-software-qa-specialist/st-john-s
+- company: govnl
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: "Database Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
+        - title: "Computer Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25632
+    -
+      post_date: 2021-11-26
+      jobs:
+        - title: "Computer Programmer I"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24995
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24525
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Senior Front End Developer
+          link: https://bluedropism.com/senior-front-end-developer-dec-2021/
+        - title: Intermediate Front End Developer
+          link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
+- company: verafin
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Web Developer (Marketing)"
+          link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
+    - post_date: 2021-11-26
+      jobs:
+        - title: "QA Software Release Tester"
+          link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
+    - post_date: 2021-11-19
+      jobs:
+        - title: "Security & Risk Auditor"
+          link: https://jobs.lever.co/verafin/8899bf36-46fb-4a43-8633-263050c539d6
+    - post_date: 2021-10-29
+      jobs:
+        - title: "Security: Red, Blue & Yellow Teams"
+          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
+    - post_date: 2021-10-22
+      jobs:
+        - title: Cloud Administrator Developer
+          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: vision33
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Developer Support Consultant
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14931304-Developer-Support-Consultant
+    -
+      post_date: 2021-11-08
+      jobs:
+        - title: Developer, Full Stack
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: mariner
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: "Software Engineer Coop (May 2022)"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=29"
+        - title: "Firmware Engineer Coop (May 2022)"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=27"
+- company: colab
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: "Senior Full Stack Developer"
+          link: "https://colabsoftware.humi.ca/job-board/development/9783"
+        - title: "Intermediate Full Stack Developer"
+          link: "https://colabsoftware.humi.ca/job-board/development/9784"
+    -
+      post_date: 2021-10-29
+      jobs:
+        - title: "Revenue Operations Developer"
+          link: "https://colabsoftware.humi.ca/job-board/business+operations/7857"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Senior Backend Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999797086863-senior-backend-developer
 - company: atlanticlottery
   jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Senior Web Developer
+          link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254/
+        - title: Junior or Intermediate Web Developer
+          link: https://www.careerbeacon.com/en/job/1737740/atlantic-lottery/junior-or-intermediate-web-developer-03-2241/
+        - title: Data Engineer
+          link: https://www.careerbeacon.com/en/job/1750966/atlantic-lottery/data-engineer-03-2278/
     -
       post_date: 2021-12-10
       jobs:
@@ -24,8 +161,6 @@
       jobs:
         - title: "Full Stack Developer (Customer Onboarding)"
           link: "https://milkmoovement-talent.freshteam.com/jobs/WSge6h5JG-w7/full-stack-developer-customer-onboarding"
-        - title: "Full Stack Developer (Producer Pay)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/GycoNnTrKTGS/full-stack-developer-producer-pay"
     - post_date: 2021-09-10
       jobs:
         - title: "Software Security Engineer (Remote)"
@@ -49,12 +184,8 @@
           link: https://jobs.lever.co/getmysa/b129ea90-9651-437a-87b9-e643cbd27ac0
     - post_date: 2021-10-22
       jobs:
-        - title: Intermediate Software Developer
-          link: https://jobs.lever.co/getmysa/e94a380f-5f4a-4241-8024-b2c8910687fc
         - title: Senior QA Analyst
           link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
-        - title: Junior Software Developer
-          link: https://jobs.lever.co/getmysa/0a23de37-d269-4cc5-960e-6d09441ce065
     - post_date: 2021-09-10
       jobs:
         - title: Intermediate QA Analyst
@@ -66,118 +197,12 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-- company: govnl
-  jobs:
-    -
-      post_date: 2021-11-26
-      jobs:
-        - title: "Computer Programmer I"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24995
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/24525
-- company: triware
-  jobs:
-    -
-      post_date: 2021-11-26
-      jobs:
-        - title: "Programmer / Developer"
-          link: https://www.careerbeacon.com/en/job/1740775/triware-technologies-inc/programmer-developer/st-john-s
-- company: mariner
-  jobs:
-    -
-      post_date: 2021-11-26
-      jobs:
-        - title: Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999788689868-java-developer
 - company: heyorca
   jobs:
     - post_date: 2021-11-26
       jobs:
         - title: "UX & UI Designer"
           link: https://secure.collage.co/jobs/heyorca/25672
-- company: verafin
-  jobs:
-    - post_date: 2021-11-26
-      jobs:
-        - title: "QA Software Release Tester"
-          link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
-    - post_date: 2021-11-19
-      jobs:
-        - title: "Security & Risk Auditor"
-          link: https://jobs.lever.co/verafin/8899bf36-46fb-4a43-8633-263050c539d6
-    - post_date: 2021-10-29
-      jobs:
-        - title: "Security: Red, Blue & Yellow Teams"
-          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
-    - post_date: 2021-10-22
-      jobs:
-        - title: Cloud Administrator Developer
-          link: https://jobs.lever.co/verafin/69f27223-93e2-4270-b22e-2f84e088aac8
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: quorum
-  jobs:
-    -
-      post_date: 2021-11-19
-      jobs:
-        - title: Data Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399504
-        - title: Machine Learning Data Engineer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=399505
-- company: ccore
-  jobs:
-    -
-      post_date: 2021-11-08
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/viewjob?jk=ba51864a405d7545
-        - title: Remote Sensing Engineer
-          link: https://ca.indeed.com/viewjob?jk=0e79a21e4286ebe8
-- company: vision33
-  jobs:
-    -
-      post_date: 2021-11-08
-      jobs:
-        - title: Development Manager
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14658721-Development-Manager
-        - title: Developer, Full Stack
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: colab
-  jobs:
-    -
-      post_date: 2021-10-29
-      jobs:
-        - title: "Revenue Operations Developer"
-          link: "https://colabsoftware.humi.ca/job-board/business+operations/7857"
-    -
-      post_date: 2021-10-22
-      jobs:
-        - title: "PLM Integration Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/8141"
-    -
-      post_date: 2021-10-15
-      jobs:
-        - title: "Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/software+development/8039"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2021-09-29
-      jobs:
-        - title: Senior Cloud Engineer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999781113174-senior-cloud-engineer
-    -
-      post_date: 2021-09-24
-      jobs:
-        - title: Senior Analyst Developer - Integration Services
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999775123826-senior-analyst-developer-integration-services
 - company: kraken
   jobs:
     - post_date: 2021-10-29
@@ -197,18 +222,6 @@
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
-- company: breathesuite
-  jobs:
-    - post_date: 2021-10-22
-      jobs:
-        - title: "Software Engineer"
-          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=25"
-- company: clearrisk
-  jobs:
-    - post_date: 2021-10-15
-      jobs:
-        - title: "Software Developer"
-          link: "https://www.clearrisk.com/about-clearrisk/careers/softwaredeveloperintern-2021"
 - company: solace
   jobs:
     -
@@ -222,13 +235,6 @@
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
-- company: bluedrop
-  jobs:
-    -
-      post_date: 2021-08-20
-      jobs:
-        - title: Senior Dev Ops Engineer
-          link: https://careers.bluedroplearningnetworks.com/?page_id=138
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25

@@ -311,6 +311,10 @@ radient:
   name: Radient360
   url: http://radient360.com/
   local: true
+rally:
+  name: Rally
+  url: https://www.rallylegal.com/
+  local: true
 rayagency:
   name: Ray Creative Agency
   url: https://rayagency.ca
@@ -439,4 +443,8 @@ workplacenl:
 zedit:
   name: ZedIT
   url: http://www.zedit.com/
+  local: true
+zorbits:
+  name: "Zorbit's"
+  url: https://zorbitsmath.com/
   local: true

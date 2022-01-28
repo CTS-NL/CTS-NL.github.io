@@ -1,26 +1,76 @@
-- company: rally
+- company: integrated
   jobs:
-    - post_date: 2022-01-14
+    - post_date: 2022-01-28
       jobs:
-        - title: "Senior Frontend Engineer (Designer)"
-          link: https://rallynow.freshteam.com/jobs/KgVCGr64XdRm/senior-frontend-engineer-designer-who-can-code-or-coder-who-can-design
-        - title: "Senior Frontend Engineer"
-          link: https://rallynow.freshteam.com/jobs/1slTJv1jkDFQ/senior-frontend-engineer
-        - title: "Full-Stack Engineer"
-          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+        - title: "Intermediate Software Developer"
+          link: https://ca.indeed.com/viewjob?jk=aa92a083aebd508f
 - company: zorbits
   jobs:
+    - post_date: 2022-01-28
+      jobs:
+        - title: "Back End Web Developer"
+          link: https://ca.indeed.com/viewjob?jk=6a3fc391c38a3d0b
+        - title: "Front End Web Developer"
+          link: https://ca.indeed.com/viewjob?jk=388237ebf69c9c07
     - post_date: 2022-01-14
       jobs:
         - title: "Game Developer"
           link: https://ca.indeed.com/viewjob?jk=28c958948e27e116
-- company: mun
+- company: ccore
   jobs:
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Remote Sensing Engineer
+          link: https://ca.indeed.com/viewjob?jk=0e79a21e4286ebe8
+        - title: Software Developer
+          link: https://ca.indeed.com/viewjob?jk=ba51864a405d7545
+- company: mariner
+  jobs:
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Senior Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799702368-senior-java-developer
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
     -
       post_date: 2022-01-14
       jobs:
-        - title: "Programmer Consultant"
-          link: https://www.careerbeacon.com/en/job/1751002/memorial-university-of-newfoundland/programmer-consultant-band-level-7/st-john-s
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+- company: inspectar
+  jobs:
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Full Stack Software Developer
+          link: https://www.inspectar.com/career/full-stack-software-developer
+        - title: C++ Software Developer
+          link: https://www.inspectar.com/career/c-software-developer
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: "Software QA Lead"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=24"
+        - title: "Software Engineer"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=25"
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: "Software Engineer Coop (May 2022)"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=29"
+        - title: "Firmware Engineer Coop (May 2022)"
+          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=27"
+
+- company: rally
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Full-Stack Engineer"
+          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
 - company: beaufort
   jobs:
     -
@@ -63,10 +113,6 @@
       jobs:
         - title: "QA Software Release Tester"
           link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
-    - post_date: 2021-11-19
-      jobs:
-        - title: "Security & Risk Auditor"
-          link: https://jobs.lever.co/verafin/8899bf36-46fb-4a43-8633-263050c539d6
     - post_date: 2021-10-29
       jobs:
         - title: "Security: Red, Blue & Yellow Teams"
@@ -96,22 +142,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: mariner
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
-- company: breathesuite
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: "Software Engineer Coop (May 2022)"
-          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=29"
-        - title: "Firmware Engineer Coop (May 2022)"
-          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=27"
 - company: colab
   jobs:
     -
@@ -126,13 +156,6 @@
       jobs:
         - title: "Revenue Operations Developer"
           link: "https://colabsoftware.humi.ca/job-board/business+operations/7857"
-- company: inmarsat
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: Senior Backend Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999797086863-senior-backend-developer
 - company: atlanticlottery
   jobs:
     -
@@ -140,8 +163,6 @@
       jobs:
         - title: Senior Web Developer
           link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254/
-        - title: Junior or Intermediate Web Developer
-          link: https://www.careerbeacon.com/en/job/1737740/atlantic-lottery/junior-or-intermediate-web-developer-03-2241/
         - title: Data Engineer
           link: https://www.careerbeacon.com/en/job/1750966/atlantic-lottery/data-engineer-03-2278/
     -
@@ -197,12 +218,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-- company: heyorca
-  jobs:
-    - post_date: 2021-11-26
-      jobs:
-        - title: "UX & UI Designer"
-          link: https://secure.collage.co/jobs/heyorca/25672
 - company: kraken
   jobs:
     - post_date: 2021-10-29
@@ -217,8 +232,6 @@
         - title: "Software Developer - Sonar Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
         - title: "Software Developer – UI"
-          link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
-        - title: "Software Developer – Vision Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
@@ -245,15 +258,6 @@
       jobs:
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
-- company: inspectar
-  jobs:
-    -
-      post_date: 2021-05-21
-      jobs:
-        - title: Frontend Developer/UI Designer CO-OP Student
-          link: https://www.inspectar.com/career/frontend-co-op-student
-        - title: Backend Developer CO-OP Student
-          link: https://www.inspectar.com/career/backend-developer-co-op-student
 - company: target
   jobs:
     -

@@ -1,8 +1,9 @@
 duplication:
   ignored_urls:
-    - 'https://www.compusult.com/web/guest/careers'
+    - 'http://www.smartice.org/jobs/'
+    - 'https://www.avalonholographics.com/careers'
     - 'https://www.bluedriver.com/about-us/careers'
     - 'https://www.bullseyebranding.ca/opportunities/'
+    - 'https://www.compusult.com/web/guest/careers'
     - 'https://www.sequencebio.com/careers'
-    - 'https://www.avalonholographics.com/careers'
-    - 'http://www.smartice.org/jobs/'
+    - 'https://www.virtualmarine.ca/careers'

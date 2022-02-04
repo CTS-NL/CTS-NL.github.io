@@ -1,9 +1,47 @@
-- company: integrated
+- company: wood
   jobs:
-    - post_date: 2022-01-28
+    - post_date: 2022-02-04
       jobs:
-        - title: "Intermediate Software Developer"
-          link: https://ca.indeed.com/viewjob?jk=aa92a083aebd508f
+        - title: "Software Engineer"
+          link: https://woodplc-canadaexternal.icims.com/jobs/94974/software-engineer/job
+        - title: "Software Engineer (CMMS)"
+          link: https://woodplc-canadaexternal.icims.com/jobs/94973/software-engineer-%28cmms%29/job
+        - title: "Robotics Engineer"
+          link: https://woodplc-canadaexternal.icims.com/jobs/94971/robotics-engineer/job
+- company: pangeo
+  jobs:
+    - post_date: 2022-02-04
+      jobs:
+        - title: "Senior Software Engineer"
+          link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
+- company: vmt
+  jobs:
+    - post_date: 2022-02-04
+      jobs:
+        - title: "Game Developer"
+          link: https://www.virtualmarine.ca/careers
+- company: vision33
+  jobs:
+    -
+      post_date: 2022-02-04
+      jobs:
+        - title: Lead Front End Web Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14985793-Lead-Front-End-Web-Developer
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Developer Support Consultant
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14931304-Developer-Support-Consultant
+    -
+      post_date: 2021-11-08
+      jobs:
+        - title: Developer, Full Stack
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: zorbits
   jobs:
     - post_date: 2022-01-28
@@ -62,8 +100,6 @@
       jobs:
         - title: "Software Engineer Coop (May 2022)"
           link: "https://breathesuite.bamboohr.com/jobs/view.php?id=29"
-        - title: "Firmware Engineer Coop (May 2022)"
-          link: "https://breathesuite.bamboohr.com/jobs/view.php?id=27"
 
 - company: rally
   jobs:
@@ -125,23 +161,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: vision33
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: Developer Support Consultant
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14931304-Developer-Support-Consultant
-    -
-      post_date: 2021-11-08
-      jobs:
-        - title: Developer, Full Stack
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
-    -
-      post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: colab
   jobs:
     -
@@ -165,11 +184,6 @@
           link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254/
         - title: Data Engineer
           link: https://www.careerbeacon.com/en/job/1750966/atlantic-lottery/data-engineer-03-2278/
-    -
-      post_date: 2021-12-10
-      jobs:
-        - title: Senior Information Security Specialist
-          link: https://www.careerbeacon.com/en/job/1743559/atlantic-lottery/senior-information-security-specialist-03-2258/
 - company: milkmoovement
   jobs:
     - post_date: 2021-12-10
@@ -192,10 +206,6 @@
       jobs:
         - title: Senior Computational Biologist
           link: https://sequencebio.bamboohr.com/jobs/view.php?id=35
-    - post_date: 2021-06-25
-      jobs:
-        - title: Security Analyst
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=40
 
 - company: mysa
   jobs:
@@ -227,12 +237,8 @@
     -
       post_date: 2021-06-25
       jobs:
-        - title: "Software Developer – Underwater Vehicle Systems"
-          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1714360"
         - title: "Software Developer - Sonar Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
-        - title: "Software Developer – UI"
-          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
         - title: "Software Quality Assurance Specialist"
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: solace

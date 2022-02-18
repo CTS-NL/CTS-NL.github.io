@@ -1,5 +1,84 @@
+- company: genoa
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Lead Software Developer"
+          link: "https://can61.dayforcehcm.com/CandidatePortal/en-ca/genoadesign/Posting/View/393"
+          remote: false
+- company: mun
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Programmer Consultant"
+          link: "https://www.mun.ca/hr/careers/career.php?id=2380"
+          remote: false
+        - title: "Database Developer"
+          link: "https://www.mun.ca/hr/careers/career.php?id=2378"
+          remote: false
+- company: reportmate
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Software Developer"
+          link: "https://ca.indeed.com/viewjob?jk=e286fadb971e0aeb"
+          remote: false
+- company: subc
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Software Developer"
+          link: "https://ca.indeed.com/viewjob?jk=75cb5e9f35be2950"
+          remote: true
+- company: rayagency
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Development Lead"
+          link: "https://technl.ca/job/ray-creative-agency-full-time-development-lead/"
+        - title: "Intermediate Developer"
+          link: "https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/"
+          remote: false
+- company: fonemed
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Application Support Specialist"
+          link: "https://fonemed.applytojob.com/apply/ourlroCSD6/Application-Support-Specialist"
+          remote: false
+- company: milkmoovement
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "IoT Specialist"
+          link: "https://jobs.lever.co/milk-moovement/6dbaeafd-b9e6-431f-b67f-87bfaf2e9cc4"
+          remote: true
+        - title: "Machine Learning Engineer"
+          link: "https://jobs.lever.co/milk-moovement/b72bd81d-eb46-463f-99db-56cc00e2bbe4"
+          remote: true
+        - title: "Senior Full Stack Developer"
+          link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
+          remote: true
+        - title: "Systems Integration Specialist"
+          link: "https://jobs.lever.co/milk-moovement/93c9b77e-a364-40dd-8cf8-ef8fb33efaf5"
+          remote: true
+        - title: "Full Stack Developer"
+          link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
+          remote: true
+        - title: "Full Stack Developer - Pay Integration"
+          link: "https://jobs.lever.co/milk-moovement/73c57e9d-98a1-480b-a59d-ce6a09fdfd8b"
+          remote: true
+- company: quorum
+  jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "DevOps Specialist"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=405712&source=CTS-NL
 - company: govnl
   jobs:
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Computer Systems Analyst IA"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25711
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -91,8 +170,6 @@
       jobs:
         - title: "Back End Web Developer"
           link: https://ca.indeed.com/viewjob?jk=6a3fc391c38a3d0b
-        - title: "Front End Web Developer"
-          link: https://ca.indeed.com/viewjob?jk=388237ebf69c9c07
 - company: ccore
   jobs:
     -
@@ -123,13 +200,7 @@
       jobs:
         - title: "Full-Stack Engineer"
           link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-- company: beaufort
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: "Intermediate Software QA Specialist"
-          link: https://www.careerbeacon.com/en/job/1752236/beaufort-solutions/intermediate-software-qa-specialist/st-john-s
+          remote: true
 - company: bluedrop
   jobs:
     -
@@ -177,24 +248,6 @@
       jobs:
         - title: Senior Web Developer
           link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254/
-        - title: Data Engineer
-          link: https://www.careerbeacon.com/en/job/1750966/atlantic-lottery/data-engineer-03-2278/
-- company: milkmoovement
-  jobs:
-    - post_date: 2021-12-10
-      jobs:
-        - title: "IoT Specialist"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/XhGcQQmGCCyP/iot-specialist"
-        - title: "Machine Learning Engineer"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
-    - post_date: 2021-11-26
-      jobs:
-        - title: "Full Stack Developer (Customer Onboarding)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/WSge6h5JG-w7/full-stack-developer-customer-onboarding"
-    - post_date: 2021-09-10
-      jobs:
-        - title: "Software Security Engineer (Remote)"
-          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
 - company: sequencebio
   jobs:
     - post_date: 2021-12-03

@@ -319,6 +319,10 @@ rayagency:
   name: Ray Creative Agency
   url: https://rayagency.ca
   local: true
+reportmate:
+  name: ReportMate
+  url: https://www.reportmate.ca/
+  local: true
 rsa:
   name: RSA Canada
   url: https://www.rsagroup.ca/

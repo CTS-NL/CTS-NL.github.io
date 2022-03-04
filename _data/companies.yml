@@ -82,6 +82,7 @@ colab:
   name: Colab Software
   url: https://www.colabsoftware.com/
   local: true
+  remote: hybrid
 compusult:
   name: Compusult
   url: http://www.compusult.net/
@@ -214,6 +215,7 @@ mysa:
   name: Mysa
   url: https://getmysa.com/
   local: true
+  remote: hybrid
 nalcor:
   name: Nalcor Energy
   url: https://nalcorenergy.com/

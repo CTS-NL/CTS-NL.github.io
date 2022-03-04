@@ -1,10 +1,12 @@
 - company: colab
   jobs:
     -
-      post_date: 2022-01-14
+      post_date: 2022-03-04
       jobs:
         - title: "Junior Full Stack Developer (Business Intelligence)"
           link: "https://colabsoftware.applytojobs.ca/development/11083"
+    - post_date: 2022-01-14
+      jobs:
         - title: "Senior Full Stack Developer"
           link: "https://colabsoftware.humi.ca/job-board/development/9783"
         - title: "Intermediate Full Stack Developer"

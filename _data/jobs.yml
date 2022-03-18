@@ -1,5 +1,111 @@
+- company: nlc
+  jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Computer Programmer II
+          link: https://www.careerbeacon.com/en/job/1769540
+- company: northatlantic
+  jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Database Administrator/Data Analyst
+          link: https://northatlantic.ca/careers/database-administrator-data-analyst/
+        - title: Systems Analyst
+          link: https://northatlantic.ca/careers/systems-analyst/
+- company: mun
+  jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2531
+- company: ccore
+  jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Software Systems Developer
+          link: https://ca.indeed.com/job/Software-System-Developer-b20703ae1af35114
+- company: mariner
+  jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Full Stack Developer (Java/JavaScript)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+    -
+      post_date: 2022-02-11
+      jobs:
+        - title: Power Apps Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+- company: otherocean
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: Senior Programmer
+          link: https://otherocean.com/jobs/Senior_Programmer.pdf
+        - title: Video Game Programmer Intern
+          link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
+- company: mysa
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: Junior Embedded Developer
+          link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
+    - post_date: 2021-12-03
+      jobs:
+        - title: Software QA Lead
+          link: https://jobs.lever.co/getmysa/b129ea90-9651-437a-87b9-e643cbd27ac0
+    - post_date: 2021-10-22
+      jobs:
+        - title: Senior QA Analyst
+          link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
+    - post_date: 2021-09-10
+      jobs:
+        - title: Intermediate QA Analyst
+          link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+        - title: Intermediate Embedded Software Developer
+          link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+- company: heyorca
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: "Experienced Software Developer (Fulltime)"
+          link: "https://secure.collage.co/jobs/heyorca/11328"
+- company: compusult
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: "ROS Developer"
+          link: "https://www.compusult.com/web/guest/careers"
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: "Quality Assurance Lead"
+          link: "https://colabsoftware.applytojobs.ca/development/11197"
     -
       post_date: 2022-03-04
       jobs:
@@ -17,12 +123,6 @@
       jobs:
         - title: "Senior Software Developer / Team Leader"
           link: "https://www.careerbeacon.com/en/job/1763137/beaufort-solutions//st-john-s?utm_source=CTS-NL"
-- company: quorum
-  jobs:
-    - post_date: 2022-03-04
-      jobs:
-        - title: "Manager, Software Development"
-          link: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=406221&source=CTS-NL"
 - company: kraken
   jobs:
     - post_date: 2022-03-04
@@ -42,10 +142,6 @@
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: verafin
   jobs:
-    - post_date: 2022-03-04
-      jobs:
-        - title: "Security Software Developer"
-          link: https://jobs.lever.co/verafin/af0dcb4a-1797-4223-a671-88435ee602fb/
     - post_date: 2022-01-14
       jobs:
         - title: "Web Developer (Marketing)"
@@ -69,13 +165,6 @@
         - title: "Lead Software Developer"
           link: "https://can61.dayforcehcm.com/CandidatePortal/en-ca/genoadesign/Posting/View/393"
           remote: false
-- company: subc
-  jobs:
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Software Developer"
-          link: "https://ca.indeed.com/viewjob?jk=75cb5e9f35be2950"
-          remote: true
 - company: rayagency
   jobs:
     - post_date: 2022-02-18
@@ -96,12 +185,10 @@
   jobs:
     - post_date: 2022-02-18
       jobs:
-        - title: "Senior Full Stack Developer"
+        - title: "Full Stack Developer III"
           link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
-        - title: "Full Stack Developer"
+        - title: "Full Stack Developer II"
           link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
-        - title: "Full Stack Developer - Pay Integration"
-          link: "https://jobs.lever.co/milk-moovement/73c57e9d-98a1-480b-a59d-ce6a09fdfd8b"
 - company: govnl
   jobs:
     - post_date: 2022-02-11
@@ -115,25 +202,6 @@
           link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
         - title: "Computer Programmer Analyst"
           link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25632
-- company: mariner
-  jobs:
-    -
-      post_date: 2022-02-11
-      jobs:
-        - title: Power Apps Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
-    -
-      post_date: 2022-01-28
-      jobs:
-        - title: Senior Java Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799702368-senior-java-developer
-        - title: Senior Python Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
 - company: inspectar
   jobs:
     -
@@ -177,13 +245,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-- company: ccore
-  jobs:
-    -
-      post_date: 2022-01-28
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/viewjob?jk=ba51864a405d7545
 - company: breathesuite
   jobs:
     -
@@ -209,54 +270,6 @@
           link: https://bluedropism.com/senior-front-end-developer-dec-2021/
         - title: Intermediate Front End Developer
           link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
-- company: atlanticlottery
-  jobs:
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: Senior Web Developer
-          link: https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254/
-- company: sequencebio
-  jobs:
-    - post_date: 2021-12-03
-      jobs:
-        - title: Senior Computational Biologist
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=35
-
-- company: mysa
-  jobs:
-    - post_date: 2021-12-03
-      jobs:
-        - title: Software QA Lead
-          link: https://jobs.lever.co/getmysa/b129ea90-9651-437a-87b9-e643cbd27ac0
-    - post_date: 2021-10-22
-      jobs:
-        - title: Senior QA Analyst
-          link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
-    - post_date: 2021-09-10
-      jobs:
-        - title: Intermediate QA Analyst
-          link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-        - title: Intermediate Embedded Software Developer
-          link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
-    -
-      post_date: 2021-06-18
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-- company: solace
-  jobs:
-    -
-      post_date: 2021-09-24
-      jobs:
-        - title: Software and Firmware Engineer
-          link: https://www.solace.ca/s/Software-Engineer-Solace-Power-Sept-2021.pdf
-- company: compusult
-  jobs:
-    - post_date: 2021-09-10
-      jobs:
-        - title: "Software Developers"
-          link: "https://www.compusult.com/web/guest/careers"
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25

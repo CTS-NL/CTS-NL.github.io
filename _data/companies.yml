@@ -232,6 +232,10 @@ nlpower:
   name: Newfoundland Power
   url: https://www.newfoundlandpower.com/
   local: true
+northatlantic:
+  name: North Atlantic
+  url: https://northatlantic.ca/
+  local: true
 nlchi:
   name: Newfoundland and Labrador Centre for Health Information
   url: https://www.nlchi.nl.ca/

@@ -1,3 +1,37 @@
+- company: enaimco
+  jobs:
+    -
+      post_date: 2022-03-25
+      jobs:
+        - title: Senior Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/35936149
+- company: mariner
+  jobs:
+    -
+      post_date: 2022-03-25
+      jobs:
+        - title: Senior Database Administrator
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+    -
+      post_date: 2022-03-18
+      jobs:
+        - title: Full Stack Developer (Java/JavaScript)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+    -
+      post_date: 2022-02-11
+      jobs:
+        - title: Power Apps Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
 - company: nlc
   jobs:
     -
@@ -28,28 +62,6 @@
       jobs:
         - title: Software Systems Developer
           link: https://ca.indeed.com/job/Software-System-Developer-b20703ae1af35114
-- company: mariner
-  jobs:
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Full Stack Developer (Java/JavaScript)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
-    -
-      post_date: 2022-02-11
-      jobs:
-        - title: Power Apps Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
-    -
-      post_date: 2022-01-28
-      jobs:
-        - title: Senior Python Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -64,10 +76,6 @@
       jobs:
         - title: Junior Embedded Developer
           link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
-    - post_date: 2021-12-03
-      jobs:
-        - title: Software QA Lead
-          link: https://jobs.lever.co/getmysa/b129ea90-9651-437a-87b9-e643cbd27ac0
     - post_date: 2021-10-22
       jobs:
         - title: Senior QA Analyst
@@ -78,11 +86,15 @@
           link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
         - title: Intermediate Embedded Software Developer
           link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
+        - title: Intermediate Embedded Software Developer (Remote)
+          link: https://jobs.lever.co/getmysa/31d006d0-c4a5-449a-9072-0d8fdac49b34
     -
       post_date: 2021-06-18
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+        - title: Software Developer (Remote)
+          link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
 - company: heyorca
   jobs:
     - post_date: 2022-03-18
@@ -106,23 +118,12 @@
       jobs:
         - title: "Quality Assurance Lead"
           link: "https://colabsoftware.applytojobs.ca/development/11197"
-    -
-      post_date: 2022-03-04
-      jobs:
-        - title: "Junior Full Stack Developer (Business Intelligence)"
-          link: "https://colabsoftware.applytojobs.ca/development/11083"
     - post_date: 2022-01-14
       jobs:
         - title: "Senior Full Stack Developer"
           link: "https://colabsoftware.humi.ca/job-board/development/9783"
         - title: "Intermediate Full Stack Developer"
           link: "https://colabsoftware.humi.ca/job-board/development/9784"
-- company: beaufort
-  jobs:
-    - post_date: 2022-03-04
-      jobs:
-        - title: "Senior Software Developer / Team Leader"
-          link: "https://www.careerbeacon.com/en/job/1763137/beaufort-solutions//st-john-s?utm_source=CTS-NL"
 - company: kraken
   jobs:
     - post_date: 2022-03-04

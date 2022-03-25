@@ -107,6 +107,10 @@ easternacademy:
   name: Eastern Academy
   url: https://www.easternacademy.ca/
   local: true
+enaimco:
+  name: Enaimco
+  url: https://www.enaimco.com/
+  local: true
 easternhealth:
   name: Eastern Health
   url: http://easternhealth.ca/

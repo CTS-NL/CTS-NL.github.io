@@ -1,0 +1,250 @@
+- company: enaimco
+  jobs:
+    current:
+    - link: https://www.jobbank.gc.ca/jobsearch/jobposting/35936149
+      title: Senior Software Developer
+    previous: []
+- company: mariner
+  jobs:
+    current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+      title: Senior Database Administrator
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+      title: Full Stack Developer (Java/JavaScript)
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
+      title: Power Apps Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      title: Senior Python Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+      title: .NET Developer
+- company: nlc
+  jobs:
+    current: []
+    previous:
+    - link: https://www.careerbeacon.com/en/job/1769540
+      title: Computer Programmer II
+- company: northatlantic
+  jobs:
+    current: []
+    previous:
+    - link: https://northatlantic.ca/careers/database-administrator-data-analyst/
+      title: Database Administrator/Data Analyst
+    - link: https://northatlantic.ca/careers/systems-analyst/
+      title: Systems Analyst
+- company: mun
+  jobs:
+    current: []
+    previous:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2531
+      title: Senior Programmer Analyst
+- company: ccore
+  jobs:
+    current: []
+    previous:
+    - link: https://ca.indeed.com/job/Software-System-Developer-b20703ae1af35114
+      title: Software Systems Developer
+- company: otherocean
+  jobs:
+    current: []
+    previous:
+    - link: https://otherocean.com/jobs/Senior_Programmer.pdf
+      title: Senior Programmer
+    - link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
+      title: Video Game Programmer Intern
+- company: mysa
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
+      title: Junior Embedded Developer
+    - link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
+      title: Senior QA Analyst
+    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+      title: Intermediate QA Analyst
+    - link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
+      title: Intermediate Embedded Software Developer
+    - link: https://jobs.lever.co/getmysa/31d006d0-c4a5-449a-9072-0d8fdac49b34
+      title: Intermediate Embedded Software Developer (Remote)
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      title: Software Developer
+    - link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
+      title: Software Developer (Remote)
+- company: heyorca
+  jobs:
+    current: []
+    previous:
+    - link: https://secure.collage.co/jobs/heyorca/11328
+      title: Experienced Software Developer (Fulltime)
+- company: compusult
+  jobs:
+    current: []
+    previous:
+    - link: https://www.compusult.com/web/guest/careers
+      title: ROS Developer
+    - link: https://www.compusult.com/web/guest/careers
+      title: Software Developers
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://colabsoftware.applytojobs.ca/development/11197
+      title: Quality Assurance Lead
+    - link: https://colabsoftware.humi.ca/job-board/development/9783
+      title: Senior Full Stack Developer
+    - link: https://colabsoftware.humi.ca/job-board/development/9784
+      title: Intermediate Full Stack Developer
+- company: kraken
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
+      title: "Software Developer \u2013 UI"
+    - link: https://jobs.careerbeacon.com/details/software-project-manager/1734813
+      title: Software Project Manager
+    - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
+      title: Software Developer - Sonar Systems
+    - link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847
+      title: Software Quality Assurance Specialist
+- company: verafin
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
+      title: Web Developer (Marketing)
+    - link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
+      title: QA Software Release Tester
+    - link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
+      title: 'Security: Red, Blue & Yellow Teams'
+    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      title: Software Developer
+- company: genoa
+  jobs:
+    current: []
+    previous:
+    - link: https://can61.dayforcehcm.com/CandidatePortal/en-ca/genoadesign/Posting/View/393
+      remote: false
+      title: Lead Software Developer
+- company: rayagency
+  jobs:
+    current: []
+    previous:
+    - link: https://technl.ca/job/ray-creative-agency-full-time-development-lead/
+      title: Development Lead
+    - link: https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/
+      remote: false
+      title: Intermediate Developer
+- company: fonemed
+  jobs:
+    current: []
+    previous:
+    - link: https://fonemed.applytojob.com/apply/ourlroCSD6/Application-Support-Specialist
+      remote: false
+      title: Application Support Specialist
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+      title: Full Stack Developer III
+    - link: https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb
+      title: Full Stack Developer II
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      title: Computer Systems Analyst II
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
+      title: Database Analyst
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25632
+      title: Computer Programmer Analyst
+- company: inspectar
+  jobs:
+    current: []
+    previous:
+    - link: https://www.inspectar.com/career/software-developer-co-op-student
+      title: Software Developer CO-OP Student
+    - link: https://www.inspectar.com/career/qa-engineer-co-op-student
+      title: QA Engineer CO-OP Student
+    - link: https://www.inspectar.com/career/c-sharp-developer
+      title: C# Developer
+    - link: https://www.inspectar.com/career/sr-unity-developer
+      title: Senior Unity Developer
+- company: wood
+  jobs:
+    current: []
+    previous:
+    - link: https://woodplc-canadaexternal.icims.com/jobs/94971/robotics-engineer/job
+      title: Robotics Engineer
+- company: pangeo
+  jobs:
+    current: []
+    previous:
+    - link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
+      title: Senior Software Engineer
+- company: vmt
+  jobs:
+    current: []
+    previous:
+    - link: https://www.virtualmarine.ca/careers
+      title: Game Developer
+- company: vision33
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
+      title: Developer, Full Stack
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+      title: Software Developer
+- company: breathesuite
+  jobs:
+    current: []
+    previous:
+    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=24&source=CTS-NL
+      title: Software QA Lead
+    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=25&source=CTS-NL
+      title: Software Engineer
+- company: rally
+  jobs:
+    current: []
+    previous:
+    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+      remote: true
+      title: Full-Stack Engineer
+- company: bluedrop
+  jobs:
+    current: []
+    previous:
+    - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
+      title: Senior Front End Developer
+    - link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
+      title: Intermediate Front End Developer
+- company: avalonholo
+  jobs:
+    current: []
+    previous:
+    - link: https://www.avalonholographics.com/careers
+      title: FPGA Designer
+    - link: https://www.avalonholographics.com/careers
+      title: Software Engineer
+- company: target
+  jobs:
+    current: []
+    previous:
+    - link: https://targetmarketing.ca/news/web-developer-position/
+      title: Web Developer
+- company: ioa
+  jobs:
+    current: []
+    previous:
+    - link: https://ioass.com/careers-1
+      title: Programmer / Analyst
+- company: lemur
+  jobs:
+    current: []
+    previous:
+    - link: https://www.bluedriver.com/about-us/careers
+      title: Embedded Systems Engineer / Developer
+    - link: https://www.bluedriver.com/about-us/careers
+      title: Software Developer / Engineer

@@ -9,25 +9,43 @@ permalink: "/jobs/"
 ---
 
 <p class="teaser" itemprop="description">
-	Last updated {{ 'now' | date: "%b %d, %Y" }} and updated every Friday.
+	Last updated {{ 'now' | date: "%B %d, %Y" }} and updated every Friday.
 </p>
 <hr/>
 <div class="jobs">
-	{% for entry in site.data.jobs %}
-		<h4>{% include company company=entry.company %}</h4>
-		{% if site.data.companies[entry.company].note %}
-			<div class="company_note">
-				{{ site.data.companies[entry.company].note | markdownify }}
-			</div>
-		{% endif %}
-		{% for postings in entry.jobs %}
-			<h6><b>{{ postings.post_date | date: "%b %d, %Y" }}</b></h6>
+	<h3>New Postings</h3>
+	{% for entry in site.data['jobs-sorted'] %}
+		{% if entry.jobs.current != empty %}
+			<h4>{% include company company=entry.company %}</h4>
+			{% if site.data.companies[entry.company].note %}
+				<div class="company_note">
+					{{ site.data.companies[entry.company].note | markdownify }}
+				</div>
+			{% endif %}
 			<ul>
-				{% for job in postings.jobs %}
+				{% for job in entry.jobs.current %}
 					<li><a href="{{ job.link }}">{{ job.title }}</a></li>
 				{% endfor %}
 			</ul>
-		{% endfor %}
-		<hr/>
+			<hr/>
+		{% endif %}
+	{% endfor %}
+
+	<h3>Previous Postings</h3>
+	{% for entry in site.data['jobs-sorted'] %}
+		{% if entry.jobs.previous != empty %}
+			<h4>{% include company company=entry.company %}</h4>
+			{% if site.data.companies[entry.company].note %}
+				<div class="company_note">
+					{{ site.data.companies[entry.company].note | markdownify }}
+				</div>
+			{% endif %}
+			<ul>
+				{% for job in entry.jobs.previous %}
+					<li><a href="{{ job.link }}">{{ job.title }}</a></li>
+				{% endfor %}
+			</ul>
+			<hr/>
+		{% endif %}
 	{% endfor %}
 </div>

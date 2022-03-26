@@ -12,7 +12,11 @@ indent_size = 2
 [*.html]
 indent_size = 2
 
-[{*.yaml,*.yml,.eslintrc}]
+[{*.yaml,*.yml}]
+indent_size = 2
+indent_style = space
+
+[*.py]
 indent_size = 2
 indent_style = space
 

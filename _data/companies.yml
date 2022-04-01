@@ -95,6 +95,10 @@ cima:
   name: "CIMA+"
   url: https://www.cima.ca/en/
   canadian: true
+cityofstjohns:
+  name: "City of St. John's"
+  url: https://www.stjohns.ca/
+  local: true
 cpsnl:
   name: The College of Physicians and Surgeons of Newfoundland and Labrador
   url: https://www.cpsnl.ca/

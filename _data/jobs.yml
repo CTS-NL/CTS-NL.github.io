@@ -5,6 +5,20 @@
       jobs:
         - title: Senior Software Developer
           link: https://www.jobbank.gc.ca/jobsearch/jobposting/35936149
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2022-04-01
+      jobs:
+        - title: Software Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
+- company: cityofstjohns
+  jobs:
+    -
+      post_date: 2022-04-01
+      jobs:
+        - title: Software Developer
+          link: "https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=YFBfRxkXCBh7ZHMFNVZVCCc9c2REcFNfcEgjIFwOE2MsKzVoXURqLiUuQC4kXmt2dQkbUxZUSHcqWA%3D%3D&chk=ZVpaShw%3D&clid=73617&Page=JobDetails&Jobid=J1120-0511&BRID=178905&lang=1"
 - company: mariner
   jobs:
     -
@@ -44,8 +58,6 @@
     -
       post_date: 2022-03-18
       jobs:
-        - title: Database Administrator/Data Analyst
-          link: https://northatlantic.ca/careers/database-administrator-data-analyst/
         - title: Systems Analyst
           link: https://northatlantic.ca/careers/systems-analyst/
 - company: mun
@@ -84,14 +96,10 @@
       jobs:
         - title: Intermediate QA Analyst
           link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-        - title: Intermediate Embedded Software Developer
-          link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
-        - title: Intermediate Embedded Software Developer (Remote)
-          link: https://jobs.lever.co/getmysa/31d006d0-c4a5-449a-9072-0d8fdac49b34
     -
       post_date: 2021-06-18
       jobs:
-        - title: Software Developer
+        - title: Senior Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
         - title: Software Developer (Remote)
           link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
@@ -159,13 +167,6 @@
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-- company: genoa
-  jobs:
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Lead Software Developer"
-          link: "https://can61.dayforcehcm.com/CandidatePortal/en-ca/genoadesign/Posting/View/393"
-          remote: false
 - company: rayagency
   jobs:
     - post_date: 2022-02-18
@@ -174,13 +175,6 @@
           link: "https://technl.ca/job/ray-creative-agency-full-time-development-lead/"
         - title: "Intermediate Developer"
           link: "https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/"
-          remote: false
-- company: fonemed
-  jobs:
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Application Support Specialist"
-          link: "https://fonemed.applytojob.com/apply/ourlroCSD6/Application-Support-Specialist"
           remote: false
 - company: milkmoovement
   jobs:
@@ -236,11 +230,6 @@
           link: https://www.virtualmarine.ca/careers
 - company: vision33
   jobs:
-    -
-      post_date: 2021-11-08
-      jobs:
-        - title: Developer, Full Stack
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/14276057-Developer-Full-Stack
     -
       post_date: 2020-02-27
       jobs:

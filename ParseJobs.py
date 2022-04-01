@@ -27,7 +27,8 @@ def flattenJobs(jobsData):
   return jobs
 
 def convertJobs(jobsData):
-  one_week_ago = date.today() - timedelta(days = 7)
+  # use 6 days instead of 7, because sometimes the post is updated 6.9 days ago
+  one_week_ago = date.today() - timedelta(days = 6)
   companies = {}
 
   for job in jobsData:
@@ -60,7 +61,7 @@ if __name__ == '__main__':
     path = sys.argv[1] + '/'
 
   jobsFile = f'{path}_data/jobs.yml'
-  newJobsFile = f'{path}_data/jobs-new.yml'
+  newJobsFile = f'{path}_data/jobs-sorted.yml'
 
   jobsData = loadYamlFile(jobsFile)
   flattenedJobs = flattenJobs(jobsData)

@@ -26,11 +26,13 @@
       jobs:
         - title: Senior Database Administrator
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+          remote: true
     -
       post_date: 2022-03-18
       jobs:
         - title: Full Stack Developer (Java/JavaScript)
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+          remote: true
     -
       post_date: 2022-02-11
       jobs:
@@ -41,6 +43,7 @@
       jobs:
         - title: Senior Python Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+          remote: true
     -
       post_date: 2022-01-14
       jobs:
@@ -80,6 +83,7 @@
       jobs:
         - title: Senior Programmer
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
+          remote: true
         - title: Video Game Programmer Intern
           link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
 - company: mysa
@@ -101,8 +105,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-        - title: Software Developer (Remote)
-          link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
 - company: heyorca
   jobs:
     - post_date: 2022-03-18

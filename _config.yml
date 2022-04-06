@@ -42,6 +42,10 @@ exclude:
     - README.md
     - server.sh
     - vendor/bundle
+    - ValidateJobs.py
+    - ParseJobs.py
+    - Pipfile
+    - Pipfile.lock
 
 # ignore the date
 future: true
@@ -67,7 +71,6 @@ defaults:
     values:
       show_meta: false
       sidebar: 'right'
-      comments: false
       author: mitmaro
   -
     scope:
@@ -76,7 +79,6 @@ defaults:
     values:
       show_meta: true
       sidebar: 'left'
-      comments: false
       author: mitmaro
 
 socialmedia:

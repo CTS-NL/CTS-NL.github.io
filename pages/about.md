@@ -7,7 +7,7 @@ header:
     pattern: "header-texture.png"
 ---
 
-## Who are we?
+## Who we are?
 
 The Computer Technology Society Newfoundland Labrador, generally known as CTS-NL, is a community group for people who
 work in or have an interest in software development, technology, and computing in Newfoundland and Labrador.

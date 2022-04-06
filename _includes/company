@@ -11,3 +11,6 @@
 	<img src="{{ site.urlimg }}canada-flag.png" width="25" alt="Canadian Company">
 </span>
 {% endif %}
+{% if site.data.companies[include.company].remote %}
+<span class="info" role="img" title="Remote Friendly" aria-label="Company that is friendly to remote working">🏠</span>
+{% endif %}

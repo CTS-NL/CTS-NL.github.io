@@ -1,13 +1,16 @@
+jobs:
 - company: inmarsat
   jobs:
     current:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
+      remote: false
       title: Software Developer
     previous: []
 - company: cityofstjohns
   jobs:
     current:
     - link: https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=YFBfRxkXCBh7ZHMFNVZVCCc9c2REcFNfcEgjIFwOE2MsKzVoXURqLiUuQC4kXmt2dQkbUxZUSHcqWA%3D%3D&chk=ZVpaShw%3D&clid=73617&Page=JobDetails&Jobid=J1120-0511&BRID=178905&lang=1
+      remote: false
       title: Software Developer
     previous: []
 - company: enaimco
@@ -15,224 +18,282 @@
     current: []
     previous:
     - link: https://www.jobbank.gc.ca/jobsearch/jobposting/35936149
+      remote: false
       title: Senior Software Developer
 - company: mariner
   jobs:
     current: []
     previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+      remote: false
       title: Senior Database Administrator
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+      remote: false
       title: Full Stack Developer (Java/JavaScript)
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
+      remote: false
       title: Power Apps Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: false
       title: Senior Python Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+      remote: false
       title: .NET Developer
 - company: nlc
   jobs:
     current: []
     previous:
     - link: https://www.careerbeacon.com/en/job/1769540
+      remote: false
       title: Computer Programmer II
 - company: northatlantic
   jobs:
     current: []
     previous:
     - link: https://northatlantic.ca/careers/systems-analyst/
+      remote: false
       title: Systems Analyst
 - company: mun
   jobs:
     current: []
     previous:
     - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2531
+      remote: false
       title: Senior Programmer Analyst
 - company: ccore
   jobs:
     current: []
     previous:
     - link: https://ca.indeed.com/job/Software-System-Developer-b20703ae1af35114
+      remote: false
       title: Software Systems Developer
 - company: otherocean
   jobs:
     current: []
     previous:
     - link: https://otherocean.com/jobs/Senior_Programmer.pdf
+      remote: false
       title: Senior Programmer
     - link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
+      remote: false
       title: Video Game Programmer Intern
 - company: mysa
   jobs:
     current: []
     previous:
     - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
+      remote: false
       title: Junior Embedded Developer
     - link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
+      remote: false
       title: Senior QA Analyst
     - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+      remote: false
       title: Intermediate QA Analyst
     - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: false
       title: Senior Software Developer
     - link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
+      remote: false
       title: Software Developer (Remote)
 - company: heyorca
   jobs:
     current: []
     previous:
     - link: https://secure.collage.co/jobs/heyorca/11328
+      remote: false
       title: Experienced Software Developer (Fulltime)
 - company: compusult
   jobs:
     current: []
     previous:
     - link: https://www.compusult.com/web/guest/careers
+      remote: false
       title: ROS Developer
     - link: https://www.compusult.com/web/guest/careers
+      remote: false
       title: Software Developers
 - company: colab
   jobs:
     current: []
     previous:
     - link: https://colabsoftware.applytojobs.ca/development/11197
+      remote: false
       title: Quality Assurance Lead
     - link: https://colabsoftware.humi.ca/job-board/development/9783
+      remote: false
       title: Senior Full Stack Developer
     - link: https://colabsoftware.humi.ca/job-board/development/9784
+      remote: false
       title: Intermediate Full Stack Developer
 - company: kraken
   jobs:
     current: []
     previous:
     - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
+      remote: false
       title: "Software Developer \u2013 UI"
     - link: https://jobs.careerbeacon.com/details/software-project-manager/1734813
+      remote: false
       title: Software Project Manager
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
+      remote: false
       title: Software Developer - Sonar Systems
     - link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847
+      remote: false
       title: Software Quality Assurance Specialist
 - company: rayagency
   jobs:
     current: []
     previous:
     - link: https://technl.ca/job/ray-creative-agency-full-time-development-lead/
+      remote: false
       title: Development Lead
     - link: https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/
+      remote: false
       title: Intermediate Developer
 - company: milkmoovement
   jobs:
     current: []
     previous:
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+      remote: false
       title: Full Stack Developer III
     - link: https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb
+      remote: false
       title: Full Stack Developer II
 - company: govnl
   jobs:
     current: []
     previous:
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
       title: Computer Systems Analyst II
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
+      remote: false
       title: Database Analyst
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25632
+      remote: false
       title: Computer Programmer Analyst
 - company: inspectar
   jobs:
     current: []
     previous:
     - link: https://www.inspectar.com/career/software-developer-co-op-student
+      remote: false
       title: Software Developer CO-OP Student
     - link: https://www.inspectar.com/career/qa-engineer-co-op-student
+      remote: false
       title: QA Engineer CO-OP Student
     - link: https://www.inspectar.com/career/c-sharp-developer
+      remote: false
       title: C# Developer
     - link: https://www.inspectar.com/career/sr-unity-developer
+      remote: false
       title: Senior Unity Developer
 - company: wood
   jobs:
     current: []
     previous:
     - link: https://woodplc-canadaexternal.icims.com/jobs/94971/robotics-engineer/job
+      remote: false
       title: Robotics Engineer
 - company: pangeo
   jobs:
     current: []
     previous:
     - link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
+      remote: false
       title: Senior Software Engineer
 - company: vmt
   jobs:
     current: []
     previous:
     - link: https://www.virtualmarine.ca/careers
+      remote: false
       title: Game Developer
 - company: breathesuite
   jobs:
     current: []
     previous:
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=24&source=CTS-NL
+      remote: false
       title: Software QA Lead
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=25&source=CTS-NL
+      remote: false
       title: Software Engineer
 - company: verafin
   jobs:
     current: []
     previous:
     - link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
+      remote: false
       title: Web Developer (Marketing)
     - link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
+      remote: false
       title: QA Software Release Tester
     - link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
+      remote: false
       title: 'Security: Red, Blue & Yellow Teams'
     - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      remote: false
       title: Software Developer
 - company: rally
   jobs:
     current: []
     previous:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+      remote: true
       title: Full-Stack Engineer
 - company: bluedrop
   jobs:
     current: []
     previous:
     - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
+      remote: false
       title: Senior Front End Developer
     - link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
+      remote: false
       title: Intermediate Front End Developer
 - company: avalonholo
   jobs:
     current: []
     previous:
     - link: https://www.avalonholographics.com/careers
+      remote: false
       title: FPGA Designer
     - link: https://www.avalonholographics.com/careers
+      remote: false
       title: Software Engineer
 - company: target
   jobs:
     current: []
     previous:
     - link: https://targetmarketing.ca/news/web-developer-position/
+      remote: false
       title: Web Developer
 - company: ioa
   jobs:
     current: []
     previous:
     - link: https://ioass.com/careers-1
+      remote: false
       title: Programmer / Analyst
 - company: vision33
   jobs:
     current: []
     previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+      remote: false
       title: Software Developer
 - company: lemur
   jobs:
     current: []
     previous:
     - link: https://www.bluedriver.com/about-us/careers
+      remote: false
       title: Embedded Systems Engineer / Developer
     - link: https://www.bluedriver.com/about-us/careers
+      remote: false
       title: Software Developer / Engineer
+updateDate: 2022-04-06

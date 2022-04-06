@@ -21,6 +21,7 @@ def flattenJobs(jobsData):
         jobs.append({
           "company": company_jobs['company'],
           "post_date": date_jobs['post_date'],
+          "remote": "remote" in job and job["remote"],
           "link": job["link"],
           "title": job["title"],
         })
@@ -43,7 +44,8 @@ def convertJobs(jobsData):
 
     new_job = {
       "title": job['title'],
-      "link": job['link']
+      "link": job['link'],
+      "remote": job['remote'],
     }
     if job['post_date'] >= one_week_ago:
       companies[job['company']]['jobs']['current'].append(new_job)
@@ -67,4 +69,7 @@ if __name__ == '__main__':
   flattenedJobs = flattenJobs(jobsData)
   flattenedJobs.sort(key=lambda x: x['post_date'], reverse = True)
   convertedJobs = convertJobs(flattenedJobs)
-  saveYamlFile(newJobsFile, convertedJobs)
+  saveYamlFile(newJobsFile, {
+    "updateDate": date.today(),
+    "jobs": convertedJobs
+  })

@@ -1,0 +1,15 @@
+<h4>{% include company company=include.company %}</h4>
+{% if site.data.companies[include.company].note %}
+	<div class="company_note">
+		{{ site.data.companies[include.company].note | markdownify }}
+	</div>
+{% endif %}
+<ul>
+	{% for job in include.jobs %}
+		<li>
+			<a href="{{ job.link }}">{{ job.title }}</a>
+			{% if job.remote %}<span class="info" role="img" title="Remote Friendly" aria-label="Company that is friendly to remote working">🏠</span>{% endif %}
+		</li>
+	{% endfor %}
+</ul>
+<hr/>

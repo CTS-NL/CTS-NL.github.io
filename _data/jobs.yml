@@ -1,3 +1,64 @@
+- company: nlchi
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Database Analyst
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=405515
+          remote: false
+- company: hatch
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Azure Administrator
+          link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/873581000/
+          remote: false
+        - title: DevOps Consultant
+          link: https://jobs.hatch.com/job/St_-John's-DevOps-Consultant-NL/873572800/
+          remote: false
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Security Analyst
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=48
+          remote: true
+        - title: Cloud Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=49
+          remote: true
+        - title: Web Application Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=46
+          remote: true
+        - title: Salesforce Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=50
+          remote: true
+        - title: Experienced AWS Infrastructure Engineer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
+          remote: true
+- company: radient
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/viewjob?jk=49d53270865489e2
+          remote: false
+- company: quorum
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
+          remote: true
+        - title: Senior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409094
+          remote: true
+        - title: Sr Developer, Technical Lead
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
+          remote: true
 - company: enaimco
   jobs:
     -
@@ -13,46 +74,53 @@
         - title: Software Developer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
 - company: cityofstjohns
-  jobs:
-    -
-      post_date: 2022-04-01
-      jobs:
-        - title: Software Developer
-          link: "https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=YFBfRxkXCBh7ZHMFNVZVCCc9c2REcFNfcEgjIFwOE2MsKzVoXURqLiUuQC4kXmt2dQkbUxZUSHcqWA%3D%3D&chk=ZVpaShw%3D&clid=73617&Page=JobDetails&Jobid=J1120-0511&BRID=178905&lang=1"
+  jobs: []
 - company: mariner
   jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Systems Analyst/Integrator - Telecom Billing
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999811788202-systems-analyst-integrator-telecom-billing
+          remote: true
+        - title: Senior Cloud Engineer (Azure)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999815856727-senior-cloud-engineer-azure-
+          remote: true
+        - title: DevOps Engineer (Openshift)
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
+          remote: false
     -
       post_date: 2022-03-25
       jobs:
         - title: Senior Database Administrator
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+          remote: true
     -
       post_date: 2022-03-18
       jobs:
         - title: Full Stack Developer (Java/JavaScript)
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+          remote: true
     -
       post_date: 2022-02-11
       jobs:
         - title: Power Apps Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
+          remote: false
     -
       post_date: 2022-01-28
       jobs:
         - title: Senior Python Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+          remote: true
     -
       post_date: 2022-01-14
       jobs:
         - title: .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer\
+          remote: false
 - company: nlc
-  jobs:
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Computer Programmer II
-          link: https://www.careerbeacon.com/en/job/1769540
+  jobs: []
 - company: northatlantic
   jobs:
     -
@@ -61,25 +129,16 @@
         - title: Systems Analyst
           link: https://northatlantic.ca/careers/systems-analyst/
 - company: mun
-  jobs:
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2531
+  jobs: []
 - company: ccore
-  jobs:
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Software Systems Developer
-          link: https://ca.indeed.com/job/Software-System-Developer-b20703ae1af35114
+  jobs: []
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
       jobs:
         - title: Senior Programmer
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
+          remote: true
         - title: Video Game Programmer Intern
           link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
 - company: mysa
@@ -101,14 +160,14 @@
       jobs:
         - title: Senior Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-        - title: Software Developer (Remote)
-          link: https://jobs.lever.co/getmysa/b3de7512-0bfb-49cf-b5cb-4f30270a7969
+          remote: true
 - company: heyorca
   jobs:
     - post_date: 2022-03-18
       jobs:
         - title: "Experienced Software Developer (Fulltime)"
           link: "https://secure.collage.co/jobs/heyorca/11328"
+          remote: true
 - company: compusult
   jobs:
     - post_date: 2022-03-18
@@ -121,17 +180,16 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
-    -
-      post_date: 2022-03-18
+    - post_date: 2022-04-15
       jobs:
-        - title: "Quality Assurance Lead"
-          link: "https://colabsoftware.applytojobs.ca/development/11197"
+        - title: "Cloud Developer (CICD)"
+          link: "https://colabsoftware.applytojobs.ca/development/12157"
     - post_date: 2022-01-14
       jobs:
         - title: "Senior Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/development/9783"
+          link: "https://colabsoftware.applytojobs.ca/development/9783"
         - title: "Intermediate Full Stack Developer"
-          link: "https://colabsoftware.humi.ca/job-board/development/9784"
+          link: "https://colabsoftware.applytojobs.ca/development/9784"
 - company: kraken
   jobs:
     - post_date: 2022-03-04
@@ -178,14 +236,28 @@
           remote: false
 - company: milkmoovement
   jobs:
+    - post_date: 2022-04-15
+      jobs:
+        - title: "Senior Front End Developer"
+          link: "https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947"
+          remote: true
+        - title: "Mobile Developer"
+          link: "https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f"
+          remote: true
     - post_date: 2022-02-18
       jobs:
         - title: "Full Stack Developer III"
           link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
+          remote: true
         - title: "Full Stack Developer II"
           link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
+          remote: true
 - company: govnl
   jobs:
+    - post_date: 2022-04-15
+      jobs:
+        - title: "Computer Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25636
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -195,8 +267,6 @@
       jobs:
         - title: "Database Analyst"
           link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
-        - title: "Computer Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25632
 - company: inspectar
   jobs:
     -
@@ -214,8 +284,9 @@
   jobs:
     - post_date: 2022-02-04
       jobs:
-        - title: "Robotics Engineer"
-          link: https://woodplc-canadaexternal.icims.com/jobs/94971/robotics-engineer/job
+        - title: "Mobile Application Developer"
+          link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
+          remote: false
 - company: pangeo
   jobs:
     - post_date: 2022-02-04

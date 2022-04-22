@@ -1,24 +1,57 @@
 jobs:
-- company: nlchi
+- company: reportmate
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=405515
+    - link: https://www.linkedin.com/jobs/view/3041903020/
       remote: false
-      title: Database Analyst
+      title: Full Stack Developer
     previous: []
+- company: quorum
+  jobs:
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409771
+      remote: false
+      title: Senior Software Architect
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
+      remote: true
+      title: Intermediate Developer
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
+      remote: true
+      title: Sr Developer, Technical Lead
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
+      remote: true
+      title: Software Reliability Engineer
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
+      remote: true
+      title: Senior Front End Developer
+    - link: https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f
+      remote: true
+      title: Mobile Developer
+    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+      remote: true
+      title: Full Stack Developer III
+    - link: https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb
+      remote: true
+      title: Full Stack Developer II
 - company: hatch
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/873581000/
       remote: false
       title: Azure Administrator
     - link: https://jobs.hatch.com/job/St_-John's-DevOps-Consultant-NL/873572800/
       remote: false
       title: DevOps Consultant
-    previous: []
 - company: sequencebio
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://sequencebio.bamboohr.com/jobs/view.php?id=48
       remote: true
       title: Security Analyst
@@ -34,30 +67,17 @@ jobs:
     - link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
       remote: true
       title: Experienced AWS Infrastructure Engineer
-    previous: []
 - company: radient
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://ca.indeed.com/viewjob?jk=49d53270865489e2
       remote: false
       title: Software Developer
-    previous: []
-- company: quorum
-  jobs:
-    current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
-      remote: true
-      title: Intermediate Developer
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409094
-      remote: true
-      title: Senior Developer
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
-      remote: true
-      title: Sr Developer, Technical Lead
-    previous: []
 - company: mariner
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999811788202-systems-analyst-integrator-telecom-billing
       remote: true
       title: Systems Analyst/Integrator - Telecom Billing
@@ -67,7 +87,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
       remote: false
       title: DevOps Engineer (Openshift)
-    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
       remote: true
       title: Senior Database Administrator
@@ -85,40 +104,24 @@ jobs:
       title: .NET Developer
 - company: colab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://colabsoftware.applytojobs.ca/development/12157
       remote: false
       title: Cloud Developer (CICD)
-    previous:
     - link: https://colabsoftware.applytojobs.ca/development/9783
       remote: false
       title: Senior Full Stack Developer
     - link: https://colabsoftware.applytojobs.ca/development/9784
       remote: false
       title: Intermediate Full Stack Developer
-- company: milkmoovement
-  jobs:
-    current:
-    - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
-      remote: true
-      title: Senior Front End Developer
-    - link: https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f
-      remote: true
-      title: Mobile Developer
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
-      remote: true
-      title: Full Stack Developer III
-    - link: https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb
-      remote: true
-      title: Full Stack Developer II
 - company: govnl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25636
       remote: false
       title: Computer Programmer Analyst
-    previous:
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
       remote: false
       title: Computer Systems Analyst II
@@ -132,13 +135,6 @@ jobs:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
       remote: false
       title: Software Developer
-- company: enaimco
-  jobs:
-    current: []
-    previous:
-    - link: https://www.jobbank.gc.ca/jobsearch/jobposting/35936149
-      remote: false
-      title: Senior Software Developer
 - company: northatlantic
   jobs:
     current: []
@@ -196,9 +192,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
       remote: false
       title: "Software Developer \u2013 UI"
-    - link: https://jobs.careerbeacon.com/details/software-project-manager/1734813
-      remote: false
-      title: Software Project Manager
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
       remote: false
       title: Software Developer - Sonar Systems
@@ -252,16 +245,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Game Developer
-- company: breathesuite
-  jobs:
-    current: []
-    previous:
-    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=24&source=CTS-NL
-      remote: false
-      title: Software QA Lead
-    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=25&source=CTS-NL
-      remote: false
-      title: Software Engineer
 - company: verafin
   jobs:
     current: []
@@ -269,9 +252,6 @@ jobs:
     - link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
       remote: false
       title: Web Developer (Marketing)
-    - link: https://jobs.lever.co/verafin/4166b382-9b21-47a6-83f7-3cd7a94b9704/
-      remote: false
-      title: QA Software Release Tester
     - link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
       remote: false
       title: 'Security: Red, Blue & Yellow Teams'
@@ -336,4 +316,4 @@ jobs:
     - link: https://www.bluedriver.com/about-us/careers
       remote: false
       title: Software Developer / Engineer
-updateDate: 2022-04-15
+updateDate: 2022-04-22

@@ -32,6 +32,7 @@ def convertJobs(jobsData):
   one_week_ago = date.today() - timedelta(days = 6)
   companies = {}
 
+  newPostings = False
   for job in jobsData:
     if not job['company'] in companies:
       companies[job['company']] = {
@@ -48,10 +49,11 @@ def convertJobs(jobsData):
       "remote": job['remote'],
     }
     if job['post_date'] >= one_week_ago:
+      newPostings = True
       companies[job['company']]['jobs']['current'].append(new_job)
     else:
       companies[job['company']]['jobs']['previous'].append(new_job)
-  return [*companies.values()]
+  return ([*companies.values()], newPostings)
 
 
 if __name__ == '__main__':
@@ -68,8 +70,9 @@ if __name__ == '__main__':
   jobsData = loadYamlFile(jobsFile)
   flattenedJobs = flattenJobs(jobsData)
   flattenedJobs.sort(key=lambda x: x['post_date'], reverse = True)
-  convertedJobs = convertJobs(flattenedJobs)
+  (convertedJobs, newPostings) = convertJobs(flattenedJobs)
   saveYamlFile(newJobsFile, {
+    "newPostings": newPostings,
     "updateDate": date.today(),
     "jobs": convertedJobs
   })

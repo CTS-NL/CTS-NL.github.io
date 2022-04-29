@@ -1,18 +1,18 @@
 jobs:
 - company: reportmate
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.linkedin.com/jobs/view/3041903020/
       remote: false
       title: Full Stack Developer
-    previous: []
 - company: quorum
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409771
       remote: false
       title: Senior Software Architect
-    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
       remote: true
       title: Intermediate Developer
@@ -21,11 +21,11 @@ jobs:
       title: Sr Developer, Technical Lead
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
       remote: true
       title: Software Reliability Engineer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
       remote: true
       title: Senior Front End Developer
@@ -159,9 +159,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
       remote: false
       title: Junior Embedded Developer
-    - link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
-      remote: false
-      title: Senior QA Analyst
     - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
       remote: false
       title: Intermediate QA Analyst
@@ -272,9 +269,6 @@ jobs:
     - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
       remote: false
       title: Senior Front End Developer
-    - link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
-      remote: false
-      title: Intermediate Front End Developer
 - company: avalonholo
   jobs:
     current: []
@@ -316,4 +310,5 @@ jobs:
     - link: https://www.bluedriver.com/about-us/careers
       remote: false
       title: Software Developer / Engineer
-updateDate: 2022-04-22
+newPostings: false
+updateDate: 2022-04-29

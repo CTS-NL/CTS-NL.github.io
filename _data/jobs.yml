@@ -147,10 +147,6 @@
       jobs:
         - title: Junior Embedded Developer
           link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
-    - post_date: 2021-10-22
-      jobs:
-        - title: Senior QA Analyst
-          link: https://jobs.lever.co/getmysa/64b14fce-a3e8-4e47-ac95-2656456a9e2a
     - post_date: 2021-09-10
       jobs:
         - title: Intermediate QA Analyst
@@ -319,8 +315,6 @@
       jobs:
         - title: Senior Front End Developer
           link: https://bluedropism.com/senior-front-end-developer-dec-2021/
-        - title: Intermediate Front End Developer
-          link: https://bluedropism.com/intermediate-front-end-developer-dec-2021/
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25

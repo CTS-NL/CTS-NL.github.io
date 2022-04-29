@@ -14,6 +14,9 @@ permalink: "/jobs/"
 <hr/>
 <div class="jobs">
 	<h3>New Postings</h3>
+	{% unless site.data['jobs-sorted'].newPostings %}
+		No new postings this week.
+	{% endunless %}
 	{% for entry in site.data['jobs-sorted'].jobs %}
 		{% if entry.jobs.current != empty %}
 			{%include company_job_postings company=entry.company jobs=entry.jobs.current %}

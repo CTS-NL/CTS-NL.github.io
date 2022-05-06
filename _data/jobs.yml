@@ -40,29 +40,19 @@
           link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
           remote: true
 - company: radient
-  jobs:
-    -
-      post_date: 2022-04-15
-      jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/viewjob?jk=49d53270865489e2
-          remote: false
+  jobs: []
 - company: quorum
   jobs:
     -
-      post_date: 2022-04-22
+      post_date: 2022-05-06
       jobs:
-        - title: Senior Software Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409771
-          remote: false
+        - title: Software Development Manager
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
     -
       post_date: 2022-04-15
       jobs:
         - title: Intermediate Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
-          remote: true
-        - title: Sr Developer, Technical Lead
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
           remote: true
 - company: enaimco
   jobs: []
@@ -122,12 +112,7 @@
 - company: nlc
   jobs: []
 - company: northatlantic
-  jobs:
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Systems Analyst
-          link: https://northatlantic.ca/careers/systems-analyst/
+  jobs: []
 - company: mun
   jobs: []
 - company: ccore
@@ -158,12 +143,7 @@
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
           remote: true
 - company: heyorca
-  jobs:
-    - post_date: 2022-03-18
-      jobs:
-        - title: "Experienced Software Developer (Fulltime)"
-          link: "https://secure.collage.co/jobs/heyorca/11328"
-          remote: true
+  jobs: []
 - company: compusult
   jobs:
     - post_date: 2022-03-18
@@ -241,9 +221,6 @@
       jobs:
         - title: "Full Stack Developer III"
           link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
-          remote: true
-        - title: "Full Stack Developer II"
-          link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
           remote: true
 - company: govnl
   jobs:

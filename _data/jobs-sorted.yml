@@ -1,14 +1,60 @@
 jobs:
+- company: radient
+  jobs:
+    current:
+    - link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
+      remote: false
+      title: Security Engineer
+    previous: []
 - company: quorum
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
-      remote: false
-      title: Software Development Manager
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
       remote: true
-      title: Intermediate Developer
+      title: Sr Developer, Technical Lead
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
+      remote: true
+      title: Software Development Manager
+- company: mysa
+  jobs:
+    current:
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: false
+      title: Software Development Team Lead
+    previous:
+    - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
+      remote: false
+      title: Junior Embedded Developer
+    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+      remote: false
+      title: Intermediate QA Analyst
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
+- company: colab
+  jobs:
+    current:
+    - link: https://colabsoftware.applytojobs.ca/development/12834
+      remote: false
+      title: Full Stack Developer (Co-op)
+    previous:
+    - link: https://colabsoftware.applytojobs.ca/development/12157
+      remote: false
+      title: Cloud Developer (CICD)
+    - link: https://colabsoftware.applytojobs.ca/development/9783
+      remote: false
+      title: Senior Full Stack Developer
+    - link: https://colabsoftware.applytojobs.ca/development/9784
+      remote: false
+      title: Intermediate Full Stack Developer
+- company: breathesuite
+  jobs:
+    current:
+    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=35
+      remote: false
+      title: Firmware Engineer Co-op Student
+    previous: []
 - company: reportmate
   jobs:
     current: []
@@ -32,16 +78,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
-- company: hatch
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/873581000/
-      remote: false
-      title: Azure Administrator
-    - link: https://jobs.hatch.com/job/St_-John's-DevOps-Consultant-NL/873572800/
-      remote: false
-      title: DevOps Consultant
 - company: sequencebio
   jobs:
     current: []
@@ -80,41 +116,12 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
       remote: true
       title: Full Stack Developer (Java/JavaScript)
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
-      remote: false
-      title: Power Apps Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer\
       remote: false
       title: .NET Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/development/12157
-      remote: false
-      title: Cloud Developer (CICD)
-    - link: https://colabsoftware.applytojobs.ca/development/9783
-      remote: false
-      title: Senior Full Stack Developer
-    - link: https://colabsoftware.applytojobs.ca/development/9784
-      remote: false
-      title: Intermediate Full Stack Developer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25636
-      remote: false
-      title: Computer Programmer Analyst
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
-      remote: false
-      title: Database Analyst
 - company: inmarsat
   jobs:
     current: []
@@ -132,19 +139,6 @@ jobs:
     - link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
       remote: false
       title: Video Game Programmer Intern
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
-      remote: false
-      title: Junior Embedded Developer
-    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-      remote: false
-      title: Intermediate QA Analyst
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
 - company: compusult
   jobs:
     current: []
@@ -178,6 +172,13 @@ jobs:
     - link: https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/
       remote: false
       title: Intermediate Developer
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -215,19 +216,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Game Developer
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
-      remote: false
-      title: Web Developer (Marketing)
-    - link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
-      remote: false
-      title: 'Security: Red, Blue & Yellow Teams'
-    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-      remote: false
-      title: Software Developer
 - company: rally
   jobs:
     current: []
@@ -242,6 +230,13 @@ jobs:
     - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
       remote: false
       title: Senior Front End Developer
+- company: verafin
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      remote: false
+      title: Software Developer
 - company: avalonholo
   jobs:
     current: []
@@ -284,4 +279,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-05-06
+updateDate: 2022-05-13

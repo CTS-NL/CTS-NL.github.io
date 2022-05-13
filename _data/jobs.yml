@@ -9,16 +9,7 @@
           link: https://www.linkedin.com/jobs/view/3041903020/
           remote: false
 - company: hatch
-  jobs:
-    -
-      post_date: 2022-04-15
-      jobs:
-        - title: Azure Administrator
-          link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/873581000/
-          remote: false
-        - title: DevOps Consultant
-          link: https://jobs.hatch.com/job/St_-John's-DevOps-Consultant-NL/873572800/
-          remote: false
+  jobs: []
 - company: sequencebio
   jobs:
     -
@@ -40,19 +31,25 @@
           link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
           remote: true
 - company: radient
-  jobs: []
+  jobs:
+    -
+      post_date: 2022-05-13
+      jobs:
+        - title: Security Engineer
+          link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
 - company: quorum
   jobs:
+    -
+      post_date: 2022-05-13
+      jobs:
+        - title: Sr Developer, Technical Lead
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
+          remote: true
     -
       post_date: 2022-05-06
       jobs:
         - title: Software Development Manager
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
-    -
-      post_date: 2022-04-15
-      jobs:
-        - title: Intermediate Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409549
           remote: true
 - company: enaimco
   jobs: []
@@ -92,12 +89,6 @@
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
           remote: true
     -
-      post_date: 2022-02-11
-      jobs:
-        - title: Power Apps Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999802277280-power-apps-developer
-          remote: false
-    -
       post_date: 2022-01-28
       jobs:
         - title: Senior Python Developer
@@ -128,6 +119,10 @@
           link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
 - company: mysa
   jobs:
+    - post_date: 2022-05-13
+      jobs:
+        - title: Software Development Team Lead
+          link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
     - post_date: 2022-03-18
       jobs:
         - title: Junior Embedded Developer
@@ -156,6 +151,10 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    - post_date: 2022-05-13
+      jobs:
+        - title: "Full Stack Developer (Co-op)"
+          link: "https://colabsoftware.applytojobs.ca/development/12834"
     - post_date: 2022-04-15
       jobs:
         - title: "Cloud Developer (CICD)"
@@ -181,14 +180,6 @@
           link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: verafin
   jobs:
-    - post_date: 2022-01-14
-      jobs:
-        - title: "Web Developer (Marketing)"
-          link: https://jobs.lever.co/verafin/5b18ad42-4590-4e57-a23f-206620ee32e5/
-    - post_date: 2021-10-29
-      jobs:
-        - title: "Security: Red, Blue & Yellow Teams"
-          link: https://jobs.lever.co/verafin/4f29d964-e5de-415b-8d98-fac78a071fec/
     - post_date: 2021-06-25
       jobs:
         - title: Software Developer
@@ -224,19 +215,10 @@
           remote: true
 - company: govnl
   jobs:
-    - post_date: 2022-04-15
-      jobs:
-        - title: "Computer Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25636
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
           link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: "Database Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25389
 - company: inspectar
   jobs:
     -
@@ -277,7 +259,11 @@
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: breathesuite
-  jobs: []
+  jobs:
+      - post_date: 2022-05-13
+        jobs:
+          - title: "Firmware Engineer Co-op Student"
+            link: https://breathesuite.bamboohr.com/jobs/view.php?id=35
 - company: rally
   jobs:
     - post_date: 2022-01-14

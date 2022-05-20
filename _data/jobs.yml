@@ -1,13 +1,7 @@
 - company: nlchi
   jobs: []
 - company: reportmate
-  jobs:
-    -
-      post_date: 2022-04-22
-      jobs:
-        - title: Full Stack Developer
-          link: https://www.linkedin.com/jobs/view/3041903020/
-          remote: false
+  jobs: []
 - company: hatch
   jobs: []
 - company: sequencebio
@@ -40,16 +34,16 @@
 - company: quorum
   jobs:
     -
+      post_date: 2022-05-20
+      jobs:
+        - title: Senior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409094
+          remote: true
+    -
       post_date: 2022-05-13
       jobs:
         - title: Sr Developer, Technical Lead
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
-          remote: true
-    -
-      post_date: 2022-05-06
-      jobs:
-        - title: Software Development Manager
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
           remote: true
 - company: enaimco
   jobs: []
@@ -60,6 +54,13 @@
       jobs:
         - title: Software Developer
           link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
+- company: bluedriver
+  jobs:
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://us.bluedriver.com/pages/careers
 - company: cityofstjohns
   jobs: []
 - company: mariner
@@ -107,7 +108,12 @@
 - company: mun
   jobs: []
 - company: ccore
-  jobs: []
+  jobs:
+    - post_date: 2022-05-20
+      jobs:
+        - title: Software Systems Engineer
+          link: https://ca.indeed.com/viewjob?jk=31b833eef40c692b
+          remote: false
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -115,8 +121,6 @@
         - title: Senior Programmer
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
           remote: true
-        - title: Video Game Programmer Intern
-          link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
 - company: mysa
   jobs:
     - post_date: 2022-05-13
@@ -185,14 +189,7 @@
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: rayagency
-  jobs:
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Development Lead"
-          link: "https://technl.ca/job/ray-creative-agency-full-time-development-lead/"
-        - title: "Intermediate Developer"
-          link: "https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/"
-          remote: false
+  jobs: []
 - company: milkmoovement
   jobs:
     - post_date: 2022-04-22
@@ -215,6 +212,10 @@
           remote: true
 - company: govnl
   jobs:
+    - post_date: 2022-05-20
+      jobs:
+        - title: "Database Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26054
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -301,15 +302,3 @@
       jobs:
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
-- company: lemur
-  jobs:
-    -
-      post_date: 2019-06-13
-      jobs:
-        - title: "Embedded Systems Engineer / Developer"
-          link: https://www.bluedriver.com/about-us/careers
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: "Software Developer / Engineer"
-          link: https://www.bluedriver.com/about-us/careers

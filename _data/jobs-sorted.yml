@@ -1,28 +1,45 @@
 jobs:
-- company: radient
-  jobs:
-    current:
-    - link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
-      remote: false
-      title: Security Engineer
-    previous: []
 - company: quorum
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409094
+      remote: true
+      title: Senior Developer
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=409545
       remote: true
       title: Sr Developer, Technical Lead
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=411609
-      remote: true
-      title: Software Development Manager
-- company: mysa
+- company: ccore
   jobs:
     current:
+    - link: https://ca.indeed.com/viewjob?jk=31b833eef40c692b
+      remote: false
+      title: Software Systems Engineer
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26054
+      remote: false
+      title: Database Analyst
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
+- company: radient
+  jobs:
+    current: []
+    previous:
+    - link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
+      remote: false
+      title: Security Engineer
+- company: mysa
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
       remote: false
       title: Software Development Team Lead
-    previous:
     - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
       remote: false
       title: Junior Embedded Developer
@@ -34,11 +51,11 @@ jobs:
       title: Senior Software Developer
 - company: colab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://colabsoftware.applytojobs.ca/development/12834
       remote: false
       title: Full Stack Developer (Co-op)
-    previous:
     - link: https://colabsoftware.applytojobs.ca/development/12157
       remote: false
       title: Cloud Developer (CICD)
@@ -50,18 +67,11 @@ jobs:
       title: Intermediate Full Stack Developer
 - company: breathesuite
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=35
       remote: false
       title: Firmware Engineer Co-op Student
-    previous: []
-- company: reportmate
-  jobs:
-    current: []
-    previous:
-    - link: https://www.linkedin.com/jobs/view/3041903020/
-      remote: false
-      title: Full Stack Developer
 - company: milkmoovement
   jobs:
     current: []
@@ -136,9 +146,6 @@ jobs:
     - link: https://otherocean.com/jobs/Senior_Programmer.pdf
       remote: true
       title: Senior Programmer
-    - link: https://otherocean.com/jobs/Programmer_Internship_Student.pdf
-      remote: false
-      title: Video Game Programmer Intern
 - company: compusult
   jobs:
     current: []
@@ -162,23 +169,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847
       remote: false
       title: Software Quality Assurance Specialist
-- company: rayagency
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/ray-creative-agency-full-time-development-lead/
-      remote: false
-      title: Development Lead
-    - link: https://technl.ca/job/ray-creative-agency-full-time-intermediate-developer/
-      remote: false
-      title: Intermediate Developer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -268,15 +258,12 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
       remote: false
       title: Software Developer
-- company: lemur
+- company: bluedriver
   jobs:
     current: []
     previous:
-    - link: https://www.bluedriver.com/about-us/careers
-      remote: false
-      title: Embedded Systems Engineer / Developer
-    - link: https://www.bluedriver.com/about-us/careers
+    - link: https://us.bluedriver.com/pages/careers
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-05-13
+updateDate: 2022-05-20

@@ -46,6 +46,10 @@ bullseyebranding:
   name: Bullseye Branding
   url: https://www.bullseyebranding.ca/
   local: true
+bluedriver:
+  name: BlueDriver
+  url: https://www.bluedriver.com/
+  local: true
 cahill:
   name: Cahill Group
   url: http://www.cahill.ca
@@ -203,8 +207,9 @@ lghealth:
   local: true
 lemur:
   name: Lemur Vehicle Monitors
-  url: https://www.bluedriver.com/
+  url: https://www.bluedriver.com
   local: true
+  defunct: "Rebranded to Bluedriver"
 mariner:
   name: Mariner Innovations
   url: https://www.marinerinnovations.com/

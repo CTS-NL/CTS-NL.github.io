@@ -50,6 +50,10 @@ bluedriver:
   name: BlueDriver
   url: https://www.bluedriver.com/
   local: true
+bluecross:
+  name: Medavie Blue Cross
+  url: https://www.medaviebc.ca/
+  canadian: true
 cahill:
   name: Cahill Group
   url: http://www.cahill.ca

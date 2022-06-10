@@ -1,3 +1,20 @@
+- company: oliverpos
+  jobs:
+    - post_date: 2022-06-07
+      jobs:
+        - title: Technical Product Manager
+          link: https://peoplestuff.bamboohr.com/jobs/view.php?id=127
+          remote: false
+        - title: Sr. Software Architect
+          link: https://peoplestuff.bamboohr.com/jobs/view.php?id=123
+          remote: false
+- company: easternhealth
+  jobs:
+    - post_date: 2022-06-07
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089615
+          remote: true
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -37,7 +54,13 @@
         - title: Security Engineer
           link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2022-06-10
+      jobs:
+        - title: Technical Lead, Development
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -61,9 +84,6 @@
     -
       post_date: 2022-04-15
       jobs:
-        - title: Systems Analyst/Integrator - Telecom Billing
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999811788202-systems-analyst-integrator-telecom-billing
-          remote: true
         - title: Senior Cloud Engineer (Azure)
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999815856727-senior-cloud-engineer-azure-
           remote: true
@@ -99,15 +119,7 @@
 - company: northatlantic
   jobs: []
 - company: mun
-  jobs:
-    - post_date: 2022-05-27
-      jobs:
-        - title: Systems Programmer
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2795
-          remote: false
-        - title: Database Administrator
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2799
-          remote: false
+  jobs: []
 - company: ccore
   jobs:
     - post_date: 2022-05-20
@@ -124,22 +136,45 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-06-10
+      jobs:
+        - title: Automation Architect
+          link: https://jobs.medaviebc.ca/job/_/559366117/
+          remote: true
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/556545117/
+          remote: true
+        - title: Intermediate Software Architect
+          link: https://jobs.medaviebc.ca/job/_/557485217/
+          remote: true
+        - title: Software Architect
+          link: https://jobs.medaviebc.ca/job/_/557485017/
+          remote: true
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/556516717/
+          remote: true
+        - title: Front-End Developer
+          link: https://jobs.medaviebc.ca/job/_/560171017/
+          remote: true
+        - title: Application Deployment Specialist
+          link: https://jobs.medaviebc.ca/job/_/557852117/
+          remote: true
     - post_date: 2022-05-27
       jobs:
         - title: Intermediate Software Developer
-          link: https://jobs.medaviebc.ca/job/Dartmouth-Intermediate-Software-Developer-Nova-B3J-3C6/549273417/
+          link: https://jobs.medaviebc.ca/job/_/549273417/
           remote: true
         - title: Team Leader, Infrastructure and Dev Ops
-          link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Team-Leader%2C-Infrastructure-and-Dev-Ops-New/559654617/
+          link: https://jobs.medaviebc.ca/job/_/559654617/
           remote: true
         - title: Team Leader Application Development
-          link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Team-Leader-Application-Development-New/558995917/
+          link: https://jobs.medaviebc.ca/job/_/558995917/
           remote: true
         - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Sr_-ProgrammerAnalyst-New/557961117/
+          link: https://jobs.medaviebc.ca/job/_/557961117/
           remote: true
         - title: Software Architect
-          link: https://jobs.medaviebc.ca/job/Software-Architect/556905517/
+          link: https://jobs.medaviebc.ca/job/_/556905517/
           remote: true
 - company: mysa
   jobs:
@@ -174,11 +209,7 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs:
-    - post_date: 2022-05-13
-      jobs:
-        - title: "Full Stack Developer (Co-op)"
-          link: "https://colabsoftware.applytojobs.ca/development/12834"
+  jobs: []
 - company: kraken
   jobs:
     - post_date: 2022-03-04
@@ -202,6 +233,11 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2022-06-10
+      jobs:
+        - title: "Software Development Engineer In Test"
+          link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
+          remote: true
     - post_date: 2022-04-22
       jobs:
         - title: "Software Reliability Engineer"
@@ -222,10 +258,10 @@
           remote: true
 - company: govnl
   jobs:
-    - post_date: 2022-05-20
+    - post_date: 2022-06-10
       jobs:
-        - title: "Database Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26054
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -237,8 +273,6 @@
       jobs:
         - title: Software Developer CO-OP Student
           link: https://www.inspectar.com/career/software-developer-co-op-student
-        - title: QA Engineer CO-OP Student
-          link: https://www.inspectar.com/career/qa-engineer-co-op-student
         - title: C# Developer
           link: https://www.inspectar.com/career/c-sharp-developer
         - title: Senior Unity Developer
@@ -263,6 +297,12 @@
           link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
 - company: vmt
   jobs:
+    - post_date: 2022-06-07
+      jobs:
+        - title: "Software Developer"
+          link: https://www.virtualmarine.ca/careers
+        - title: "Software Developer - Machine Learning"
+          link: https://www.virtualmarine.ca/careers
     - post_date: 2022-02-04
       jobs:
         - title: "Game Developer"

@@ -1,10 +1,11 @@
-jekyll:
-    image: jekyll/jekyll:3.8
-    command: jekyll serve --trace --watch --config _config.yml,_config_dev.yml
-    environment:
-      - DEVELOPMENT=1
-    ports:
-        - 4000:4000
-    volumes:
-        - .:/srv/jekyll
-        - ./vendor/bundle:/usr/local/bundle
+services:
+  jekyll:
+      image: jekyll/jekyll:3.8
+      command: jekyll serve --trace --watch --config _config.yml,_config_dev.yml
+      environment:
+        - DEVELOPMENT=1
+      ports:
+          - 4000:4000
+      volumes:
+          - .:/srv/jekyll
+          - ./vendor/bundle:/usr/local/bundle

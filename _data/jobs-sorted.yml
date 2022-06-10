@@ -1,47 +1,127 @@
 jobs:
-- company: hatch
+- company: quorum
   jobs:
     current:
-    - link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/885933100/
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
       remote: false
-      title: Azure Administrator
-    previous: []
-- company: mun
-  jobs:
-    current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2795
+      title: Technical Lead, Development
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
       remote: false
-      title: Systems Programmer
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2799
-      remote: false
-      title: Database Administrator
+      title: Intermediate Developer
     previous: []
 - company: bluecross
   jobs:
     current:
-    - link: https://jobs.medaviebc.ca/job/Dartmouth-Intermediate-Software-Developer-Nova-B3J-3C6/549273417/
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
-      title: Intermediate Software Developer
-    - link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Team-Leader%2C-Infrastructure-and-Dev-Ops-New/559654617/
-      remote: true
-      title: Team Leader, Infrastructure and Dev Ops
-    - link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Team-Leader-Application-Development-New/558995917/
-      remote: true
-      title: Team Leader Application Development
-    - link: https://jobs.medaviebc.ca/job/Mount-New-Brunswick-Sr_-ProgrammerAnalyst-New/557961117/
+      title: Automation Architect
+    - link: https://jobs.medaviebc.ca/job/_/556545117/
       remote: true
       title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/Software-Architect/556905517/
+    - link: https://jobs.medaviebc.ca/job/_/557485217/
+      remote: true
+      title: Intermediate Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/557485017/
       remote: true
       title: Software Architect
-    previous: []
-- company: wood
+    - link: https://jobs.medaviebc.ca/job/_/556516717/
+      remote: true
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/560171017/
+      remote: true
+      title: Front-End Developer
+    - link: https://jobs.medaviebc.ca/job/_/557852117/
+      remote: true
+      title: Application Deployment Specialist
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/549273417/
+      remote: true
+      title: Intermediate Software Developer
+    - link: https://jobs.medaviebc.ca/job/_/559654617/
+      remote: true
+      title: Team Leader, Infrastructure and Dev Ops
+    - link: https://jobs.medaviebc.ca/job/_/558995917/
+      remote: true
+      title: Team Leader Application Development
+    - link: https://jobs.medaviebc.ca/job/_/557961117/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/556905517/
+      remote: true
+      title: Software Architect
+- company: milkmoovement
   jobs:
     current:
+    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
+      remote: true
+      title: Software Development Engineer In Test
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
+      remote: true
+      title: Software Reliability Engineer
+    - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
+      remote: true
+      title: Senior Front End Developer
+    - link: https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f
+      remote: true
+      title: Senior Mobile Developer
+    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+      remote: true
+      title: Full Stack Developer III
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
+      remote: false
+      title: Senior Programmer Analyst
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
+- company: oliverpos
+  jobs:
+    current:
+    - link: https://peoplestuff.bamboohr.com/jobs/view.php?id=127
+      remote: false
+      title: Technical Product Manager
+    - link: https://peoplestuff.bamboohr.com/jobs/view.php?id=123
+      remote: false
+      title: Sr. Software Architect
+    previous: []
+- company: easternhealth
+  jobs:
+    current:
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089615
+      remote: true
+      title: Computer Systems Analyst I
+    previous: []
+- company: vmt
+  jobs:
+    current:
+    - link: https://www.virtualmarine.ca/careers
+      remote: false
+      title: Software Developer
+    - link: https://www.virtualmarine.ca/careers
+      remote: false
+      title: Software Developer - Machine Learning
+    previous:
+    - link: https://www.virtualmarine.ca/careers
+      remote: false
+      title: Game Developer
+- company: hatch
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/885933100/
+      remote: false
+      title: Azure Administrator
+- company: wood
+  jobs:
+    current: []
+    previous:
     - link: https://woodplc-canadaexternal.icims.com/jobs/106183/job
       remote: false
       title: Web Application Developer
-    previous:
     - link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
       remote: false
       title: Mobile Application Developer
@@ -52,16 +132,6 @@ jobs:
     - link: https://ca.indeed.com/viewjob?jk=31b833eef40c692b
       remote: false
       title: Software Systems Engineer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26054
-      remote: false
-      title: Database Analyst
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: radient
   jobs:
     current: []
@@ -85,29 +155,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
       remote: true
       title: Senior Software Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/development/12834
-      remote: false
-      title: Full Stack Developer (Co-op)
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
-      remote: true
-      title: Software Reliability Engineer
-    - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
-      remote: true
-      title: Senior Front End Developer
-    - link: https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f
-      remote: true
-      title: Senior Mobile Developer
-    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
-      remote: true
-      title: Full Stack Developer III
 - company: sequencebio
   jobs:
     current: []
@@ -131,9 +178,6 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999811788202-systems-analyst-integrator-telecom-billing
-      remote: true
-      title: Systems Analyst/Integrator - Telecom Billing
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999815856727-senior-cloud-engineer-azure-
       remote: true
       title: Senior Cloud Engineer (Azure)
@@ -196,9 +240,6 @@ jobs:
     - link: https://www.inspectar.com/career/software-developer-co-op-student
       remote: false
       title: Software Developer CO-OP Student
-    - link: https://www.inspectar.com/career/qa-engineer-co-op-student
-      remote: false
-      title: QA Engineer CO-OP Student
     - link: https://www.inspectar.com/career/c-sharp-developer
       remote: false
       title: C# Developer
@@ -212,13 +253,6 @@ jobs:
     - link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
       remote: false
       title: Senior Software Engineer
-- company: vmt
-  jobs:
-    current: []
-    previous:
-    - link: https://www.virtualmarine.ca/careers
-      remote: false
-      title: Game Developer
 - company: rally
   jobs:
     current: []
@@ -279,4 +313,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-05-27
+updateDate: 2022-06-10

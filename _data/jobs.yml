@@ -1,31 +1,13 @@
 - company: oliverpos
-  jobs:
-    - post_date: 2022-06-07
-      jobs:
-        - title: Technical Product Manager
-          link: https://peoplestuff.bamboohr.com/jobs/view.php?id=127
-          remote: false
-        - title: Sr. Software Architect
-          link: https://peoplestuff.bamboohr.com/jobs/view.php?id=123
-          remote: false
+  jobs: []
 - company: easternhealth
-  jobs:
-    - post_date: 2022-06-07
-      jobs:
-        - title: Computer Systems Analyst I
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089615
-          remote: true
+  jobs: []
 - company: nlchi
   jobs: []
 - company: reportmate
   jobs: []
 - company: hatch
-  jobs:
-    - post_date: 2022-05-27
-      jobs:
-        - title: Azure Administrator
-          link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/885933100/
-          remote: false
+  jobs: []
 - company: sequencebio
   jobs:
     -
@@ -59,8 +41,6 @@
       jobs:
         - title: Technical Lead, Development
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
-        - title: Intermediate Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -84,9 +64,6 @@
     -
       post_date: 2022-04-15
       jobs:
-        - title: Senior Cloud Engineer (Azure)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999815856727-senior-cloud-engineer-azure-
-          remote: true
         - title: DevOps Engineer (Openshift)
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
           remote: false
@@ -108,12 +85,6 @@
         - title: Senior Python Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
           remote: true
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer\
-          remote: false
 - company: nlc
   jobs: []
 - company: northatlantic
@@ -136,6 +107,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-06-17
+      jobs:
+        - title: Software Developer
+          link: https://jobs.medaviebc.ca/job/_/560515217/
+          remote: true
     - post_date: 2022-06-10
       jobs:
         - title: Automation Architect
@@ -167,9 +143,6 @@
         - title: Team Leader, Infrastructure and Dev Ops
           link: https://jobs.medaviebc.ca/job/_/559654617/
           remote: true
-        - title: Team Leader Application Development
-          link: https://jobs.medaviebc.ca/job/_/558995917/
-          remote: true
         - title: Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/557961117/
           remote: true
@@ -178,14 +151,14 @@
           remote: true
 - company: mysa
   jobs:
+    - post_date: 2022-06-17
+      jobs:
+        - title: Senior QA Analyst
+          link: https://jobs.lever.co/getmysa/d83c70ee-8684-4249-80d2-84641e3b4b0e
     - post_date: 2022-05-13
       jobs:
         - title: Software Development Team Lead
           link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-    - post_date: 2022-03-18
-      jobs:
-        - title: Junior Embedded Developer
-          link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
     - post_date: 2021-09-10
       jobs:
         - title: Intermediate QA Analyst
@@ -221,16 +194,23 @@
       jobs:
         - title: "Software Developer - Sonar Systems"
           link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
-        - title: "Software Quality Assurance Specialist"
-          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
 - company: verafin
   jobs:
+    - post_date: 2022-06-17
+      jobs:
+        - title: Security Analyst
+          link: https://jobs.lever.co/verafin/b4d3a6ea-5134-4e14-a975-06c8cdc404b7
     - post_date: 2021-06-25
       jobs:
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: rayagency
-  jobs: []
+  jobs:
+    - post_date: 2022-06-17
+      jobs:
+        - title: "Senior Website Developer"
+          link: "https://rayagency.ca/career-opportunities/full-stack-website-developer/"
+          remote: true
 - company: milkmoovement
   jobs:
     - post_date: 2022-06-10
@@ -258,10 +238,6 @@
           remote: true
 - company: govnl
   jobs:
-    - post_date: 2022-06-10
-      jobs:
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"

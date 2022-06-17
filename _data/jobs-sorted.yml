@@ -1,17 +1,11 @@
 jobs:
-- company: quorum
-  jobs:
-    current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
-      remote: false
-      title: Technical Lead, Development
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
-      remote: false
-      title: Intermediate Developer
-    previous: []
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/560515217/
+      remote: true
+      title: Software Developer
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Automation Architect
@@ -33,29 +27,65 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/557852117/
       remote: true
       title: Application Deployment Specialist
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/549273417/
       remote: true
       title: Intermediate Software Developer
     - link: https://jobs.medaviebc.ca/job/_/559654617/
       remote: true
       title: Team Leader, Infrastructure and Dev Ops
-    - link: https://jobs.medaviebc.ca/job/_/558995917/
-      remote: true
-      title: Team Leader Application Development
     - link: https://jobs.medaviebc.ca/job/_/557961117/
       remote: true
       title: Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/556905517/
       remote: true
       title: Software Architect
-- company: milkmoovement
+- company: mysa
   jobs:
     current:
+    - link: https://jobs.lever.co/getmysa/d83c70ee-8684-4249-80d2-84641e3b4b0e
+      remote: false
+      title: Senior QA Analyst
+    previous:
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: false
+      title: Software Development Team Lead
+    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+      remote: false
+      title: Intermediate QA Analyst
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
+- company: verafin
+  jobs:
+    current:
+    - link: https://jobs.lever.co/verafin/b4d3a6ea-5134-4e14-a975-06c8cdc404b7
+      remote: false
+      title: Security Analyst
+    previous:
+    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      remote: false
+      title: Software Developer
+- company: rayagency
+  jobs:
+    current:
+    - link: https://rayagency.ca/career-opportunities/full-stack-website-developer/
+      remote: true
+      title: Senior Website Developer
+    previous: []
+- company: quorum
+  jobs:
+    current: []
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
+      remote: false
+      title: Technical Lead, Development
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
       remote: true
       title: Software Development Engineer In Test
-    previous:
     - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
       remote: true
       title: Software Reliability Engineer
@@ -68,53 +98,19 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
-      remote: false
-      title: Senior Programmer Analyst
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
-- company: oliverpos
-  jobs:
-    current:
-    - link: https://peoplestuff.bamboohr.com/jobs/view.php?id=127
-      remote: false
-      title: Technical Product Manager
-    - link: https://peoplestuff.bamboohr.com/jobs/view.php?id=123
-      remote: false
-      title: Sr. Software Architect
-    previous: []
-- company: easternhealth
-  jobs:
-    current:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089615
-      remote: true
-      title: Computer Systems Analyst I
-    previous: []
 - company: vmt
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer - Machine Learning
-    previous:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Game Developer
-- company: hatch
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.hatch.com/job/St_-John&apos;s-Azure-Administrator-NL/885933100/
-      remote: false
-      title: Azure Administrator
 - company: wood
   jobs:
     current: []
@@ -139,22 +135,6 @@ jobs:
     - link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
       remote: false
       title: Security Engineer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: false
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/8d7a8122-bf32-4445-8d95-1c9360e496e9
-      remote: false
-      title: Junior Embedded Developer
-    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-      remote: false
-      title: Intermediate QA Analyst
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
 - company: sequencebio
   jobs:
     current: []
@@ -178,9 +158,6 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999815856727-senior-cloud-engineer-azure-
-      remote: true
-      title: Senior Cloud Engineer (Azure)
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
       remote: false
       title: DevOps Engineer (Openshift)
@@ -193,9 +170,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999797364934--net-developer\
-      remote: false
-      title: .NET Developer
 - company: inmarsat
   jobs:
     current: []
@@ -230,9 +204,13 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
       remote: false
       title: Software Developer - Sonar Systems
-    - link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
       remote: false
-      title: Software Quality Assurance Specialist
+      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -267,13 +245,6 @@ jobs:
     - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
       remote: false
       title: Senior Front End Developer
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-      remote: false
-      title: Software Developer
 - company: avalonholo
   jobs:
     current: []
@@ -313,4 +284,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-06-10
+updateDate: 2022-06-17

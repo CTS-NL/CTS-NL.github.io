@@ -1,11 +1,63 @@
 jobs:
+- company: easternhealth
+  jobs:
+    current:
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
+      remote: true
+      title: Computer Programmer/Analyst
+    previous: []
+- company: rutter
+  jobs:
+    current:
+    - link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
+      remote: false
+      title: Senior Software Developer
+    previous: []
+- company: strobeltek
+  jobs:
+    current:
+    - link: https://strobeltek.com/careers/
+      remote: false
+      title: Mid Electrical/ Software Engineer
+    - link: https://strobeltek.com/careers/
+      remote: false
+      title: Senior Software Developer
+    previous: []
+- company: mariner
+  jobs:
+    current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: Azure Solutions Architect
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+      remote: true
+      title: Senior Database Administrator
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+      remote: true
+      title: Full Stack Developer (Java/JavaScript)
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/560703917/
+      remote: true
+      title: Database Administrator (DBA)
+    - link: https://jobs.medaviebc.ca/job/_/559738617/
+      remote: true
+      title: Software System Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559805017/
+      remote: true
+      title: Programming Analyst
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/560515217/
       remote: true
       title: Software Developer
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Automation Architect
@@ -21,9 +73,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/556516717/
       remote: true
       title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/560171017/
-      remote: true
-      title: Front-End Developer
     - link: https://jobs.medaviebc.ca/job/_/557852117/
       remote: true
       title: Application Deployment Specialist
@@ -41,11 +90,11 @@ jobs:
       title: Software Architect
 - company: mysa
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/d83c70ee-8684-4249-80d2-84641e3b4b0e
       remote: false
       title: Senior QA Analyst
-    previous:
     - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
       remote: false
       title: Software Development Team Lead
@@ -57,21 +106,21 @@ jobs:
       title: Senior Software Developer
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/b4d3a6ea-5134-4e14-a975-06c8cdc404b7
       remote: false
       title: Security Analyst
-    previous:
     - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
       remote: false
       title: Software Developer
 - company: rayagency
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://rayagency.ca/career-opportunities/full-stack-website-developer/
       remote: true
       title: Senior Website Developer
-    previous: []
 - company: quorum
   jobs:
     current: []
@@ -121,20 +170,6 @@ jobs:
     - link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
       remote: false
       title: Mobile Application Developer
-- company: ccore
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=31b833eef40c692b
-      remote: false
-      title: Software Systems Engineer
-- company: radient
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
-      remote: false
-      title: Security Engineer
 - company: sequencebio
   jobs:
     current: []
@@ -154,22 +189,6 @@ jobs:
     - link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
       remote: true
       title: Experienced AWS Infrastructure Engineer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
-      remote: false
-      title: DevOps Engineer (Openshift)
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
-      remote: true
-      title: Senior Database Administrator
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
-      remote: true
-      title: Full Stack Developer (Java/JavaScript)
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: inmarsat
   jobs:
     current: []
@@ -284,4 +303,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-06-17
+updateDate: 2022-06-24

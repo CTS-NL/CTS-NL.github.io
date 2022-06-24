@@ -1,11 +1,22 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs: []
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
+          remote: true
 - company: nlchi
   jobs: []
 - company: reportmate
   jobs: []
+- company: rutter
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Senior Software Developer
+          link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
 - company: hatch
   jobs: []
 - company: sequencebio
@@ -28,13 +39,18 @@
         - title: Experienced AWS Infrastructure Engineer
           link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
           remote: true
-- company: radient
+- company: strobeltek
   jobs:
-    -
-      post_date: 2022-05-13
+    - post_date: 2022-06-24
       jobs:
-        - title: Security Engineer
-          link: https://ca.indeed.com/viewjob?jk=e96886ae1f39c8af
+        - title: Mid Electrical/ Software Engineer
+          link: https://strobeltek.com/careers/
+          remote: false
+        - title: Senior Software Developer
+          link: https://strobeltek.com/careers/
+          remote: false
+- company: radient
+  jobs: []
 - company: quorum
   jobs:
     - post_date: 2022-06-10
@@ -62,11 +78,14 @@
 - company: mariner
   jobs:
     -
-      post_date: 2022-04-15
+      post_date: 2022-06-24
       jobs:
-        - title: DevOps Engineer (Openshift)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999818385918-devops-engineer-openshift-
-          remote: false
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+          remote: true
+        - title: Azure Solutions Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+          remote: true
     -
       post_date: 2022-03-25
       jobs:
@@ -92,12 +111,7 @@
 - company: mun
   jobs: []
 - company: ccore
-  jobs:
-    - post_date: 2022-05-20
-      jobs:
-        - title: Software Systems Engineer
-          link: https://ca.indeed.com/viewjob?jk=31b833eef40c692b
-          remote: false
+  jobs: []
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -107,6 +121,17 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Database Administrator (DBA)
+          link: https://jobs.medaviebc.ca/job/_/560703917/
+          remote: true
+        - title: Software System Analyst
+          link: https://jobs.medaviebc.ca/job/_/559738617/
+          remote: true
+        - title: Programming Analyst
+          link: https://jobs.medaviebc.ca/job/_/559805017/
+          remote: true
     - post_date: 2022-06-17
       jobs:
         - title: Software Developer
@@ -128,9 +153,6 @@
           remote: true
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/556516717/
-          remote: true
-        - title: Front-End Developer
-          link: https://jobs.medaviebc.ca/job/_/560171017/
           remote: true
         - title: Application Deployment Specialist
           link: https://jobs.medaviebc.ca/job/_/557852117/

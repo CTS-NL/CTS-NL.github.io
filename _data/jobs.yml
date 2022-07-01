@@ -1,7 +1,18 @@
+- company: cna
+  jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: "Instructor – Software Development"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/GetOtherJobAdFile?otherJobId=8232
 - company: oliverpos
   jobs: []
 - company: easternhealth
   jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: Computer Systems Analyst II
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000090283
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: Computer Programmer/Analyst
@@ -18,7 +29,11 @@
         - title: Senior Software Developer
           link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
 - company: hatch
-  jobs: []
+  jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: DevOps Consultant
+          link: https://jobs.hatch.com/job/_/885933300/
 - company: sequencebio
   jobs:
     -
@@ -109,7 +124,12 @@
 - company: northatlantic
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: IT Security Team Lead
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
+          remote: false
 - company: ccore
   jobs: []
 - company: otherocean
@@ -121,6 +141,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: Programmer
+          link: https://jobs.medaviebc.ca/job/_/560938317/
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: Database Administrator (DBA)
@@ -154,9 +179,6 @@
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/556516717/
           remote: true
-        - title: Application Deployment Specialist
-          link: https://jobs.medaviebc.ca/job/_/557852117/
-          remote: true
     - post_date: 2022-05-27
       jobs:
         - title: Intermediate Software Developer
@@ -173,10 +195,6 @@
           remote: true
 - company: mysa
   jobs:
-    - post_date: 2022-06-17
-      jobs:
-        - title: Senior QA Analyst
-          link: https://jobs.lever.co/getmysa/d83c70ee-8684-4249-80d2-84641e3b4b0e
     - post_date: 2022-05-13
       jobs:
         - title: Software Development Team Lead
@@ -218,10 +236,6 @@
           link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
 - company: verafin
   jobs:
-    - post_date: 2022-06-17
-      jobs:
-        - title: Security Analyst
-          link: https://jobs.lever.co/verafin/b4d3a6ea-5134-4e14-a975-06c8cdc404b7
     - post_date: 2021-06-25
       jobs:
         - title: Software Developer
@@ -260,6 +274,10 @@
           remote: true
 - company: govnl
   jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -305,6 +323,15 @@
       jobs:
         - title: "Game Developer"
           link: https://www.virtualmarine.ca/careers
+- company: vish
+  jobs:
+    -
+      post_date: 2020-07-01
+      jobs:
+        - title: Senior Frontend Developer
+          link: https://www.linkedin.com/jobs/view/3139275377/
+        - title: Senior Software Engineer
+          link: https://www.linkedin.com/jobs/view/3139268410/
 - company: vision33
   jobs:
     -

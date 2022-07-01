@@ -1,50 +1,42 @@
 jobs:
+- company: cna
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/GetOtherJobAdFile?otherJobId=8232
+      remote: false
+      title: "Instructor \u2013 Software Development"
+    previous: []
 - company: easternhealth
   jobs:
     current:
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000090283
+      remote: true
+      title: Computer Systems Analyst II
+    previous:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
       remote: true
       title: Computer Programmer/Analyst
-    previous: []
-- company: rutter
+- company: hatch
   jobs:
     current:
-    - link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
+    - link: https://jobs.hatch.com/job/_/885933300/
       remote: false
-      title: Senior Software Developer
+      title: DevOps Consultant
     previous: []
-- company: strobeltek
+- company: mun
   jobs:
     current:
-    - link: https://strobeltek.com/careers/
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
       remote: false
-      title: Mid Electrical/ Software Engineer
-    - link: https://strobeltek.com/careers/
-      remote: false
-      title: Senior Software Developer
+      title: IT Security Team Lead
     previous: []
-- company: mariner
-  jobs:
-    current:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: Azure Solutions Architect
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
-      remote: true
-      title: Senior Database Administrator
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
-      remote: true
-      title: Full Stack Developer (Java/JavaScript)
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/560938317/
+      remote: true
+      title: Programmer
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/560703917/
       remote: true
       title: Database Administrator (DBA)
@@ -54,7 +46,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/559805017/
       remote: true
       title: Programming Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/560515217/
       remote: true
       title: Software Developer
@@ -73,9 +64,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/556516717/
       remote: true
       title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/557852117/
-      remote: true
-      title: Application Deployment Specialist
     - link: https://jobs.medaviebc.ca/job/_/549273417/
       remote: true
       title: Intermediate Software Developer
@@ -88,32 +76,52 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/556905517/
       remote: true
       title: Software Architect
-- company: mysa
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
+      remote: false
+      title: Senior Programmer Analyst
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
+- company: rutter
   jobs:
     current: []
     previous:
-    - link: https://jobs.lever.co/getmysa/d83c70ee-8684-4249-80d2-84641e3b4b0e
+    - link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
       remote: false
-      title: Senior QA Analyst
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: false
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-      remote: false
-      title: Intermediate QA Analyst
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
       title: Senior Software Developer
-- company: verafin
+- company: strobeltek
   jobs:
     current: []
     previous:
-    - link: https://jobs.lever.co/verafin/b4d3a6ea-5134-4e14-a975-06c8cdc404b7
+    - link: https://strobeltek.com/careers/
       remote: false
-      title: Security Analyst
-    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      title: Mid Electrical/ Software Engineer
+    - link: https://strobeltek.com/careers/
       remote: false
-      title: Software Developer
+      title: Senior Software Developer
+- company: mariner
+  jobs:
+    current: []
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
+      remote: true
+      title: Azure Solutions Architect
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+      remote: true
+      title: Senior Database Administrator
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
+      remote: true
+      title: Full Stack Developer (Java/JavaScript)
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
 - company: rayagency
   jobs:
     current: []
@@ -170,6 +178,19 @@ jobs:
     - link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
       remote: false
       title: Mobile Application Developer
+- company: mysa
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: false
+      title: Software Development Team Lead
+    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+      remote: false
+      title: Intermediate QA Analyst
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
 - company: sequencebio
   jobs:
     current: []
@@ -223,13 +244,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
       remote: false
       title: Software Developer - Sonar Systems
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -264,6 +278,13 @@ jobs:
     - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
       remote: false
       title: Senior Front End Developer
+- company: verafin
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+      remote: false
+      title: Software Developer
 - company: avalonholo
   jobs:
     current: []
@@ -288,6 +309,16 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
+- company: vish
+  jobs:
+    current: []
+    previous:
+    - link: https://www.linkedin.com/jobs/view/3139275377/
+      remote: false
+      title: Senior Frontend Developer
+    - link: https://www.linkedin.com/jobs/view/3139268410/
+      remote: false
+      title: Senior Software Engineer
 - company: vision33
   jobs:
     current: []
@@ -303,4 +334,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-06-24
+updateDate: 2022-07-01

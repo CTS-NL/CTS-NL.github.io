@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Weekly Digest - Jan 28, 2021"
-teaser: "The weekly computer technology digest for Jan 28, 2021"
+title: "Weekly Digest - Jan 28, 2022"
+teaser: "The weekly computer technology digest for Jan 28, 2022"
 header:
     image: "logo.png"
     pattern: "header-texture.png"

@@ -1,91 +1,66 @@
 jobs:
-- company: cna
+- company: quorum
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
+      remote: false
+      title: Senior Developer
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
+      remote: false
+      title: Intermediate Developer
+    previous: []
+- company: genoa
+  jobs:
+    current:
+    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
+      remote: false
+      title: Senior Software Developer
+    previous: []
+- company: nlhydro
+  jobs:
+    current:
+    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
+      remote: false
+      title: "Software Specialist \u2013 Operational Technology"
+    previous: []
+- company: cna
+  jobs:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/GetOtherJobAdFile?otherJobId=8232
       remote: false
       title: "Instructor \u2013 Software Development"
-    previous: []
+- company: hatch
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.hatch.com/job/_/885933300/
+      remote: false
+      title: DevOps Consultant
+- company: mun
+  jobs:
+    current: []
+    previous:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
+      remote: false
+      title: IT Security Team Lead
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
+      remote: false
+      title: Senior Programmer Analyst
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
 - company: easternhealth
   jobs:
-    current:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000090283
-      remote: true
-      title: Computer Systems Analyst II
+    current: []
     previous:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
       remote: true
       title: Computer Programmer/Analyst
-- company: hatch
-  jobs:
-    current:
-    - link: https://jobs.hatch.com/job/_/885933300/
-      remote: false
-      title: DevOps Consultant
-    previous: []
-- company: mun
-  jobs:
-    current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
-      remote: false
-      title: IT Security Team Lead
-    previous: []
-- company: bluecross
-  jobs:
-    current:
-    - link: https://jobs.medaviebc.ca/job/_/560938317/
-      remote: true
-      title: Programmer
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/560703917/
-      remote: true
-      title: Database Administrator (DBA)
-    - link: https://jobs.medaviebc.ca/job/_/559738617/
-      remote: true
-      title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559805017/
-      remote: true
-      title: Programming Analyst
-    - link: https://jobs.medaviebc.ca/job/_/560515217/
-      remote: true
-      title: Software Developer
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Automation Architect
-    - link: https://jobs.medaviebc.ca/job/_/556545117/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/557485217/
-      remote: true
-      title: Intermediate Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/557485017/
-      remote: true
-      title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/556516717/
-      remote: true
-      title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/549273417/
-      remote: true
-      title: Intermediate Software Developer
-    - link: https://jobs.medaviebc.ca/job/_/559654617/
-      remote: true
-      title: Team Leader, Infrastructure and Dev Ops
-    - link: https://jobs.medaviebc.ca/job/_/557961117/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/556905517/
-      remote: true
-      title: Software Architect
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
-      remote: false
-      title: Senior Programmer Analyst
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: rutter
   jobs:
     current: []
@@ -122,6 +97,43 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/560703917/
+      remote: true
+      title: Database Administrator (DBA)
+    - link: https://jobs.medaviebc.ca/job/_/559738617/
+      remote: true
+      title: Software System Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559805017/
+      remote: true
+      title: Programming Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Automation Architect
+    - link: https://jobs.medaviebc.ca/job/_/556545117/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/557485217/
+      remote: true
+      title: Intermediate Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/557485017/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/556516717/
+      remote: true
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559654617/
+      remote: true
+      title: Team Leader, Infrastructure and Dev Ops
+    - link: https://jobs.medaviebc.ca/job/_/557961117/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/556905517/
+      remote: true
+      title: Software Architect
 - company: rayagency
   jobs:
     current: []
@@ -129,13 +141,6 @@ jobs:
     - link: https://rayagency.ca/career-opportunities/full-stack-website-developer/
       remote: true
       title: Senior Website Developer
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
-      remote: false
-      title: Technical Lead, Development
 - company: milkmoovement
   jobs:
     current: []
@@ -149,9 +154,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
       remote: true
       title: Senior Front End Developer
-    - link: https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f
-      remote: true
-      title: Senior Mobile Developer
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
@@ -334,4 +336,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-07-01
+updateDate: 2022-07-08

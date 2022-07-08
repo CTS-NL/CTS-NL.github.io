@@ -247,6 +247,10 @@ nlhc:
   name: Newfoundland and Labrador Housing Corporation
   url: https://www.nlhc.nl.ca/
   local: true
+nlhydro:
+  name: Newfoundland and Labrador Hydro
+  url: https://nlhydro.com/
+  local: true
 nlpower:
   name: Newfoundland Power
   url: https://www.newfoundlandpower.com/

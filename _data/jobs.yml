@@ -8,11 +8,6 @@
   jobs: []
 - company: easternhealth
   jobs:
-    - post_date: 2022-07-01
-      jobs:
-        - title: Computer Systems Analyst II
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000090283
-          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: Computer Programmer/Analyst
@@ -68,10 +63,12 @@
   jobs: []
 - company: quorum
   jobs:
-    - post_date: 2022-06-10
+    - post_date: 2022-07-08
       jobs:
-        - title: Technical Lead, Development
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414100
+        - title: Senior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -123,6 +120,13 @@
   jobs: []
 - company: northatlantic
   jobs: []
+- company: genoa
+  jobs:
+    - post_date: 2022-07-08
+      jobs:
+        - title: Senior Software Developer
+          link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
+          remote: false
 - company: mun
   jobs:
     - post_date: 2022-07-01
@@ -141,11 +145,6 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2022-07-01
-      jobs:
-        - title: Programmer
-          link: https://jobs.medaviebc.ca/job/_/560938317/
-          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: Database Administrator (DBA)
@@ -156,11 +155,6 @@
           remote: true
         - title: Programming Analyst
           link: https://jobs.medaviebc.ca/job/_/559805017/
-          remote: true
-    - post_date: 2022-06-17
-      jobs:
-        - title: Software Developer
-          link: https://jobs.medaviebc.ca/job/_/560515217/
           remote: true
     - post_date: 2022-06-10
       jobs:
@@ -181,9 +175,6 @@
           remote: true
     - post_date: 2022-05-27
       jobs:
-        - title: Intermediate Software Developer
-          link: https://jobs.medaviebc.ca/job/_/549273417/
-          remote: true
         - title: Team Leader, Infrastructure and Dev Ops
           link: https://jobs.medaviebc.ca/job/_/559654617/
           remote: true
@@ -264,14 +255,17 @@
         - title: "Senior Front End Developer"
           link: "https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947"
           remote: true
-        - title: "Senior Mobile Developer"
-          link: "https://jobs.lever.co/milk-moovement/171150d1-3afb-45aa-bd15-10db211f961f"
-          remote: true
     - post_date: 2022-02-18
       jobs:
         - title: "Full Stack Developer III"
           link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
           remote: true
+- company: nlhydro
+  jobs:
+    - post_date: 2022-07-08
+      jobs:
+        - title: "Software Specialist – Operational Technology"
+          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
 - company: govnl
   jobs:
     - post_date: 2022-07-01

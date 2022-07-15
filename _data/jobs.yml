@@ -1,9 +1,5 @@
 - company: cna
-  jobs:
-    - post_date: 2022-07-01
-      jobs:
-        - title: "Instructor – Software Development"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/GetOtherJobAdFile?otherJobId=8232
+  jobs: []
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -67,17 +63,10 @@
       jobs:
         - title: Senior Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
-        - title: Intermediate Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=414098
 - company: enaimco
   jobs: []
 - company: inmarsat
-  jobs:
-    -
-      post_date: 2022-04-01
-      jobs:
-        - title: Software Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999815495453-software-developer
+  jobs: []
 - company: bluedriver
   jobs:
     -
@@ -145,6 +134,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-07-15
+      jobs:
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/561397417/
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: Database Administrator (DBA)
@@ -175,9 +169,6 @@
           remote: true
     - post_date: 2022-05-27
       jobs:
-        - title: Team Leader, Infrastructure and Dev Ops
-          link: https://jobs.medaviebc.ca/job/_/559654617/
-          remote: true
         - title: Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/557961117/
           remote: true
@@ -240,10 +231,13 @@
           remote: true
 - company: milkmoovement
   jobs:
-    - post_date: 2022-06-10
+    - post_date: 2022-07-15
       jobs:
-        - title: "Software Development Engineer In Test"
-          link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
+        - title: "Team Lead - Quality & Processing"
+          link: "https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336"
+          remote: true
+        - title: "Team Lead - Finance, Equity, & Balancing"
+          link: "https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc"
           remote: true
     - post_date: 2022-04-22
       jobs:

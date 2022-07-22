@@ -59,6 +59,10 @@
   jobs: []
 - company: quorum
   jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: Senior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
     - post_date: 2022-07-08
       jobs:
         - title: Senior Developer
@@ -66,7 +70,11 @@
 - company: enaimco
   jobs: []
 - company: inmarsat
-  jobs: []
+  jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: "Senior Solutions Architect"
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
 - company: bluedriver
   jobs:
     -
@@ -111,18 +119,18 @@
   jobs: []
 - company: genoa
   jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: Software Developer
+          link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
+          remote: false
     - post_date: 2022-07-08
       jobs:
         - title: Senior Software Developer
           link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
           remote: false
 - company: mun
-  jobs:
-    - post_date: 2022-07-01
-      jobs:
-        - title: IT Security Team Lead
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
-          remote: false
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -134,10 +142,10 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2022-07-15
+    - post_date: 2022-07-22
       jobs:
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/561397417/
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/561601317/
           remote: true
     - post_date: 2022-06-24
       jobs:
@@ -181,12 +189,7 @@
       jobs:
         - title: Software Development Team Lead
           link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-    - post_date: 2021-09-10
-      jobs:
-        - title: Intermediate QA Analyst
-          link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-    -
-      post_date: 2021-06-18
+    - post_date: 2021-06-18
       jobs:
         - title: Senior Software Developer
           link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8

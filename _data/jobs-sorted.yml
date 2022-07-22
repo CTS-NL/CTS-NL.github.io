@@ -1,10 +1,37 @@
 jobs:
+- company: quorum
+  jobs:
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+      remote: false
+      title: Senior Developer
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
+      remote: false
+      title: Senior Developer
+- company: inmarsat
+  jobs:
+    current:
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
+      remote: false
+      title: Senior Solutions Architect
+    previous: []
+- company: genoa
+  jobs:
+    current:
+    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
+      remote: false
+      title: Software Developer
+    previous:
+    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
+      remote: false
+      title: Senior Software Developer
 - company: bluecross
   jobs:
     current:
-    - link: https://jobs.medaviebc.ca/job/_/561397417/
+    - link: https://jobs.medaviebc.ca/job/_/561601317/
       remote: true
-      title: Sr. Programmer/Analyst
+      title: Programmer/Analyst
     previous:
     - link: https://jobs.medaviebc.ca/job/_/560703917/
       remote: true
@@ -38,14 +65,14 @@ jobs:
       title: Software Architect
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336
       remote: true
       title: Team Lead - Quality & Processing
     - link: https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc
       remote: true
       title: Team Lead - Finance, Equity, & Balancing
-    previous:
     - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
       remote: true
       title: Software Reliability Engineer
@@ -55,20 +82,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
-      remote: false
-      title: Senior Developer
-- company: genoa
-  jobs:
-    current: []
-    previous:
-    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
-      remote: false
-      title: Senior Software Developer
 - company: nlhydro
   jobs:
     current: []
@@ -83,13 +96,6 @@ jobs:
     - link: https://jobs.hatch.com/job/_/885933300/
       remote: false
       title: DevOps Consultant
-- company: mun
-  jobs:
-    current: []
-    previous:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=2963
-      remote: false
-      title: IT Security Team Lead
 - company: govnl
   jobs:
     current: []
@@ -180,9 +186,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
       remote: false
       title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
-      remote: false
-      title: Intermediate QA Analyst
     - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
       remote: true
       title: Senior Software Developer
@@ -322,4 +325,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-07-15
+updateDate: 2022-07-22

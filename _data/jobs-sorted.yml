@@ -1,38 +1,51 @@
 jobs:
-- company: quorum
+- company: mysa
   jobs:
     current:
+    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+      remote: false
+      title: AWS DevOps Engineer
+    previous:
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: false
+      title: Software Development Team Lead
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
+- company: quorum
+  jobs:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
       remote: false
-      title: Senior Developer
-    previous:
+      title: Software Architect
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
       remote: false
       title: Senior Developer
 - company: inmarsat
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
       remote: false
       title: Senior Solutions Architect
-    previous: []
 - company: genoa
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
       remote: false
       title: Software Developer
-    previous:
     - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
       remote: false
       title: Senior Software Developer
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/561601317/
       remote: true
       title: Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/560703917/
       remote: true
       title: Database Administrator (DBA)
@@ -179,16 +192,6 @@ jobs:
     - link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
       remote: false
       title: Mobile Application Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: false
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
 - company: sequencebio
   jobs:
     current: []
@@ -307,9 +310,6 @@ jobs:
     - link: https://www.linkedin.com/jobs/view/3139275377/
       remote: false
       title: Senior Frontend Developer
-    - link: https://www.linkedin.com/jobs/view/3139268410/
-      remote: false
-      title: Senior Software Engineer
 - company: vision33
   jobs:
     current: []
@@ -325,4 +325,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-07-22
+updateDate: 2022-07-29

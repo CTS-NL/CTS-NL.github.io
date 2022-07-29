@@ -61,7 +61,7 @@
   jobs:
     - post_date: 2022-07-22
       jobs:
-        - title: Senior Developer
+        - title: Software Architect
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
     - post_date: 2022-07-08
       jobs:
@@ -185,6 +185,10 @@
           remote: true
 - company: mysa
   jobs:
+    - post_date: 2022-07-29
+      jobs:
+        - title: AWS DevOps Engineer
+          link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
     - post_date: 2022-05-13
       jobs:
         - title: Software Development Team Lead
@@ -321,8 +325,6 @@
       jobs:
         - title: Senior Frontend Developer
           link: https://www.linkedin.com/jobs/view/3139275377/
-        - title: Senior Software Engineer
-          link: https://www.linkedin.com/jobs/view/3139268410/
 - company: vision33
   jobs:
     -

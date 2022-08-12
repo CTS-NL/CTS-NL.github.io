@@ -56,17 +56,17 @@
           link: https://strobeltek.com/careers/
           remote: false
 - company: radient
-  jobs: []
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/viewjob?jk=5046978eca517594
 - company: quorum
   jobs:
     - post_date: 2022-07-22
       jobs:
         - title: Software Architect
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
-    - post_date: 2022-07-08
-      jobs:
-        - title: Senior Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -83,7 +83,12 @@
         - title: "Software Developer / Engineer"
           link: https://us.bluedriver.com/pages/careers
 - company: cityofstjohns
-  jobs: []
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: GIS Developer
+          link: https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=ZVFYQBteDVAHYQFzQyBVZk9MBWAraVUvdVRMIisMDnkqXURpLUttLiUuQC4kXmJ3dTcYGhJRT3FjF3U%3D&chk=ZVpaShM%3D&clid=73617&Page=JobDetails&Jobid=J0722-1175&BRID=279217&lang=1
+          remote: true
 - company: mariner
   jobs:
     -
@@ -100,12 +105,6 @@
       jobs:
         - title: Senior Database Administrator
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
-          remote: true
-    -
-      post_date: 2022-03-18
-      jobs:
-        - title: Full Stack Developer (Java/JavaScript)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
           remote: true
     -
       post_date: 2022-01-28
@@ -142,21 +141,15 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2022-07-22
+    - post_date: 2022-08-12
       jobs:
         - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/561601317/
+          link: https://jobs.medaviebc.ca/job/_/562212617/
           remote: true
     - post_date: 2022-06-24
       jobs:
-        - title: Database Administrator (DBA)
-          link: https://jobs.medaviebc.ca/job/_/560703917/
-          remote: true
         - title: Software System Analyst
           link: https://jobs.medaviebc.ca/job/_/559738617/
-          remote: true
-        - title: Programming Analyst
-          link: https://jobs.medaviebc.ca/job/_/559805017/
           remote: true
     - post_date: 2022-06-10
       jobs:
@@ -238,23 +231,26 @@
           remote: true
 - company: milkmoovement
   jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: "Software Development Engineer In Test"
+          link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
+          remote: true
+        - title: "Senior Cloud Engineer"
+          link: "https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db"
+          remote: true
     - post_date: 2022-07-15
       jobs:
-        - title: "Team Lead - Quality & Processing"
+        - title: "Development Team Lead - Quality & Processing"
           link: "https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336"
           remote: true
-        - title: "Team Lead - Finance, Equity, & Balancing"
+        - title: "Development Team Lead - Finance, Equity, & Balancing"
           link: "https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc"
           remote: true
     - post_date: 2022-04-22
       jobs:
         - title: "Software Reliability Engineer"
           link: "https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730"
-          remote: true
-    - post_date: 2022-04-15
-      jobs:
-        - title: "Senior Front End Developer"
-          link: "https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947"
           remote: true
     - post_date: 2022-02-18
       jobs:
@@ -269,10 +265,6 @@
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
 - company: govnl
   jobs:
-    - post_date: 2022-07-01
-      jobs:
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
     - post_date: 2022-02-11
       jobs:
         - title: "Computer Systems Analyst II"
@@ -290,16 +282,10 @@
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: wood
   jobs:
-    - post_date: 2022-05-27
+    - post_date: 2022-08-12
       jobs:
-        - title: "Web Application Developer"
-          link: https://woodplc-canadaexternal.icims.com/jobs/106183/job
-          remote: false
-    - post_date: 2022-02-04
-      jobs:
-        - title: "Mobile Application Developer"
-          link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
-          remote: false
+        - title: ".NET Developer"
+          link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
 - company: pangeo
   jobs:
     - post_date: 2022-02-04
@@ -358,6 +344,13 @@
       jobs:
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
+- company: telus
+  jobs:
+    -
+      post_date: 2022-08-12
+      jobs:
+        - title: Full Stack Software Developer
+          link: https://careers.telus.com/job/_/559048217/
 - company: target
   jobs:
     -

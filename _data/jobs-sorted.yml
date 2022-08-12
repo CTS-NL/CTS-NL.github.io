@@ -1,60 +1,28 @@
 jobs:
-- company: mysa
+- company: radient
   jobs:
     current:
-    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
-      remote: false
-      title: AWS DevOps Engineer
-    previous:
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: false
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
-      remote: false
-      title: Software Architect
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=416135
-      remote: false
-      title: Senior Developer
-- company: inmarsat
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
-      remote: false
-      title: Senior Solutions Architect
-- company: genoa
-  jobs:
-    current: []
-    previous:
-    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
+    - link: https://ca.indeed.com/viewjob?jk=5046978eca517594
       remote: false
       title: Software Developer
-    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
-      remote: false
-      title: Senior Software Developer
+    previous: []
+- company: cityofstjohns
+  jobs:
+    current:
+    - link: https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=ZVFYQBteDVAHYQFzQyBVZk9MBWAraVUvdVRMIisMDnkqXURpLUttLiUuQC4kXmJ3dTcYGhJRT3FjF3U%3D&chk=ZVpaShM%3D&clid=73617&Page=JobDetails&Jobid=J0722-1175&BRID=279217&lang=1
+      remote: true
+      title: GIS Developer
+    previous: []
 - company: bluecross
   jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/561601317/
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/562212617/
       remote: true
       title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/560703917/
-      remote: true
-      title: Database Administrator (DBA)
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/559738617/
       remote: true
       title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559805017/
-      remote: true
-      title: Programming Analyst
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Automation Architect
@@ -78,23 +46,77 @@ jobs:
       title: Software Architect
 - company: milkmoovement
   jobs:
-    current: []
+    current:
+    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
+      remote: true
+      title: Software Development Engineer In Test
+    - link: https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db
+      remote: true
+      title: Senior Cloud Engineer
     previous:
     - link: https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336
       remote: true
-      title: Team Lead - Quality & Processing
+      title: Development Team Lead - Quality & Processing
     - link: https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc
       remote: true
-      title: Team Lead - Finance, Equity, & Balancing
+      title: Development Team Lead - Finance, Equity, & Balancing
     - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
       remote: true
       title: Software Reliability Engineer
-    - link: https://jobs.lever.co/milk-moovement/0975383b-ee52-4b38-bbef-fbcce329e947
-      remote: true
-      title: Senior Front End Developer
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
+- company: wood
+  jobs:
+    current:
+    - link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
+      remote: false
+      title: .NET Developer
+    previous: []
+- company: telus
+  jobs:
+    current:
+    - link: https://careers.telus.com/job/_/559048217/
+      remote: false
+      title: Full Stack Software Developer
+    previous: []
+- company: mysa
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+      remote: false
+      title: AWS DevOps Engineer
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: false
+      title: Software Development Team Lead
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
+- company: quorum
+  jobs:
+    current: []
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+      remote: false
+      title: Software Architect
+- company: inmarsat
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
+      remote: false
+      title: Senior Solutions Architect
+- company: genoa
+  jobs:
+    current: []
+    previous:
+    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
+      remote: false
+      title: Software Developer
+    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
+      remote: false
+      title: Senior Software Developer
 - company: nlhydro
   jobs:
     current: []
@@ -109,16 +131,6 @@ jobs:
     - link: https://jobs.hatch.com/job/_/885933300/
       remote: false
       title: DevOps Consultant
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26092
-      remote: false
-      title: Senior Programmer Analyst
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: easternhealth
   jobs:
     current: []
@@ -156,9 +168,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
       remote: true
       title: Senior Database Administrator
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999812048362-full-stack-developer-java-javascript-
-      remote: true
-      title: Full Stack Developer (Java/JavaScript)
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
@@ -182,16 +191,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Game Developer
-- company: wood
-  jobs:
-    current: []
-    previous:
-    - link: https://woodplc-canadaexternal.icims.com/jobs/106183/job
-      remote: false
-      title: Web Application Developer
-    - link: https://woodplc-canadaexternal.icims.com/jobs/103490/job
-      remote: false
-      title: Mobile Application Developer
 - company: sequencebio
   jobs:
     current: []
@@ -238,6 +237,13 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
       remote: false
       title: Software Developer - Sonar Systems
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+      remote: false
+      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -325,4 +331,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-07-29
+updateDate: 2022-08-12

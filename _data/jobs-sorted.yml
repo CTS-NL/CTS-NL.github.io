@@ -1,25 +1,63 @@
 jobs:
-- company: radient
+- company: reportmate
   jobs:
     current:
-    - link: https://ca.indeed.com/viewjob?jk=5046978eca517594
+    - link: https://technl.ca/job/ai-ml-developer/
       remote: false
-      title: Software Developer
+      title: AI-ML Developer
     previous: []
-- company: cityofstjohns
+- company: quorum
   jobs:
     current:
-    - link: https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=ZVFYQBteDVAHYQFzQyBVZk9MBWAraVUvdVRMIisMDnkqXURpLUttLiUuQC4kXmJ3dTcYGhJRT3FjF3U%3D&chk=ZVpaShM%3D&clid=73617&Page=JobDetails&Jobid=J0722-1175&BRID=279217&lang=1
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
+      remote: false
+      title: Senior Developer
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+      remote: false
+      title: Software Architect
+- company: mariner
+  jobs:
+    current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999846677383-senior-database-administrator-part-time-
       remote: true
-      title: GIS Developer
+      title: Senior Database Administrator (Part-time)
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999845776573-software-developer-java-
+      remote: true
+      title: Software Developer (Java)
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
+      remote: true
+      title: Azure Solutions Architect
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
+- company: mun
+  jobs:
+    current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3127
+      remote: false
+      title: Senior Programmer Analyst
     previous: []
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/562673017/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/557961117/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/562381317/
+      remote: true
+      title: Database Administrator
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/562212617/
       remote: true
       title: Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/559738617/
       remote: true
       title: Software System Analyst
@@ -38,22 +76,40 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/556516717/
       remote: true
       title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/557961117/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/556905517/
-      remote: true
-      title: Software Architect
-- company: milkmoovement
+- company: govnl
   jobs:
     current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26383
+      remote: false
+      title: Computer Systems Analyst I (Digital Forensics Analyst)
+    previous: []
+- company: telus
+  jobs:
+    current:
+    - link: https://careers.telus.com/job/_/562346817/
+      remote: false
+      title: Senior Java Developer
+    previous:
+    - link: https://careers.telus.com/job/_/559048217/
+      remote: false
+      title: Full Stack Software Developer
+- company: radient
+  jobs:
+    current: []
+    previous:
+    - link: https://ca.indeed.com/viewjob?jk=5046978eca517594
+      remote: false
+      title: Software Developer
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
       remote: true
       title: Software Development Engineer In Test
     - link: https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db
       remote: true
       title: Senior Cloud Engineer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336
       remote: true
       title: Development Team Lead - Quality & Processing
@@ -68,18 +124,11 @@ jobs:
       title: Full Stack Developer III
 - company: wood
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
       remote: false
       title: .NET Developer
-    previous: []
-- company: telus
-  jobs:
-    current:
-    - link: https://careers.telus.com/job/_/559048217/
-      remote: false
-      title: Full Stack Software Developer
-    previous: []
 - company: mysa
   jobs:
     current: []
@@ -93,13 +142,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
       remote: true
       title: Senior Software Developer
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
-      remote: false
-      title: Software Architect
 - company: inmarsat
   jobs:
     current: []
@@ -155,22 +197,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
-      remote: true
-      title: Azure Solutions Architect
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
-      remote: true
-      title: Senior Database Administrator
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: rayagency
   jobs:
     current: []
@@ -237,13 +263,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
       remote: false
       title: Software Developer - Sonar Systems
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
-      remote: false
-      title: Computer Systems Analyst II
 - company: inspectar
   jobs:
     current: []
@@ -257,13 +276,6 @@ jobs:
     - link: https://www.inspectar.com/career/sr-unity-developer
       remote: false
       title: Senior Unity Developer
-- company: pangeo
-  jobs:
-    current: []
-    previous:
-    - link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
-      remote: false
-      title: Senior Software Engineer
 - company: rally
   jobs:
     current: []
@@ -313,7 +325,7 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.linkedin.com/jobs/view/3139275377/
+    - link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
       remote: false
       title: Senior Frontend Developer
 - company: vision33
@@ -331,4 +343,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-08-12
+updateDate: 2022-08-26

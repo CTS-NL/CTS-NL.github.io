@@ -1,31 +1,67 @@
 jobs:
-- company: reportmate
+- company: mysa
   jobs:
     current:
+    - link: https://jobs.lever.co/getmysa/04212283-7fb4-4b67-83bf-d9a610a4b258
+      remote: true
+      title: Software Release Coordinator
+    previous:
+    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+      remote: true
+      title: AWS DevOps Engineer
+    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+      remote: true
+      title: Software Development Team Lead
+    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+      remote: true
+      title: Senior Software Developer
+- company: breathesuite
+  jobs:
+    current:
+    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=39
+      remote: false
+      title: Software Engineer Intern - Winter 2023
+    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=40
+      remote: false
+      title: Firmware Engineer Co-op - Winter 2023
+    previous: []
+- company: telus
+  jobs:
+    current:
+    - link: https://careers.telus.com/job/_/556323217/
+      remote: false
+      title: Developer Analyst II - UI/UX Designer
+    - link: https://careers.telus.com/job/_/555137017/
+      remote: true
+      title: Developer Analyst - SaaS
+    previous:
+    - link: https://careers.telus.com/job/_/559048217/
+      remote: false
+      title: Full Stack Software Developer
+- company: reportmate
+  jobs:
+    current: []
+    previous:
     - link: https://technl.ca/job/ai-ml-developer/
       remote: false
       title: AI-ML Developer
-    previous: []
 - company: quorum
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
       remote: false
       title: Senior Developer
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
-      remote: false
-      title: Software Architect
 - company: mariner
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999846677383-senior-database-administrator-part-time-
       remote: true
       title: Senior Database Administrator (Part-time)
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999845776573-software-developer-java-
       remote: true
       title: Software Developer (Java)
-    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
       title: .NET Developer
@@ -35,16 +71,10 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: mun
-  jobs:
-    current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3127
-      remote: false
-      title: Senior Programmer Analyst
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/562673017/
       remote: true
       title: Software Architect
@@ -54,7 +84,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/562381317/
       remote: true
       title: Database Administrator
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/562212617/
       remote: true
       title: Programmer/Analyst
@@ -67,32 +96,9 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/556545117/
       remote: true
       title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/557485217/
-      remote: true
-      title: Intermediate Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/557485017/
-      remote: true
-      title: Software Architect
     - link: https://jobs.medaviebc.ca/job/_/556516717/
       remote: true
       title: Sr. Programmer/Analyst
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26383
-      remote: false
-      title: Computer Systems Analyst I (Digital Forensics Analyst)
-    previous: []
-- company: telus
-  jobs:
-    current:
-    - link: https://careers.telus.com/job/_/562346817/
-      remote: false
-      title: Senior Java Developer
-    previous:
-    - link: https://careers.telus.com/job/_/559048217/
-      remote: false
-      title: Full Stack Software Developer
 - company: radient
   jobs:
     current: []
@@ -122,26 +128,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
       remote: true
       title: Full Stack Developer III
-- company: wood
-  jobs:
-    current: []
-    previous:
-    - link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
-      remote: false
-      title: .NET Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
-      remote: false
-      title: AWS DevOps Engineer
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: false
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
 - company: inmarsat
   jobs:
     current: []
@@ -343,4 +329,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-08-26
+updateDate: 2022-09-09

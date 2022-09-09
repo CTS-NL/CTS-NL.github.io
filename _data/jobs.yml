@@ -71,10 +71,6 @@
       jobs:
         - title: Senior Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
-    - post_date: 2022-07-22
-      jobs:
-        - title: Software Architect
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -132,11 +128,7 @@
           link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
           remote: false
 - company: mun
-  jobs:
-    - post_date: 2022-08-26
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3127
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -177,25 +169,26 @@
         - title: Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/556545117/
           remote: true
-        - title: Intermediate Software Architect
-          link: https://jobs.medaviebc.ca/job/_/557485217/
-          remote: true
-        - title: Software Architect
-          link: https://jobs.medaviebc.ca/job/_/557485017/
-          remote: true
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/556516717/
           remote: true
 - company: mysa
   jobs:
+    - post_date: 2022-09-09
+      jobs:
+        - title: Software Release Coordinator
+          link: https://jobs.lever.co/getmysa/04212283-7fb4-4b67-83bf-d9a610a4b258
+          remote: true
     - post_date: 2022-07-29
       jobs:
         - title: AWS DevOps Engineer
           link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+          remote: true
     - post_date: 2022-05-13
       jobs:
         - title: Software Development Team Lead
           link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+          remote: true
     - post_date: 2021-06-18
       jobs:
         - title: Senior Software Developer
@@ -274,11 +267,7 @@
         - title: "Software Specialist – Operational Technology"
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
 - company: govnl
-  jobs:
-    - post_date: 2022-08-26
-      jobs:
-        - title: Computer Systems Analyst I (Digital Forensics Analyst)
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26383
+  jobs: []
 - company: inspectar
   jobs:
     -
@@ -291,11 +280,7 @@
         - title: Senior Unity Developer
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: wood
-  jobs:
-    - post_date: 2022-08-12
-      jobs:
-        - title: ".NET Developer"
-          link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
+  jobs: []
 - company: pangeo
   jobs: []
 - company: vmt
@@ -324,7 +309,15 @@
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: breathesuite
-  jobs: []
+  jobs:
+    - post_date: 2022-09-09
+      jobs:
+        - title: "Software Engineer Intern - Winter 2023"
+          link: https://breathesuite.bamboohr.com/jobs/view.php?id=39
+          remote: false
+        - title: "Firmware Engineer Co-op - Winter 2023"
+          link: https://breathesuite.bamboohr.com/jobs/view.php?id=40
+          remote: false
 - company: rally
   jobs:
     - post_date: 2022-01-14
@@ -351,13 +344,15 @@
           link: https://www.avalonholographics.com/careers
 - company: telus
   jobs:
-    -
-      post_date: 2022-08-26
+    - post_date: 2022-09-09
       jobs:
-        - title: Senior Java Developer
-          link: https://careers.telus.com/job/_/562346817/
-    -
-      post_date: 2022-08-12
+        - title: Developer Analyst II - UI/UX Designer
+          link: https://careers.telus.com/job/_/556323217/
+          remote: false
+        - title: Developer Analyst - SaaS
+          link: https://careers.telus.com/job/_/555137017/
+          remote: true
+    - post_date: 2022-08-12
       jobs:
         - title: Full Stack Software Developer
           link: https://careers.telus.com/job/_/559048217/

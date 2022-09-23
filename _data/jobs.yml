@@ -59,18 +59,29 @@
         - title: Senior Software Developer
           link: https://strobeltek.com/careers/
           remote: false
-- company: radient
+- company: stantec
   jobs:
-    - post_date: 2022-08-12
+    - post_date: 2022-09-23
       jobs:
-        - title: Software Developer
-          link: https://ca.indeed.com/viewjob?jk=5046978eca517594
+        - title: "Senior Data Scientist/Engineer"
+          link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
+          remote: false
+        - title: "Senior Full Stack Developer"
+          link: https://stantec.jobs/st-johns-nl/senior-full-stack-developer/AB660A16FBEF469A927D6359B0F20726/job/
+          remote: false
+        - title: "Full Stack Developer"
+          link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
+          remote: false
+- company: radient
+  jobs: []
 - company: quorum
   jobs:
-    - post_date: 2022-08-26
+    - post_date: 2022-09-23
       jobs:
-        - title: Senior Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
+        - title: "Senior Developer (Data)"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=421510
+        - title: "Software Architect"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -122,11 +133,6 @@
         - title: Software Developer
           link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
           remote: false
-    - post_date: 2022-07-08
-      jobs:
-        - title: Senior Software Developer
-          link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
-          remote: false
 - company: mun
   jobs: []
 - company: ccore
@@ -143,12 +149,11 @@
     - post_date: 2022-08-26
       jobs:
         - title: Software Architect
-          link: https://jobs.medaviebc.ca/job/_/562673017/
+          link: https://jobs.medaviebc.ca/job/_/563245517/
           remote: true
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/557961117/
-          remote: true
-        - title: Database Administrator
+    - post_date: 2022-09-23
+      jobs:
+        - title: Oracle Database Administrator
           link: https://jobs.medaviebc.ca/job/_/562381317/
           remote: true
     - post_date: 2022-08-12
@@ -165,12 +170,6 @@
       jobs:
         - title: Automation Architect
           link: https://jobs.medaviebc.ca/job/_/559366117/
-          remote: true
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/556545117/
-          remote: true
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/556516717/
           remote: true
 - company: mysa
   jobs:
@@ -207,18 +206,13 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs: []
-- company: kraken
   jobs:
-    - post_date: 2022-03-04
+    - post_date: 2022-09-23
       jobs:
-        - title: "Software Developer – UI"
-          link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
-    -
-      post_date: 2021-06-25
-      jobs:
-        - title: "Software Developer - Sonar Systems"
-          link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
+        - title: "Senior Frontend Developer"
+          link: https://colabsoftware.applytojobs.ca/development/16230
+- company: kraken
+  jobs: []
 - company: verafin
   jobs:
     - post_date: 2021-06-25
@@ -234,21 +228,15 @@
           remote: true
 - company: milkmoovement
   jobs:
+    - post_date: 2022-09-23
+      jobs:
+        - title: "Full Stack Developer II"
+          link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
+          remote: true
     - post_date: 2022-08-12
       jobs:
         - title: "Software Development Engineer In Test"
           link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
-          remote: true
-        - title: "Senior Cloud Engineer"
-          link: "https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db"
-          remote: true
-    - post_date: 2022-07-15
-      jobs:
-        - title: "Development Team Lead - Quality & Processing"
-          link: "https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336"
-          remote: true
-        - title: "Development Team Lead - Finance, Equity, & Balancing"
-          link: "https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc"
           remote: true
     - post_date: 2022-04-22
       jobs:
@@ -267,11 +255,18 @@
         - title: "Software Specialist – Operational Technology"
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2022-09-23
+      jobs:
+        - title: Senior Systems Analyst
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26711
 - company: inspectar
   jobs:
-    -
-      post_date: 2022-02-11
+    - post_date: 2022-09-23
+      jobs:
+        - title: QA Engineer CO-OP Student
+          link: https://www.inspectar.com/career/qa-engineer-co-op-student
+    - post_date: 2022-02-11
       jobs:
         - title: Software Developer CO-OP Student
           link: https://www.inspectar.com/career/software-developer-co-op-student
@@ -303,8 +298,11 @@
           link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
 - company: vision33
   jobs:
-    -
-      post_date: 2020-02-27
+    - post_date: 2022-09-23
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
+    - post_date: 2020-02-27
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
@@ -314,9 +312,6 @@
       jobs:
         - title: "Software Engineer Intern - Winter 2023"
           link: https://breathesuite.bamboohr.com/jobs/view.php?id=39
-          remote: false
-        - title: "Firmware Engineer Co-op - Winter 2023"
-          link: https://breathesuite.bamboohr.com/jobs/view.php?id=40
           remote: false
 - company: rally
   jobs:

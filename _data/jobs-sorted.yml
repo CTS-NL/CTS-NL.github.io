@@ -1,11 +1,109 @@
 jobs:
-- company: mysa
+- company: stantec
   jobs:
     current:
+    - link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
+      remote: false
+      title: Senior Data Scientist/Engineer
+    - link: https://stantec.jobs/st-johns-nl/senior-full-stack-developer/AB660A16FBEF469A927D6359B0F20726/job/
+      remote: false
+      title: Senior Full Stack Developer
+    - link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
+      remote: false
+      title: Full Stack Developer
+    previous: []
+- company: quorum
+  jobs:
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=421510
+      remote: false
+      title: Senior Developer (Data)
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+      remote: false
+      title: Software Architect
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/562381317/
+      remote: true
+      title: Oracle Database Administrator
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/563245517/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/562212617/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559738617/
+      remote: true
+      title: Software System Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Automation Architect
+- company: colab
+  jobs:
+    current:
+    - link: https://colabsoftware.applytojobs.ca/development/16230
+      remote: false
+      title: Senior Frontend Developer
+    previous: []
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb
+      remote: true
+      title: Full Stack Developer II
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
+      remote: true
+      title: Software Development Engineer In Test
+    - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
+      remote: true
+      title: Software Reliability Engineer
+    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+      remote: true
+      title: Full Stack Developer III
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26711
+      remote: false
+      title: Senior Systems Analyst
+    previous: []
+- company: inspectar
+  jobs:
+    current:
+    - link: https://www.inspectar.com/career/qa-engineer-co-op-student
+      remote: false
+      title: QA Engineer CO-OP Student
+    previous:
+    - link: https://www.inspectar.com/career/software-developer-co-op-student
+      remote: false
+      title: Software Developer CO-OP Student
+    - link: https://www.inspectar.com/career/c-sharp-developer
+      remote: false
+      title: C# Developer
+    - link: https://www.inspectar.com/career/sr-unity-developer
+      remote: false
+      title: Senior Unity Developer
+- company: vision33
+  jobs:
+    current:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
+      remote: false
+      title: Software Developer
+    previous:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+      remote: false
+      title: Software Developer
+- company: mysa
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/04212283-7fb4-4b67-83bf-d9a610a4b258
       remote: true
       title: Software Release Coordinator
-    previous:
     - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
       remote: true
       title: AWS DevOps Engineer
@@ -17,24 +115,21 @@ jobs:
       title: Senior Software Developer
 - company: breathesuite
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=39
       remote: false
       title: Software Engineer Intern - Winter 2023
-    - link: https://breathesuite.bamboohr.com/jobs/view.php?id=40
-      remote: false
-      title: Firmware Engineer Co-op - Winter 2023
-    previous: []
 - company: telus
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.telus.com/job/_/556323217/
       remote: false
       title: Developer Analyst II - UI/UX Designer
     - link: https://careers.telus.com/job/_/555137017/
       remote: true
       title: Developer Analyst - SaaS
-    previous:
     - link: https://careers.telus.com/job/_/559048217/
       remote: false
       title: Full Stack Software Developer
@@ -45,13 +140,6 @@ jobs:
     - link: https://technl.ca/job/ai-ml-developer/
       remote: false
       title: AI-ML Developer
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
-      remote: false
-      title: Senior Developer
 - company: mariner
   jobs:
     current: []
@@ -71,63 +159,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/562673017/
-      remote: true
-      title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/557961117/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/562381317/
-      remote: true
-      title: Database Administrator
-    - link: https://jobs.medaviebc.ca/job/_/562212617/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559738617/
-      remote: true
-      title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Automation Architect
-    - link: https://jobs.medaviebc.ca/job/_/556545117/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/556516717/
-      remote: true
-      title: Sr. Programmer/Analyst
-- company: radient
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=5046978eca517594
-      remote: false
-      title: Software Developer
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
-      remote: true
-      title: Software Development Engineer In Test
-    - link: https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db
-      remote: true
-      title: Senior Cloud Engineer
-    - link: https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336
-      remote: true
-      title: Development Team Lead - Quality & Processing
-    - link: https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc
-      remote: true
-      title: Development Team Lead - Finance, Equity, & Balancing
-    - link: https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730
-      remote: true
-      title: Software Reliability Engineer
-    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
-      remote: true
-      title: Full Stack Developer III
 - company: inmarsat
   jobs:
     current: []
@@ -142,9 +173,6 @@ jobs:
     - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
       remote: false
       title: Software Developer
-    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
-      remote: false
-      title: Senior Software Developer
 - company: nlhydro
   jobs:
     current: []
@@ -239,29 +267,6 @@ jobs:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
-      remote: false
-      title: "Software Developer \u2013 UI"
-    - link: https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362
-      remote: false
-      title: Software Developer - Sonar Systems
-- company: inspectar
-  jobs:
-    current: []
-    previous:
-    - link: https://www.inspectar.com/career/software-developer-co-op-student
-      remote: false
-      title: Software Developer CO-OP Student
-    - link: https://www.inspectar.com/career/c-sharp-developer
-      remote: false
-      title: C# Developer
-    - link: https://www.inspectar.com/career/sr-unity-developer
-      remote: false
-      title: Senior Unity Developer
 - company: rally
   jobs:
     current: []
@@ -314,13 +319,6 @@ jobs:
     - link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
       remote: false
       title: Senior Frontend Developer
-- company: vision33
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
-      remote: false
-      title: Software Developer
 - company: bluedriver
   jobs:
     current: []
@@ -329,4 +327,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-09-09
+updateDate: 2022-09-23

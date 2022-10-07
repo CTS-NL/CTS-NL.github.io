@@ -61,6 +61,11 @@
           remote: false
 - company: stantec
   jobs:
+    - post_date: 2022-10-07
+      jobs:
+        - title: "Data Scientist"
+          link: https://stantec.jobs/st-johns-nl/data-scientist/4FE1D47649F943088B59833AC8AA27A3/job/
+          remote: true
     - post_date: 2022-09-23
       jobs:
         - title: "Senior Data Scientist/Engineer"
@@ -76,10 +81,12 @@
   jobs: []
 - company: quorum
   jobs:
+    - post_date: 2022-10-07
+      jobs:
+        - title: "Senior Developer"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
     - post_date: 2022-09-23
       jobs:
-        - title: "Senior Developer (Data)"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=421510
         - title: "Software Architect"
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
 - company: enaimco
@@ -151,11 +158,6 @@
         - title: Software Architect
           link: https://jobs.medaviebc.ca/job/_/563245517/
           remote: true
-    - post_date: 2022-09-23
-      jobs:
-        - title: Oracle Database Administrator
-          link: https://jobs.medaviebc.ca/job/_/562381317/
-          remote: true
     - post_date: 2022-08-12
       jobs:
         - title: Programmer/Analyst
@@ -212,7 +214,11 @@
         - title: "Senior Frontend Developer"
           link: https://colabsoftware.applytojobs.ca/development/16230
 - company: kraken
-  jobs: []
+  jobs:
+    - post_date: 2022-10-07
+      jobs:
+        - title: Software Developer – UI
+          link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364?utm_source=Kraken+Robotic+Systems+Inc.
 - company: verafin
   jobs:
     - post_date: 2021-06-25
@@ -228,20 +234,10 @@
           remote: true
 - company: milkmoovement
   jobs:
-    - post_date: 2022-09-23
-      jobs:
-        - title: "Full Stack Developer II"
-          link: "https://jobs.lever.co/milk-moovement/2dba1a5f-7ae6-4acd-a2fb-4170735cf4bb"
-          remote: true
     - post_date: 2022-08-12
       jobs:
         - title: "Software Development Engineer In Test"
           link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
-          remote: true
-    - post_date: 2022-04-22
-      jobs:
-        - title: "Software Reliability Engineer"
-          link: "https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730"
           remote: true
     - post_date: 2022-02-18
       jobs:
@@ -255,11 +251,7 @@
         - title: "Software Specialist – Operational Technology"
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
 - company: govnl
-  jobs:
-    - post_date: 2022-09-23
-      jobs:
-        - title: Senior Systems Analyst
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/26711
+  jobs: []
 - company: inspectar
   jobs:
     - post_date: 2022-09-23
@@ -302,17 +294,8 @@
       jobs:
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
-    - post_date: 2020-02-27
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
 - company: breathesuite
-  jobs:
-    - post_date: 2022-09-09
-      jobs:
-        - title: "Software Engineer Intern - Winter 2023"
-          link: https://breathesuite.bamboohr.com/jobs/view.php?id=39
-          remote: false
+  jobs: []
 - company: rally
   jobs:
     - post_date: 2022-01-14

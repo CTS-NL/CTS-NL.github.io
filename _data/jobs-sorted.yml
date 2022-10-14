@@ -1,10 +1,21 @@
 jobs:
+- company: quorum
+  jobs:
+    current: []
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
+      remote: true
+      title: Senior Developer
+- company: kraken
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364?utm_source=Kraken+Robotic+Systems+Inc.
+      remote: false
+      title: "Software Developer \u2013 UI"
 - company: stantec
   jobs:
-    current:
-    - link: https://stantec.jobs/st-johns-nl/data-scientist/4FE1D47649F943088B59833AC8AA27A3/job/
-      remote: true
-      title: Data Scientist
+    current: []
     previous:
     - link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
       remote: false
@@ -15,23 +26,6 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
       remote: false
       title: Full Stack Developer
-- company: quorum
-  jobs:
-    current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
-      remote: false
-      title: Senior Developer
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
-      remote: false
-      title: Software Architect
-- company: kraken
-  jobs:
-    current:
-    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364?utm_source=Kraken+Robotic+Systems+Inc.
-      remote: false
-      title: "Software Developer \u2013 UI"
-    previous: []
 - company: colab
   jobs:
     current: []
@@ -102,9 +96,6 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999846677383-senior-database-administrator-part-time-
-      remote: true
-      title: Senior Database Administrator (Part-time)
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999845776573-software-developer-java-
       remote: true
       title: Software Developer (Java)
@@ -140,7 +131,7 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
       remote: true
       title: Software Development Engineer In Test
-    - link: https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398
+    - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
       remote: true
       title: Full Stack Developer III
 - company: inmarsat
@@ -150,13 +141,6 @@ jobs:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
       remote: false
       title: Senior Solutions Architect
-- company: genoa
-  jobs:
-    current: []
-    previous:
-    - link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
-      remote: false
-      title: Software Developer
 - company: nlhydro
   jobs:
     current: []
@@ -164,13 +148,6 @@ jobs:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
       remote: false
       title: "Software Specialist \u2013 Operational Technology"
-- company: hatch
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.hatch.com/job/_/885933300/
-      remote: false
-      title: DevOps Consultant
 - company: easternhealth
   jobs:
     current: []
@@ -310,5 +287,5 @@ jobs:
     - link: https://us.bluedriver.com/pages/careers
       remote: false
       title: Software Developer / Engineer
-newPostings: true
-updateDate: 2022-10-07
+newPostings: false
+updateDate: 2022-10-14

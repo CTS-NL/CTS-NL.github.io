@@ -18,11 +18,7 @@
         - title: AI-ML Developer
           link: https://technl.ca/job/ai-ml-developer/
 - company: rutter
-  jobs:
-    - post_date: 2022-06-24
-      jobs:
-        - title: Senior Software Developer
-          link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
+  jobs: []
 - company: hatch
   jobs: []
 - company: sequencebio
@@ -49,7 +45,7 @@
   jobs:
     - post_date: 2022-06-24
       jobs:
-        - title: Mid Electrical/ Software Engineer
+        - title: Software Engineer/Mid Electrical
           link: https://strobeltek.com/careers/
           remote: false
         - title: Senior Software Developer
@@ -72,10 +68,10 @@
   jobs: []
 - company: quorum
   jobs:
-    - post_date: 2022-10-07
+    - post_date: 2022-10-21
       jobs:
-        - title: "Senior Developer"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
+        - title: "Software Architect"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
           remote: true
 - company: enaimco
   jobs: []
@@ -133,6 +129,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-10-21
+      jobs:
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/564277317/
+          remote: true
     - post_date: 2022-08-26
       jobs:
         - title: Software Architect
@@ -150,30 +151,20 @@
           remote: true
     - post_date: 2022-06-10
       jobs:
-        - title: Automation Architect
+        - title: Test Automation Architect
           link: https://jobs.medaviebc.ca/job/_/559366117/
           remote: true
 - company: mysa
   jobs:
-    - post_date: 2022-09-09
+    - post_date: 2022-10-21
       jobs:
-        - title: Software Release Coordinator
-          link: https://jobs.lever.co/getmysa/04212283-7fb4-4b67-83bf-d9a610a4b258
+        - title: Junior DevOps Engineer
+          link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
           remote: true
     - post_date: 2022-07-29
       jobs:
         - title: AWS DevOps Engineer
           link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
-          remote: true
-    - post_date: 2022-05-13
-      jobs:
-        - title: Software Development Team Lead
-          link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-          remote: true
-    - post_date: 2021-06-18
-      jobs:
-        - title: Senior Software Developer
-          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
           remote: true
 - company: heyorca
   jobs: []
@@ -214,6 +205,11 @@
           remote: true
 - company: milkmoovement
   jobs:
+    - post_date: 2022-10-21
+      jobs:
+        - title: "Data Engineer"
+          link: "https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864"
+          remote: true
     - post_date: 2022-08-12
       jobs:
         - title: "Software Development Engineer In Test"
@@ -226,10 +222,10 @@
           remote: true
 - company: nlhydro
   jobs:
-    - post_date: 2022-07-08
+    - post_date: 2022-10-21
       jobs:
-        - title: "Software Specialist – Operational Technology"
-          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
+        - title: "Software Specialist"
+          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
 - company: govnl
   jobs: []
 - company: inspectar
@@ -302,6 +298,11 @@
           link: https://www.avalonholographics.com/careers
 - company: telus
   jobs:
+    - post_date: 2022-10-21
+      jobs:
+        - title: Full Stack Software Developer
+          link: https://careers.telus.com/job/_/558161517/
+          remote: false
     - post_date: 2022-09-09
       jobs:
         - title: Developer Analyst II - UI/UX Designer

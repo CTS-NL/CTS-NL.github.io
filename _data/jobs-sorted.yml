@@ -1,11 +1,76 @@
 jobs:
 - company: quorum
   jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=419845
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
       remote: true
-      title: Senior Developer
+      title: Software Architect
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/564277317/
+      remote: true
+      title: Programmer/Analyst
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/563245517/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/562212617/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559738617/
+      remote: true
+      title: Software System Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Test Automation Architect
+- company: mysa
+  jobs:
+    current:
+    - link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
+      remote: true
+      title: Junior DevOps Engineer
+    previous:
+    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+      remote: true
+      title: AWS DevOps Engineer
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864
+      remote: true
+      title: Data Engineer
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
+      remote: true
+      title: Software Development Engineer In Test
+    - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
+      remote: true
+      title: Full Stack Developer III
+- company: nlhydro
+  jobs:
+    current:
+    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
+      remote: false
+      title: Software Specialist
+    previous: []
+- company: telus
+  jobs:
+    current:
+    - link: https://careers.telus.com/job/_/558161517/
+      remote: false
+      title: Full Stack Software Developer
+    previous:
+    - link: https://careers.telus.com/job/_/556323217/
+      remote: false
+      title: Developer Analyst II - UI/UX Designer
+    - link: https://careers.telus.com/job/_/555137017/
+      remote: true
+      title: Developer Analyst - SaaS
+    - link: https://careers.telus.com/job/_/559048217/
+      remote: false
+      title: Full Stack Software Developer
 - company: kraken
   jobs:
     current: []
@@ -56,35 +121,6 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
       remote: false
       title: Software Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/04212283-7fb4-4b67-83bf-d9a610a4b258
-      remote: true
-      title: Software Release Coordinator
-    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
-      remote: true
-      title: AWS DevOps Engineer
-    - link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
-      remote: true
-      title: Software Development Team Lead
-    - link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
-      remote: true
-      title: Senior Software Developer
-- company: telus
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.telus.com/job/_/556323217/
-      remote: false
-      title: Developer Analyst II - UI/UX Designer
-    - link: https://careers.telus.com/job/_/555137017/
-      remote: true
-      title: Developer Analyst - SaaS
-    - link: https://careers.telus.com/job/_/559048217/
-      remote: false
-      title: Full Stack Software Developer
 - company: reportmate
   jobs:
     current: []
@@ -108,32 +144,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/563245517/
-      remote: true
-      title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/562212617/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559738617/
-      remote: true
-      title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Automation Architect
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
-      remote: true
-      title: Software Development Engineer In Test
-    - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
-      remote: true
-      title: Full Stack Developer III
 - company: inmarsat
   jobs:
     current: []
@@ -141,13 +151,6 @@ jobs:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
       remote: false
       title: Senior Solutions Architect
-- company: nlhydro
-  jobs:
-    current: []
-    previous:
-    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
-      remote: false
-      title: "Software Specialist \u2013 Operational Technology"
 - company: easternhealth
   jobs:
     current: []
@@ -155,20 +158,13 @@ jobs:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
       remote: true
       title: Computer Programmer/Analyst
-- company: rutter
-  jobs:
-    current: []
-    previous:
-    - link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
-      remote: false
-      title: Senior Software Developer
 - company: strobeltek
   jobs:
     current: []
     previous:
     - link: https://strobeltek.com/careers/
       remote: false
-      title: Mid Electrical/ Software Engineer
+      title: Software Engineer/Mid Electrical
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
@@ -287,5 +283,5 @@ jobs:
     - link: https://us.bluedriver.com/pages/careers
       remote: false
       title: Software Developer / Engineer
-newPostings: false
-updateDate: 2022-10-14
+newPostings: true
+updateDate: 2022-10-21

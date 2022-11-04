@@ -12,11 +12,7 @@
 - company: nlchi
   jobs: []
 - company: reportmate
-  jobs:
-    - post_date: 2022-08-26
-      jobs:
-        - title: AI-ML Developer
-          link: https://technl.ca/job/ai-ml-developer/
+  jobs: []
 - company: rutter
   jobs: []
 - company: hatch
@@ -68,15 +64,19 @@
   jobs: []
 - company: quorum
   jobs:
-    - post_date: 2022-10-21
+    - post_date: 2022-11-04
       jobs:
         - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
           remote: true
 - company: enaimco
   jobs: []
 - company: inmarsat
   jobs:
+    - post_date: 2022-11-04
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
     - post_date: 2022-07-22
       jobs:
         - title: "Senior Solutions Architect"
@@ -117,7 +117,11 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2022-11-04
+      jobs:
+        - title: Programmer Consultant
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3415
 - company: ccore
   jobs: []
 - company: otherocean
@@ -129,20 +133,15 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2022-10-21
+    - post_date: 2022-11-04
       jobs:
         - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/564277317/
+          link: https://jobs.medaviebc.ca/job/_/564708417/
           remote: true
     - post_date: 2022-08-26
       jobs:
         - title: Software Architect
           link: https://jobs.medaviebc.ca/job/_/563245517/
-          remote: true
-    - post_date: 2022-08-12
-      jobs:
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/562212617/
           remote: true
     - post_date: 2022-06-24
       jobs:
@@ -179,11 +178,7 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs:
-    - post_date: 2022-09-23
-      jobs:
-        - title: "Senior Frontend Developer"
-          link: https://colabsoftware.applytojobs.ca/development/16230
+  jobs: []
 - company: kraken
   jobs:
     - post_date: 2022-10-07
@@ -260,12 +255,16 @@
           link: https://www.virtualmarine.ca/careers
 - company: vish
   jobs:
-    - post_date: 2020-08-26
+    - post_date: 2022-08-26
       jobs:
         - title: Senior Frontend Developer
           link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
 - company: vision33
   jobs:
+    - post_date: 2022-11-04
+      jobs:
+        - title: Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
     - post_date: 2022-09-23
       jobs:
         - title: Software Developer
@@ -298,19 +297,6 @@
           link: https://www.avalonholographics.com/careers
 - company: telus
   jobs:
-    - post_date: 2022-10-21
-      jobs:
-        - title: Full Stack Software Developer
-          link: https://careers.telus.com/job/_/558161517/
-          remote: false
-    - post_date: 2022-09-09
-      jobs:
-        - title: Developer Analyst II - UI/UX Designer
-          link: https://careers.telus.com/job/_/556323217/
-          remote: false
-        - title: Developer Analyst - SaaS
-          link: https://careers.telus.com/job/_/555137017/
-          remote: true
     - post_date: 2022-08-12
       jobs:
         - title: Full Stack Software Developer
@@ -328,3 +314,9 @@
       jobs:
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
+- company: zorbits
+  jobs:
+    - post_date: 2022-11-04
+      jobs:
+        - title: Back End Web Developer
+          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC

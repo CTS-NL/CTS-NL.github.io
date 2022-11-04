@@ -2,46 +2,77 @@ jobs:
 - company: quorum
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
       remote: true
       title: Software Architect
+    previous: []
+- company: inmarsat
+  jobs:
+    current:
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
+      remote: false
+      title: Senior Cloud Engineer
+    previous:
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
+      remote: false
+      title: Senior Solutions Architect
+- company: mun
+  jobs:
+    current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3415
+      remote: false
+      title: Programmer Consultant
     previous: []
 - company: bluecross
   jobs:
     current:
-    - link: https://jobs.medaviebc.ca/job/_/564277317/
+    - link: https://jobs.medaviebc.ca/job/_/564708417/
       remote: true
       title: Programmer/Analyst
     previous:
     - link: https://jobs.medaviebc.ca/job/_/563245517/
       remote: true
       title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/562212617/
-      remote: true
-      title: Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/559738617/
       remote: true
       title: Software System Analyst
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
-- company: mysa
+- company: vision33
   jobs:
     current:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
+      remote: false
+      title: Developer
+    previous:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
+      remote: false
+      title: Software Developer
+- company: zorbits
+  jobs:
+    current:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: Back End Web Developer
+    previous: []
+- company: mysa
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
       remote: true
       title: Junior DevOps Engineer
-    previous:
     - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
       remote: true
       title: AWS DevOps Engineer
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864
       remote: true
       title: Data Engineer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
       remote: true
       title: Software Development Engineer In Test
@@ -50,27 +81,11 @@ jobs:
       title: Full Stack Developer III
 - company: nlhydro
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
       remote: false
       title: Software Specialist
-    previous: []
-- company: telus
-  jobs:
-    current:
-    - link: https://careers.telus.com/job/_/558161517/
-      remote: false
-      title: Full Stack Software Developer
-    previous:
-    - link: https://careers.telus.com/job/_/556323217/
-      remote: false
-      title: Developer Analyst II - UI/UX Designer
-    - link: https://careers.telus.com/job/_/555137017/
-      remote: true
-      title: Developer Analyst - SaaS
-    - link: https://careers.telus.com/job/_/559048217/
-      remote: false
-      title: Full Stack Software Developer
 - company: kraken
   jobs:
     current: []
@@ -91,13 +106,6 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
       remote: false
       title: Full Stack Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/development/16230
-      remote: false
-      title: Senior Frontend Developer
 - company: inspectar
   jobs:
     current: []
@@ -114,20 +122,6 @@ jobs:
     - link: https://www.inspectar.com/career/sr-unity-developer
       remote: false
       title: Senior Unity Developer
-- company: vision33
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
-      remote: false
-      title: Software Developer
-- company: reportmate
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/ai-ml-developer/
-      remote: false
-      title: AI-ML Developer
 - company: mariner
   jobs:
     current: []
@@ -144,13 +138,20 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: inmarsat
+- company: vish
   jobs:
     current: []
     previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
+    - link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
       remote: false
-      title: Senior Solutions Architect
+      title: Senior Frontend Developer
+- company: telus
+  jobs:
+    current: []
+    previous:
+    - link: https://careers.telus.com/job/_/559048217/
+      remote: false
+      title: Full Stack Software Developer
 - company: easternhealth
   jobs:
     current: []
@@ -269,13 +270,6 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-- company: vish
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
-      remote: false
-      title: Senior Frontend Developer
 - company: bluedriver
   jobs:
     current: []
@@ -284,4 +278,4 @@ jobs:
       remote: false
       title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-10-21
+updateDate: 2022-11-04

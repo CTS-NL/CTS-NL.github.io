@@ -60,15 +60,16 @@
         - title: "Full Stack Developer"
           link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
           remote: false
+- company: triware
+  jobs:
+    - post_date: 2022-11-18
+      jobs:
+        - title: "Programmer"
+          link: https://triware.ca/job/programmer/
 - company: radient
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2022-11-04
-      jobs:
-        - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
-          remote: true
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -77,17 +78,8 @@
       jobs:
         - title: "Senior Cloud Engineer"
           link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
-    - post_date: 2022-07-22
-      jobs:
-        - title: "Senior Solutions Architect"
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
 - company: bluedriver
-  jobs:
-    -
-      post_date: 2019-03-07
-      jobs:
-        - title: "Software Developer / Engineer"
-          link: https://us.bluedriver.com/pages/careers
+  jobs: []
 - company: cityofstjohns
   jobs: []
 - company: mariner
@@ -117,11 +109,7 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs:
-    - post_date: 2022-11-04
-      jobs:
-        - title: Programmer Consultant
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3415
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -159,11 +147,6 @@
       jobs:
         - title: Junior DevOps Engineer
           link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
-          remote: true
-    - post_date: 2022-07-29
-      jobs:
-        - title: AWS DevOps Engineer
-          link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
           remote: true
 - company: heyorca
   jobs: []
@@ -205,11 +188,6 @@
         - title: "Data Engineer"
           link: "https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864"
           remote: true
-    - post_date: 2022-08-12
-      jobs:
-        - title: "Software Development Engineer In Test"
-          link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
-          remote: true
     - post_date: 2022-02-18
       jobs:
         - title: "Full Stack Developer III"
@@ -222,7 +200,11 @@
         - title: "Software Specialist"
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2022-11-18
+      jobs:
+        - title: Senior Systems Analyst
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
 - company: inspectar
   jobs:
     - post_date: 2022-09-23
@@ -255,10 +237,12 @@
           link: https://www.virtualmarine.ca/careers
 - company: vish
   jobs:
-    - post_date: 2022-08-26
+    - post_date: 2022-11-18
       jobs:
-        - title: Senior Frontend Developer
-          link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
+        - title: "Full-Stack Developer"
+          link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
+        - title: "Development Team lead"
+          link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
 - company: vision33
   jobs:
     - post_date: 2022-11-04

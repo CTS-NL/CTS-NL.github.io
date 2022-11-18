@@ -1,35 +1,42 @@
 jobs:
-- company: quorum
+- company: triware
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
-      remote: true
-      title: Software Architect
+    - link: https://triware.ca/job/programmer/
+      remote: false
+      title: Programmer
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
+      remote: false
+      title: Senior Systems Analyst
+    previous: []
+- company: vish
+  jobs:
+    current:
+    - link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
+      remote: false
+      title: Full-Stack Developer
+    - link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
+      remote: false
+      title: Development Team lead
     previous: []
 - company: inmarsat
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
       remote: false
       title: Senior Cloud Engineer
-    previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
-      remote: false
-      title: Senior Solutions Architect
-- company: mun
-  jobs:
-    current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3415
-      remote: false
-      title: Programmer Consultant
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/564708417/
       remote: true
       title: Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/563245517/
       remote: true
       title: Software Architect
@@ -41,21 +48,21 @@ jobs:
       title: Test Automation Architect
 - company: vision33
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Developer
-    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
       remote: false
       title: Software Developer
 - company: zorbits
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Back End Web Developer
-    previous: []
 - company: mysa
   jobs:
     current: []
@@ -63,9 +70,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
       remote: true
       title: Junior DevOps Engineer
-    - link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
-      remote: true
-      title: AWS DevOps Engineer
 - company: milkmoovement
   jobs:
     current: []
@@ -73,9 +77,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864
       remote: true
       title: Data Engineer
-    - link: https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f
-      remote: true
-      title: Software Development Engineer In Test
     - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
       remote: true
       title: Full Stack Developer III
@@ -138,13 +139,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: vish
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/vish-limited-st-johns-newfoundland-full-time-senior-frontend-developer/
-      remote: false
-      title: Senior Frontend Developer
 - company: telus
   jobs:
     current: []
@@ -270,12 +264,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-- company: bluedriver
-  jobs:
-    current: []
-    previous:
-    - link: https://us.bluedriver.com/pages/careers
-      remote: false
-      title: Software Developer / Engineer
 newPostings: true
-updateDate: 2022-11-04
+updateDate: 2022-11-18

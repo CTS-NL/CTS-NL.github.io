@@ -1,38 +1,31 @@
 jobs:
-- company: triware
+- company: aker
   jobs:
     current:
-    - link: https://triware.ca/job/programmer/
+    - link: https://www.akersolutions.com/careers/job-search/?jobPostId=16836
       remote: false
-      title: Programmer
+      title: Software Developer
     previous: []
-- company: govnl
+- company: quorum
   jobs:
     current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
       remote: false
-      title: Senior Systems Analyst
+      title: Software Architect
     previous: []
-- company: vish
+- company: ccore
   jobs:
     current:
-    - link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
+    - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
       remote: false
-      title: Full-Stack Developer
-    - link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
-      remote: false
-      title: Development Team lead
+      title: Senior Programmer
     previous: []
-- company: inmarsat
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
-      remote: false
-      title: Senior Cloud Engineer
 - company: bluecross
   jobs:
-    current: []
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/565216217/
+      remote: true
+      title: Site Reliability Engineer
     previous:
     - link: https://jobs.medaviebc.ca/job/_/564708417/
       remote: true
@@ -46,23 +39,54 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
+- company: zorbits
+  jobs:
+    current:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762
+      remote: false
+      title: Game Developer
+    previous:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924
+      remote: false
+      title: Back End Web Developer
+- company: triware
+  jobs:
+    current: []
+    previous:
+    - link: https://triware.ca/job/programmer/
+      remote: false
+      title: Programmer
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
+      remote: false
+      title: Senior Systems Analyst
+- company: vish
+  jobs:
+    current: []
+    previous:
+    - link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
+      remote: false
+      title: Full-Stack Developer
+    - link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
+      remote: false
+      title: Development Team lead
+- company: inmarsat
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
+      remote: false
+      title: Senior Cloud Engineer
 - company: vision33
   jobs:
     current: []
     previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
-      title: Developer
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
-      remote: false
       title: Software Developer
-- company: zorbits
-  jobs:
-    current: []
-    previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Back End Web Developer
 - company: mysa
   jobs:
     current: []
@@ -139,13 +163,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: telus
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.telus.com/job/_/559048217/
-      remote: false
-      title: Full Stack Software Developer
 - company: easternhealth
   jobs:
     current: []
@@ -265,4 +282,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2022-11-18
+updateDate: 2022-11-25

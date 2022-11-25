@@ -1,3 +1,9 @@
+- company: aker
+  jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: Software Developer
+          link: https://www.akersolutions.com/careers/job-search/?jobPostId=16836
 - company: cna
   jobs: []
 - company: oliverpos
@@ -69,7 +75,11 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: "Software Architect"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -111,7 +121,11 @@
 - company: mun
   jobs: []
 - company: ccore
-  jobs: []
+  jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: Senior Programmer
+          link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -121,6 +135,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: Site Reliability Engineer
+          link: https://jobs.medaviebc.ca/job/_/565216217/
+          remote: true
     - post_date: 2022-11-04
       jobs:
         - title: Programmer/Analyst
@@ -247,12 +266,8 @@
   jobs:
     - post_date: 2022-11-04
       jobs:
-        - title: Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
-    - post_date: 2022-09-23
-      jobs:
         - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15689837-Software-Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
 - company: breathesuite
   jobs: []
 - company: rally
@@ -280,11 +295,7 @@
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
 - company: telus
-  jobs:
-    - post_date: 2022-08-12
-      jobs:
-        - title: Full Stack Software Developer
-          link: https://careers.telus.com/job/_/559048217/
+  jobs: []
 - company: target
   jobs:
     -
@@ -300,7 +311,11 @@
           link: "https://ioass.com/careers-1"
 - company: zorbits
   jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: Game Developer
+          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762
     - post_date: 2022-11-04
       jobs:
         - title: Back End Web Developer
-          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924

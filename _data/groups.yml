@@ -22,6 +22,9 @@ flutterhub:
 gamedevnl: # defunct, replaced with gdnl
   name: Gamedev NL
   url: http://gamedevnl.org
+gdgstjohns:
+  name: GDG St. John's
+  url: https://gdg.community.dev/gdg-st-johns/
 getcoding:
   name: Get Coding
   url: https://www.get-coding.ca/

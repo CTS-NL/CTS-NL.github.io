@@ -1,9 +1,5 @@
 - company: aker
-  jobs:
-    - post_date: 2022-11-25
-      jobs:
-        - title: Software Developer
-          link: https://www.akersolutions.com/careers/job-search/?jobPostId=16836
+  jobs: []
 - company: cna
   jobs: []
 - company: oliverpos
@@ -26,22 +22,31 @@
 - company: sequencebio
   jobs:
     -
+      post_date: 2022-12-02
+      jobs:
+        - title: Bioinformatician
+          link: https://sequencebio.bamboohr.com/careers/54
+          remote: true
+        - title: Computational Biologist
+          link: https://sequencebio.bamboohr.com/careers/53
+          remote: true
+    -
       post_date: 2022-04-15
       jobs:
         - title: Security Analyst
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=48
+          link: https://sequencebio.bamboohr.com/careers/48
           remote: true
         - title: Cloud Developer
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=49
+          link: https://sequencebio.bamboohr.com/careers/49
           remote: true
         - title: Web Application Developer
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=46
+          link: https://sequencebio.bamboohr.com/careers/46
           remote: true
         - title: Salesforce Developer
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=50
+          link: https://sequencebio.bamboohr.com/careers/50
           remote: true
         - title: Experienced AWS Infrastructure Engineer
-          link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
+          link: https://sequencebio.bamboohr.com/careers/47
           remote: true
 - company: strobeltek
   jobs:
@@ -75,11 +80,7 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2022-11-25
-      jobs:
-        - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -94,11 +95,6 @@
   jobs: []
 - company: mariner
   jobs:
-    - post_date: 2022-08-26
-      jobs:
-        - title: Software Developer (Java)
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999845776573-software-developer-java-
-          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: .NET Developer
@@ -202,6 +198,11 @@
           remote: true
 - company: milkmoovement
   jobs:
+    - post_date: 2022-12-02
+      jobs:
+        - title: "Senior Full Stack Developer"
+          link: "https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2"
+          remote: true
     - post_date: 2022-10-21
       jobs:
         - title: "Data Engineer"
@@ -244,15 +245,15 @@
   jobs: []
 - company: vmt
   jobs:
+    - post_date: 2022-12-02
+      jobs:
+        - title: "Game Developer"
+          link: https://www.virtualmarine.ca/careers
     - post_date: 2022-06-07
       jobs:
         - title: "Software Developer"
           link: https://www.virtualmarine.ca/careers
         - title: "Software Developer - Machine Learning"
-          link: https://www.virtualmarine.ca/careers
-    - post_date: 2022-02-04
-      jobs:
-        - title: "Game Developer"
           link: https://www.virtualmarine.ca/careers
 - company: vish
   jobs:
@@ -311,6 +312,10 @@
           link: "https://ioass.com/careers-1"
 - company: zorbits
   jobs:
+    - post_date: 2022-12-02
+      jobs:
+        - title: Front End Web Developer
+          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65764
     - post_date: 2022-11-25
       jobs:
         - title: Game Developer

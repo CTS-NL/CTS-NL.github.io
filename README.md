@@ -6,7 +6,7 @@
 
 If you have Ruby and Bundle installed, a basic bash script will start jekyll:
 
-```
+```shell script
 ./server.sh
 ```
 
@@ -14,7 +14,7 @@ If you have Ruby and Bundle installed, a basic bash script will start jekyll:
 
 If you want to start the site with docker compose:
 
-```
+```shell script
 docker-compose up
 ```
 
@@ -24,7 +24,7 @@ Community groups can be added by entering an entry into `_data/groups.yml`. A gr
 used as the key for the group, a `name` which is the full name of the group, and a `url` which is a link the groups
 primary online site.
 
-```
+```yaml
 gamedevnl:
   name: Gamedev NL
   url: http://gamedevnl.org
@@ -36,7 +36,7 @@ Companies can be added by entering an entry into `_data/companies.yml`. A compan
 used as the key for the company, a `name` which is the full name of the company, and a `url` which is a link the
 company site.
 
-```
+```yaml
 clockworkfox:
   name: Clockwork Fox
   url: http://clockworkfoxstudios.com
@@ -46,7 +46,7 @@ clockworkfox:
 
 Jobs can be added by entering an entry into `_data/jobs.yml`.  The format is as follows:
 
-```
+```yaml
 - company: colab
   jobs:
     -
@@ -62,6 +62,18 @@ Jobs can be added by entering an entry into `_data/jobs.yml`.  The format is as 
         - title: DevOps
           link: https://www.colabsoftware.com/job/devops
 ```
+
+The jobs listings are loaded from the `_data/jobs-sorted.yml` data file, and the file is generated using:
+
+```shell script
+./ParseJobs.py
+```
+OR
+```shell script
+python3 ParseJobs.py
+```
+
+The script will automatically load the jobs data from `_data/jobs.yml` and generate a sorted list based on the current date.
 
 ## Adding Posts
 
@@ -94,16 +106,16 @@ It does the following checks:
 You can run the script from the shell on it's own or with python3 by passing in the relative path to `_data` where the `jobs.yml` and `companies.yml` files are located.
 
 If you have pyyaml installed just run:
-```
+```shell script
 ./ValidateJobs.py path/to/_data
 ```
 OR
-```
+```shell script
 python3 ValidateJobs.py path/to/_data
 ```
 
 Alternatively, you can install and run this using pipenv:
-```
+```shell script
 # To install
 pipenv install
 

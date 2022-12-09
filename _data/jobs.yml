@@ -12,7 +12,11 @@
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
 - company: nlchi
-  jobs: []
+  jobs:
+    - post_date: 2022-12-09
+      jobs:
+        - title: Security Analyst II
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
 - company: reportmate
   jobs: []
 - company: rutter
@@ -80,7 +84,11 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2022-12-09
+      jobs:
+        - title: "Software Architect"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -131,6 +139,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2022-12-09
+      jobs:
+        - title: DevOps Engineer
+          link: https://jobs.medaviebc.ca/job/_/565832817/
+          remote: true
     - post_date: 2022-11-25
       jobs:
         - title: Site Reliability Engineer
@@ -214,17 +227,9 @@
           link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
           remote: true
 - company: nlhydro
-  jobs:
-    - post_date: 2022-10-21
-      jobs:
-        - title: "Software Specialist"
-          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
+  jobs: []
 - company: govnl
-  jobs:
-    - post_date: 2022-11-18
-      jobs:
-        - title: Senior Systems Analyst
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
+  jobs: []
 - company: inspectar
   jobs:
     - post_date: 2022-09-23

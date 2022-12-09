@@ -1,14 +1,50 @@
 jobs:
-- company: sequencebio
+- company: nlchi
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
+      remote: false
+      title: Security Analyst II
+    previous: []
+- company: quorum
+  jobs:
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
+      remote: false
+      title: Software Architect
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/565832817/
+      remote: true
+      title: DevOps Engineer
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/565216217/
+      remote: true
+      title: Site Reliability Engineer
+    - link: https://jobs.medaviebc.ca/job/_/564708417/
+      remote: true
+      title: Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/563245517/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/559738617/
+      remote: true
+      title: Software System Analyst
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Test Automation Architect
+- company: sequencebio
+  jobs:
+    current: []
+    previous:
     - link: https://sequencebio.bamboohr.com/careers/54
       remote: true
       title: Bioinformatician
     - link: https://sequencebio.bamboohr.com/careers/53
       remote: true
       title: Computational Biologist
-    previous:
     - link: https://sequencebio.bamboohr.com/careers/48
       remote: true
       title: Security Analyst
@@ -26,11 +62,11 @@ jobs:
       title: Experienced AWS Infrastructure Engineer
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2
       remote: true
       title: Senior Full Stack Developer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864
       remote: true
       title: Data Engineer
@@ -39,11 +75,11 @@ jobs:
       title: Full Stack Developer III
 - company: vmt
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Game Developer
-    previous:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer
@@ -52,11 +88,11 @@ jobs:
       title: Software Developer - Machine Learning
 - company: zorbits
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65764&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Front End Web Developer
-    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Game Developer
@@ -70,25 +106,6 @@ jobs:
     - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
       remote: false
       title: Senior Programmer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/565216217/
-      remote: true
-      title: Site Reliability Engineer
-    - link: https://jobs.medaviebc.ca/job/_/564708417/
-      remote: true
-      title: Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/563245517/
-      remote: true
-      title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/559738617/
-      remote: true
-      title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Test Automation Architect
 - company: triware
   jobs:
     current: []
@@ -96,13 +113,6 @@ jobs:
     - link: https://triware.ca/job/programmer/
       remote: false
       title: Programmer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27171
-      remote: false
-      title: Senior Systems Analyst
 - company: vish
   jobs:
     current: []
@@ -134,13 +144,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
       remote: true
       title: Junior DevOps Engineer
-- company: nlhydro
-  jobs:
-    current: []
-    previous:
-    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NE-22-075
-      remote: false
-      title: Software Specialist
 - company: kraken
   jobs:
     current: []
@@ -277,4 +280,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2022-12-02
+updateDate: 2022-12-09

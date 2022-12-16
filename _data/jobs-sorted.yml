@@ -1,31 +1,45 @@
 jobs:
-- company: nlchi
+- company: atlanticlottery
   jobs:
     current:
+    - link: https://www.careerbeacon.com/en/job/1860799/atlantic-lottery/senior-backend-developer-remote-or-hybrid/moncton-nb
+      remote: true
+      title: Senior Backend Developer
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
+      remote: false
+      title: Junior/Intermediate Firmware Engineer
+    previous:
+    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
+      remote: false
+      title: "Software Developer \u2013 UI"
+- company: nlchi
+  jobs:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
       remote: false
       title: Security Analyst II
-    previous: []
 - company: quorum
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
       remote: false
       title: Software Architect
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/565832817/
       remote: true
       title: DevOps Engineer
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/565216217/
       remote: true
       title: Site Reliability Engineer
-    - link: https://jobs.medaviebc.ca/job/_/564708417/
-      remote: true
-      title: Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/563245517/
       remote: true
       title: Software Architect
@@ -144,13 +158,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
       remote: true
       title: Junior DevOps Engineer
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364?utm_source=Kraken+Robotic+Systems+Inc.
-      remote: false
-      title: "Software Developer \u2013 UI"
 - company: stantec
   jobs:
     current: []
@@ -280,4 +287,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2022-12-09
+updateDate: 2022-12-16

@@ -1,3 +1,10 @@
+- company: atlanticlottery
+  jobs:
+    - post_date: 2022-12-16
+      jobs:
+        - title: Senior Backend Developer
+          link: https://www.careerbeacon.com/en/job/1860799/atlantic-lottery/senior-backend-developer-remote-or-hybrid/moncton-nb
+          remote: true
 - company: aker
   jobs: []
 - company: cna
@@ -149,11 +156,6 @@
         - title: Site Reliability Engineer
           link: https://jobs.medaviebc.ca/job/_/565216217/
           remote: true
-    - post_date: 2022-11-04
-      jobs:
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/564708417/
-          remote: true
     - post_date: 2022-08-26
       jobs:
         - title: Software Architect
@@ -192,10 +194,14 @@
   jobs: []
 - company: kraken
   jobs:
+    - post_date: 2022-12-16
+      jobs:
+        - title: Junior/Intermediate Firmware Engineer
+          link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
     - post_date: 2022-10-07
       jobs:
         - title: Software Developer – UI
-          link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364?utm_source=Kraken+Robotic+Systems+Inc.
+          link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
 - company: verafin
   jobs:
     - post_date: 2021-06-25

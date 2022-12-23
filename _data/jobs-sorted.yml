@@ -1,35 +1,34 @@
 jobs:
-- company: atlanticlottery
-  jobs:
-    current:
-    - link: https://www.careerbeacon.com/en/job/1860799/atlantic-lottery/senior-backend-developer-remote-or-hybrid/moncton-nb
-      remote: true
-      title: Senior Backend Developer
-    previous: []
-- company: kraken
-  jobs:
-    current:
-    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
-      remote: false
-      title: Junior/Intermediate Firmware Engineer
-    previous:
-    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
-      remote: false
-      title: "Software Developer \u2013 UI"
 - company: nlchi
   jobs:
-    current: []
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458597
+      remote: false
+      title: Security Analyst I
     previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
       remote: false
       title: Security Analyst II
-- company: quorum
+- company: ccore
+  jobs:
+    current:
+    - link: https://ca.indeed.com/viewjob?jk=a28e656ddd2491f4
+      remote: false
+      title: Software Systems Developer
+    previous:
+    - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
+      remote: false
+      title: Senior Programmer
+- company: kraken
   jobs:
     current: []
     previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
+    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
       remote: false
-      title: Software Architect
+      title: Junior/Intermediate Firmware Engineer
+    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
+      remote: false
+      title: "Software Developer \u2013 UI"
 - company: bluecross
   jobs:
     current: []
@@ -37,9 +36,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/565832817/
       remote: true
       title: DevOps Engineer
-    - link: https://jobs.medaviebc.ca/job/_/565216217/
-      remote: true
-      title: Site Reliability Engineer
     - link: https://jobs.medaviebc.ca/job/_/563245517/
       remote: true
       title: Software Architect
@@ -104,22 +100,12 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65764&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Front End Web Developer
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Game Developer
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Back End Web Developer
-- company: ccore
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
-      remote: false
-      title: Senior Programmer
 - company: triware
   jobs:
     current: []
@@ -137,13 +123,6 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
       remote: false
       title: Development Team lead
-- company: inmarsat
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
-      remote: false
-      title: Senior Cloud Engineer
 - company: vision33
   jobs:
     current: []
@@ -287,4 +266,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2022-12-16
+updateDate: 2022-12-23

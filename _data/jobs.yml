@@ -1,10 +1,5 @@
 - company: atlanticlottery
-  jobs:
-    - post_date: 2022-12-16
-      jobs:
-        - title: Senior Backend Developer
-          link: https://www.careerbeacon.com/en/job/1860799/atlantic-lottery/senior-backend-developer-remote-or-hybrid/moncton-nb
-          remote: true
+  jobs: []
 - company: aker
   jobs: []
 - company: cna
@@ -20,6 +15,10 @@
           remote: true
 - company: nlchi
   jobs:
+    - post_date: 2022-12-23
+      jobs:
+        - title: Security Analyst I
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458597
     - post_date: 2022-12-09
       jobs:
         - title: Security Analyst II
@@ -91,19 +90,11 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2022-12-09
-      jobs:
-        - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=424353
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
-  jobs:
-    - post_date: 2022-11-04
-      jobs:
-        - title: "Senior Cloud Engineer"
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999856728471-senior-cloud-engineer
+  jobs: []
 - company: bluedriver
   jobs: []
 - company: cityofstjohns
@@ -133,6 +124,10 @@
   jobs: []
 - company: ccore
   jobs:
+    - post_date: 2022-12-23
+      jobs:
+        - title: Software Systems Developer
+          link: https://ca.indeed.com/viewjob?jk=a28e656ddd2491f4
     - post_date: 2022-11-25
       jobs:
         - title: Senior Programmer
@@ -150,11 +145,6 @@
       jobs:
         - title: DevOps Engineer
           link: https://jobs.medaviebc.ca/job/_/565832817/
-          remote: true
-    - post_date: 2022-11-25
-      jobs:
-        - title: Site Reliability Engineer
-          link: https://jobs.medaviebc.ca/job/_/565216217/
           remote: true
     - post_date: 2022-08-26
       jobs:
@@ -323,10 +313,6 @@
           link: "https://ioass.com/careers-1"
 - company: zorbits
   jobs:
-    - post_date: 2022-12-02
-      jobs:
-        - title: Front End Web Developer
-          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65764&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
     - post_date: 2022-11-25
       jobs:
         - title: Game Developer

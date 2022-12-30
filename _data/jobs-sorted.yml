@@ -1,21 +1,21 @@
 jobs:
 - company: nlchi
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458597
       remote: false
       title: Security Analyst I
-    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
       remote: false
       title: Security Analyst II
 - company: ccore
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://ca.indeed.com/viewjob?jk=a28e656ddd2491f4
       remote: false
       title: Software Systems Developer
-    previous:
     - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
       remote: false
       title: Senior Programmer
@@ -265,5 +265,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: true
-updateDate: 2022-12-23
+newPostings: false
+updateDate: 2022-12-30

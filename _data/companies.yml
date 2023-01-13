@@ -299,6 +299,10 @@ otherocean:
   name: Other Ocean Interactive
   url: http://www.otherocean.com/
   local: true
+opasmobile:
+  name: OPAS Mobile
+  url: https://www.opasmobile.com/
+  local: true
 pal:
   name: PAL Airlines
   url: https://www.palairlines.ca/

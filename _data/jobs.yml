@@ -14,15 +14,7 @@
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
 - company: nlchi
-  jobs:
-    - post_date: 2022-12-23
-      jobs:
-        - title: Security Analyst I
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458597
-    - post_date: 2022-12-09
-      jobs:
-        - title: Security Analyst II
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=458598
+  jobs: []
 - company: reportmate
   jobs: []
 - company: rutter
@@ -70,27 +62,27 @@
           remote: false
 - company: stantec
   jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: "UI/UX Designer"
+          link: https://stantec.jobs/st-johns-nl/uiux-designer/A0806FBDE9184B118B8AD2F88B012E11/job/
+          remote: false
     - post_date: 2022-09-23
       jobs:
         - title: "Senior Data Scientist/Engineer"
           link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
           remote: false
-        - title: "Senior Full Stack Developer"
-          link: https://stantec.jobs/st-johns-nl/senior-full-stack-developer/AB660A16FBEF469A927D6359B0F20726/job/
-          remote: false
-        - title: "Full Stack Developer"
-          link: https://stantec.jobs/st-johns-nl/full-stack-developer/0AA14540F9304E9A9FC42BDA1E9D8FFA/job/
-          remote: false
 - company: triware
-  jobs:
-    - post_date: 2022-11-18
-      jobs:
-        - title: "Programmer"
-          link: https://triware.ca/job/programmer/
+  jobs: []
 - company: radient
   jobs: []
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: "Software Architect"
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=42979
+          remote: false
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -162,12 +154,7 @@
           link: https://jobs.medaviebc.ca/job/_/559366117/
           remote: true
 - company: mysa
-  jobs:
-    - post_date: 2022-10-21
-      jobs:
-        - title: Junior DevOps Engineer
-          link: https://jobs.lever.co/getmysa/f8169046-a870-4f41-b761-fe57d784a1fe
-          remote: true
+  jobs: []
 - company: heyorca
   jobs: []
 - company: compusult
@@ -181,7 +168,15 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs: []
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: Senior Software Developer (Operations)
+          link: https://colabsoftware.applytojobs.ca/developer/18676
+          remote: true
+        - title: Full Stack Developer (Co-op)
+          link: https://colabsoftware.applytojobs.ca/developer/18760
+          remote: true
 - company: kraken
   jobs:
     - post_date: 2022-12-16
@@ -199,23 +194,18 @@
         - title: Software Developer
           link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
 - company: rayagency
-  jobs:
-    - post_date: 2022-06-17
-      jobs:
-        - title: "Senior Website Developer"
-          link: "https://rayagency.ca/career-opportunities/full-stack-website-developer/"
-          remote: true
+  jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: "Lead Data Engineer"
+          link: "https://jobs.lever.co/milk-moovement/4fcb0695-55eb-41ba-b5ea-20a54b0fc80a"
+          remote: true
     - post_date: 2022-12-02
       jobs:
         - title: "Senior Full Stack Developer"
           link: "https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2"
-          remote: true
-    - post_date: 2022-10-21
-      jobs:
-        - title: "Data Engineer"
-          link: "https://jobs.lever.co/milk-moovement/84ab8d55-c322-496a-9d66-c2a92a36d864"
           remote: true
     - post_date: 2022-02-18
       jobs:
@@ -223,9 +213,21 @@
           link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
           remote: true
 - company: nlhydro
-  jobs: []
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: Programmer Analyst
+          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-NR-23-001?OpenDocument
 - company: govnl
   jobs: []
+- company: opasmobile
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: Junior/Intermediate Backend Developer (NodeJS)
+          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
+        - title: Junior/Intermediate React Native Developer
+          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
 - company: inspectar
   jobs:
     - post_date: 2022-09-23
@@ -271,7 +273,11 @@
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
 - company: breathesuite
-  jobs: []
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: "Software Engineer Intern - Spring 2023"
+          link: https://breathesuite.bamboohr.com/jobs/view.php?id=43
 - company: rally
   jobs:
     - post_date: 2022-01-14
@@ -299,12 +305,7 @@
 - company: telus
   jobs: []
 - company: target
-  jobs:
-    -
-      post_date: 2021-05-06
-      jobs:
-        - title: Web Developer
-          link: https://targetmarketing.ca/news/web-developer-position/
+  jobs: []
 - company: ioa
   jobs:
     - post_date: 2020-10-10

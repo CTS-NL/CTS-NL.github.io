@@ -13,6 +13,16 @@
         - title: Computer Programmer/Analyst
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
+- company: fonemed
+  jobs:
+    - post_date: 2023-01-20
+      jobs:
+        - title: Back End Software Developer
+          link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
+          remote: true
+        - title: Front End Software Developer
+          link: https://fonemed.applytojob.com/apply/6aucbOGZSe/Front-End-Software-Developer
+          remote: true
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -81,7 +91,7 @@
     - post_date: 2023-01-13
       jobs:
         - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=42979
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=429790
           remote: false
 - company: enaimco
   jobs: []
@@ -97,9 +107,6 @@
       jobs:
         - title: .NET Developer
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-          remote: true
-        - title: Azure Solutions Architect
-          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
           remote: true
     - post_date: 2022-01-28
       jobs:
@@ -133,6 +140,20 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-01-20
+      jobs:
+        - title: DevOps Engineering Technician
+          link: https://jobs.medaviebc.ca/job/_/566835717/
+          remote: true
+        - title: Site Reliability Engineer
+          link: https://jobs.medaviebc.ca/job/_/566835517/
+          remote: true
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/566888517/
+          remote: true
+        - title: Oracle Database Administrator
+          link: https://jobs.medaviebc.ca/job/_/567017317/
+          remote: true
     - post_date: 2022-12-09
       jobs:
         - title: DevOps Engineer
@@ -142,11 +163,6 @@
       jobs:
         - title: Software Architect
           link: https://jobs.medaviebc.ca/job/_/563245517/
-          remote: true
-    - post_date: 2022-06-24
-      jobs:
-        - title: Software System Analyst
-          link: https://jobs.medaviebc.ca/job/_/559738617/
           remote: true
     - post_date: 2022-06-10
       jobs:
@@ -213,11 +229,7 @@
           link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
           remote: true
 - company: nlhydro
-  jobs:
-    - post_date: 2023-01-13
-      jobs:
-        - title: Programmer Analyst
-          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-NR-23-001?OpenDocument
+  jobs: []
 - company: govnl
   jobs: []
 - company: opasmobile
@@ -288,6 +300,11 @@
 - company: bluedrop
   jobs:
     -
+      post_date: 2023-01-20
+      jobs:
+        - title: Intermediate DevOps Engineer
+          link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
+    -
       post_date: 2022-01-14
       jobs:
         - title: Senior Front End Developer
@@ -318,7 +335,3 @@
       jobs:
         - title: Game Developer
           link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-    - post_date: 2022-11-04
-      jobs:
-        - title: Back End Web Developer
-          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC

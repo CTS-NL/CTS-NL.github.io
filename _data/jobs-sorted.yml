@@ -1,68 +1,106 @@
 jobs:
-- company: stantec
+- company: fonemed
   jobs:
     current:
+    - link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
+      remote: true
+      title: Back End Software Developer
+    - link: https://fonemed.applytojob.com/apply/6aucbOGZSe/Front-End-Software-Developer
+      remote: true
+      title: Front End Software Developer
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/566835717/
+      remote: true
+      title: DevOps Engineering Technician
+    - link: https://jobs.medaviebc.ca/job/_/566835517/
+      remote: true
+      title: Site Reliability Engineer
+    - link: https://jobs.medaviebc.ca/job/_/566888517/
+      remote: true
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/567017317/
+      remote: true
+      title: Oracle Database Administrator
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/565832817/
+      remote: true
+      title: DevOps Engineer
+    - link: https://jobs.medaviebc.ca/job/_/563245517/
+      remote: true
+      title: Software Architect
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Test Automation Architect
+- company: bluedrop
+  jobs:
+    current:
+    - link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
+      remote: false
+      title: Intermediate DevOps Engineer
+    previous:
+    - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
+      remote: false
+      title: Senior Front End Developer
+- company: stantec
+  jobs:
+    current: []
+    previous:
     - link: https://stantec.jobs/st-johns-nl/uiux-designer/A0806FBDE9184B118B8AD2F88B012E11/job/
       remote: false
       title: UI/UX Designer
-    previous:
     - link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
       remote: false
       title: Senior Data Scientist/Engineer
 - company: quorum
   jobs:
-    current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=42979
+    current: []
+    previous:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=429790
       remote: false
       title: Software Architect
-    previous: []
 - company: colab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://colabsoftware.applytojobs.ca/developer/18676
       remote: true
       title: Senior Software Developer (Operations)
     - link: https://colabsoftware.applytojobs.ca/developer/18760
       remote: true
       title: Full Stack Developer (Co-op)
-    previous: []
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/4fcb0695-55eb-41ba-b5ea-20a54b0fc80a
       remote: true
       title: Lead Data Engineer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2
       remote: true
       title: Senior Full Stack Developer
     - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
       remote: true
       title: Full Stack Developer III
-- company: nlhydro
-  jobs:
-    current:
-    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-NR-23-001?OpenDocument
-      remote: false
-      title: Programmer Analyst
-    previous: []
 - company: opasmobile
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
       remote: false
       title: Junior/Intermediate Backend Developer (NodeJS)
     - link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
       remote: false
       title: Junior/Intermediate React Native Developer
-    previous: []
 - company: breathesuite
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=43
       remote: false
       title: Software Engineer Intern - Spring 2023
-    previous: []
 - company: ccore
   jobs:
     current: []
@@ -83,22 +121,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
       remote: false
       title: "Software Developer \u2013 UI"
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/565832817/
-      remote: true
-      title: DevOps Engineer
-    - link: https://jobs.medaviebc.ca/job/_/563245517/
-      remote: true
-      title: Software Architect
-    - link: https://jobs.medaviebc.ca/job/_/559738617/
-      remote: true
-      title: Software System Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Test Automation Architect
 - company: sequencebio
   jobs:
     current: []
@@ -144,9 +166,6 @@ jobs:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Game Developer
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=63924&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Back End Web Developer
 - company: vish
   jobs:
     current: []
@@ -204,9 +223,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
       title: .NET Developer
-    - link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
-      remote: true
-      title: Azure Solutions Architect
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
@@ -234,13 +250,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: true
       title: Full-Stack Engineer
-- company: bluedrop
-  jobs:
-    current: []
-    previous:
-    - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
-      remote: false
-      title: Senior Front End Developer
 - company: verafin
   jobs:
     current: []
@@ -266,4 +275,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-01-13
+updateDate: 2023-01-20

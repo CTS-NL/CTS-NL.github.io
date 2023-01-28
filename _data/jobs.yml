@@ -87,12 +87,7 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2023-01-13
-      jobs:
-        - title: "Software Architect"
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=429790
-          remote: false
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -120,17 +115,14 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
-- company: ccore
   jobs:
-    - post_date: 2022-12-23
+
+    - post_date: 2023-01-28
       jobs:
-        - title: Software Systems Developer
-          link: https://ca.indeed.com/viewjob?jk=a28e656ddd2491f4
-    - post_date: 2022-11-25
-      jobs:
-        - title: Senior Programmer
-          link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
+        - title: Senior Programmer Analyst
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3717
+- company: ccore
+  jobs: []
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -187,14 +179,15 @@
   jobs:
     - post_date: 2023-01-13
       jobs:
-        - title: Senior Software Developer (Operations)
-          link: https://colabsoftware.applytojobs.ca/developer/18676
-          remote: true
         - title: Full Stack Developer (Co-op)
           link: https://colabsoftware.applytojobs.ca/developer/18760
           remote: true
 - company: kraken
   jobs:
+    - post_date: 2023-01-28
+      jobs:
+        - title: Software Developers
+          link: https://jobs.careerbeacon.com/details/software-developers/1876443
     - post_date: 2022-12-16
       jobs:
         - title: Junior/Intermediate Firmware Engineer
@@ -258,6 +251,12 @@
   jobs: []
 - company: pangeo
   jobs: []
+- company: q5
+  jobs:
+    - post_date: 2023-01-28
+      jobs:
+        - title: "Software Developer"
+          link: https://www.careerbeacon.com/en/job/1876939/q5-systems-ltd/q5-software-developer/st-john-s
 - company: vmt
   jobs:
     - post_date: 2022-12-02
@@ -304,11 +303,6 @@
       jobs:
         - title: Intermediate DevOps Engineer
           link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
-    -
-      post_date: 2022-01-14
-      jobs:
-        - title: Senior Front End Developer
-          link: https://bluedropism.com/senior-front-end-developer-dec-2021/
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25

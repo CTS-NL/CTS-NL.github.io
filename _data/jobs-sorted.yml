@@ -1,17 +1,45 @@
 jobs:
-- company: fonemed
+- company: mun
   jobs:
     current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3717
+      remote: false
+      title: Senior Programmer Analyst
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://jobs.careerbeacon.com/details/software-developers/1876443
+      remote: false
+      title: Software Developers
+    previous:
+    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
+      remote: false
+      title: Junior/Intermediate Firmware Engineer
+    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
+      remote: false
+      title: "Software Developer \u2013 UI"
+- company: q5
+  jobs:
+    current:
+    - link: https://www.careerbeacon.com/en/job/1876939/q5-systems-ltd/q5-software-developer/st-john-s
+      remote: false
+      title: Software Developer
+    previous: []
+- company: fonemed
+  jobs:
+    current: []
+    previous:
     - link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
       remote: true
       title: Back End Software Developer
     - link: https://fonemed.applytojob.com/apply/6aucbOGZSe/Front-End-Software-Developer
       remote: true
       title: Front End Software Developer
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/566835717/
       remote: true
       title: DevOps Engineering Technician
@@ -24,7 +52,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/567017317/
       remote: true
       title: Oracle Database Administrator
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/565832817/
       remote: true
       title: DevOps Engineer
@@ -36,14 +63,11 @@ jobs:
       title: Test Automation Architect
 - company: bluedrop
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
       remote: false
       title: Intermediate DevOps Engineer
-    previous:
-    - link: https://bluedropism.com/senior-front-end-developer-dec-2021/
-      remote: false
-      title: Senior Front End Developer
 - company: stantec
   jobs:
     current: []
@@ -54,20 +78,10 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
       remote: false
       title: Senior Data Scientist/Engineer
-- company: quorum
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=429790
-      remote: false
-      title: Software Architect
 - company: colab
   jobs:
     current: []
     previous:
-    - link: https://colabsoftware.applytojobs.ca/developer/18676
-      remote: true
-      title: Senior Software Developer (Operations)
     - link: https://colabsoftware.applytojobs.ca/developer/18760
       remote: true
       title: Full Stack Developer (Co-op)
@@ -101,26 +115,6 @@ jobs:
     - link: https://breathesuite.bamboohr.com/jobs/view.php?id=43
       remote: false
       title: Software Engineer Intern - Spring 2023
-- company: ccore
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=a28e656ddd2491f4
-      remote: false
-      title: Software Systems Developer
-    - link: https://ca.indeed.com/viewjob?jk=1ec9f2b641a3735c
-      remote: false
-      title: Senior Programmer
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
-      remote: false
-      title: Junior/Intermediate Firmware Engineer
-    - link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
-      remote: false
-      title: "Software Developer \u2013 UI"
 - company: sequencebio
   jobs:
     current: []
@@ -275,4 +269,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-01-20
+updateDate: 2023-01-28

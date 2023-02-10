@@ -60,6 +60,13 @@
         - title: Experienced AWS Infrastructure Engineer
           link: https://sequencebio.bamboohr.com/careers/47
           remote: true
+- company: siftmed
+  jobs:
+    - post_date: 2023-02-10
+      jobs:
+        - title: "QA Software Developer"
+          link: https://technl.ca/job/qa-software-developer/
+          remote: true
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -72,11 +79,6 @@
           remote: false
 - company: stantec
   jobs:
-    - post_date: 2023-01-13
-      jobs:
-        - title: "UI/UX Designer"
-          link: https://stantec.jobs/st-johns-nl/uiux-designer/A0806FBDE9184B118B8AD2F88B012E11/job/
-          remote: false
     - post_date: 2022-09-23
       jobs:
         - title: "Senior Data Scientist/Engineer"
@@ -115,12 +117,7 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs:
-
-    - post_date: 2023-01-28
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=3717
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -137,19 +134,11 @@
         - title: DevOps Engineering Technician
           link: https://jobs.medaviebc.ca/job/_/566835717/
           remote: true
-        - title: Site Reliability Engineer
-          link: https://jobs.medaviebc.ca/job/_/566835517/
-          remote: true
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/566888517/
           remote: true
         - title: Oracle Database Administrator
           link: https://jobs.medaviebc.ca/job/_/567017317/
-          remote: true
-    - post_date: 2022-12-09
-      jobs:
-        - title: DevOps Engineer
-          link: https://jobs.medaviebc.ca/job/_/565832817/
           remote: true
     - post_date: 2022-08-26
       jobs:
@@ -177,6 +166,11 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    - post_date: 2023-02-10
+      jobs:
+        - title: VP Software Engineering
+          link: https://colabsoftware.applytojobs.ca/development/19173
+          remote: true
     - post_date: 2023-01-13
       jobs:
         - title: Full Stack Developer (Co-op)
@@ -184,6 +178,10 @@
           remote: true
 - company: kraken
   jobs:
+    - post_date: 2023-02-10
+      jobs:
+        - title: Senior UI Team Lead/Software Developer
+          link: https://jobs.careerbeacon.com/details/senior-ui-team-leadsoftware-developer/1877555
     - post_date: 2023-01-28
       jobs:
         - title: Software Developers
@@ -284,11 +282,7 @@
         - title: Software Developer
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
 - company: breathesuite
-  jobs:
-    - post_date: 2023-01-13
-      jobs:
-        - title: "Software Engineer Intern - Spring 2023"
-          link: https://breathesuite.bamboohr.com/jobs/view.php?id=43
+  jobs: []
 - company: rally
   jobs:
     - post_date: 2022-01-14

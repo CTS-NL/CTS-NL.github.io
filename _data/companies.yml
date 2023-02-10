@@ -387,6 +387,10 @@ smartice:
   name: SmartICE
   url: http://www.smartice.org/
   local: true
+siftmed:
+  name: SiftMed
+  url: https://www.siftmed.ca/
+  local: true
 stantec:
   name: Stantec
   url: https://www.stantec.com/en

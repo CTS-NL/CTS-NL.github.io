@@ -193,6 +193,9 @@ infotech:
   name: Infotech
   url: http://www.infotechsolutions.com/
   canadian: true
+intactlab:
+  name: Intact Lab
+  url: https://intactlab.ca/
 integrated:
   name: Integrated Informatics
   url: http://integrated-informatics.com/

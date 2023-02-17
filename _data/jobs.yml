@@ -78,18 +78,17 @@
           link: https://strobeltek.com/careers/
           remote: false
 - company: stantec
-  jobs:
-    - post_date: 2022-09-23
-      jobs:
-        - title: "Senior Data Scientist/Engineer"
-          link: https://stantec.jobs/st-johns-nl/senior-data-scientistengineer/6C459E1142E8442E8BE6577EBE80FE3F/job/
-          remote: false
+  jobs: []
 - company: triware
   jobs: []
 - company: radient
   jobs: []
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2023-02-17
+      jobs:
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=430944
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -129,6 +128,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-02-17
+      jobs:
+        - title: Front-End Developer
+          link: https://jobs.medaviebc.ca/job/_/563245517/
+          remote: true
     - post_date: 2023-01-20
       jobs:
         - title: DevOps Engineering Technician
@@ -139,11 +143,6 @@
           remote: true
         - title: Oracle Database Administrator
           link: https://jobs.medaviebc.ca/job/_/567017317/
-          remote: true
-    - post_date: 2022-08-26
-      jobs:
-        - title: Software Architect
-          link: https://jobs.medaviebc.ca/job/_/563245517/
           remote: true
     - post_date: 2022-06-10
       jobs:
@@ -170,11 +169,6 @@
       jobs:
         - title: VP Software Engineering
           link: https://colabsoftware.applytojobs.ca/development/19173
-          remote: true
-    - post_date: 2023-01-13
-      jobs:
-        - title: Full Stack Developer (Co-op)
-          link: https://colabsoftware.applytojobs.ca/developer/18760
           remote: true
 - company: kraken
   jobs:
@@ -245,6 +239,18 @@
           link: https://www.inspectar.com/career/c-sharp-developer
         - title: Senior Unity Developer
           link: https://www.inspectar.com/career/sr-unity-developer
+- company: intactlab
+  jobs:
+    - post_date: 2023-02-17
+      jobs:
+        - title: "iOS Developer"
+          link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
+        - title: "Senior Test Automation Developer, Rapid Prototyping"
+          link: https://careers.intactfc.com/ca/en/job/R133126/Senior-Test-Automation-Developer-Rapid-Prototyping
+        - title: "Java Technical Lead"
+          link: https://careers.intactfc.com/ca/en/job/R132675/Java-Technical-Lead
+        - title: "Senior Full Stack Web Developer"
+          link: https://careers.intactfc.com/ca/en/job/R133745/Senior-Full-Stack-Web-Developer-Java-React-NodeJS
 - company: wood
   jobs: []
 - company: pangeo

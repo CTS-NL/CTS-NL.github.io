@@ -20,9 +20,6 @@
         - title: Back End Software Developer
           link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
           remote: true
-        - title: Front End Software Developer
-          link: https://fonemed.applytojob.com/apply/6aucbOGZSe/Front-End-Software-Developer
-          remote: true
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -61,12 +58,7 @@
           link: https://sequencebio.bamboohr.com/careers/47
           remote: true
 - company: siftmed
-  jobs:
-    - post_date: 2023-02-10
-      jobs:
-        - title: "QA Software Developer"
-          link: https://technl.ca/job/qa-software-developer/
-          remote: true
+  jobs: []
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -82,13 +74,14 @@
 - company: triware
   jobs: []
 - company: radient
-  jobs: []
-- company: quorum
   jobs:
-    - post_date: 2023-02-17
+    - post_date: 2023-03-02
       jobs:
-        - title: Intermediate Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=430944
+        - title: Software Quality Assurance Specialist
+          link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
+          remote: true
+- company: quorum
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -128,6 +121,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: Full Stack Developer
+          link: https://jobs.medaviebc.ca/job/_/568243917/
+          remote: true
     - post_date: 2023-02-17
       jobs:
         - title: Front-End Developer
@@ -135,14 +133,8 @@
           remote: true
     - post_date: 2023-01-20
       jobs:
-        - title: DevOps Engineering Technician
-          link: https://jobs.medaviebc.ca/job/_/566835717/
-          remote: true
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/566888517/
-          remote: true
-        - title: Oracle Database Administrator
-          link: https://jobs.medaviebc.ca/job/_/567017317/
           remote: true
     - post_date: 2022-06-10
       jobs:
@@ -155,10 +147,6 @@
   jobs: []
 - company: compusult
   jobs:
-    - post_date: 2022-03-18
-      jobs:
-        - title: "ROS Developer"
-          link: "https://www.compusult.com/web/guest/careers"
     - post_date: 2021-09-10
       jobs:
         - title: "Software Developers"
@@ -172,10 +160,6 @@
           remote: true
 - company: kraken
   jobs:
-    - post_date: 2023-02-10
-      jobs:
-        - title: Senior UI Team Lead/Software Developer
-          link: https://jobs.careerbeacon.com/details/senior-ui-team-leadsoftware-developer/1877555
     - post_date: 2023-01-28
       jobs:
         - title: Software Developers
@@ -184,10 +168,6 @@
       jobs:
         - title: Junior/Intermediate Firmware Engineer
           link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
-    - post_date: 2022-10-07
-      jobs:
-        - title: Software Developer – UI
-          link: https://jobs.careerbeacon.com/details/software-developer--ui/1714364
 - company: verafin
   jobs:
     - post_date: 2021-06-25
@@ -198,11 +178,6 @@
   jobs: []
 - company: milkmoovement
   jobs:
-    - post_date: 2023-01-13
-      jobs:
-        - title: "Lead Data Engineer"
-          link: "https://jobs.lever.co/milk-moovement/4fcb0695-55eb-41ba-b5ea-20a54b0fc80a"
-          remote: true
     - post_date: 2022-12-02
       jobs:
         - title: "Senior Full Stack Developer"
@@ -216,7 +191,11 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs: []
+  jobs:
+  - post_date: 2023-03-02
+    jobs:
+      - title: Database Analyst Team Lead
+        link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27645
 - company: opasmobile
   jobs:
     - post_date: 2023-01-13
@@ -241,26 +220,34 @@
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: intactlab
   jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: "Backend Java Developer (Senior/Intermediate)"
+          link: https://careers.intactfc.com/ca/en/job/R132664
+        - title: "Senior Salesforce Developer"
+          link: https://careers.intactfc.com/ca/en/job/R130564
+        - title: "Manager, Software Development"
+          link: https://careers.intactfc.com/ca/en/job/R130696
+        - title: "RPA Developer (Senior or Intermediate)"
+          link: https://careers.intactfc.com/ca/en/job/R133710
+        - title: "Quality Assurance Analyst II"
+          link: https://careers.intactfc.com/ca/en/job/R134588
+        - title: "Android Developer (Senior/Specialist/Tech Lead)"
+          link: https://careers.intactfc.com/ca/en/job/R132677
     - post_date: 2023-02-17
       jobs:
-        - title: "iOS Developer"
+        - title: "iOS Developer (Senior/Specialist/Tech Lead)"
           link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
-        - title: "Senior Test Automation Developer, Rapid Prototyping"
-          link: https://careers.intactfc.com/ca/en/job/R133126/Senior-Test-Automation-Developer-Rapid-Prototyping
         - title: "Java Technical Lead"
-          link: https://careers.intactfc.com/ca/en/job/R132675/Java-Technical-Lead
-        - title: "Senior Full Stack Web Developer"
-          link: https://careers.intactfc.com/ca/en/job/R133745/Senior-Full-Stack-Web-Developer-Java-React-NodeJS
+          link: https://careers.intactfc.com/ca/en/job/R132675
+        - title: "Senior Full Stack Web Developer (Java/React/NodeJS)"
+          link: https://careers.intactfc.com/ca/en/job/R133745
 - company: wood
   jobs: []
 - company: pangeo
   jobs: []
 - company: q5
-  jobs:
-    - post_date: 2023-01-28
-      jobs:
-        - title: "Software Developer"
-          link: https://www.careerbeacon.com/en/job/1876939/q5-systems-ltd/q5-software-developer/st-john-s
+  jobs: []
 - company: vmt
   jobs:
     - post_date: 2022-12-02
@@ -283,6 +270,10 @@
           link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
 - company: vision33
   jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
     - post_date: 2022-11-04
       jobs:
         - title: Software Developer

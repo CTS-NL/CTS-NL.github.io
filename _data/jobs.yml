@@ -81,7 +81,12 @@
           link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
           remote: true
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2023-03-09
+      jobs:
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=430944
+          remote: true
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -92,6 +97,11 @@
   jobs: []
 - company: mariner
   jobs:
+    - post_date: 2023-03-10
+      jobs:
+        - title: Senior Java Full Stack Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999891439245-senior-java-full-stack-developer
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: .NET Developer
@@ -177,25 +187,11 @@
 - company: rayagency
   jobs: []
 - company: milkmoovement
-  jobs:
-    - post_date: 2022-12-02
-      jobs:
-        - title: "Senior Full Stack Developer"
-          link: "https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2"
-          remote: true
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Full Stack Developer III"
-          link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
-          remote: true
+  jobs: []
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-  - post_date: 2023-03-02
-    jobs:
-      - title: Database Analyst Team Lead
-        link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27645
+  jobs: []
 - company: opasmobile
   jobs:
     - post_date: 2023-01-13
@@ -230,8 +226,6 @@
           link: https://careers.intactfc.com/ca/en/job/R130696
         - title: "RPA Developer (Senior or Intermediate)"
           link: https://careers.intactfc.com/ca/en/job/R133710
-        - title: "Quality Assurance Analyst II"
-          link: https://careers.intactfc.com/ca/en/job/R134588
         - title: "Android Developer (Senior/Specialist/Tech Lead)"
           link: https://careers.intactfc.com/ca/en/job/R132677
     - post_date: 2023-02-17

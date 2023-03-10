@@ -1,18 +1,38 @@
 jobs:
-- company: radient
+- company: mariner
   jobs:
     current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999891439245-senior-java-full-stack-developer
+      remote: true
+      title: Senior Java Full Stack Developer
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
+- company: quorum
+  jobs:
+    current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=430944
+      remote: true
+      title: Intermediate Developer
+    previous: []
+- company: radient
+  jobs:
+    current: []
+    previous:
     - link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
       remote: true
       title: Software Quality Assurance Specialist
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/568243917/
       remote: true
       title: Full Stack Developer
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/563245517/
       remote: true
       title: Front-End Developer
@@ -22,16 +42,10 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27645
-      remote: false
-      title: Database Analyst Team Lead
-    previous: []
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132664
       remote: false
       title: Backend Java Developer (Senior/Intermediate)
@@ -44,13 +58,9 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R133710
       remote: false
       title: RPA Developer (Senior or Intermediate)
-    - link: https://careers.intactfc.com/ca/en/job/R134588
-      remote: false
-      title: Quality Assurance Analyst II
     - link: https://careers.intactfc.com/ca/en/job/R132677
       remote: false
       title: Android Developer (Senior/Specialist/Tech Lead)
-    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
       remote: false
       title: iOS Developer (Senior/Specialist/Tech Lead)
@@ -62,11 +72,11 @@ jobs:
       title: Senior Full Stack Web Developer (Java/React/NodeJS)
 - company: vision33
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
       remote: false
       title: Developer
-    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Software Developer
@@ -136,16 +146,6 @@ jobs:
     - link: https://sequencebio.bamboohr.com/careers/47
       remote: true
       title: Experienced AWS Infrastructure Engineer
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2
-      remote: true
-      title: Senior Full Stack Developer
-    - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
-      remote: true
-      title: Full Stack Developer III
 - company: vmt
   jobs:
     current: []
@@ -209,16 +209,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: otherocean
   jobs:
     current: []
@@ -265,4 +255,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-03-02
+updateDate: 2023-03-10

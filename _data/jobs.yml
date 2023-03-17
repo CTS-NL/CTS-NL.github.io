@@ -3,7 +3,15 @@
 - company: aker
   jobs: []
 - company: cna
-  jobs: []
+  jobs:
+      - post_date: 2023-03-17
+        jobs:
+          - title: Instructor - Software Development
+            link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
+            remote: false
+          - title: Instructor - Software Development
+            link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14494&PostingSeq=3
+            remote: false
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -121,15 +129,15 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-03-17
+      jobs:
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/568608317/
+          remote: true
     - post_date: 2023-03-02
       jobs:
         - title: Full Stack Developer
           link: https://jobs.medaviebc.ca/job/_/568243917/
-          remote: true
-    - post_date: 2023-02-17
-      jobs:
-        - title: Front-End Developer
-          link: https://jobs.medaviebc.ca/job/_/563245517/
           remote: true
     - post_date: 2023-01-20
       jobs:
@@ -191,11 +199,7 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-  - post_date: 2023-03-02
-    jobs:
-      - title: Database Analyst Team Lead
-        link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27645
+  jobs: []
 - company: opasmobile
   jobs:
     - post_date: 2023-01-13
@@ -228,10 +232,6 @@
           link: https://careers.intactfc.com/ca/en/job/R130564
         - title: "Manager, Software Development"
           link: https://careers.intactfc.com/ca/en/job/R130696
-        - title: "RPA Developer (Senior or Intermediate)"
-          link: https://careers.intactfc.com/ca/en/job/R133710
-        - title: "Quality Assurance Analyst II"
-          link: https://careers.intactfc.com/ca/en/job/R134588
         - title: "Android Developer (Senior/Specialist/Tech Lead)"
           link: https://careers.intactfc.com/ca/en/job/R132677
     - post_date: 2023-02-17

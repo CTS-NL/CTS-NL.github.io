@@ -1,37 +1,41 @@
 jobs:
-- company: radient
+- company: cna
   jobs:
     current:
-    - link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
-      remote: true
-      title: Software Quality Assurance Specialist
+    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
+      remote: false
+      title: Instructor - Software Development
+    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14494&PostingSeq=3
+      remote: false
+      title: Instructor - Software Development
     previous: []
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/568608317/
+      remote: true
+      title: Sr. Programmer/Analyst
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/568243917/
       remote: true
       title: Full Stack Developer
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/563245517/
-      remote: true
-      title: Front-End Developer
     - link: https://jobs.medaviebc.ca/job/_/566888517/
       remote: true
       title: Sr. Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
-- company: govnl
+- company: radient
   jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27645
-      remote: false
-      title: Database Analyst Team Lead
-    previous: []
+    current: []
+    previous:
+    - link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
+      remote: true
+      title: Software Quality Assurance Specialist
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132664
       remote: false
       title: Backend Java Developer (Senior/Intermediate)
@@ -41,16 +45,9 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R130696
       remote: false
       title: Manager, Software Development
-    - link: https://careers.intactfc.com/ca/en/job/R133710
-      remote: false
-      title: RPA Developer (Senior or Intermediate)
-    - link: https://careers.intactfc.com/ca/en/job/R134588
-      remote: false
-      title: Quality Assurance Analyst II
     - link: https://careers.intactfc.com/ca/en/job/R132677
       remote: false
       title: Android Developer (Senior/Specialist/Tech Lead)
-    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
       remote: false
       title: iOS Developer (Senior/Specialist/Tech Lead)
@@ -62,11 +59,11 @@ jobs:
       title: Senior Full Stack Web Developer (Java/React/NodeJS)
 - company: vision33
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
       remote: false
       title: Developer
-    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Software Developer
@@ -265,4 +262,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-03-02
+updateDate: 2023-03-17

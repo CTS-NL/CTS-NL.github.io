@@ -1,11 +1,28 @@
 jobs:
+- company: mariner
+  jobs:
+    current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
+      remote: true
+      title: Senior Java Full Stack Developer
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
+- company: workplacenl
+  jobs:
+    current:
+    - link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
+      remote: false
+      title: Full Stack Developer
+    previous: []
 - company: cna
   jobs:
     current:
     - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
-      remote: false
-      title: Instructor - Software Development
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14494&PostingSeq=3
       remote: false
       title: Instructor - Software Development
     previous: []
@@ -16,9 +33,6 @@ jobs:
       remote: true
       title: Sr. Programmer/Analyst
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/568243917/
-      remote: true
-      title: Full Stack Developer
     - link: https://jobs.medaviebc.ca/job/_/566888517/
       remote: true
       title: Sr. Programmer/Analyst
@@ -54,9 +68,6 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R132675
       remote: false
       title: Java Technical Lead
-    - link: https://careers.intactfc.com/ca/en/job/R133745
-      remote: false
-      title: Senior Full Stack Web Developer (Java/React/NodeJS)
 - company: vision33
   jobs:
     current: []
@@ -84,13 +95,6 @@ jobs:
     - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
       remote: false
       title: Junior/Intermediate Firmware Engineer
-- company: fonemed
-  jobs:
-    current: []
-    previous:
-    - link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
-      remote: true
-      title: Back End Software Developer
 - company: bluedrop
   jobs:
     current: []
@@ -206,16 +210,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: otherocean
   jobs:
     current: []
@@ -262,4 +256,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-03-17
+updateDate: 2023-03-23

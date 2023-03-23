@@ -9,9 +9,6 @@
           - title: Instructor - Software Development
             link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
             remote: false
-          - title: Instructor - Software Development
-            link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14494&PostingSeq=3
-            remote: false
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -22,12 +19,7 @@
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
 - company: fonemed
-  jobs:
-    - post_date: 2023-01-20
-      jobs:
-        - title: Back End Software Developer
-          link: https://fonemed.applytojob.com/apply/2QYNWxr1bE/Back-End-Software-Developer
-          remote: true
+  jobs: []
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -100,6 +92,11 @@
   jobs: []
 - company: mariner
   jobs:
+    - post_date: 2023-03-23
+      jobs:
+        - title: Senior Java Full Stack Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: .NET Developer
@@ -133,11 +130,6 @@
       jobs:
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/568608317/
-          remote: true
-    - post_date: 2023-03-02
-      jobs:
-        - title: Full Stack Developer
-          link: https://jobs.medaviebc.ca/job/_/568243917/
           remote: true
     - post_date: 2023-01-20
       jobs:
@@ -240,8 +232,12 @@
           link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
         - title: "Java Technical Lead"
           link: https://careers.intactfc.com/ca/en/job/R132675
-        - title: "Senior Full Stack Web Developer (Java/React/NodeJS)"
-          link: https://careers.intactfc.com/ca/en/job/R133745
+- company: workplacenl
+  jobs:
+    - post_date: 2023-03-23
+      jobs:
+        - title: "Full Stack Developer"
+          link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
 - company: wood
   jobs: []
 - company: pangeo

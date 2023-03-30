@@ -1,11 +1,18 @@
 jobs:
-- company: mariner
+- company: quorum
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=434907
+      remote: false
+      title: Intermediate Developer
+    previous: []
+- company: mariner
+  jobs:
+    current: []
+    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
       remote: true
       title: Senior Java Full Stack Developer
-    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
       title: .NET Developer
@@ -14,25 +21,18 @@ jobs:
       title: Senior Python Developer
 - company: workplacenl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
       remote: false
       title: Full Stack Developer
-    previous: []
-- company: cna
-  jobs:
-    current:
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
-      remote: false
-      title: Instructor - Software Development
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/568608317/
       remote: true
       title: Sr. Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/566888517/
       remote: true
       title: Sr. Programmer/Analyst
@@ -256,4 +256,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-03-23
+updateDate: 2023-03-30

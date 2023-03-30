@@ -3,12 +3,7 @@
 - company: aker
   jobs: []
 - company: cna
-  jobs:
-      - post_date: 2023-03-17
-        jobs:
-          - title: Instructor - Software Development
-            link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
-            remote: false
+  jobs: []
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -81,7 +76,11 @@
           link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
           remote: true
 - company: quorum
-  jobs: []
+  jobs:
+    - post_date: 2023-03-30
+      jobs:
+        - title: Intermediate Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=434907
 - company: enaimco
   jobs: []
 - company: inmarsat

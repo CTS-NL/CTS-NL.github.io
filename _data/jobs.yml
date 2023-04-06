@@ -53,7 +53,12 @@
           link: https://sequencebio.bamboohr.com/careers/47
           remote: true
 - company: siftmed
-  jobs: []
+  jobs:
+    - post_date: 2023-04-06
+      jobs:
+        - title: Senior Full Stack Developer
+          link: https://www.linkedin.com/jobs/view/3547294833
+          remote: true
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -76,11 +81,7 @@
           link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
           remote: true
 - company: quorum
-  jobs:
-    - post_date: 2023-03-30
-      jobs:
-        - title: Intermediate Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=434907
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -91,6 +92,11 @@
   jobs: []
 - company: mariner
   jobs:
+    - post_date: 2023-04-06
+      jobs:
+        - title: AS/400 Mainframe System Analyst
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
+          remote: true
     - post_date: 2023-03-23
       jobs:
         - title: Senior Java Full Stack Developer
@@ -125,16 +131,6 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2023-03-17
-      jobs:
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/568608317/
-          remote: true
-    - post_date: 2023-01-20
-      jobs:
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/566888517/
-          remote: true
     - post_date: 2022-06-10
       jobs:
         - title: Test Automation Architect
@@ -151,12 +147,7 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs:
-    - post_date: 2023-02-10
-      jobs:
-        - title: VP Software Engineering
-          link: https://colabsoftware.applytojobs.ca/development/19173
-          remote: true
+  jobs: []
 - company: kraken
   jobs:
     - post_date: 2023-01-28
@@ -168,11 +159,7 @@
         - title: Junior/Intermediate Firmware Engineer
           link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
 - company: verafin
-  jobs:
-    - post_date: 2021-06-25
-      jobs:
-        - title: Software Developer
-          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+  jobs: []
 - company: rayagency
   jobs: []
 - company: milkmoovement
@@ -190,7 +177,11 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2023-04-06
+      jobs:
+        - title: Database Analyst
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27741
 - company: opasmobile
   jobs:
     - post_date: 2023-01-13
@@ -232,11 +223,7 @@
         - title: "Java Technical Lead"
           link: https://careers.intactfc.com/ca/en/job/R132675
 - company: workplacenl
-  jobs:
-    - post_date: 2023-03-23
-      jobs:
-        - title: "Full Stack Developer"
-          link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
+  jobs: []
 - company: wood
   jobs: []
 - company: pangeo
@@ -257,12 +244,12 @@
           link: https://www.virtualmarine.ca/careers
 - company: vish
   jobs:
-    - post_date: 2022-11-18
+    - post_date: 2023-04-06
       jobs:
-        - title: "Full-Stack Developer"
-          link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
-        - title: "Development Team lead"
-          link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
+        - title: "Senior Functional Developer (Scala)"
+          link: https://getvish.com/about-vish/careers/#1680635740361-b13703b3-811d
+        - title: "Senior Frontend Developer"
+          link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
 - company: vision33
   jobs:
     - post_date: 2023-03-02
@@ -310,8 +297,4 @@
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
 - company: zorbits
-  jobs:
-    - post_date: 2022-11-25
-      jobs:
-        - title: Game Developer
-          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+  jobs: []

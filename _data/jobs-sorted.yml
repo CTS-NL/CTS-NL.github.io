@@ -1,14 +1,17 @@
 jobs:
-- company: quorum
+- company: siftmed
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=434907
-      remote: false
-      title: Intermediate Developer
+    - link: https://www.linkedin.com/jobs/view/3547294833
+      remote: true
+      title: Senior Full Stack Developer
     previous: []
 - company: mariner
   jobs:
-    current: []
+    current:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
+      remote: true
+      title: AS/400 Mainframe System Analyst
     previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
       remote: true
@@ -19,26 +22,23 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: workplacenl
+- company: govnl
   jobs:
-    current: []
-    previous:
-    - link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
+    current:
+    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27741
       remote: false
-      title: Full Stack Developer
-- company: bluecross
+      title: Database Analyst
+    previous: []
+- company: vish
   jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/568608317/
-      remote: true
-      title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/566888517/
-      remote: true
-      title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Test Automation Architect
+    current:
+    - link: https://getvish.com/about-vish/careers/#1680635740361-b13703b3-811d
+      remote: false
+      title: Senior Functional Developer (Scala)
+    - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
+      remote: false
+      title: Senior Frontend Developer
+    previous: []
 - company: radient
   jobs:
     current: []
@@ -78,13 +78,6 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Software Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/development/19173
-      remote: true
-      title: VP Software Engineering
 - company: kraken
   jobs:
     current: []
@@ -160,23 +153,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer - Machine Learning
-- company: zorbits
-  jobs:
-    current: []
-    previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Game Developer
-- company: vish
-  jobs:
-    current: []
-    previous:
-    - link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
-      remote: false
-      title: Full-Stack Developer
-    - link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
-      remote: false
-      title: Development Team lead
 - company: inspectar
   jobs:
     current: []
@@ -210,6 +186,13 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Test Automation Architect
 - company: otherocean
   jobs:
     current: []
@@ -231,13 +214,6 @@ jobs:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
-      remote: false
-      title: Software Developer
 - company: avalonholo
   jobs:
     current: []
@@ -256,4 +232,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-03-30
+updateDate: 2023-04-06

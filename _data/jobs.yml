@@ -14,7 +14,12 @@
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
 - company: fonemed
-  jobs: []
+  jobs:
+    - post_date: 2023-04-13
+      jobs:
+        - title: Quality Assurance Analyst
+          link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
+          remote: true
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -153,11 +158,11 @@
     - post_date: 2023-01-28
       jobs:
         - title: Software Developers
-          link: https://jobs.careerbeacon.com/details/software-developers/1876443
+          link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
     - post_date: 2022-12-16
       jobs:
-        - title: Junior/Intermediate Firmware Engineer
-          link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
+        - title: Firmware Engineer
+          link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
   jobs: []
 - company: rayagency
@@ -190,6 +195,12 @@
           link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
         - title: Junior/Intermediate React Native Developer
           link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
+- company: instrumar
+  jobs:
+    - post_date: 2023-04-13
+      jobs:
+        - title: Full Stack Developer
+          link: https://technl.ca/job/full-stack-developer-2/
 - company: inspectar
   jobs:
     - post_date: 2022-09-23
@@ -263,12 +274,7 @@
 - company: breathesuite
   jobs: []
 - company: rally
-  jobs:
-    - post_date: 2022-01-14
-      jobs:
-        - title: "Full-Stack Engineer"
-          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-          remote: true
+  jobs: []
 - company: bluedrop
   jobs:
     -

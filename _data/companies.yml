@@ -189,6 +189,10 @@ inspectar:
   name: Inspectar
   url: https://www.inspectar.com/
   local: true
+instrumar:
+  name: Instrumar Limited
+  url: https://www.instrumar.com/
+  local: true
 infotech:
   name: Infotech
   url: http://www.infotechsolutions.com/

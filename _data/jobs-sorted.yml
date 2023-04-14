@@ -1,18 +1,32 @@
 jobs:
-- company: siftmed
+- company: fonemed
   jobs:
     current:
+    - link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
+      remote: true
+      title: Quality Assurance Analyst
+    previous: []
+- company: instrumar
+  jobs:
+    current:
+    - link: https://technl.ca/job/full-stack-developer-2/
+      remote: false
+      title: Full Stack Developer
+    previous: []
+- company: siftmed
+  jobs:
+    current: []
+    previous:
     - link: https://www.linkedin.com/jobs/view/3547294833
       remote: true
       title: Senior Full Stack Developer
-    previous: []
 - company: mariner
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
       remote: true
       title: AS/400 Mainframe System Analyst
-    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
       remote: true
       title: Senior Java Full Stack Developer
@@ -24,21 +38,21 @@ jobs:
       title: Senior Python Developer
 - company: govnl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27741
       remote: false
       title: Database Analyst
-    previous: []
 - company: vish
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://getvish.com/about-vish/careers/#1680635740361-b13703b3-811d
       remote: false
       title: Senior Functional Developer (Scala)
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
-    previous: []
 - company: radient
   jobs:
     current: []
@@ -82,12 +96,12 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://jobs.careerbeacon.com/details/software-developers/1876443
+    - link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
       remote: false
       title: Software Developers
-    - link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
+    - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
       remote: false
-      title: Junior/Intermediate Firmware Engineer
+      title: Firmware Engineer
 - company: bluedrop
   jobs:
     current: []
@@ -200,13 +214,6 @@ jobs:
     - link: https://otherocean.com/jobs/Senior_Programmer.pdf
       remote: true
       title: Senior Programmer
-- company: rally
-  jobs:
-    current: []
-    previous:
-    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-      remote: true
-      title: Full-Stack Engineer
 - company: compusult
   jobs:
     current: []
@@ -232,4 +239,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-04-06
+updateDate: 2023-04-13

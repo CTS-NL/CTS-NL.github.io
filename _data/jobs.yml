@@ -51,19 +51,11 @@
         - title: Web Application Developer
           link: https://sequencebio.bamboohr.com/careers/46
           remote: true
-        - title: Salesforce Developer
-          link: https://sequencebio.bamboohr.com/careers/50
-          remote: true
         - title: Experienced AWS Infrastructure Engineer
           link: https://sequencebio.bamboohr.com/careers/47
           remote: true
 - company: siftmed
-  jobs:
-    - post_date: 2023-04-06
-      jobs:
-        - title: Senior Full Stack Developer
-          link: https://www.linkedin.com/jobs/view/3547294833
-          remote: true
+  jobs: []
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -79,14 +71,14 @@
 - company: triware
   jobs: []
 - company: radient
-  jobs:
-    - post_date: 2023-03-02
-      jobs:
-        - title: Software Quality Assurance Specialist
-          link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
-          remote: true
-- company: quorum
   jobs: []
+- company: quorum
+  jobs:
+    - post_date: 2023-04-27
+      jobs:
+        - title: Senior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=437810
+          remote: true
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -164,29 +156,31 @@
         - title: Firmware Engineer
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
-  jobs: []
+  jobs:
+    - post_date: 2023-04-27
+      jobs:
+        - title: "Quality Assurance Analyst"
+          link: "https://jobs.lever.co/verafin/3bc138b5-23da-4551-a320-d504b267d9ef"
+          remote: true
+        - title: "Front-End Software Engineer"
+          link: "https://jobs.lever.co/verafin/ad6036fd-40d6-41b5-8939-3328f707d44f"
+          remote: true
+        - title: "Back-End Software Engineer"
+          link: "https://jobs.lever.co/verafin/a73a0198-4803-4904-8f36-3eaccad1a38a"
+          remote: true
 - company: rayagency
   jobs: []
 - company: milkmoovement
   jobs:
-    - post_date: 2022-12-02
+    - post_date: 2023-04-27
       jobs:
-        - title: "Senior Full Stack Developer"
-          link: "https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2"
-          remote: true
-    - post_date: 2022-02-18
-      jobs:
-        - title: "Full Stack Developer III"
-          link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
+        - title: "Mobile Developer II"
+          link: "https://jobs.lever.co/milk-moovement/ac085e0d-2dda-4064-9ab7-2533f4560711"
           remote: true
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-    - post_date: 2023-04-06
-      jobs:
-        - title: Database Analyst
-          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27741
+  jobs: []
 - company: opasmobile
   jobs:
     - post_date: 2023-01-13
@@ -221,18 +215,10 @@
       jobs:
         - title: "Backend Java Developer (Senior/Intermediate)"
           link: https://careers.intactfc.com/ca/en/job/R132664
-        - title: "Senior Salesforce Developer"
-          link: https://careers.intactfc.com/ca/en/job/R130564
         - title: "Manager, Software Development"
           link: https://careers.intactfc.com/ca/en/job/R130696
         - title: "Android Developer (Senior/Specialist/Tech Lead)"
           link: https://careers.intactfc.com/ca/en/job/R132677
-    - post_date: 2023-02-17
-      jobs:
-        - title: "iOS Developer (Senior/Specialist/Tech Lead)"
-          link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
-        - title: "Java Technical Lead"
-          link: https://careers.intactfc.com/ca/en/job/R132675
 - company: workplacenl
   jobs: []
 - company: wood
@@ -276,12 +262,7 @@
 - company: rally
   jobs: []
 - company: bluedrop
-  jobs:
-    -
-      post_date: 2023-01-20
-      jobs:
-        - title: Intermediate DevOps Engineer
-          link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
+  jobs: []
 - company: avalonholo
   jobs:
     - post_date: 2021-06-25
@@ -303,4 +284,8 @@
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
 - company: zorbits
-  jobs: []
+  jobs:
+    - post_date: 2023-04-27
+      jobs:
+        - title: "Junior Back End Web Developer"
+          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"

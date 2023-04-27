@@ -1,25 +1,52 @@
 jobs:
-- company: fonemed
+- company: quorum
   jobs:
     current:
-    - link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=437810
+      remote: true
+      title: Senior Developer
+    previous: []
+- company: verafin
+  jobs:
+    current:
+    - link: https://jobs.lever.co/verafin/3bc138b5-23da-4551-a320-d504b267d9ef
       remote: true
       title: Quality Assurance Analyst
+    - link: https://jobs.lever.co/verafin/ad6036fd-40d6-41b5-8939-3328f707d44f
+      remote: true
+      title: Front-End Software Engineer
+    - link: https://jobs.lever.co/verafin/a73a0198-4803-4904-8f36-3eaccad1a38a
+      remote: true
+      title: Back-End Software Engineer
     previous: []
-- company: instrumar
+- company: milkmoovement
   jobs:
     current:
-    - link: https://technl.ca/job/full-stack-developer-2/
-      remote: false
-      title: Full Stack Developer
+    - link: https://jobs.lever.co/milk-moovement/ac085e0d-2dda-4064-9ab7-2533f4560711
+      remote: true
+      title: Mobile Developer II
     previous: []
-- company: siftmed
+- company: zorbits
+  jobs:
+    current:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: Junior Back End Web Developer
+    previous: []
+- company: fonemed
   jobs:
     current: []
     previous:
-    - link: https://www.linkedin.com/jobs/view/3547294833
+    - link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
       remote: true
-      title: Senior Full Stack Developer
+      title: Quality Assurance Analyst
+- company: instrumar
+  jobs:
+    current: []
+    previous:
+    - link: https://technl.ca/job/full-stack-developer-2/
+      remote: false
+      title: Full Stack Developer
 - company: mariner
   jobs:
     current: []
@@ -36,13 +63,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/27741
-      remote: false
-      title: Database Analyst
 - company: vish
   jobs:
     current: []
@@ -53,13 +73,6 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
-- company: radient
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
-      remote: true
-      title: Software Quality Assurance Specialist
 - company: intactlab
   jobs:
     current: []
@@ -67,21 +80,12 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R132664
       remote: false
       title: Backend Java Developer (Senior/Intermediate)
-    - link: https://careers.intactfc.com/ca/en/job/R130564
-      remote: false
-      title: Senior Salesforce Developer
     - link: https://careers.intactfc.com/ca/en/job/R130696
       remote: false
       title: Manager, Software Development
     - link: https://careers.intactfc.com/ca/en/job/R132677
       remote: false
       title: Android Developer (Senior/Specialist/Tech Lead)
-    - link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
-      remote: false
-      title: iOS Developer (Senior/Specialist/Tech Lead)
-    - link: https://careers.intactfc.com/ca/en/job/R132675
-      remote: false
-      title: Java Technical Lead
 - company: vision33
   jobs:
     current: []
@@ -102,13 +106,6 @@ jobs:
     - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
       remote: false
       title: Firmware Engineer
-- company: bluedrop
-  jobs:
-    current: []
-    previous:
-    - link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
-      remote: false
-      title: Intermediate DevOps Engineer
 - company: opasmobile
   jobs:
     current: []
@@ -138,22 +135,9 @@ jobs:
     - link: https://sequencebio.bamboohr.com/careers/46
       remote: true
       title: Web Application Developer
-    - link: https://sequencebio.bamboohr.com/careers/50
-      remote: true
-      title: Salesforce Developer
     - link: https://sequencebio.bamboohr.com/careers/47
       remote: true
       title: Experienced AWS Infrastructure Engineer
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2
-      remote: true
-      title: Senior Full Stack Developer
-    - link: https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84
-      remote: true
-      title: Full Stack Developer III
 - company: vmt
   jobs:
     current: []
@@ -239,4 +223,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-04-13
+updateDate: 2023-04-27

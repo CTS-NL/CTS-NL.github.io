@@ -159,18 +159,7 @@
         - title: Firmware Engineer
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
-  jobs:
-    - post_date: 2023-04-27
-      jobs:
-        - title: "Quality Assurance Analyst"
-          link: "https://jobs.lever.co/verafin/3bc138b5-23da-4551-a320-d504b267d9ef"
-          remote: true
-        - title: "Front-End Software Engineer"
-          link: "https://jobs.lever.co/verafin/ad6036fd-40d6-41b5-8939-3328f707d44f"
-          remote: true
-        - title: "Back-End Software Engineer"
-          link: "https://jobs.lever.co/verafin/a73a0198-4803-4904-8f36-3eaccad1a38a"
-          remote: true
+  jobs: []
 - company: rayagency
   jobs: []
 - company: milkmoovement

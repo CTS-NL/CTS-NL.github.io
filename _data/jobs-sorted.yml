@@ -1,14 +1,44 @@
 jobs:
-- company: quorum
+- company: atlanticlottery
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=437810
+    - link: https://www.careerbeacon.com/en/job/1899173/atlantic-lottery/rpa-developer-remote-hybrid-or-office
       remote: true
-      title: Senior Developer
+      title: Robotics Process Automation Developer
     previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/570252117/
+      remote: true
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/570307417/
+      remote: true
+      title: Software Architect
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/559366117/
+      remote: true
+      title: Test Automation Architect
+- company: intactlab
+  jobs:
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R132678
+      remote: false
+      title: Senior iOS Developer
+    previous:
+    - link: https://careers.intactfc.com/ca/en/job/R132664
+      remote: false
+      title: Backend Java Developer (Senior/Intermediate)
+    - link: https://careers.intactfc.com/ca/en/job/R130696
+      remote: false
+      title: Manager, Software Development
+    - link: https://careers.intactfc.com/ca/en/job/R132677
+      remote: false
+      title: Android Developer (Senior/Specialist/Tech Lead)
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/3bc138b5-23da-4551-a320-d504b267d9ef
       remote: true
       title: Quality Assurance Analyst
@@ -18,21 +48,20 @@ jobs:
     - link: https://jobs.lever.co/verafin/a73a0198-4803-4904-8f36-3eaccad1a38a
       remote: true
       title: Back-End Software Engineer
-    previous: []
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/ac085e0d-2dda-4064-9ab7-2533f4560711
       remote: true
       title: Mobile Developer II
-    previous: []
 - company: zorbits
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Junior Back End Web Developer
-    previous: []
 - company: fonemed
   jobs:
     current: []
@@ -40,13 +69,6 @@ jobs:
     - link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
       remote: true
       title: Quality Assurance Analyst
-- company: instrumar
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/full-stack-developer-2/
-      remote: false
-      title: Full Stack Developer
 - company: mariner
   jobs:
     current: []
@@ -54,9 +76,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
       remote: true
       title: AS/400 Mainframe System Analyst
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
-      remote: true
-      title: Senior Java Full Stack Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
       title: .NET Developer
@@ -73,29 +92,6 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
-- company: intactlab
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.intactfc.com/ca/en/job/R132664
-      remote: false
-      title: Backend Java Developer (Senior/Intermediate)
-    - link: https://careers.intactfc.com/ca/en/job/R130696
-      remote: false
-      title: Manager, Software Development
-    - link: https://careers.intactfc.com/ca/en/job/R132677
-      remote: false
-      title: Android Developer (Senior/Specialist/Tech Lead)
-- company: vision33
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
-      remote: false
-      title: Developer
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
-      remote: false
-      title: Software Developer
 - company: kraken
   jobs:
     current: []
@@ -151,6 +147,13 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer - Machine Learning
+- company: vision33
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
+      remote: false
+      title: Software Developer
 - company: inspectar
   jobs:
     current: []
@@ -184,13 +187,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/559366117/
-      remote: true
-      title: Test Automation Architect
 - company: otherocean
   jobs:
     current: []
@@ -223,4 +219,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-04-27
+updateDate: 2023-05-19

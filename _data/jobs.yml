@@ -1,5 +1,10 @@
 - company: atlanticlottery
-  jobs: []
+  jobs:
+    - post_date: 2023-05-19
+      jobs:
+        - title: Robotics Process Automation Developer
+          link: https://www.careerbeacon.com/en/job/1899173/atlantic-lottery/rpa-developer-remote-hybrid-or-office
+          remote: true
 - company: aker
   jobs: []
 - company: cna
@@ -73,12 +78,7 @@
 - company: radient
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2023-04-27
-      jobs:
-        - title: Senior Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=437810
-          remote: true
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -93,11 +93,6 @@
       jobs:
         - title: AS/400 Mainframe System Analyst
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
-          remote: true
-    - post_date: 2023-03-23
-      jobs:
-        - title: Senior Java Full Stack Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
           remote: true
     - post_date: 2022-06-24
       jobs:
@@ -128,6 +123,14 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-05-19
+      jobs:
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/570252117/
+          remote: true
+        - title: Software Architect
+          link: https://jobs.medaviebc.ca/job/_/570307417/
+          remote: true
     - post_date: 2022-06-10
       jobs:
         - title: Test Automation Architect
@@ -190,11 +193,7 @@
         - title: Junior/Intermediate React Native Developer
           link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
 - company: instrumar
-  jobs:
-    - post_date: 2023-04-13
-      jobs:
-        - title: Full Stack Developer
-          link: https://technl.ca/job/full-stack-developer-2/
+  jobs: []
 - company: inspectar
   jobs:
     - post_date: 2022-09-23
@@ -211,6 +210,10 @@
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: intactlab
   jobs:
+    - post_date: 2023-05-19
+      jobs:
+        - title: "Senior iOS Developer"
+          link: https://careers.intactfc.com/ca/en/job/R132678
     - post_date: 2023-03-02
       jobs:
         - title: "Backend Java Developer (Senior/Intermediate)"
@@ -249,10 +252,6 @@
           link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
 - company: vision33
   jobs:
-    - post_date: 2023-03-02
-      jobs:
-        - title: Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
     - post_date: 2022-11-04
       jobs:
         - title: Software Developer

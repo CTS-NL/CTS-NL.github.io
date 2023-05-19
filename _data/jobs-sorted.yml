@@ -35,19 +35,6 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R132677
       remote: false
       title: Android Developer (Senior/Specialist/Tech Lead)
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/3bc138b5-23da-4551-a320-d504b267d9ef
-      remote: true
-      title: Quality Assurance Analyst
-    - link: https://jobs.lever.co/verafin/ad6036fd-40d6-41b5-8939-3328f707d44f
-      remote: true
-      title: Front-End Software Engineer
-    - link: https://jobs.lever.co/verafin/a73a0198-4803-4904-8f36-3eaccad1a38a
-      remote: true
-      title: Back-End Software Engineer
 - company: milkmoovement
   jobs:
     current: []

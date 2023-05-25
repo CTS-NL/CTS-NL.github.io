@@ -7,8 +7,14 @@
           remote: true
 - company: aker
   jobs: []
-- company: cna
+- company: clearrisk
   jobs: []
+- company: cna
+  jobs:
+    - post_date: 2023-05-25
+      jobs:
+       - title: Instructor - Software Developer
+         link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2"
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -163,12 +169,7 @@
 - company: rayagency
   jobs: []
 - company: milkmoovement
-  jobs:
-    - post_date: 2023-04-27
-      jobs:
-        - title: "Mobile Developer II"
-          link: "https://jobs.lever.co/milk-moovement/ac085e0d-2dda-4064-9ab7-2533f4560711"
-          remote: true
+  jobs: []
 - company: nlhydro
   jobs: []
 - company: govnl
@@ -209,8 +210,6 @@
           link: https://careers.intactfc.com/ca/en/job/R132664
         - title: "Manager, Software Development"
           link: https://careers.intactfc.com/ca/en/job/R130696
-        - title: "Android Developer (Senior/Specialist/Tech Lead)"
-          link: https://careers.intactfc.com/ca/en/job/R132677
 - company: workplacenl
   jobs: []
 - company: wood
@@ -273,6 +272,10 @@
           link: "https://ioass.com/careers-1"
 - company: zorbits
   jobs:
+    - post_date: 2023-05-25
+      jobs:
+        - title: "Front End Web Developer"
+          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89615&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"
     - post_date: 2023-04-27
       jobs:
         - title: "Junior Back End Web Developer"

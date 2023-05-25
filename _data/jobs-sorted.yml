@@ -18,31 +18,31 @@ jobs:
       title: Junior Back End Web Developer
 - company: atlanticlottery
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.careerbeacon.com/en/job/1899173/atlantic-lottery/rpa-developer-remote-hybrid-or-office
       remote: true
       title: Robotics Process Automation Developer
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/570252117/
       remote: true
       title: Sr. Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/570307417/
       remote: true
       title: Software Architect
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132678
       remote: false
       title: Senior iOS Developer
-    previous:
     - link: https://careers.intactfc.com/ca/en/job/R132664
       remote: false
       title: Backend Java Developer (Senior/Intermediate)

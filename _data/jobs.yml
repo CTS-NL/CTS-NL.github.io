@@ -1,10 +1,5 @@
 - company: atlanticlottery
-  jobs:
-    - post_date: 2023-05-18
-      jobs:
-        - title: Robotics Process Automation Developer
-          link: https://www.careerbeacon.com/en/job/1899173/atlantic-lottery/rpa-developer-remote-hybrid-or-office
-          remote: true
+  jobs: []
 - company: aker
   jobs: []
 - company: clearrisk
@@ -25,12 +20,7 @@
           link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
           remote: true
 - company: fonemed
-  jobs:
-    - post_date: 2023-04-13
-      jobs:
-        - title: Quality Assurance Analyst
-          link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
-          remote: true
+  jobs: []
 - company: nlchi
   jobs: []
 - company: reportmate
@@ -169,7 +159,11 @@
 - company: rayagency
   jobs: []
 - company: milkmoovement
-  jobs: []
+  jobs:
+    - post_date: 2023-06-01
+      jobs:
+        - title: Full Stack Developer II
+          link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
 - company: nlhydro
   jobs: []
 - company: govnl
@@ -206,12 +200,14 @@
           link: https://careers.intactfc.com/ca/en/job/R132678
     - post_date: 2023-03-02
       jobs:
-        - title: "Backend Java Developer (Senior/Intermediate)"
-          link: https://careers.intactfc.com/ca/en/job/R132664
         - title: "Manager, Software Development"
           link: https://careers.intactfc.com/ca/en/job/R130696
 - company: workplacenl
-  jobs: []
+  jobs:
+    - post_date: 2023-06-01
+      jobs:
+        - title: "Full Stack Developer"
+          link: https://www.careerbeacon.com/en/job/1901593/workplacenl/full-stack-developer/st-john-s
 - company: wood
   jobs: []
 - company: pangeo
@@ -247,7 +243,11 @@
 - company: breathesuite
   jobs: []
 - company: rally
-  jobs: []
+  jobs:
+    - post_date: 2023-06-01
+      jobs:
+        - title: Full-Stack Engineer
+          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
 - company: bluedrop
   jobs: []
 - company: avalonholo

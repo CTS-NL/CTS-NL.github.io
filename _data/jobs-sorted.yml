@@ -1,28 +1,42 @@
 jobs:
-- company: cna
+- company: milkmoovement
   jobs:
     current:
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2
+    - link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
       remote: false
-      title: Instructor - Software Developer
+      title: Full Stack Developer II
     previous: []
-- company: zorbits
+- company: workplacenl
   jobs:
     current:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89615&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+    - link: https://www.careerbeacon.com/en/job/1901593/workplacenl/full-stack-developer/st-john-s
       remote: false
-      title: Front End Web Developer
-    previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      title: Full Stack Developer
+    previous: []
+- company: rally
+  jobs:
+    current:
+    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
-      title: Junior Back End Web Developer
-- company: atlanticlottery
+      title: Full-Stack Engineer
+    previous: []
+- company: cna
   jobs:
     current: []
     previous:
-    - link: https://www.careerbeacon.com/en/job/1899173/atlantic-lottery/rpa-developer-remote-hybrid-or-office
-      remote: true
-      title: Robotics Process Automation Developer
+    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2
+      remote: false
+      title: Instructor - Software Developer
+- company: zorbits
+  jobs:
+    current: []
+    previous:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89615&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: Front End Web Developer
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: Junior Back End Web Developer
 - company: bluecross
   jobs:
     current: []
@@ -43,19 +57,9 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R132678
       remote: false
       title: Senior iOS Developer
-    - link: https://careers.intactfc.com/ca/en/job/R132664
-      remote: false
-      title: Backend Java Developer (Senior/Intermediate)
     - link: https://careers.intactfc.com/ca/en/job/R130696
       remote: false
       title: Manager, Software Development
-- company: fonemed
-  jobs:
-    current: []
-    previous:
-    - link: https://fonemed.applytojob.com/apply/redo4NN4Jy/Quality-Assurance-Analyst
-      remote: true
-      title: Quality Assurance Analyst
 - company: mariner
   jobs:
     current: []
@@ -206,4 +210,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-05-25
+updateDate: 2023-06-01

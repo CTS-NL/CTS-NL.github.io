@@ -2,6 +2,14 @@
   jobs: []
 - company: aker
   jobs: []
+- company: cbs
+  jobs:
+    - post_date: 2023-06-08
+      jobs:
+        - title: Software Developer II
+          link: https://careers.blood.ca/job/_/570969917/
+        - title: Software Developer III
+          link: https://careers.blood.ca/job/_/570968417/
 - company: clearrisk
   jobs: []
 - company: cna
@@ -121,9 +129,6 @@
   jobs:
     - post_date: 2023-05-18
       jobs:
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/570252117/
-          remote: true
         - title: Software Architect
           link: https://jobs.medaviebc.ca/job/_/570307417/
           remote: true
@@ -203,11 +208,7 @@
         - title: "Manager, Software Development"
           link: https://careers.intactfc.com/ca/en/job/R130696
 - company: workplacenl
-  jobs:
-    - post_date: 2023-06-01
-      jobs:
-        - title: "Full Stack Developer"
-          link: https://www.careerbeacon.com/en/job/1901593/workplacenl/full-stack-developer/st-john-s
+  jobs: []
 - company: wood
   jobs: []
 - company: pangeo

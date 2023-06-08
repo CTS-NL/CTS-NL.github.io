@@ -1,25 +1,28 @@
 jobs:
-- company: milkmoovement
+- company: cbs
   jobs:
     current:
+    - link: https://careers.blood.ca/job/_/570969917/
+      remote: false
+      title: Software Developer II
+    - link: https://careers.blood.ca/job/_/570968417/
+      remote: false
+      title: Software Developer III
+    previous: []
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
       remote: false
       title: Full Stack Developer II
-    previous: []
-- company: workplacenl
-  jobs:
-    current:
-    - link: https://www.careerbeacon.com/en/job/1901593/workplacenl/full-stack-developer/st-john-s
-      remote: false
-      title: Full Stack Developer
-    previous: []
 - company: rally
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-    previous: []
 - company: cna
   jobs:
     current: []
@@ -41,9 +44,6 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/570252117/
-      remote: true
-      title: Sr. Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/570307417/
       remote: true
       title: Software Architect
@@ -210,4 +210,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-06-01
+updateDate: 2023-06-08

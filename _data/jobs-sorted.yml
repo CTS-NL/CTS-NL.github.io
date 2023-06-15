@@ -1,14 +1,54 @@
 jobs:
-- company: cbs
+- company: trophiai
   jobs:
     current:
-    - link: https://careers.blood.ca/job/_/570969917/
+    - link: https://trophiai.bamboohr.com/careers/23
       remote: false
-      title: Software Developer II
+      title: Software Engineer - Mathematics Focus
+    - link: https://trophiai.bamboohr.com/careers/35
+      remote: false
+      title: Software Developer (Jr./Mid/Sr.)
+    - link: https://trophiai.bamboohr.com/careers/40
+      remote: false
+      title: UX/UI Designer
+    - link: https://trophiai.bamboohr.com/careers/37
+      remote: false
+      title: Quality Assurance (QA) Tester - Gaming
+    - link: https://trophiai.bamboohr.com/careers/31
+      remote: false
+      title: Game Developer (Jr./Mid/Sr.)
+    - link: https://trophiai.bamboohr.com/careers/24
+      remote: false
+      title: Data Scientist
+    previous: []
+- company: mun
+  jobs:
+    current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4221
+      remote: false
+      title: Web Programmer
+    previous: []
+- company: telus
+  jobs:
+    current:
+    - link: https://careers.telus.com/job/_/571293017/
+      remote: false
+      title: Manager - Mobile Software Development
+    previous: []
+- company: acenet
+  jobs:
+    current: []
+    previous:
+    - link: https://www.careerbeacon.com/en/job/1904571
+      remote: false
+      title: Cybersecurity Analyst
+- company: cbs
+  jobs:
+    current: []
+    previous:
     - link: https://careers.blood.ca/job/_/570968417/
       remote: false
       title: Software Developer III
-    previous: []
 - company: milkmoovement
   jobs:
     current: []
@@ -27,6 +67,9 @@ jobs:
   jobs:
     current: []
     previous:
+    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14830&PostingSeq=2
+      remote: false
+      title: Instructor - Software Developer
     - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2
       remote: false
       title: Instructor - Software Developer
@@ -50,16 +93,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/559366117/
       remote: true
       title: Test Automation Architect
-- company: intactlab
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.intactfc.com/ca/en/job/R132678
-      remote: false
-      title: Senior iOS Developer
-    - link: https://careers.intactfc.com/ca/en/job/R130696
-      remote: false
-      title: Manager, Software Development
 - company: mariner
   jobs:
     current: []
@@ -83,6 +116,13 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
+- company: intactlab
+  jobs:
+    current: []
+    previous:
+    - link: https://careers.intactfc.com/ca/en/job/R130696
+      remote: false
+      title: Manager, Software Development
 - company: kraken
   jobs:
     current: []
@@ -210,4 +250,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-06-08
+updateDate: 2023-06-15

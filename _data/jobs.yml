@@ -1,3 +1,9 @@
+- company: acenet
+  jobs:
+    - post_date: 2023-06-08
+      jobs:
+        - title: Cybersecurity Analyst
+          link: https://www.careerbeacon.com/en/job/1904571
 - company: atlanticlottery
   jobs: []
 - company: aker
@@ -6,14 +12,16 @@
   jobs:
     - post_date: 2023-06-08
       jobs:
-        - title: Software Developer II
-          link: https://careers.blood.ca/job/_/570969917/
         - title: Software Developer III
           link: https://careers.blood.ca/job/_/570968417/
 - company: clearrisk
   jobs: []
 - company: cna
   jobs:
+    - post_date: 2023-05-25
+      jobs:
+       - title: Instructor - Software Developer
+         link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14830&PostingSeq=2"
     - post_date: 2023-05-25
       jobs:
        - title: Instructor - Software Developer
@@ -31,6 +39,22 @@
   jobs: []
 - company: nlchi
   jobs: []
+- company: trophiai
+  jobs:
+    - post_date: 2023-06-15
+      jobs:
+        - title: Software Engineer - Mathematics Focus
+          link: https://trophiai.bamboohr.com/careers/23
+        - title: Software Developer (Jr./Mid/Sr.)
+          link: https://trophiai.bamboohr.com/careers/35
+        - title: UX/UI Designer
+          link: https://trophiai.bamboohr.com/careers/40
+        - title: Quality Assurance (QA) Tester - Gaming
+          link: https://trophiai.bamboohr.com/careers/37
+        - title: Game Developer (Jr./Mid/Sr.)
+          link: https://trophiai.bamboohr.com/careers/31
+        - title: Data Scientist
+          link: https://trophiai.bamboohr.com/careers/24
 - company: reportmate
   jobs: []
 - company: rutter
@@ -115,7 +139,11 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2023-06-15
+      jobs:
+        - title: Web Programmer
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4221
 - company: ccore
   jobs: []
 - company: otherocean
@@ -199,10 +227,6 @@
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: intactlab
   jobs:
-    - post_date: 2023-05-18
-      jobs:
-        - title: "Senior iOS Developer"
-          link: https://careers.intactfc.com/ca/en/job/R132678
     - post_date: 2023-03-02
       jobs:
         - title: "Manager, Software Development"
@@ -262,7 +286,11 @@
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
 - company: telus
-  jobs: []
+  jobs:
+    - post_date: 2023-06-15
+      jobs:
+        - title: "Manager - Mobile Software Development"
+          link: "https://careers.telus.com/job/_/571293017/"
 - company: target
   jobs: []
 - company: ioa

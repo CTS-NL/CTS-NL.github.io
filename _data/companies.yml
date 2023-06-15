@@ -430,6 +430,10 @@ tatasteel:
   name: Tata Steel
   url: http://www.tatasteelcanada.com/
   canadian: true
+trophiai:
+  name: Trophi AI
+  url: https://www.trophi.ai/
+  local: true
 # Thermo Fisher Scientific is from the Netherlands not Newfoundland
 telus:
   name: Telus

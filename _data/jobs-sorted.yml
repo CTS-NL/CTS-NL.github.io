@@ -1,40 +1,44 @@
 jobs:
-- company: trophiai
-  jobs:
-    current:
-    - link: https://trophiai.bamboohr.com/careers/23
-      remote: false
-      title: Software Engineer - Mathematics Focus
-    - link: https://trophiai.bamboohr.com/careers/35
-      remote: false
-      title: Software Developer (Jr./Mid/Sr.)
-    - link: https://trophiai.bamboohr.com/careers/40
-      remote: false
-      title: UX/UI Designer
-    - link: https://trophiai.bamboohr.com/careers/37
-      remote: false
-      title: Quality Assurance (QA) Tester - Gaming
-    - link: https://trophiai.bamboohr.com/careers/31
-      remote: false
-      title: Game Developer (Jr./Mid/Sr.)
-    - link: https://trophiai.bamboohr.com/careers/24
-      remote: false
-      title: Data Scientist
-    previous: []
 - company: mun
   jobs:
     current:
     - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4221
       remote: false
       title: Web Programmer
-    previous: []
-- company: telus
+    previous:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4221
+      remote: false
+      title: Web Programmer
+- company: milkmoovement
   jobs:
     current:
+    - link: https://jobs.lever.co/milk-moovement/1e9055af-7bc8-4285-9026-7daf5bf7410c
+      remote: false
+      title: Data Engineer
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
+      remote: false
+      title: Full Stack Developer II
+- company: trophiai
+  jobs:
+    current: []
+    previous:
+    - link: https://trophiai.bamboohr.com/careers/35
+      remote: false
+      title: Software Developer (Jr./Mid/Sr.)
+    - link: https://trophiai.bamboohr.com/careers/40
+      remote: false
+      title: UX/UI Designer
+    - link: https://trophiai.bamboohr.com/careers/31
+      remote: false
+      title: Game Developer (Jr./Mid/Sr.)
+- company: telus
+  jobs:
+    current: []
+    previous:
     - link: https://careers.telus.com/job/_/571293017/
       remote: false
       title: Manager - Mobile Software Development
-    previous: []
 - company: acenet
   jobs:
     current: []
@@ -42,37 +46,13 @@ jobs:
     - link: https://www.careerbeacon.com/en/job/1904571
       remote: false
       title: Cybersecurity Analyst
-- company: cbs
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.blood.ca/job/_/570968417/
-      remote: false
-      title: Software Developer III
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
-      remote: false
-      title: Full Stack Developer II
-- company: rally
+- company: spellbook
   jobs:
     current: []
     previous:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: cna
-  jobs:
-    current: []
-    previous:
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14830&PostingSeq=2
-      remote: false
-      title: Instructor - Software Developer
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2
-      remote: false
-      title: Instructor - Software Developer
 - company: zorbits
   jobs:
     current: []
@@ -250,4 +230,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-06-15
+updateDate: 2023-06-22

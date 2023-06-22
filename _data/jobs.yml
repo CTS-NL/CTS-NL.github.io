@@ -9,23 +9,11 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs:
-    - post_date: 2023-06-08
-      jobs:
-        - title: Software Developer III
-          link: https://careers.blood.ca/job/_/570968417/
+  jobs: []
 - company: clearrisk
   jobs: []
 - company: cna
-  jobs:
-    - post_date: 2023-05-25
-      jobs:
-       - title: Instructor - Software Developer
-         link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14830&PostingSeq=2"
-    - post_date: 2023-05-25
-      jobs:
-       - title: Instructor - Software Developer
-         link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14702&PostingSeq=2"
+  jobs: []
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -43,18 +31,12 @@
   jobs:
     - post_date: 2023-06-15
       jobs:
-        - title: Software Engineer - Mathematics Focus
-          link: https://trophiai.bamboohr.com/careers/23
         - title: Software Developer (Jr./Mid/Sr.)
           link: https://trophiai.bamboohr.com/careers/35
         - title: UX/UI Designer
           link: https://trophiai.bamboohr.com/careers/40
-        - title: Quality Assurance (QA) Tester - Gaming
-          link: https://trophiai.bamboohr.com/careers/37
         - title: Game Developer (Jr./Mid/Sr.)
           link: https://trophiai.bamboohr.com/careers/31
-        - title: Data Scientist
-          link: https://trophiai.bamboohr.com/careers/24
 - company: reportmate
   jobs: []
 - company: rutter
@@ -193,6 +175,10 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2023-06-22
+      jobs:
+        - title: Data Engineer
+          link: https://jobs.lever.co/milk-moovement/1e9055af-7bc8-4285-9026-7daf5bf7410c
     - post_date: 2023-06-01
       jobs:
         - title: Full Stack Developer II
@@ -267,7 +253,7 @@
           link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
 - company: breathesuite
   jobs: []
-- company: rally
+- company: spellbook
   jobs:
     - post_date: 2023-06-01
       jobs:

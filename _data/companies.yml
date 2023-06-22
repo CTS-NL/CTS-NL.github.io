@@ -382,6 +382,10 @@ rutter:
   name: Rutter
   url: http://www.rutter.ca/
   local: true
+spellbook:
+  name: Spellbook
+  url: https://www.spellbook.legal/
+  local: true
 scirs:
   name: SCI Resource Software
   url: https://scirs.ca/

@@ -9,7 +9,11 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs: []
+  jobs:
+    - post_date: 2023-06-29
+      jobs:
+        - title: Software Developer III
+          link: https://careers.blood.ca/job/_/570968417/
 - company: clearrisk
   jobs: []
 - company: cna
@@ -46,28 +50,10 @@
 - company: sequencebio
   jobs:
     -
-      post_date: 2022-12-02
-      jobs:
-        - title: Bioinformatician
-          link: https://sequencebio.bamboohr.com/careers/54
-          remote: true
-        - title: Computational Biologist
-          link: https://sequencebio.bamboohr.com/careers/53
-          remote: true
-    -
       post_date: 2022-04-15
       jobs:
-        - title: Security Analyst
-          link: https://sequencebio.bamboohr.com/careers/48
-          remote: true
-        - title: Cloud Developer
-          link: https://sequencebio.bamboohr.com/careers/49
-          remote: true
         - title: Web Application Developer
           link: https://sequencebio.bamboohr.com/careers/46
-          remote: true
-        - title: Experienced AWS Infrastructure Engineer
-          link: https://sequencebio.bamboohr.com/careers/47
           remote: true
 - company: siftmed
   jobs: []
@@ -121,11 +107,7 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs:
-    - post_date: 2023-06-15
-      jobs:
-        - title: Web Programmer
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4221
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -141,11 +123,6 @@
       jobs:
         - title: Software Architect
           link: https://jobs.medaviebc.ca/job/_/570307417/
-          remote: true
-    - post_date: 2022-06-10
-      jobs:
-        - title: Test Automation Architect
-          link: https://jobs.medaviebc.ca/job/_/559366117/
           remote: true
 - company: mysa
   jobs: []
@@ -182,7 +159,7 @@
     - post_date: 2023-06-01
       jobs:
         - title: Full Stack Developer II
-          link: https://jobs.lever.co/milk-moovement/f18ca6a0-44af-4310-a6f2-a3eb069fd136
+          link: https://jobs.lever.co/milk-moovement/445289af-d02e-4965-bbe3-0f79445a5579
 - company: nlhydro
   jobs: []
 - company: govnl

@@ -1,14 +1,17 @@
 jobs:
-- company: cbs
+- company: inmarsat
   jobs:
     current:
-    - link: https://careers.blood.ca/job/_/570968417/
+    - link: https://jobs.smartrecruiters.com/Inmarsat/743999916679383-junior-analyst-developer
       remote: false
-      title: Software Developer III
+      title: Junior Analyst Developer
     previous: []
 - company: milkmoovement
   jobs:
-    current: []
+    current:
+    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
+      remote: false
+      title: Full Stack Developer III
     previous:
     - link: https://jobs.lever.co/milk-moovement/1e9055af-7bc8-4285-9026-7daf5bf7410c
       remote: false
@@ -16,6 +19,27 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/445289af-d02e-4965-bbe3-0f79445a5579
       remote: false
       title: Full Stack Developer II
+- company: nlhydro
+  jobs:
+    current:
+    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
+      remote: false
+      title: Software Specialist
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/28273
+      remote: false
+      title: Computer Systems Analyst I
+    previous: []
+- company: cbs
+  jobs:
+    current: []
+    previous:
+    - link: https://careers.blood.ca/job/_/570968417/
+      remote: false
+      title: Software Developer III
 - company: trophiai
   jobs:
     current: []
@@ -107,16 +131,6 @@ jobs:
     - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
       remote: false
       title: Firmware Engineer
-- company: opasmobile
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
-      remote: false
-      title: Junior/Intermediate Backend Developer (NodeJS)
-    - link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
-      remote: false
-      title: Junior/Intermediate React Native Developer
 - company: vmt
   jobs:
     current: []
@@ -176,7 +190,7 @@ jobs:
     previous:
     - link: https://sequencebio.bamboohr.com/careers/46
       remote: true
-      title: Web Application Developer
+      title: Software Developer
 - company: otherocean
   jobs:
     current: []
@@ -209,4 +223,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-06-29
+updateDate: 2023-07-06

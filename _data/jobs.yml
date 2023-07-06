@@ -52,7 +52,7 @@
     -
       post_date: 2022-04-15
       jobs:
-        - title: Web Application Developer
+        - title: Software Developer
           link: https://sequencebio.bamboohr.com/careers/46
           remote: true
 - company: siftmed
@@ -78,7 +78,11 @@
 - company: enaimco
   jobs: []
 - company: inmarsat
-  jobs: []
+  jobs:
+    - post_date: 2023-07-06
+      jobs:
+        - title: Junior Analyst Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999916679383-junior-analyst-developer
 - company: bluedriver
   jobs: []
 - company: cityofstjohns
@@ -152,6 +156,10 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2023-07-06
+      jobs:
+        - title: Full Stack Developer III
+          link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
     - post_date: 2023-06-22
       jobs:
         - title: Data Engineer
@@ -161,17 +169,19 @@
         - title: Full Stack Developer II
           link: https://jobs.lever.co/milk-moovement/445289af-d02e-4965-bbe3-0f79445a5579
 - company: nlhydro
-  jobs: []
-- company: govnl
-  jobs: []
-- company: opasmobile
   jobs:
-    - post_date: 2023-01-13
+    - post_date: 2023-07-06
       jobs:
-        - title: Junior/Intermediate Backend Developer (NodeJS)
-          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
-        - title: Junior/Intermediate React Native Developer
-          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
+        - title: Software Specialist
+          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
+- company: govnl
+  jobs:
+    - post_date: 2023-07-06
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://www.hiring.gov.nl.ca/job-details/28273
+- company: opasmobile
+  jobs: []
 - company: instrumar
   jobs: []
 - company: inspectar

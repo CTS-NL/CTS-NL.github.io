@@ -1,18 +1,49 @@
 jobs:
-- company: inmarsat
+- company: smartdoor
   jobs:
     current:
+    - link: https://smartdoor.ai/careers?_hsmi=266009684
+      remote: false
+      title: Senior/Junior Software Developers
+    previous: []
+- company: siftmed
+  jobs:
+    current:
+    - link: https://www.linkedin.com/jobs/view/3657301800/
+      remote: false
+      title: Director of Engineering
+    previous: []
+- company: verafin
+  jobs:
+    current:
+    - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
+      remote: false
+      title: Cloud Developer
+    previous: []
+- company: zorbits
+  jobs:
+    current:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: QA Analyst
+    previous:
+    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
+      remote: false
+      title: Junior Back End Web Developer
+- company: inmarsat
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.smartrecruiters.com/Inmarsat/743999916679383-junior-analyst-developer
       remote: false
       title: Junior Analyst Developer
-    previous: []
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
       remote: false
       title: Full Stack Developer III
-    previous:
     - link: https://jobs.lever.co/milk-moovement/1e9055af-7bc8-4285-9026-7daf5bf7410c
       remote: false
       title: Data Engineer
@@ -21,25 +52,18 @@ jobs:
       title: Full Stack Developer II
 - company: nlhydro
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
       remote: false
       title: Software Specialist
-    previous: []
 - company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/28273
-      remote: false
-      title: Computer Systems Analyst I
-    previous: []
-- company: cbs
   jobs:
     current: []
     previous:
-    - link: https://careers.blood.ca/job/_/570968417/
+    - link: https://www.hiring.gov.nl.ca/job-details/28273
       remote: false
-      title: Software Developer III
+      title: Computer Systems Analyst I
 - company: trophiai
   jobs:
     current: []
@@ -60,13 +84,6 @@ jobs:
     - link: https://careers.telus.com/job/_/571293017/
       remote: false
       title: Manager - Mobile Software Development
-- company: acenet
-  jobs:
-    current: []
-    previous:
-    - link: https://www.careerbeacon.com/en/job/1904571
-      remote: false
-      title: Cybersecurity Analyst
 - company: spellbook
   jobs:
     current: []
@@ -74,16 +91,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: zorbits
-  jobs:
-    current: []
-    previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89615&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Front End Web Developer
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Junior Back End Web Developer
 - company: bluecross
   jobs:
     current: []
@@ -223,4 +230,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-07-06
+updateDate: 2023-07-13

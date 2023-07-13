@@ -1,19 +1,11 @@
 - company: acenet
-  jobs:
-    - post_date: 2023-06-08
-      jobs:
-        - title: Cybersecurity Analyst
-          link: https://www.careerbeacon.com/en/job/1904571
+  jobs: []
 - company: atlanticlottery
   jobs: []
 - company: aker
   jobs: []
 - company: cbs
-  jobs:
-    - post_date: 2023-06-29
-      jobs:
-        - title: Software Developer III
-          link: https://careers.blood.ca/job/_/570968417/
+  jobs: []
 - company: clearrisk
   jobs: []
 - company: cna
@@ -47,6 +39,12 @@
   jobs: []
 - company: hatch
   jobs: []
+- company: smartdoor
+  jobs:
+    - post_date: 2023-07-13
+      jobs:
+        - title: Senior/Junior Software Developers
+          link: https://smartdoor.ai/careers?_hsmi=266009684
 - company: sequencebio
   jobs:
     -
@@ -56,7 +54,11 @@
           link: https://sequencebio.bamboohr.com/careers/46
           remote: true
 - company: siftmed
-  jobs: []
+  jobs:
+    - post_date: 2023-07-13
+      jobs:
+        - title: Director of Engineering
+          link: https://www.linkedin.com/jobs/view/3657301800/
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -151,7 +153,11 @@
         - title: Firmware Engineer
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
-  jobs: []
+  jobs:
+    - post_date: 2023-07-13
+      jobs:
+        - title: Cloud Developer
+          link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
 - company: rayagency
   jobs: []
 - company: milkmoovement
@@ -274,10 +280,10 @@
           link: "https://ioass.com/careers-1"
 - company: zorbits
   jobs:
-    - post_date: 2023-05-25
+    - post_date: 2023-07-13
       jobs:
-        - title: "Front End Web Developer"
-          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89615&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"
+        - title: "QA Analyst"
+          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"
     - post_date: 2023-04-27
       jobs:
         - title: "Junior Back End Web Developer"

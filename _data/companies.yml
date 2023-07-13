@@ -382,6 +382,9 @@ rutter:
   name: Rutter
   url: http://www.rutter.ca/
   local: true
+smartdoor:
+  name: SmartDoor
+  url: https://smartdoor.ai/
 spellbook:
   name: Spellbook
   url: https://www.spellbook.legal/

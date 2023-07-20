@@ -1,32 +1,42 @@
 jobs:
-- company: smartdoor
+- company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/572384417/
+      remote: true
+      title: Sr. Software Development Engineer in Test
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/570307417/
+      remote: true
+      title: Software Architect
+- company: smartdoor
+  jobs:
+    current: []
+    previous:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-    previous: []
 - company: siftmed
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.linkedin.com/jobs/view/3657301800/
       remote: false
       title: Director of Engineering
-    previous: []
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
       remote: false
       title: Cloud Developer
-    previous: []
 - company: zorbits
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: QA Analyst
-    previous:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: Junior Back End Web Developer
@@ -57,13 +67,6 @@ jobs:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
       remote: false
       title: Software Specialist
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/28273
-      remote: false
-      title: Computer Systems Analyst I
 - company: trophiai
   jobs:
     current: []
@@ -77,13 +80,6 @@ jobs:
     - link: https://trophiai.bamboohr.com/careers/31
       remote: false
       title: Game Developer (Jr./Mid/Sr.)
-- company: telus
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.telus.com/job/_/571293017/
-      remote: false
-      title: Manager - Mobile Software Development
 - company: spellbook
   jobs:
     current: []
@@ -91,26 +87,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/570307417/
-      remote: true
-      title: Software Architect
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
-      remote: true
-      title: AS/400 Mainframe System Analyst
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: vish
   jobs:
     current: []
@@ -191,13 +167,16 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: sequencebio
+- company: mariner
   jobs:
     current: []
     previous:
-    - link: https://sequencebio.bamboohr.com/careers/46
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
-      title: Software Developer
+      title: .NET Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
 - company: otherocean
   jobs:
     current: []
@@ -230,4 +209,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-07-13
+updateDate: 2023-07-20

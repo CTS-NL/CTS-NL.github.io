@@ -46,13 +46,7 @@
         - title: Senior/Junior Software Developers
           link: https://smartdoor.ai/careers?_hsmi=266009684
 - company: sequencebio
-  jobs:
-    -
-      post_date: 2022-04-15
-      jobs:
-        - title: Software Developer
-          link: https://sequencebio.bamboohr.com/careers/46
-          remote: true
+  jobs: []
 - company: siftmed
   jobs:
     - post_date: 2023-07-13
@@ -91,11 +85,6 @@
   jobs: []
 - company: mariner
   jobs:
-    - post_date: 2023-04-06
-      jobs:
-        - title: AS/400 Mainframe System Analyst
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999897256165-as-400-mainframe-system-analyst-contract-position-
-          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: .NET Developer
@@ -125,6 +114,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-07-20
+      jobs:
+        - title: Sr. Software Development Engineer in Test
+          link: https://jobs.medaviebc.ca/job/_/572384417/
+          remote: true
     - post_date: 2023-05-18
       jobs:
         - title: Software Architect
@@ -181,11 +175,7 @@
         - title: Software Specialist
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
-  jobs:
-    - post_date: 2023-07-06
-      jobs:
-        - title: Computer Systems Analyst I
-          link: https://www.hiring.gov.nl.ca/job-details/28273
+  jobs: []
 - company: opasmobile
   jobs: []
 - company: instrumar
@@ -265,11 +255,7 @@
         - title: Software Engineer
           link: https://www.avalonholographics.com/careers
 - company: telus
-  jobs:
-    - post_date: 2023-06-15
-      jobs:
-        - title: "Manager - Mobile Software Development"
-          link: "https://careers.telus.com/job/_/571293017/"
+  jobs: []
 - company: target
   jobs: []
 - company: ioa

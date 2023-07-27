@@ -49,10 +49,10 @@
   jobs: []
 - company: siftmed
   jobs:
-    - post_date: 2023-07-13
+    - post_date: 2023-07-27
       jobs:
-        - title: Director of Engineering
-          link: https://www.linkedin.com/jobs/view/3657301800/
+        - title: Full Stack Developer
+          link: https://technl.ca/job/full-stack-developer-2/
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -270,7 +270,3 @@
       jobs:
         - title: "QA Analyst"
           link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"
-    - post_date: 2023-04-27
-      jobs:
-        - title: "Junior Back End Web Developer"
-          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"

@@ -1,11 +1,18 @@
 jobs:
-- company: bluecross
+- company: siftmed
   jobs:
     current:
+    - link: https://technl.ca/job/full-stack-developer-2/
+      remote: false
+      title: Full Stack Developer
+    previous: []
+- company: bluecross
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/572384417/
       remote: true
       title: Sr. Software Development Engineer in Test
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/570307417/
       remote: true
       title: Software Architect
@@ -16,13 +23,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: siftmed
-  jobs:
-    current: []
-    previous:
-    - link: https://www.linkedin.com/jobs/view/3657301800/
-      remote: false
-      title: Director of Engineering
 - company: verafin
   jobs:
     current: []
@@ -37,9 +37,6 @@ jobs:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: QA Analyst
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=86682&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: Junior Back End Web Developer
 - company: inmarsat
   jobs:
     current: []
@@ -209,4 +206,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-07-20
+updateDate: 2023-07-27

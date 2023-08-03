@@ -358,6 +358,10 @@ radient:
   name: Radient360
   url: http://radient360.com/
   local: true
+rmspope:
+  name: RMS Pope Incorporated
+  url: https://rmspope.com/
+  local: true
 rally:
   name: Rally
   url: https://www.rallylegal.com/

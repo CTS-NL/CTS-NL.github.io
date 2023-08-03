@@ -1,21 +1,41 @@
 jobs:
-- company: siftmed
+- company: mariner
   jobs:
     current:
-    - link: https://technl.ca/job/full-stack-developer-2/
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
+      remote: true
+      title: Senior .NET Consultant
+    previous:
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+      remote: true
+      title: .NET Developer
+    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+      remote: true
+      title: Senior Python Developer
+- company: mobia
+  jobs:
+    current:
+    - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
+      remote: true
+      title: Senior Microsoft Azure Engineers
+    - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
+      remote: true
+      title: Senior Microsoft Azure Engineers
+    previous: []
+- company: workplacenl
+  jobs:
+    current:
+    - link: https://www.careerbeacon.com/en/job/1917805/workplacenl/full-stack-developer/st-john-s
       remote: false
       title: Full Stack Developer
     previous: []
-- company: bluecross
+- company: siftmed
   jobs:
     current: []
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/572384417/
-      remote: true
-      title: Sr. Software Development Engineer in Test
-    - link: https://jobs.medaviebc.ca/job/_/570307417/
-      remote: true
-      title: Software Architect
+    - link: https://technl.ca/job/full-stack-developer-2/
+      remote: false
+      title: Full Stack Developer
 - company: smartdoor
   jobs:
     current: []
@@ -84,6 +104,13 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/570307417/
+      remote: true
+      title: Software Architect
 - company: vish
   jobs:
     current: []
@@ -94,13 +121,6 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
-- company: intactlab
-  jobs:
-    current: []
-    previous:
-    - link: https://careers.intactfc.com/ca/en/job/R130696
-      remote: false
-      title: Manager, Software Development
 - company: kraken
   jobs:
     current: []
@@ -164,16 +184,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: otherocean
   jobs:
     current: []
@@ -206,4 +216,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-07-27
+updateDate: 2023-08-03

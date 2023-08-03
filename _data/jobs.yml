@@ -85,6 +85,11 @@
   jobs: []
 - company: mariner
   jobs:
+    - post_date: 2023-08-03
+      jobs:
+        - title: Senior .NET Consultant
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
+          remote: true
     - post_date: 2022-06-24
       jobs:
         - title: .NET Developer
@@ -99,6 +104,16 @@
   jobs: []
 - company: northatlantic
   jobs: []
+- company: mobia
+  jobs:
+    - post_date: 2023-08-03
+      jobs:
+        - title: Senior Microsoft Azure Engineers
+          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
+          remote: true
+        - title: Senior Microsoft Azure Engineers
+          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
+          remote: true
 - company: genoa
   jobs: []
 - company: mun
@@ -114,11 +129,6 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2023-07-20
-      jobs:
-        - title: Sr. Software Development Engineer in Test
-          link: https://jobs.medaviebc.ca/job/_/572384417/
-          remote: true
     - post_date: 2023-05-18
       jobs:
         - title: Software Architect
@@ -154,6 +164,12 @@
           link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
 - company: rayagency
   jobs: []
+- company: rmspope
+  jobs:
+    - post_date: 2023-08-03
+      jobs:
+        - title: Software Engineer
+          link: https://ca.indeed.com/cmp/Rms-Pope-Incorporated/jobs?jk=a3d20fe23e44c47b
 - company: milkmoovement
   jobs:
     - post_date: 2023-07-06
@@ -195,13 +211,13 @@
         - title: Senior Unity Developer
           link: https://www.inspectar.com/career/sr-unity-developer
 - company: intactlab
-  jobs:
-    - post_date: 2023-03-02
-      jobs:
-        - title: "Manager, Software Development"
-          link: https://careers.intactfc.com/ca/en/job/R130696
-- company: workplacenl
   jobs: []
+- company: workplacenl
+  jobs:
+    - post_date: 2023-08-03
+      jobs:
+        - title: "Full Stack Developer"
+          link: https://www.careerbeacon.com/en/job/1917805/workplacenl/full-stack-developer/st-john-s
 - company: wood
   jobs: []
 - company: pangeo

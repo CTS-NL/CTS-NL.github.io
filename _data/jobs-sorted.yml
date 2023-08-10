@@ -1,11 +1,31 @@
 jobs:
-- company: mariner
+- company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/572897317/
+      remote: true
+      title: Sr. Programmer/ Analyst
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/570307417/
+      remote: true
+      title: Software Architect
+- company: verafin
+  jobs:
+    current:
+    - link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
+      remote: false
+      title: UI Software Developer
+    previous:
+    - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
+      remote: false
+      title: Cloud Developer
+- company: mariner
+  jobs:
+    current: []
+    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
       remote: true
       title: Senior .NET Consultant
-    previous:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
       remote: true
       title: .NET Developer
@@ -14,21 +34,21 @@ jobs:
       title: Senior Python Developer
 - company: mobia
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
       remote: true
       title: Senior Microsoft Azure Engineers
     - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
       remote: true
       title: Senior Microsoft Azure Engineers
-    previous: []
-- company: workplacenl
+- company: rmspope
   jobs:
-    current:
-    - link: https://www.careerbeacon.com/en/job/1917805/workplacenl/full-stack-developer/st-john-s
+    current: []
+    previous:
+    - link: https://ca.indeed.com/cmp/Rms-Pope-Incorporated/jobs?jk=a3d20fe23e44c47b
       remote: false
-      title: Full Stack Developer
-    previous: []
+      title: Software Engineer
 - company: siftmed
   jobs:
     current: []
@@ -43,13 +63,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
-      remote: false
-      title: Cloud Developer
 - company: zorbits
   jobs:
     current: []
@@ -104,13 +117,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/570307417/
-      remote: true
-      title: Software Architect
 - company: vish
   jobs:
     current: []
@@ -216,4 +222,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-08-03
+updateDate: 2023-08-10

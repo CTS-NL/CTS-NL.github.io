@@ -129,6 +129,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2023-08-10
+      jobs:
+        - title: Sr. Programmer/ Analyst
+          link: https://jobs.medaviebc.ca/job/_/572897317/
+          remote: true
     - post_date: 2023-05-18
       jobs:
         - title: Software Architect
@@ -158,6 +163,10 @@
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
   jobs:
+    - post_date: 2023-08-10
+      jobs:
+        - title: UI Software Developer
+          link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
     - post_date: 2023-07-13
       jobs:
         - title: Cloud Developer
@@ -213,11 +222,7 @@
 - company: intactlab
   jobs: []
 - company: workplacenl
-  jobs:
-    - post_date: 2023-08-03
-      jobs:
-        - title: "Full Stack Developer"
-          link: https://www.careerbeacon.com/en/job/1917805/workplacenl/full-stack-developer/st-john-s
+  jobs: []
 - company: wood
   jobs: []
 - company: pangeo

@@ -5,7 +5,11 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs: []
+  jobs:
+    - post_date: 2023-08-17
+      jobs:
+        - title: Developer - Software II
+          link: https://careers.blood.ca/job/_/573083217/
 - company: clearrisk
   jobs: []
 - company: cna
@@ -74,11 +78,7 @@
 - company: enaimco
   jobs: []
 - company: inmarsat
-  jobs:
-    - post_date: 2023-07-06
-      jobs:
-        - title: Junior Analyst Developer
-          link: https://jobs.smartrecruiters.com/Inmarsat/743999916679383-junior-analyst-developer
+  jobs: []
 - company: bluedriver
   jobs: []
 - company: cityofstjohns
@@ -89,11 +89,6 @@
       jobs:
         - title: Senior .NET Consultant
           link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
-          remote: true
-    - post_date: 2022-06-24
-      jobs:
-        - title: .NET Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
           remote: true
     - post_date: 2022-01-28
       jobs:
@@ -167,10 +162,6 @@
       jobs:
         - title: UI Software Developer
           link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
-    - post_date: 2023-07-13
-      jobs:
-        - title: Cloud Developer
-          link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
 - company: rayagency
   jobs: []
 - company: rmspope

@@ -1,24 +1,28 @@
 jobs:
-- company: bluecross
+- company: cbs
   jobs:
     current:
+    - link: https://careers.blood.ca/job/_/573083217/
+      remote: false
+      title: Developer - Software II
+    previous: []
+- company: bluecross
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/572897317/
       remote: true
       title: Sr. Programmer/ Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/570307417/
       remote: true
       title: Software Architect
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
       remote: false
       title: UI Software Developer
-    previous:
-    - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
-      remote: false
-      title: Cloud Developer
 - company: mariner
   jobs:
     current: []
@@ -26,9 +30,6 @@ jobs:
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
       remote: true
       title: Senior .NET Consultant
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
-      remote: true
-      title: .NET Developer
     - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
       remote: true
       title: Senior Python Developer
@@ -70,13 +71,6 @@ jobs:
     - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
       remote: false
       title: QA Analyst
-- company: inmarsat
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.smartrecruiters.com/Inmarsat/743999916679383-junior-analyst-developer
-      remote: false
-      title: Junior Analyst Developer
 - company: milkmoovement
   jobs:
     current: []
@@ -222,4 +216,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-08-10
+updateDate: 2023-08-17

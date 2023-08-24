@@ -1,10 +1,17 @@
 jobs:
-- company: cbs
+- company: stantec
   jobs:
     current:
-    - link: https://careers.blood.ca/job/_/573083217/
+    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
-      title: Developer - Software II
+      title: Application Developer
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/28311
+      remote: false
+      title: Senior Programmer Analyst
     previous: []
 - company: bluecross
   jobs:
@@ -16,23 +23,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/570307417/
       remote: true
       title: Software Architect
-- company: verafin
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
-      remote: false
-      title: UI Software Developer
-- company: mariner
-  jobs:
-    current: []
-    previous:
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
-      remote: true
-      title: Senior .NET Consultant
-    - link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-      remote: true
-      title: Senior Python Developer
 - company: mobia
   jobs:
     current: []
@@ -216,4 +206,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-08-17
+updateDate: 2023-08-24

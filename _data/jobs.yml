@@ -5,11 +5,7 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs:
-    - post_date: 2023-08-17
-      jobs:
-        - title: Developer - Software II
-          link: https://careers.blood.ca/job/_/573083217/
+  jobs: []
 - company: clearrisk
   jobs: []
 - company: cna
@@ -68,7 +64,11 @@
           link: https://strobeltek.com/careers/
           remote: false
 - company: stantec
-  jobs: []
+  jobs:
+    - post_date: 2023-08-24
+      jobs:
+        - title: Application Developer
+          link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
 - company: triware
   jobs: []
 - company: radient
@@ -84,17 +84,7 @@
 - company: cityofstjohns
   jobs: []
 - company: mariner
-  jobs:
-    - post_date: 2023-08-03
-      jobs:
-        - title: Senior .NET Consultant
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999922123605-senior-net-consultant-healthcare-future-opportunity-
-          remote: true
-    - post_date: 2022-01-28
-      jobs:
-        - title: Senior Python Developer
-          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
-          remote: true
+  jobs: []
 - company: nlc
   jobs: []
 - company: northatlantic
@@ -157,11 +147,7 @@
         - title: Firmware Engineer
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
-  jobs:
-    - post_date: 2023-08-10
-      jobs:
-        - title: UI Software Developer
-          link: https://jobs.lever.co/verafin/72ed60e7-cfa8-47e5-b135-53887ba51ee6
+  jobs: []
 - company: rayagency
   jobs: []
 - company: rmspope
@@ -191,7 +177,11 @@
         - title: Software Specialist
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2023-08-24
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.hiring.gov.nl.ca/job-details/28311
 - company: opasmobile
   jobs: []
 - company: instrumar

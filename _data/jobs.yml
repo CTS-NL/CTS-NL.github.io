@@ -48,11 +48,7 @@
 - company: sequencebio
   jobs: []
 - company: siftmed
-  jobs:
-    - post_date: 2023-07-27
-      jobs:
-        - title: Full Stack Developer
-          link: https://technl.ca/job/full-stack-developer-2/
+  jobs: []
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -114,11 +110,6 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2023-08-10
-      jobs:
-        - title: Sr. Programmer/ Analyst
-          link: https://jobs.medaviebc.ca/job/_/572897317/
-          remote: true
     - post_date: 2023-05-18
       jobs:
         - title: Software Architect
@@ -135,7 +126,11 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs: []
+  jobs:
+    - post_date: 2023-09-07
+      jobs:
+        - title: Senior Software Developer
+          link: https://colabsoftware.applytojobs.ca/developer/24402
 - company: kraken
   jobs:
     - post_date: 2023-01-28
@@ -259,8 +254,4 @@
         - title: "Programmer / Analyst"
           link: "https://ioass.com/careers-1"
 - company: zorbits
-  jobs:
-    - post_date: 2023-07-13
-      jobs:
-        - title: "QA Analyst"
-          link: "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC"
+  jobs: []

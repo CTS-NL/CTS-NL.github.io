@@ -1,4 +1,11 @@
 jobs:
+- company: colab
+  jobs:
+    current:
+    - link: https://colabsoftware.applytojobs.ca/developer/24402
+      remote: false
+      title: Senior Software Developer
+    previous: []
 - company: stantec
   jobs:
     current: []
@@ -13,16 +20,6 @@ jobs:
     - link: https://www.hiring.gov.nl.ca/job-details/28311
       remote: false
       title: Senior Programmer Analyst
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/572897317/
-      remote: true
-      title: Sr. Programmer/ Analyst
-    - link: https://jobs.medaviebc.ca/job/_/570307417/
-      remote: true
-      title: Software Architect
 - company: mobia
   jobs:
     current: []
@@ -33,13 +30,6 @@ jobs:
     - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
       remote: true
       title: Senior Microsoft Azure Engineers
-- company: siftmed
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/full-stack-developer-2/
-      remote: false
-      title: Full Stack Developer
 - company: smartdoor
   jobs:
     current: []
@@ -47,13 +37,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: zorbits
-  jobs:
-    current: []
-    previous:
-    - link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=89613&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
-      remote: false
-      title: QA Analyst
 - company: milkmoovement
   jobs:
     current: []
@@ -91,6 +74,13 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/570307417/
+      remote: true
+      title: Software Architect
 - company: vish
   jobs:
     current: []
@@ -195,5 +185,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: false
-updateDate: 2023-08-31
+newPostings: true
+updateDate: 2023-09-07

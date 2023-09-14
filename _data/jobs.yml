@@ -9,7 +9,11 @@
 - company: clearrisk
   jobs: []
 - company: cna
-  jobs: []
+  jobs:
+    - post_date: 2023-09-14
+      jobs:
+        - title: "Computer Programmer II"
+          link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=15021&PostingSeq=2"
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -67,8 +71,6 @@
           link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
 - company: triware
   jobs: []
-- company: radient
-  jobs: []
 - company: quorum
   jobs: []
 - company: enaimco
@@ -116,7 +118,13 @@
           link: https://jobs.medaviebc.ca/job/_/570307417/
           remote: true
 - company: mysa
-  jobs: []
+  jobs:
+    - post_date: 2023-09-14
+      jobs:
+        - title: "Senior DevOps Engineer"
+          link: "https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4"
+        - title: "Senior Full Stack Developer"
+          link: "https://jobs.lever.co/getmysa/1961d763-b636-4519-9cfb-0f04dd1025e1"
 - company: heyorca
   jobs: []
 - company: compusult
@@ -164,11 +172,7 @@
         - title: Software Specialist
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
-  jobs:
-    - post_date: 2023-08-24
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.hiring.gov.nl.ca/job-details/28311
+  jobs: []
 - company: opasmobile
   jobs: []
 - company: instrumar

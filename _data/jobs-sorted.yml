@@ -1,11 +1,28 @@
 jobs:
-- company: colab
+- company: cna
   jobs:
     current:
+    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=15021&PostingSeq=2
+      remote: false
+      title: Computer Programmer II
+    previous: []
+- company: mysa
+  jobs:
+    current:
+    - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
+      remote: false
+      title: Senior DevOps Engineer
+    - link: https://jobs.lever.co/getmysa/1961d763-b636-4519-9cfb-0f04dd1025e1
+      remote: false
+      title: Senior Full Stack Developer
+    previous: []
+- company: colab
+  jobs:
+    current: []
+    previous:
     - link: https://colabsoftware.applytojobs.ca/developer/24402
       remote: false
       title: Senior Software Developer
-    previous: []
 - company: stantec
   jobs:
     current: []
@@ -13,13 +30,6 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
       title: Application Developer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/28311
-      remote: false
-      title: Senior Programmer Analyst
 - company: mobia
   jobs:
     current: []
@@ -186,4 +196,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-09-07
+updateDate: 2023-09-14

@@ -1,28 +1,50 @@
 jobs:
-- company: cna
+- company: verafin
   jobs:
     current:
-    - link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=15021&PostingSeq=2
+    - link: https://jobs.lever.co/verafin/c76aa616-4cbe-438d-a9ab-354785443b9c
       remote: false
-      title: Computer Programmer II
+      title: Software Developer
+    - link: https://jobs.lever.co/verafin/e82cd562-70cc-4362-a193-f1e011942c12
+      remote: false
+      title: Senior Software Developer
+    - link: https://jobs.lever.co/verafin/f239034c-0895-48d2-a7b1-dabf8982355b
+      remote: false
+      title: Senior Software Developer - Remote Canada
     previous: []
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/c334a35a-ae61-4a10-b6cf-04b094c59b98
+      remote: false
+      title: Mobile Developer II
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
+      remote: false
+      title: Full Stack Developer III
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/574838417/
+      remote: false
+      title: Sr. Programmer Analyst
+    - link: https://jobs.medaviebc.ca/job/_/574841717/
+      remote: false
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/574751917/
+      remote: false
+      title: Sr. SharePoint Developer
 - company: mysa
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
       remote: false
       title: Senior DevOps Engineer
     - link: https://jobs.lever.co/getmysa/1961d763-b636-4519-9cfb-0f04dd1025e1
       remote: false
       title: Senior Full Stack Developer
-    previous: []
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/developer/24402
-      remote: false
-      title: Senior Software Developer
 - company: stantec
   jobs:
     current: []
@@ -37,9 +59,6 @@ jobs:
     - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
       remote: true
       title: Senior Microsoft Azure Engineers
-    - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
-      remote: true
-      title: Senior Microsoft Azure Engineers
 - company: smartdoor
   jobs:
     current: []
@@ -47,16 +66,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
-      remote: false
-      title: Full Stack Developer III
-    - link: https://jobs.lever.co/milk-moovement/445289af-d02e-4965-bbe3-0f79445a5579
-      remote: false
-      title: Full Stack Developer II
 - company: nlhydro
   jobs:
     current: []
@@ -70,13 +79,13 @@ jobs:
     previous:
     - link: https://trophiai.bamboohr.com/careers/35
       remote: false
-      title: Software Developer (Jr./Mid/Sr.)
+      title: Sr. Software Developer
     - link: https://trophiai.bamboohr.com/careers/40
       remote: false
       title: UX/UI Designer
     - link: https://trophiai.bamboohr.com/careers/31
       remote: false
-      title: Game Developer (Jr./Mid/Sr.)
+      title: Sr. Game Developer
 - company: spellbook
   jobs:
     current: []
@@ -84,13 +93,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/570307417/
-      remote: true
-      title: Software Architect
 - company: vish
   jobs:
     current: []
@@ -101,6 +103,13 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://colabsoftware.applytojobs.ca/revops/25191
+      remote: false
+      title: Revenue Operations Software Developer
 - company: kraken
   jobs:
     current: []
@@ -154,6 +163,13 @@ jobs:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
       remote: true
       title: Computer Programmer/Analyst
+- company: sequencebio
+  jobs:
+    current: []
+    previous:
+    - link: https://sequencebio.bamboohr.com/careers/60
+      remote: false
+      title: Cloud Developer
 - company: strobeltek
   jobs:
     current: []
@@ -196,4 +212,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-09-14
+updateDate: 2023-10-12

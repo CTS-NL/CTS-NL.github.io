@@ -9,11 +9,7 @@
 - company: clearrisk
   jobs: []
 - company: cna
-  jobs:
-    - post_date: 2023-09-14
-      jobs:
-        - title: "Computer Programmer II"
-          link: "https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=15021&PostingSeq=2"
+  jobs: []
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -31,11 +27,11 @@
   jobs:
     - post_date: 2023-06-15
       jobs:
-        - title: Software Developer (Jr./Mid/Sr.)
+        - title: Sr. Software Developer
           link: https://trophiai.bamboohr.com/careers/35
         - title: UX/UI Designer
           link: https://trophiai.bamboohr.com/careers/40
-        - title: Game Developer (Jr./Mid/Sr.)
+        - title: Sr. Game Developer
           link: https://trophiai.bamboohr.com/careers/31
 - company: reportmate
   jobs: []
@@ -50,7 +46,11 @@
         - title: Senior/Junior Software Developers
           link: https://smartdoor.ai/careers?_hsmi=266009684
 - company: sequencebio
-  jobs: []
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Cloud Developer
+          link: https://sequencebio.bamboohr.com/careers/60
 - company: siftmed
   jobs: []
 - company: strobeltek
@@ -94,9 +94,10 @@
         - title: Senior Microsoft Azure Engineers
           link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
           remote: true
-        - title: Senior Microsoft Azure Engineers
-          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
-          remote: true
+#          mirror
+#        - title: Senior Microsoft Azure Engineers
+#          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
+#          remote: true
 - company: genoa
   jobs: []
 - company: mun
@@ -112,11 +113,14 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2023-05-18
+    - post_date: 2023-09-14
       jobs:
-        - title: Software Architect
-          link: https://jobs.medaviebc.ca/job/_/570307417/
-          remote: true
+        - title: "Sr. Programmer Analyst"
+          link: "https://jobs.medaviebc.ca/job/_/574838417/"
+        - title: "Sr. Programmer/Analyst"
+          link: "https://jobs.medaviebc.ca/job/_/574841717/"
+        - title: "Sr. SharePoint Developer"
+          link: "https://jobs.medaviebc.ca/job/_/574751917/"
 - company: mysa
   jobs:
     - post_date: 2023-09-14
@@ -135,10 +139,10 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
-    - post_date: 2023-09-07
+    - post_date: 2023-10-12
       jobs:
-        - title: Senior Software Developer
-          link: https://colabsoftware.applytojobs.ca/developer/24402
+        - title: Revenue Operations Software Developer
+          link: https://colabsoftware.applytojobs.ca/revops/25191
 - company: kraken
   jobs:
     - post_date: 2023-01-28
@@ -150,21 +154,29 @@
         - title: Firmware Engineer
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
-  jobs: []
+  jobs:
+    - post_date: 2023-10-12
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/c76aa616-4cbe-438d-a9ab-354785443b9c
+        - title: Senior Software Developer
+          link: https://jobs.lever.co/verafin/e82cd562-70cc-4362-a193-f1e011942c12
+        - title: Senior Software Developer - Remote Canada
+          link: https://jobs.lever.co/verafin/f239034c-0895-48d2-a7b1-dabf8982355b
 - company: rayagency
   jobs: []
 - company: rmspope
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2023-10-12
+      jobs:
+        - title: Mobile Developer II
+          link: https://jobs.lever.co/milk-moovement/c334a35a-ae61-4a10-b6cf-04b094c59b98
     - post_date: 2023-07-06
       jobs:
         - title: Full Stack Developer III
           link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
-    - post_date: 2023-06-01
-      jobs:
-        - title: Full Stack Developer II
-          link: https://jobs.lever.co/milk-moovement/445289af-d02e-4965-bbe3-0f79445a5579
 - company: nlhydro
   jobs:
     - post_date: 2023-07-06

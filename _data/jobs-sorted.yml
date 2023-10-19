@@ -1,7 +1,15 @@
 jobs:
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://colabsoftware.applytojobs.ca/revops/25191
+      remote: false
+      title: Revenue Operations Software Developer
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/c76aa616-4cbe-438d-a9ab-354785443b9c
       remote: false
       title: Software Developer
@@ -11,14 +19,13 @@ jobs:
     - link: https://jobs.lever.co/verafin/f239034c-0895-48d2-a7b1-dabf8982355b
       remote: false
       title: Senior Software Developer - Remote Canada
-    previous: []
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/c334a35a-ae61-4a10-b6cf-04b094c59b98
       remote: false
       title: Mobile Developer II
-    previous:
     - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
       remote: false
       title: Full Stack Developer III
@@ -103,13 +110,6 @@ jobs:
     - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
       remote: false
       title: Senior Frontend Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/revops/25191
-      remote: false
-      title: Revenue Operations Software Developer
 - company: kraken
   jobs:
     current: []
@@ -211,5 +211,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: true
-updateDate: 2023-10-12
+newPostings: false
+updateDate: 2023-10-19

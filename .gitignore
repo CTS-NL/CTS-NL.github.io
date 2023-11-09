@@ -3,3 +3,5 @@
 _site/
 vendor/bundle/
 .DS_Store
+.venv
+__pycache__

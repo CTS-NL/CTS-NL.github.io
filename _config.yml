@@ -45,8 +45,7 @@ exclude:
     - vendor/bundle
     - ValidateJobs.py
     - ParseJobs.py
-    - Pipfile
-    - Pipfile.lock
+    - requirements.txt
 
 # ignore the date
 future: true

@@ -46,11 +46,7 @@
         - title: Senior/Junior Software Developers
           link: https://smartdoor.ai/careers?_hsmi=266009684
 - company: sequencebio
-  jobs:
-    - post_date: 2022-06-24
-      jobs:
-        - title: Cloud Developer
-          link: https://sequencebio.bamboohr.com/careers/60
+  jobs: []
 - company: siftmed
   jobs: []
 - company: strobeltek
@@ -123,12 +119,16 @@
           link: "https://jobs.medaviebc.ca/job/_/574751917/"
 - company: mysa
   jobs:
+    - post_date: 2023-11-09
+      jobs:
+        - title: "Senior Software Developer - DevOps"
+          link: "https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38"
     - post_date: 2023-09-14
       jobs:
         - title: "Senior DevOps Engineer"
           link: "https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4"
         - title: "Senior Full Stack Developer"
-          link: "https://jobs.lever.co/getmysa/1961d763-b636-4519-9cfb-0f04dd1025e1"
+          link: "https://jobs.lever.co/getmysa/e1d93a6e-9669-4110-9ac6-b31be541b7e4"
 - company: heyorca
   jobs: []
 - company: compusult
@@ -138,11 +138,7 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs:
-    - post_date: 2023-10-12
-      jobs:
-        - title: Revenue Operations Software Developer
-          link: https://colabsoftware.applytojobs.ca/revops/25191
+  jobs: []
 - company: kraken
   jobs:
     - post_date: 2023-01-28
@@ -155,6 +151,12 @@
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
 - company: verafin
   jobs:
+    - post_date: 2023-11-09
+      jobs:
+        - title: Senior Cloud Developer
+          link: https://jobs.lever.co/verafin/329d65b6-d6de-4c13-8b12-0756fee933c2
+        - title: Cloud Developer
+          link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
     - post_date: 2023-10-12
       jobs:
         - title: Software Developer
@@ -184,25 +186,23 @@
         - title: Software Specialist
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2023-11-09
+      jobs:
+        - title: Computer Programmer I
+          link: https://www.hiring.gov.nl.ca/job-details/28457
+        - title: Software Development Architect
+          link: https://www.hiring.gov.nl.ca/job-details/28837
+        - title: Senior Programmer Analyst (UI/UX)
+          link: https://www.hiring.gov.nl.ca/job-details/28822
+        - title: Senior Programmer Analyst (Software Developer)
+          link: https://www.hiring.gov.nl.ca/job-details/28825
 - company: opasmobile
   jobs: []
 - company: instrumar
   jobs: []
 - company: inspectar
-  jobs:
-    - post_date: 2022-09-23
-      jobs:
-        - title: QA Engineer CO-OP Student
-          link: https://www.inspectar.com/career/qa-engineer-co-op-student
-    - post_date: 2022-02-11
-      jobs:
-        - title: Software Developer CO-OP Student
-          link: https://www.inspectar.com/career/software-developer-co-op-student
-        - title: C# Developer
-          link: https://www.inspectar.com/career/c-sharp-developer
-        - title: Senior Unity Developer
-          link: https://www.inspectar.com/career/sr-unity-developer
+  jobs: []
 - company: intactlab
   jobs: []
 - company: workplacenl

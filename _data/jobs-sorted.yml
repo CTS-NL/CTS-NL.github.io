@@ -1,14 +1,26 @@
 jobs:
-- company: colab
+- company: mysa
   jobs:
-    current: []
-    previous:
-    - link: https://colabsoftware.applytojobs.ca/revops/25191
+    current:
+    - link: https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38
       remote: false
-      title: Revenue Operations Software Developer
+      title: Senior Software Developer - DevOps
+    previous:
+    - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
+      remote: false
+      title: Senior DevOps Engineer
+    - link: https://jobs.lever.co/getmysa/e1d93a6e-9669-4110-9ac6-b31be541b7e4
+      remote: false
+      title: Senior Full Stack Developer
 - company: verafin
   jobs:
-    current: []
+    current:
+    - link: https://jobs.lever.co/verafin/329d65b6-d6de-4c13-8b12-0756fee933c2
+      remote: false
+      title: Senior Cloud Developer
+    - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
+      remote: false
+      title: Cloud Developer
     previous:
     - link: https://jobs.lever.co/verafin/c76aa616-4cbe-438d-a9ab-354785443b9c
       remote: false
@@ -19,6 +31,22 @@ jobs:
     - link: https://jobs.lever.co/verafin/f239034c-0895-48d2-a7b1-dabf8982355b
       remote: false
       title: Senior Software Developer - Remote Canada
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/28457
+      remote: false
+      title: Computer Programmer I
+    - link: https://www.hiring.gov.nl.ca/job-details/28837
+      remote: false
+      title: Software Development Architect
+    - link: https://www.hiring.gov.nl.ca/job-details/28822
+      remote: false
+      title: Senior Programmer Analyst (UI/UX)
+    - link: https://www.hiring.gov.nl.ca/job-details/28825
+      remote: false
+      title: Senior Programmer Analyst (Software Developer)
+    previous: []
 - company: milkmoovement
   jobs:
     current: []
@@ -42,16 +70,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: false
       title: Sr. SharePoint Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
-      remote: false
-      title: Senior DevOps Engineer
-    - link: https://jobs.lever.co/getmysa/1961d763-b636-4519-9cfb-0f04dd1025e1
-      remote: false
-      title: Senior Full Stack Developer
 - company: stantec
   jobs:
     current: []
@@ -140,22 +158,6 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Software Developer
-- company: inspectar
-  jobs:
-    current: []
-    previous:
-    - link: https://www.inspectar.com/career/qa-engineer-co-op-student
-      remote: false
-      title: QA Engineer CO-OP Student
-    - link: https://www.inspectar.com/career/software-developer-co-op-student
-      remote: false
-      title: Software Developer CO-OP Student
-    - link: https://www.inspectar.com/career/c-sharp-developer
-      remote: false
-      title: C# Developer
-    - link: https://www.inspectar.com/career/sr-unity-developer
-      remote: false
-      title: Senior Unity Developer
 - company: easternhealth
   jobs:
     current: []
@@ -163,13 +165,6 @@ jobs:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
       remote: true
       title: Computer Programmer/Analyst
-- company: sequencebio
-  jobs:
-    current: []
-    previous:
-    - link: https://sequencebio.bamboohr.com/careers/60
-      remote: false
-      title: Cloud Developer
 - company: strobeltek
   jobs:
     current: []
@@ -211,5 +206,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: false
-updateDate: 2023-10-19
+newPostings: true
+updateDate: 2023-11-09

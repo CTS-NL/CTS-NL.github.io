@@ -1,11 +1,18 @@
 jobs:
-- company: mysa
+- company: mun
   jobs:
     current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4749
+      remote: true
+      title: Team Lead
+    previous: []
+- company: mysa
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38
       remote: false
       title: Senior Software Developer - DevOps
-    previous:
     - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
       remote: false
       title: Senior DevOps Engineer
@@ -14,14 +21,14 @@ jobs:
       title: Senior Full Stack Developer
 - company: verafin
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/verafin/329d65b6-d6de-4c13-8b12-0756fee933c2
       remote: false
       title: Senior Cloud Developer
     - link: https://jobs.lever.co/verafin/f0c91e09-f891-44b8-b0ad-5a37f2c2f734
       remote: false
       title: Cloud Developer
-    previous:
     - link: https://jobs.lever.co/verafin/c76aa616-4cbe-438d-a9ab-354785443b9c
       remote: false
       title: Software Developer
@@ -33,10 +40,8 @@ jobs:
       title: Senior Software Developer - Remote Canada
 - company: govnl
   jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/28457
-      remote: false
-      title: Computer Programmer I
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/job-details/28837
       remote: false
       title: Software Development Architect
@@ -46,7 +51,6 @@ jobs:
     - link: https://www.hiring.gov.nl.ca/job-details/28825
       remote: false
       title: Senior Programmer Analyst (Software Developer)
-    previous: []
 - company: milkmoovement
   jobs:
     current: []
@@ -118,16 +122,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: vish
-  jobs:
-    current: []
-    previous:
-    - link: https://getvish.com/about-vish/careers/#1680635740361-b13703b3-811d
-      remote: false
-      title: Senior Functional Developer (Scala)
-    - link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
-      remote: false
-      title: Senior Frontend Developer
 - company: kraken
   jobs:
     current: []
@@ -148,9 +142,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer
-    - link: https://www.virtualmarine.ca/careers
-      remote: false
-      title: Software Developer - Machine Learning
 - company: vision33
   jobs:
     current: []
@@ -207,4 +198,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-11-09
+updateDate: 2023-11-16

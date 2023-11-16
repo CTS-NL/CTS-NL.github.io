@@ -97,7 +97,12 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2023-11-16
+      jobs:
+        - title: Team Lead
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4749
+          remote: true
 - company: ccore
   jobs: []
 - company: otherocean
@@ -189,8 +194,6 @@
   jobs:
     - post_date: 2023-11-09
       jobs:
-        - title: Computer Programmer I
-          link: https://www.hiring.gov.nl.ca/job-details/28457
         - title: Software Development Architect
           link: https://www.hiring.gov.nl.ca/job-details/28837
         - title: Senior Programmer Analyst (UI/UX)
@@ -223,16 +226,8 @@
       jobs:
         - title: "Software Developer"
           link: https://www.virtualmarine.ca/careers
-        - title: "Software Developer - Machine Learning"
-          link: https://www.virtualmarine.ca/careers
 - company: vish
-  jobs:
-    - post_date: 2023-04-06
-      jobs:
-        - title: "Senior Functional Developer (Scala)"
-          link: https://getvish.com/about-vish/careers/#1680635740361-b13703b3-811d
-        - title: "Senior Frontend Developer"
-          link: https://getvish.com/about-vish/careers/#1680636072541-93bed6c6-9058
+  jobs: []
 - company: vision33
   jobs:
     - post_date: 2022-11-04

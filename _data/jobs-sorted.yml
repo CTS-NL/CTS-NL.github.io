@@ -1,11 +1,41 @@
 jobs:
-- company: mun
+- company: nlchi
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=481193&lang=en_CA
+      remote: false
+      title: Applications Analyst II, TFT
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
+      remote: false
+      title: Software Developers
+    previous:
+    - link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
+      remote: false
+      title: Software Developers
+    - link: https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
+      remote: false
+      title: Firmware Engineer
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/28836
+      remote: false
+      title: Solution Architect
+    previous:
+    - link: https://www.hiring.gov.nl.ca/job-details/28825
+      remote: false
+      title: Senior Programmer Analyst (Software Developer)
+- company: mun
+  jobs:
+    current: []
+    previous:
     - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4749
       remote: true
       title: Team Lead
-    previous: []
 - company: mysa
   jobs:
     current: []
@@ -38,29 +68,6 @@ jobs:
     - link: https://jobs.lever.co/verafin/f239034c-0895-48d2-a7b1-dabf8982355b
       remote: false
       title: Senior Software Developer - Remote Canada
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/28837
-      remote: false
-      title: Software Development Architect
-    - link: https://www.hiring.gov.nl.ca/job-details/28822
-      remote: false
-      title: Senior Programmer Analyst (UI/UX)
-    - link: https://www.hiring.gov.nl.ca/job-details/28825
-      remote: false
-      title: Senior Programmer Analyst (Software Developer)
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/c334a35a-ae61-4a10-b6cf-04b094c59b98
-      remote: false
-      title: Mobile Developer II
-    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
-      remote: false
-      title: Full Stack Developer III
 - company: bluecross
   jobs:
     current: []
@@ -95,6 +102,13 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
+      remote: false
+      title: Full Stack Developer III
 - company: nlhydro
   jobs:
     current: []
@@ -122,16 +136,6 @@ jobs:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
-      remote: false
-      title: Software Developers
-    - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
-      remote: false
-      title: Firmware Engineer
 - company: vmt
   jobs:
     current: []
@@ -198,4 +202,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2023-11-16
+updateDate: 2023-11-23

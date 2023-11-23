@@ -11,7 +11,7 @@ jobs:
     current:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
-      title: Software Developers
+      title: Software Project Manager
     previous:
     - link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
       remote: false

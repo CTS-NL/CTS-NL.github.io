@@ -1,18 +1,18 @@
 jobs:
 - company: nlchi
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=481193&lang=en_CA
       remote: false
       title: Applications Analyst II, TFT
-    previous: []
 - company: kraken
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-    previous:
     - link: https://krakenstaging.wpsc.dev/wp-content/uploads/2023/04/Kraken-Robotics-Software-Developers-KRSI-2023-01.pdf
       remote: false
       title: Software Developers
@@ -21,21 +21,11 @@ jobs:
       title: Firmware Engineer
 - company: govnl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/job-details/28836
       remote: false
       title: Solution Architect
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/28825
-      remote: false
-      title: Senior Programmer Analyst (Software Developer)
-- company: mun
-  jobs:
-    current: []
-    previous:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4749
-      remote: true
-      title: Team Lead
 - company: mysa
   jobs:
     current: []
@@ -78,9 +68,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/574841717/
       remote: false
       title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/574751917/
-      remote: false
-      title: Sr. SharePoint Developer
 - company: stantec
   jobs:
     current: []
@@ -201,5 +188,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: true
-updateDate: 2023-11-23
+newPostings: false
+updateDate: 2023-11-30

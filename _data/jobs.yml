@@ -101,12 +101,7 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs:
-    - post_date: 2023-11-16
-      jobs:
-        - title: Team Lead
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=4749
-          remote: true
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -124,8 +119,6 @@
           link: "https://jobs.medaviebc.ca/job/_/574838417/"
         - title: "Sr. Programmer/Analyst"
           link: "https://jobs.medaviebc.ca/job/_/574841717/"
-        - title: "Sr. SharePoint Developer"
-          link: "https://jobs.medaviebc.ca/job/_/574751917/"
 - company: mysa
   jobs:
     - post_date: 2023-11-09
@@ -200,10 +193,6 @@
       jobs:
         - title: Solution Architect
           link: https://www.hiring.gov.nl.ca/job-details/28836
-    - post_date: 2023-11-09
-      jobs:
-        - title: Senior Programmer Analyst (Software Developer)
-          link: https://www.hiring.gov.nl.ca/job-details/28825
 - company: opasmobile
   jobs: []
 - company: instrumar

@@ -1,11 +1,11 @@
 jobs:
-- company: nlchi
+- company: intactlab
   jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=481193&lang=en_CA
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R138239
       remote: false
-      title: Applications Analyst II, TFT
+      title: Tech Lead - Data Security Project
+    previous: []
 - company: kraken
   jobs:
     current: []
@@ -19,13 +19,6 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/04/Kraken-Robotics-Firmware-Engineer-KRSI-2023-04.pdf
       remote: false
       title: Firmware Engineer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/28836
-      remote: false
-      title: Solution Architect
 - company: mysa
   jobs:
     current: []
@@ -36,9 +29,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/22e227c4-a04c-4624-a161-eb6e3f18c5f4
       remote: false
       title: Senior DevOps Engineer
-    - link: https://jobs.lever.co/getmysa/e1d93a6e-9669-4110-9ac6-b31be541b7e4
-      remote: false
-      title: Senior Full Stack Developer
 - company: verafin
   jobs:
     current: []
@@ -89,13 +79,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/16221e87-bbc9-4718-aa54-3f3ce63edbd3
-      remote: false
-      title: Full Stack Developer III
 - company: nlhydro
   jobs:
     current: []
@@ -110,12 +93,6 @@ jobs:
     - link: https://trophiai.bamboohr.com/careers/35
       remote: false
       title: Sr. Software Developer
-    - link: https://trophiai.bamboohr.com/careers/40
-      remote: false
-      title: UX/UI Designer
-    - link: https://trophiai.bamboohr.com/careers/31
-      remote: false
-      title: Sr. Game Developer
 - company: spellbook
   jobs:
     current: []
@@ -188,5 +165,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: false
-updateDate: 2023-11-30
+newPostings: true
+updateDate: 2023-12-14

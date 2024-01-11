@@ -1,31 +1,44 @@
 jobs:
-- company: trophiai
+- company: milkmoovement
   jobs:
     current:
+    - link: https://jobs.lever.co/milk-moovement/5b69f741-cd69-4fe0-9deb-76a8efa818a0
+      remote: false
+      title: Data Engineer II
+    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
+      remote: false
+      title: Full Stack Developer II
+    previous: []
+- company: spellbook
+  jobs:
+    current:
+    - link: https://rallynow.freshteam.com/jobs/mmD6QpXsHHKj/intermediate-full-stack-engineer-remote
+      remote: false
+      title: Intermediate Full-Stack Engineer
+    previous:
+    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+      remote: false
+      title: Full-Stack Engineer
+- company: trophiai
+  jobs:
+    current: []
+    previous:
     - link: https://trophiai.bamboohr.com/careers/31
       remote: false
       title: Sr. Game Developer
-    previous:
     - link: https://trophiai.bamboohr.com/careers/35
       remote: false
       title: Sr. Software Developer
-- company: nlc
-  jobs:
-    current:
-    - link: https://www.careerbeacon.com/en/job/1948305/newfoundland-labrador-liquor-corporation/computer-programmer-ii/st-john-s
-      remote: false
-      title: Computer Programmer II
-    previous: []
 - company: heyorca
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://secure.collage.co/jobs/heyorca/42446
       remote: false
       title: Mobile App Developer
     - link: https://secure.collage.co/jobs/heyorca/42447
       remote: false
       title: Full-Stack Web Developer
-    previous: []
 - company: intactlab
   jobs:
     current: []
@@ -47,13 +60,6 @@ jobs:
     - link: https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38
       remote: false
       title: Senior Software Developer - DevOps
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/574841717/
-      remote: false
-      title: Sr. Programmer/Analyst
 - company: stantec
   jobs:
     current: []
@@ -82,13 +88,6 @@ jobs:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
       remote: false
       title: Software Specialist
-- company: spellbook
-  jobs:
-    current: []
-    previous:
-    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-      remote: false
-      title: Full-Stack Engineer
 - company: vmt
   jobs:
     current: []
@@ -155,4 +154,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-01-04
+updateDate: 2024-01-11

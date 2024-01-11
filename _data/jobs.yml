@@ -80,11 +80,7 @@
 - company: mariner
   jobs: []
 - company: nlc
-  jobs:
-    - post_date: 2024-01-04
-      jobs:
-        - title: Computer Programmer II
-          link: https://www.careerbeacon.com/en/job/1948305/newfoundland-labrador-liquor-corporation/computer-programmer-ii/st-john-s
+  jobs: []
 - company: northatlantic
   jobs: []
 - company: mobia
@@ -112,11 +108,7 @@
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
           remote: true
 - company: bluecross
-  jobs:
-    - post_date: 2023-09-14
-      jobs:
-        - title: "Sr. Programmer/Analyst"
-          link: "https://jobs.medaviebc.ca/job/_/574841717/"
+  jobs: []
 - company: mysa
   jobs:
     - post_date: 2023-11-09
@@ -152,7 +144,13 @@
 - company: rmspope
   jobs: []
 - company: milkmoovement
-  jobs: []
+  jobs:
+    - post_date: 2024-01-11
+      jobs:
+        - title: Data Engineer II
+          link: https://jobs.lever.co/milk-moovement/5b69f741-cd69-4fe0-9deb-76a8efa818a0
+        - title: Full Stack Developer II
+          link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
 - company: nlhydro
   jobs:
     - post_date: 2023-07-06
@@ -203,6 +201,10 @@
   jobs: []
 - company: spellbook
   jobs:
+    - post_date: 2024-01-11
+      jobs:
+        - title: Intermediate Full-Stack Engineer
+          link: https://rallynow.freshteam.com/jobs/mmD6QpXsHHKj/intermediate-full-stack-engineer-remote
     - post_date: 2023-06-01
       jobs:
         - title: Full-Stack Engineer

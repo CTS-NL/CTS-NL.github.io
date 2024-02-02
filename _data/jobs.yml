@@ -84,16 +84,7 @@
 - company: northatlantic
   jobs: []
 - company: mobia
-  jobs:
-    - post_date: 2023-08-03
-      jobs:
-        - title: Senior Microsoft Azure Engineers
-          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
-          remote: true
-#          mirror
-#        - title: Senior Microsoft Azure Engineers
-#          link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10314
-#          remote: true
+  jobs: []
 - company: genoa
   jobs: []
 - company: mun
@@ -108,13 +99,13 @@
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
           remote: true
 - company: bluecross
-  jobs: []
-- company: mysa
   jobs:
-    - post_date: 2023-11-09
+    - post_date: 2024-02-01
       jobs:
-        - title: "Senior Software Developer - DevOps"
-          link: "https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38"
+        - title: "Sr. Programmer/Analyst"
+          link: "https://jobs.medaviebc.ca/job/_/577660617/"
+- company: mysa
+  jobs: []
 - company: heyorca
   jobs:
     - post_date: 2024-01-04
@@ -130,7 +121,11 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs: []
+  jobs:
+    - post_date: 2024-02-01
+      jobs:
+        - title: Senior Developer
+          link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
 - company: kraken
   jobs:
     - post_date: 2023-11-23
@@ -158,19 +153,33 @@
         - title: Software Specialist
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2024-02-01
+      jobs:
+        - title: Senior Security Analyst
+          link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
+        - title: Senior Systems Analyst (Application Developer)
+          link: https://www.hiring.gov.nl.ca/job-details/29007
+        - title: Senior Programmer Analyst (Web Developer)
+          link: https://www.hiring.gov.nl.ca/job-details/28941
 - company: opasmobile
   jobs: []
+- company: ican
+  jobs:
+    - post_date: 2024-02-01
+      jobs:
+        - title: "Software Developers"
+          link: https://icanmarine.com/careers/
 - company: instrumar
   jobs: []
 - company: inspectar
   jobs: []
 - company: intactlab
   jobs:
-    - post_date: 2023-12-14
+    - post_date: 2024-02-01
       jobs:
-        - title: "Tech Lead - Data Security Project"
-          link: https://careers.intactfc.com/ca/en/job/R138239
+        - title: "Senior iOS Developer"
+          link: https://careers.intactfc.com/ca/en/job/R132678/Senior-iOS-Developer
 - company: workplacenl
   jobs: []
 - company: wood
@@ -192,11 +201,7 @@
 - company: vish
   jobs: []
 - company: vision33
-  jobs:
-    - post_date: 2022-11-04
-      jobs:
-        - title: Software Developer
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
+  jobs: []
 - company: breathesuite
   jobs: []
 - company: spellbook

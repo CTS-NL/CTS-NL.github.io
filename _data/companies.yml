@@ -171,6 +171,10 @@ hyke:
   name: Hyke
   url: https://hykeup.com/
   local: true
+ican:
+  name: ICAN Marine
+  url: https://icanmarine.com/
+  local: true
 ici:
   name: ICI Innovations
   url: http://www.iciinnovations.com

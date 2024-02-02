@@ -1,21 +1,55 @@
 jobs:
-- company: milkmoovement
+- company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/577660617/
+      remote: false
+      title: Sr. Programmer/Analyst
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
+      remote: false
+      title: Senior Security Analyst
+    - link: https://www.hiring.gov.nl.ca/job-details/29007
+      remote: false
+      title: Senior Systems Analyst (Application Developer)
+    - link: https://www.hiring.gov.nl.ca/job-details/28941
+      remote: false
+      title: Senior Programmer Analyst (Web Developer)
+    previous: []
+- company: ican
+  jobs:
+    current:
+    - link: https://icanmarine.com/careers/
+      remote: false
+      title: Software Developers
+    previous: []
+- company: intactlab
+  jobs:
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R132678/Senior-iOS-Developer
+      remote: false
+      title: Senior iOS Developer
+    previous: []
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/5b69f741-cd69-4fe0-9deb-76a8efa818a0
       remote: false
       title: Data Engineer II
     - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
       remote: false
       title: Full Stack Developer II
-    previous: []
 - company: spellbook
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://rallynow.freshteam.com/jobs/mmD6QpXsHHKj/intermediate-full-stack-engineer-remote
       remote: false
       title: Intermediate Full-Stack Engineer
-    previous:
     - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
       remote: false
       title: Full-Stack Engineer
@@ -39,13 +73,13 @@ jobs:
     - link: https://secure.collage.co/jobs/heyorca/42447
       remote: false
       title: Full-Stack Web Developer
-- company: intactlab
+- company: colab
   jobs:
     current: []
     previous:
-    - link: https://careers.intactfc.com/ca/en/job/R138239
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
       remote: false
-      title: Tech Lead - Data Security Project
+      title: Senior Developer
 - company: kraken
   jobs:
     current: []
@@ -53,13 +87,6 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/06cdfcdf-f372-4c0a-ab0e-49e6f47cae38
-      remote: false
-      title: Senior Software Developer - DevOps
 - company: stantec
   jobs:
     current: []
@@ -67,13 +94,6 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
       title: Application Developer
-- company: mobia
-  jobs:
-    current: []
-    previous:
-    - link: https://can231.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/10516
-      remote: true
-      title: Senior Microsoft Azure Engineers
 - company: smartdoor
   jobs:
     current: []
@@ -96,13 +116,6 @@ jobs:
       remote: false
       title: Game Developer
     - link: https://www.virtualmarine.ca/careers
-      remote: false
-      title: Software Developer
-- company: vision33
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
       remote: false
       title: Software Developer
 - company: easternhealth
@@ -154,4 +167,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-01-11
+updateDate: 2024-02-01

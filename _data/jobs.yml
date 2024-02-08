@@ -61,6 +61,12 @@
           remote: false
 - company: stantec
   jobs:
+    - post_date: 2024-02-08
+      jobs:
+        - title: Team lead, Application Development
+          link: https://stantec.jobs/nl-can/team-lead-application-development/F191991DBEA04752B9D910AD50FC9CF3/job/
+        - title: Oracle Application Developer
+          link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
     - post_date: 2023-08-24
       jobs:
         - title: Application Developer
@@ -160,8 +166,6 @@
           link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
         - title: Senior Systems Analyst (Application Developer)
           link: https://www.hiring.gov.nl.ca/job-details/29007
-        - title: Senior Programmer Analyst (Web Developer)
-          link: https://www.hiring.gov.nl.ca/job-details/28941
 - company: opasmobile
   jobs: []
 - company: ican
@@ -175,11 +179,7 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs:
-    - post_date: 2024-02-01
-      jobs:
-        - title: "Senior iOS Developer"
-          link: https://careers.intactfc.com/ca/en/job/R132678/Senior-iOS-Developer
+  jobs: []
 - company: workplacenl
   jobs: []
 - company: wood

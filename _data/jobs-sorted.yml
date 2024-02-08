@@ -1,38 +1,48 @@
 jobs:
-- company: bluecross
+- company: stantec
   jobs:
     current:
+    - link: https://stantec.jobs/nl-can/team-lead-application-development/F191991DBEA04752B9D910AD50FC9CF3/job/
+      remote: false
+      title: Team lead, Application Development
+    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
+      remote: false
+      title: Oracle Application Developer
+    previous:
+    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
+      remote: false
+      title: Application Developer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/577660617/
       remote: false
       title: Sr. Programmer/Analyst
-    previous: []
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
 - company: govnl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
       remote: false
       title: Senior Security Analyst
     - link: https://www.hiring.gov.nl.ca/job-details/29007
       remote: false
       title: Senior Systems Analyst (Application Developer)
-    - link: https://www.hiring.gov.nl.ca/job-details/28941
-      remote: false
-      title: Senior Programmer Analyst (Web Developer)
-    previous: []
 - company: ican
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://icanmarine.com/careers/
       remote: false
       title: Software Developers
-    previous: []
-- company: intactlab
-  jobs:
-    current:
-    - link: https://careers.intactfc.com/ca/en/job/R132678/Senior-iOS-Developer
-      remote: false
-      title: Senior iOS Developer
-    previous: []
 - company: milkmoovement
   jobs:
     current: []
@@ -73,13 +83,6 @@ jobs:
     - link: https://secure.collage.co/jobs/heyorca/42447
       remote: false
       title: Full-Stack Web Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
 - company: kraken
   jobs:
     current: []
@@ -87,13 +90,6 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-- company: stantec
-  jobs:
-    current: []
-    previous:
-    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
-      remote: false
-      title: Application Developer
 - company: smartdoor
   jobs:
     current: []
@@ -167,4 +163,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-02-01
+updateDate: 2024-02-08

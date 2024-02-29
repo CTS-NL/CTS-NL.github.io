@@ -18,7 +18,7 @@ environment for everybody.
 ## Need Help?
 
 Contact a member of the executive or organizer of any event. In Slack, the executive can be identified by the crown
-next to their names. The executive can also be reached by email at computer.tech.society.nl@gmail.com.
+next to their names. The executive can also be reached by email at contact@ctsnl.ca.
 
 ## Purpose
 

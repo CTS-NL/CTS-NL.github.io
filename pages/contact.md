@@ -10,7 +10,7 @@ permalink: "/contact/"
 ---
 
 Want to get in touch with us? Use this convenient form below of email us directly at
-[computer.tech.society.nl@gmail.com](mailto:computer.tech.society.nl@gmail.com).
+[contact@ctsnl.ca](mailto:contact@ctsnl.ca).
 
 <form id="contact-form" action="" method="POST">
 	<input type="hidden" name="_next" value="{{site.url}}/contact-thankyou/">

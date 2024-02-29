@@ -1,24 +1,31 @@
 jobs:
-- company: stantec
+- company: milkmoovement
   jobs:
     current:
-    - link: https://stantec.jobs/nl-can/team-lead-application-development/F191991DBEA04752B9D910AD50FC9CF3/job/
+    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
       remote: false
-      title: Team lead, Application Development
-    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
-      remote: false
-      title: Oracle Application Developer
+      title: Software Development Engineer in Test
     previous:
-    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
+    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
       remote: false
-      title: Application Developer
-- company: bluecross
+      title: Full Stack Developer II
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/29202
+      remote: false
+      title: Senior Programmer Analyst
+    previous: []
+- company: stantec
   jobs:
     current: []
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/577660617/
+    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
-      title: Sr. Programmer/Analyst
+      title: Oracle Application Developer
+    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
+      remote: false
+      title: Application Developer
 - company: colab
   jobs:
     current: []
@@ -26,16 +33,6 @@ jobs:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
       remote: false
       title: Senior Developer
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
-      remote: false
-      title: Senior Security Analyst
-    - link: https://www.hiring.gov.nl.ca/job-details/29007
-      remote: false
-      title: Senior Systems Analyst (Application Developer)
 - company: ican
   jobs:
     current: []
@@ -43,16 +40,6 @@ jobs:
     - link: https://icanmarine.com/careers/
       remote: false
       title: Software Developers
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/5b69f741-cd69-4fe0-9deb-76a8efa818a0
-      remote: false
-      title: Data Engineer II
-    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
-      remote: false
-      title: Full Stack Developer II
 - company: spellbook
   jobs:
     current: []
@@ -73,16 +60,6 @@ jobs:
     - link: https://trophiai.bamboohr.com/careers/35
       remote: false
       title: Sr. Software Developer
-- company: heyorca
-  jobs:
-    current: []
-    previous:
-    - link: https://secure.collage.co/jobs/heyorca/42446
-      remote: false
-      title: Mobile App Developer
-    - link: https://secure.collage.co/jobs/heyorca/42447
-      remote: false
-      title: Full-Stack Web Developer
 - company: kraken
   jobs:
     current: []
@@ -163,4 +140,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-02-08
+updateDate: 2024-02-29

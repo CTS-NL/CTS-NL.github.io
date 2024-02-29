@@ -63,8 +63,6 @@
   jobs:
     - post_date: 2024-02-08
       jobs:
-        - title: Team lead, Application Development
-          link: https://stantec.jobs/nl-can/team-lead-application-development/F191991DBEA04752B9D910AD50FC9CF3/job/
         - title: Oracle Application Developer
           link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
     - post_date: 2023-08-24
@@ -105,21 +103,11 @@
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
           remote: true
 - company: bluecross
-  jobs:
-    - post_date: 2024-02-01
-      jobs:
-        - title: "Sr. Programmer/Analyst"
-          link: "https://jobs.medaviebc.ca/job/_/577660617/"
+  jobs: []
 - company: mysa
   jobs: []
 - company: heyorca
-  jobs:
-    - post_date: 2024-01-04
-      jobs:
-        - title: "Mobile App Developer"
-          link: "https://secure.collage.co/jobs/heyorca/42446"
-        - title: "Full-Stack Web Developer"
-          link: "https://secure.collage.co/jobs/heyorca/42447"
+  jobs: []
 - company: compusult
   jobs:
     - post_date: 2021-09-10
@@ -146,10 +134,12 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2024-02-29
+      jobs:
+        - title: Software Development Engineer in Test
+          link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
     - post_date: 2024-01-11
       jobs:
-        - title: Data Engineer II
-          link: https://jobs.lever.co/milk-moovement/5b69f741-cd69-4fe0-9deb-76a8efa818a0
         - title: Full Stack Developer II
           link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
 - company: nlhydro
@@ -160,12 +150,10 @@
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
   jobs:
-    - post_date: 2024-02-01
+    - post_date: 2024-02-29
       jobs:
-        - title: Senior Security Analyst
-          link: https://myavanti.ca/workatNLHC/Job/Details/2023-011
-        - title: Senior Systems Analyst (Application Developer)
-          link: https://www.hiring.gov.nl.ca/job-details/29007
+        - title: Senior Programmer Analyst
+          link: https://www.hiring.gov.nl.ca/job-details/29202
 - company: opasmobile
   jobs: []
 - company: ican

@@ -5,7 +5,12 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs: []
+  jobs:
+    - post_date: 2024-03-14
+      jobs:
+        - title: Developer - Software I
+          link: https://careers.blood.ca/job/_/578916817/
+          remote: true
 - company: clearrisk
   jobs: []
 - company: cna
@@ -65,10 +70,6 @@
       jobs:
         - title: Oracle Application Developer
           link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
-    - post_date: 2023-08-24
-      jobs:
-        - title: Application Developer
-          link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
 - company: triware
   jobs: []
 - company: quorum
@@ -103,7 +104,18 @@
           link: https://otherocean.com/jobs/Senior_Programmer.pdf
           remote: true
 - company: bluecross
-  jobs: []
+  jobs:
+    - post_date: 2024-03-14
+      jobs:
+        - title: MS SQL Database Administrator
+          link: https://jobs.medaviebc.ca/job/_/579147917/
+          remote: true
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/579005917/
+          remote: true
+        - title: Intermediate Site Reliability Engineer
+          link: https://jobs.medaviebc.ca/job/_/579045117/
+          remote: true
 - company: mysa
   jobs: []
 - company: heyorca
@@ -122,6 +134,10 @@
           link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
 - company: kraken
   jobs:
+    - post_date: 2024-03-14
+      jobs:
+        - title: Software Developer
+          link: https://krakenrobotics.com/wp-content/uploads/2024/03/Kraken-Robotics-Careers-Opportunity-Software-Developer-KRSI-2024-04.pdf
     - post_date: 2023-11-23
       jobs:
         - title: Software Project Manager
@@ -150,10 +166,10 @@
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
   jobs:
-    - post_date: 2024-02-29
+    - post_date: 2024-03-14
       jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.hiring.gov.nl.ca/job-details/29202
+        - title: "Computer Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/job-details/29303
 - company: opasmobile
   jobs: []
 - company: ican

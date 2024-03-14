@@ -1,21 +1,51 @@
 jobs:
-- company: milkmoovement
+- company: cbs
   jobs:
     current:
-    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
+    - link: https://careers.blood.ca/job/_/578916817/
+      remote: true
+      title: Developer - Software I
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/579147917/
+      remote: true
+      title: MS SQL Database Administrator
+    - link: https://jobs.medaviebc.ca/job/_/579005917/
+      remote: true
+      title: Sr. Programmer/Analyst
+    - link: https://jobs.medaviebc.ca/job/_/579045117/
+      remote: true
+      title: Intermediate Site Reliability Engineer
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://krakenrobotics.com/wp-content/uploads/2024/03/Kraken-Robotics-Careers-Opportunity-Software-Developer-KRSI-2024-04.pdf
       remote: false
-      title: Software Development Engineer in Test
+      title: Software Developer
     previous:
-    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
+    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
-      title: Full Stack Developer II
+      title: Software Project Manager
 - company: govnl
   jobs:
     current:
-    - link: https://www.hiring.gov.nl.ca/job-details/29202
+    - link: https://www.hiring.gov.nl.ca/job-details/29303
       remote: false
-      title: Senior Programmer Analyst
+      title: Computer Programmer Analyst
     previous: []
+- company: milkmoovement
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
+      remote: false
+      title: Software Development Engineer in Test
+    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
+      remote: false
+      title: Full Stack Developer II
 - company: stantec
   jobs:
     current: []
@@ -23,9 +53,6 @@ jobs:
     - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
       title: Oracle Application Developer
-    - link: https://stantec.jobs/st-johns-nl/application-developer/B821030CB29540F4A69C9227202CC289/job/
-      remote: false
-      title: Application Developer
 - company: colab
   jobs:
     current: []
@@ -60,13 +87,6 @@ jobs:
     - link: https://trophiai.bamboohr.com/careers/35
       remote: false
       title: Sr. Software Developer
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
-      remote: false
-      title: Software Project Manager
 - company: smartdoor
   jobs:
     current: []
@@ -140,4 +160,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-02-29
+updateDate: 2024-03-14

@@ -1,41 +1,31 @@
 jobs:
-- company: cbs
+- company: govnl
   jobs:
     current:
-    - link: https://careers.blood.ca/job/_/578916817/
-      remote: true
-      title: Developer - Software I
+    - link: https://www.hiring.gov.nl.ca/job-details/29291
+      remote: false
+      title: Senior Programmer Analyst (Software Developer)
     previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/579147917/
       remote: true
       title: MS SQL Database Administrator
     - link: https://jobs.medaviebc.ca/job/_/579005917/
       remote: true
       title: Sr. Programmer/Analyst
-    - link: https://jobs.medaviebc.ca/job/_/579045117/
-      remote: true
-      title: Intermediate Site Reliability Engineer
-    previous: []
 - company: kraken
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/03/Kraken-Robotics-Careers-Opportunity-Software-Developer-KRSI-2024-04.pdf
       remote: false
       title: Software Developer
-    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/29303
-      remote: false
-      title: Computer Programmer Analyst
-    previous: []
 - company: milkmoovement
   jobs:
     current: []
@@ -67,16 +57,6 @@ jobs:
     - link: https://icanmarine.com/careers/
       remote: false
       title: Software Developers
-- company: spellbook
-  jobs:
-    current: []
-    previous:
-    - link: https://rallynow.freshteam.com/jobs/mmD6QpXsHHKj/intermediate-full-stack-engineer-remote
-      remote: false
-      title: Intermediate Full-Stack Engineer
-    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-      remote: false
-      title: Full-Stack Engineer
 - company: trophiai
   jobs:
     current: []
@@ -101,6 +81,13 @@ jobs:
     - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
       remote: false
       title: Software Specialist
+- company: spellbook
+  jobs:
+    current: []
+    previous:
+    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+      remote: false
+      title: Full-Stack Engineer
 - company: vmt
   jobs:
     current: []
@@ -160,4 +147,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-03-14
+updateDate: 2024-03-28

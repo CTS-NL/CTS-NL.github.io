@@ -5,12 +5,7 @@
 - company: aker
   jobs: []
 - company: cbs
-  jobs:
-    - post_date: 2024-03-14
-      jobs:
-        - title: Developer - Software I
-          link: https://careers.blood.ca/job/_/578916817/
-          remote: true
+  jobs: []
 - company: clearrisk
   jobs: []
 - company: cna
@@ -113,9 +108,6 @@
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/579005917/
           remote: true
-        - title: Intermediate Site Reliability Engineer
-          link: https://jobs.medaviebc.ca/job/_/579045117/
-          remote: true
 - company: mysa
   jobs: []
 - company: heyorca
@@ -166,10 +158,10 @@
           link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
 - company: govnl
   jobs:
-    - post_date: 2024-03-14
+    - post_date: 2024-03-28
       jobs:
-        - title: "Computer Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/job-details/29303
+        - title: "Senior Programmer Analyst (Software Developer)"
+          link: https://www.hiring.gov.nl.ca/job-details/29291
 - company: opasmobile
   jobs: []
 - company: ican
@@ -210,10 +202,6 @@
   jobs: []
 - company: spellbook
   jobs:
-    - post_date: 2024-01-11
-      jobs:
-        - title: Intermediate Full-Stack Engineer
-          link: https://rallynow.freshteam.com/jobs/mmD6QpXsHHKj/intermediate-full-stack-engineer-remote
     - post_date: 2023-06-01
       jobs:
         - title: Full-Stack Engineer

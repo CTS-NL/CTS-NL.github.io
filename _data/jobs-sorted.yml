@@ -1,11 +1,18 @@
 jobs:
-- company: govnl
+- company: intactlab
   jobs:
     current:
+    - link: https://careers.intactfc.com/ca/en/job/R139483/Intermediate-Front-end-Web-Developer
+      remote: false
+      title: Intermediate Front-end Web Developer
+    previous: []
+- company: govnl
+  jobs:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/job-details/29291
       remote: false
       title: Senior Programmer Analyst (Software Developer)
-    previous: []
 - company: bluecross
   jobs:
     current: []
@@ -74,13 +81,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: nlhydro
-  jobs:
-    current: []
-    previous:
-    - link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
-      remote: false
-      title: Software Specialist
 - company: spellbook
   jobs:
     current: []
@@ -98,13 +98,6 @@ jobs:
     - link: https://www.virtualmarine.ca/careers
       remote: false
       title: Software Developer
-- company: easternhealth
-  jobs:
-    current: []
-    previous:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
-      remote: true
-      title: Computer Programmer/Analyst
 - company: strobeltek
   jobs:
     current: []
@@ -147,4 +140,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-03-28
+updateDate: 2024-04-04

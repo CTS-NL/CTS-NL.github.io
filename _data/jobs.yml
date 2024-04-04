@@ -13,12 +13,7 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs:
-    - post_date: 2022-06-24
-      jobs:
-        - title: Computer Programmer/Analyst
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
-          remote: true
+  jobs: []
 - company: fonemed
   jobs: []
 - company: nlchi
@@ -151,11 +146,7 @@
         - title: Full Stack Developer II
           link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
 - company: nlhydro
-  jobs:
-    - post_date: 2023-07-06
-      jobs:
-        - title: Software Specialist
-          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-RE-23-113?OpenDocument
+  jobs: []
 - company: govnl
   jobs:
     - post_date: 2024-03-28
@@ -175,7 +166,11 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs: []
+  jobs:
+    - post_date: 2024-04-04
+      jobs:
+        - title: "Intermediate Front-end Web Developer"
+          link: https://careers.intactfc.com/ca/en/job/R139483/Intermediate-Front-end-Web-Developer
 - company: workplacenl
   jobs: []
 - company: wood

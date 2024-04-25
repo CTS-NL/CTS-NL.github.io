@@ -56,6 +56,10 @@
           remote: false
 - company: stantec
   jobs:
+    - post_date: 2024-04-25
+      jobs:
+        - title: Senior Software Developer
+          link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
     - post_date: 2024-02-08
       jobs:
         - title: Oracle Application Developer
@@ -85,7 +89,11 @@
 - company: mun
   jobs: []
 - company: ccore
-  jobs: []
+  jobs:
+    - post_date: 2022-04-25
+      jobs:
+        - title: Full Stack Developer
+          link: https://ca.indeed.com/viewjob?t=Full+Stack+Developer&jk=c87c59e160b271c6&xpse=SoBz67I3BLvtCcxcGR0LbzkdCdPP
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -95,11 +103,16 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2024-04-25
+      jobs:
+        - title: Intermediate Programmer Analyst
+          link: https://jobs.medaviebc.ca/job/_/579523517/
+          remote: true
+        - title: Sr. SharePoint Developer
+          link: https://jobs.medaviebc.ca/job/_/574751917/
+          remote: true
     - post_date: 2024-03-14
       jobs:
-        - title: MS SQL Database Administrator
-          link: https://jobs.medaviebc.ca/job/_/579147917/
-          remote: true
         - title: Sr. Programmer/Analyst
           link: https://jobs.medaviebc.ca/job/_/579005917/
           remote: true
@@ -148,11 +161,7 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-    - post_date: 2024-03-28
-      jobs:
-        - title: "Senior Programmer Analyst (Software Developer)"
-          link: https://www.hiring.gov.nl.ca/job-details/29291
+  jobs: []
 - company: opasmobile
   jobs: []
 - company: ican
@@ -166,11 +175,7 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs:
-    - post_date: 2024-04-04
-      jobs:
-        - title: "Intermediate Front-end Web Developer"
-          link: https://careers.intactfc.com/ca/en/job/R139483/Intermediate-Front-end-Web-Developer
+  jobs: []
 - company: workplacenl
   jobs: []
 - company: wood

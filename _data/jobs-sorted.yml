@@ -1,25 +1,24 @@
 jobs:
-- company: intactlab
+- company: stantec
   jobs:
     current:
-    - link: https://careers.intactfc.com/ca/en/job/R139483/Intermediate-Front-end-Web-Developer
+    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
       remote: false
-      title: Intermediate Front-end Web Developer
-    previous: []
-- company: govnl
-  jobs:
-    current: []
+      title: Senior Software Developer
     previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/29291
+    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
       remote: false
-      title: Senior Programmer Analyst (Software Developer)
+      title: Oracle Application Developer
 - company: bluecross
   jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/579147917/
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/579523517/
       remote: true
-      title: MS SQL Database Administrator
+      title: Intermediate Programmer Analyst
+    - link: https://jobs.medaviebc.ca/job/_/574751917/
+      remote: true
+      title: Sr. SharePoint Developer
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/579005917/
       remote: true
       title: Sr. Programmer/Analyst
@@ -43,13 +42,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
       remote: false
       title: Full Stack Developer II
-- company: stantec
-  jobs:
-    current: []
-    previous:
-    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
-      remote: false
-      title: Oracle Application Developer
 - company: colab
   jobs:
     current: []
@@ -108,6 +100,13 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
+- company: ccore
+  jobs:
+    current: []
+    previous:
+    - link: https://ca.indeed.com/viewjob?t=Full+Stack+Developer&jk=c87c59e160b271c6&xpse=SoBz67I3BLvtCcxcGR0LbzkdCdPP
+      remote: false
+      title: Full Stack Developer
 - company: otherocean
   jobs:
     current: []
@@ -140,4 +139,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-04-04
+updateDate: 2024-04-25

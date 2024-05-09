@@ -1,27 +1,27 @@
 jobs:
-- company: stantec
-  jobs:
-    current:
-    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
-      remote: false
-      title: Senior Software Developer
-    previous:
-    - link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
-      remote: false
-      title: Oracle Application Developer
 - company: bluecross
   jobs:
     current:
+    - link: https://jobs.medaviebc.ca/job/_/580854117/
+      remote: true
+      title: Programmer/Analyst
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/579523517/
       remote: true
       title: Intermediate Programmer Analyst
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/579005917/
       remote: true
       title: Sr. Programmer/Analyst
+- company: stantec
+  jobs:
+    current: []
+    previous:
+    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
+      remote: false
+      title: Senior Software Developer
 - company: kraken
   jobs:
     current: []
@@ -139,4 +139,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-04-25
+updateDate: 2024-05-09

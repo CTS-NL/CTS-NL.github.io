@@ -60,10 +60,6 @@
       jobs:
         - title: Senior Software Developer
           link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
-    - post_date: 2024-02-08
-      jobs:
-        - title: Oracle Application Developer
-          link: https://stantec.jobs/st-johns-nl/oracle-application-developer/B821030CB29540F4A69C9227202CC289/job/
 - company: triware
   jobs: []
 - company: quorum
@@ -103,6 +99,11 @@
           remote: true
 - company: bluecross
   jobs:
+    - post_date: 2024-05-09
+      jobs:
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/580854117/
+          remote: true
     - post_date: 2024-04-25
       jobs:
         - title: Intermediate Programmer Analyst

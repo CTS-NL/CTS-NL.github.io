@@ -1,11 +1,58 @@
 jobs:
-- company: bluecross
+- company: mun
   jobs:
     current:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
+      remote: false
+      title: Senior Programmer Analyst
+    previous: []
+- company: colab
+  jobs:
+    current:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
+      remote: false
+      title: Engineering Manager
+    previous:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
+      remote: false
+      title: Intermediate Full Stack Developer
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
+      remote: false
+      title: Software Development Engineer in Test
+- company: intactlab
+  jobs:
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developer
+      remote: false
+      title: Senior Software Developer
+    previous: []
+- company: avalonholo
+  jobs:
+    current:
+    - link: https://www.avalonholographics.com/careers
+      remote: false
+      title: Software QA Tester
+    previous:
+    - link: https://www.avalonholographics.com/careers
+      remote: false
+      title: FPGA Designer
+    - link: https://www.avalonholographics.com/careers
+      remote: false
+      title: Software Engineer
+- company: bluecross
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/580854117/
       remote: true
       title: Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/579523517/
       remote: true
       title: Intermediate Programmer Analyst
@@ -32,23 +79,6 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
-      remote: false
-      title: Software Development Engineer in Test
-    - link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
-      remote: false
-      title: Full Stack Developer II
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
 - company: ican
   jobs:
     current: []
@@ -121,16 +151,6 @@ jobs:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
-- company: avalonholo
-  jobs:
-    current: []
-    previous:
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: FPGA Designer
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: Software Engineer
 - company: ioa
   jobs:
     current: []
@@ -139,4 +159,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-05-09
+updateDate: 2024-05-16

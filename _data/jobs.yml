@@ -83,7 +83,11 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2024-05-16
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
 - company: ccore
   jobs:
     - post_date: 2022-04-25
@@ -129,6 +133,10 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    - post_date: 2024-05-16
+      jobs:
+        - title: Engineering Manager
+          link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
     - post_date: 2024-02-01
       jobs:
         - title: Senior Developer
@@ -151,14 +159,14 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2024-05-16
+      jobs:
+        - title: Intermediate Full Stack Developer
+          link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
     - post_date: 2024-02-29
       jobs:
         - title: Software Development Engineer in Test
           link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
-    - post_date: 2024-01-11
-      jobs:
-        - title: Full Stack Developer II
-          link: https://jobs.lever.co/milk-moovement/5fecfd5a-416f-4bd7-a30a-3632e02bca56
 - company: nlhydro
   jobs: []
 - company: govnl
@@ -176,7 +184,11 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs: []
+  jobs:
+    - post_date: 2024-05-16
+      jobs:
+        - title: "Senior Software Developer"
+          link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developer
 - company: workplacenl
   jobs: []
 - company: wood
@@ -211,6 +223,10 @@
   jobs: []
 - company: avalonholo
   jobs:
+    - post_date: 2024-05-16
+      jobs:
+        - title: Software QA Tester
+          link: https://www.avalonholographics.com/careers
     - post_date: 2021-06-25
       jobs:
         - title: FPGA Designer

@@ -13,7 +13,11 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs: []
+  jobs:
+    - post_date: 2024-05-30
+      jobs:
+        - title: Computer Systems Analyst II
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104481
 - company: fonemed
   jobs: []
 - company: nlchi
@@ -34,6 +38,12 @@
   jobs: []
 - company: hatch
   jobs: []
+- company: solace
+  jobs:
+    - post_date: 2024-05-30
+      jobs:
+        - title: Software Developer
+          link: https://www.solace.ca/careers/software-developer
 - company: smartdoor
   jobs:
     - post_date: 2023-07-13
@@ -89,11 +99,7 @@
         - title: Senior Programmer Analyst
           link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
 - company: ccore
-  jobs:
-    - post_date: 2022-04-25
-      jobs:
-        - title: Full Stack Developer
-          link: https://ca.indeed.com/viewjob?t=Full+Stack+Developer&jk=c87c59e160b271c6&xpse=SoBz67I3BLvtCcxcGR0LbzkdCdPP
+  jobs: []
 - company: otherocean
   jobs:
     - post_date: 2022-03-18
@@ -103,11 +109,6 @@
           remote: true
 - company: bluecross
   jobs:
-    - post_date: 2024-05-09
-      jobs:
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/580854117/
-          remote: true
     - post_date: 2024-04-25
       jobs:
         - title: Intermediate Programmer Analyst
@@ -159,6 +160,10 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2024-05-30
+      jobs:
+        - title: Senior Full Stack Developer
+          link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
     - post_date: 2024-05-16
       jobs:
         - title: Intermediate Full Stack Developer
@@ -184,11 +189,7 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs:
-    - post_date: 2024-05-16
-      jobs:
-        - title: "Senior Software Developer"
-          link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developer
+  jobs: []
 - company: workplacenl
   jobs: []
 - company: wood

@@ -1,58 +1,72 @@
 jobs:
-- company: mun
+- company: easternhealth
   jobs:
     current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104481
       remote: false
-      title: Senior Programmer Analyst
+      title: Computer Systems Analyst II
     previous: []
-- company: colab
+- company: solace
   jobs:
     current:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
+    - link: https://www.solace.ca/careers/software-developer
       remote: false
-      title: Engineering Manager
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
+      title: Software Developer
+    previous: []
 - company: milkmoovement
   jobs:
     current:
+    - link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
+      remote: false
+      title: Senior Full Stack Developer
+    previous:
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
       remote: false
       title: Software Development Engineer in Test
-- company: intactlab
+- company: mun
   jobs:
-    current:
-    - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developer
+    current: []
+    previous:
+    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
       remote: false
-      title: Senior Software Developer
-    previous: []
+      title: Senior Programmer Analyst
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
+      remote: false
+      title: Engineering Manager
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
 - company: avalonholo
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.avalonholographics.com/careers
       remote: false
       title: Software QA Tester
-    previous:
     - link: https://www.avalonholographics.com/careers
       remote: false
       title: FPGA Designer
     - link: https://www.avalonholographics.com/careers
       remote: false
       title: Software Engineer
+- company: stantec
+  jobs:
+    current: []
+    previous:
+    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
+      remote: false
+      title: Senior Software Developer
 - company: bluecross
   jobs:
     current: []
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/580854117/
-      remote: true
-      title: Programmer/Analyst
     - link: https://jobs.medaviebc.ca/job/_/579523517/
       remote: true
       title: Intermediate Programmer Analyst
@@ -62,13 +76,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/579005917/
       remote: true
       title: Sr. Programmer/Analyst
-- company: stantec
-  jobs:
-    current: []
-    previous:
-    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
-      remote: false
-      title: Senior Software Developer
 - company: kraken
   jobs:
     current: []
@@ -130,13 +137,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: ccore
-  jobs:
-    current: []
-    previous:
-    - link: https://ca.indeed.com/viewjob?t=Full+Stack+Developer&jk=c87c59e160b271c6&xpse=SoBz67I3BLvtCcxcGR0LbzkdCdPP
-      remote: false
-      title: Full Stack Developer
 - company: otherocean
   jobs:
     current: []
@@ -159,4 +159,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-05-16
+updateDate: 2024-05-30

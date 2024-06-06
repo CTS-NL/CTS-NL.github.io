@@ -1,38 +1,38 @@
 jobs:
-- company: easternhealth
+- company: quorum
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=520753&lang=en_CA
+      remote: false
+      title: Intermediate Software Developer
+    previous: []
+- company: easternhealth
+  jobs:
+    current: []
+    previous:
     - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104481
       remote: false
       title: Computer Systems Analyst II
-    previous: []
 - company: solace
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.solace.ca/careers/software-developer
       remote: false
       title: Software Developer
-    previous: []
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
       remote: false
       title: Senior Full Stack Developer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
     - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
       remote: false
       title: Software Development Engineer in Test
-- company: mun
-  jobs:
-    current: []
-    previous:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5265
-      remote: false
-      title: Senior Programmer Analyst
 - company: colab
   jobs:
     current: []
@@ -159,4 +159,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-05-30
+updateDate: 2024-06-06

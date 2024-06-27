@@ -1,18 +1,18 @@
 jobs:
-- company: quorum
+- company: mysa
   jobs:
     current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=520753&lang=en_CA
+    - link: https://jobs.lever.co/getmysa/0849acf1-6f41-4b9c-87c1-38c3c87497e9
       remote: false
-      title: Intermediate Software Developer
+      title: Senior Data & Analytics Specialist
     previous: []
-- company: easternhealth
+- company: govnl
   jobs:
-    current: []
-    previous:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104481
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/29830
       remote: false
-      title: Computer Systems Analyst II
+      title: Senior Programmer Analyst
+    previous: []
 - company: solace
   jobs:
     current: []
@@ -30,32 +30,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
-    - link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
-      remote: false
-      title: Software Development Engineer in Test
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
-      remote: false
-      title: Engineering Manager
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
-- company: avalonholo
-  jobs:
-    current: []
-    previous:
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: Software QA Tester
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: FPGA Designer
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: Software Engineer
 - company: stantec
   jobs:
     current: []
@@ -67,15 +41,9 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/579523517/
-      remote: true
-      title: Intermediate Programmer Analyst
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
-    - link: https://jobs.medaviebc.ca/job/_/579005917/
-      remote: true
-      title: Sr. Programmer/Analyst
 - company: kraken
   jobs:
     current: []
@@ -86,6 +54,13 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
+- company: colab
+  jobs:
+    current: []
+    previous:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
 - company: ican
   jobs:
     current: []
@@ -137,13 +112,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: otherocean
-  jobs:
-    current: []
-    previous:
-    - link: https://otherocean.com/jobs/Senior_Programmer.pdf
-      remote: true
-      title: Senior Programmer
 - company: compusult
   jobs:
     current: []
@@ -151,6 +119,16 @@ jobs:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
+- company: avalonholo
+  jobs:
+    current: []
+    previous:
+    - link: https://www.avalonholographics.com/careers
+      remote: false
+      title: FPGA Designer
+    - link: https://www.avalonholographics.com/careers
+      remote: false
+      title: Software Engineer
 - company: ioa
   jobs:
     current: []
@@ -159,4 +137,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-06-06
+updateDate: 2024-06-27

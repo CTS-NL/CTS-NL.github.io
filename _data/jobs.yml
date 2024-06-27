@@ -13,11 +13,7 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs:
-    - post_date: 2024-05-30
-      jobs:
-        - title: Computer Systems Analyst II
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104481
+  jobs: []
 - company: fonemed
   jobs: []
 - company: nlchi
@@ -73,11 +69,7 @@
 - company: triware
   jobs: []
 - company: quorum
-  jobs:
-    - post_date: 2024-06-06
-      jobs:
-        - title: Intermediate Software Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=520753&lang=en_CA
+  jobs: []
 - company: enaimco
   jobs: []
 - company: inmarsat
@@ -101,29 +93,20 @@
 - company: ccore
   jobs: []
 - company: otherocean
-  jobs:
-    - post_date: 2022-03-18
-      jobs:
-        - title: Senior Programmer
-          link: https://otherocean.com/jobs/Senior_Programmer.pdf
-          remote: true
+  jobs: []
 - company: bluecross
   jobs:
     - post_date: 2024-04-25
       jobs:
-        - title: Intermediate Programmer Analyst
-          link: https://jobs.medaviebc.ca/job/_/579523517/
-          remote: true
         - title: Sr. SharePoint Developer
           link: https://jobs.medaviebc.ca/job/_/574751917/
           remote: true
-    - post_date: 2024-03-14
-      jobs:
-        - title: Sr. Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/579005917/
-          remote: true
 - company: mysa
-  jobs: []
+  jobs:
+    - post_date: 2024-06-27
+      jobs:
+        - title: "Senior Data & Analytics Specialist"
+          link: "https://jobs.lever.co/getmysa/0849acf1-6f41-4b9c-87c1-38c3c87497e9"
 - company: heyorca
   jobs: []
 - company: compusult
@@ -134,10 +117,6 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
-    - post_date: 2024-05-16
-      jobs:
-        - title: Engineering Manager
-          link: https://boards.greenhouse.io/colabsoftware/jobs/4019473008
     - post_date: 2024-02-01
       jobs:
         - title: Senior Developer
@@ -168,14 +147,14 @@
       jobs:
         - title: Intermediate Full Stack Developer
           link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
-    - post_date: 2024-02-29
-      jobs:
-        - title: Software Development Engineer in Test
-          link: https://jobs.lever.co/milk-moovement/260b679f-eec7-43ef-9220-b84ac3374f22
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs: []
+  jobs:
+    - post_date: 2024-06-27
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/job-details/29830
 - company: opasmobile
   jobs: []
 - company: ican
@@ -224,10 +203,6 @@
   jobs: []
 - company: avalonholo
   jobs:
-    - post_date: 2024-05-16
-      jobs:
-        - title: Software QA Tester
-          link: https://www.avalonholographics.com/careers
     - post_date: 2021-06-25
       jobs:
         - title: FPGA Designer

@@ -2,6 +2,10 @@ acenet:
   name: ACENET
   url: https://www.ace-net.ca/
   canadian: true
+aucure:
+  name: Aucure
+  url: https://www.aucure.app/
+  local: true
 andersvr:
   name: ANDES VR
   url: https://www.linkedin.com/organization-guest/company/andes-vr-corp

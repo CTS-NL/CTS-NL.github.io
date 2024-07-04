@@ -4,6 +4,14 @@
   jobs: []
 - company: aker
   jobs: []
+- company: aucure
+  jobs:
+    - post_date: 2024-07-04
+      jobs:
+        - title: Software Developer
+          link: https://navy-pixie-5a8.notion.site/Software-Developer-16556f12163e40a38d2a757ff1cb07ff
+        - title: Frontend Developer
+          link: https://navy-pixie-5a8.notion.site/Frontend-Developer-24bc860a15ba4b7793e60f03833aaf25
 - company: cbs
   jobs: []
 - company: clearrisk
@@ -123,10 +131,10 @@
           link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
 - company: kraken
   jobs:
-    - post_date: 2024-03-14
+    - post_date: 2024-07-04
       jobs:
-        - title: Software Developer
-          link: https://krakenrobotics.com/wp-content/uploads/2024/03/Kraken-Robotics-Careers-Opportunity-Software-Developer-KRSI-2024-04.pdf
+        - title: Senior Software Developer
+          link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
     - post_date: 2023-11-23
       jobs:
         - title: Software Project Manager

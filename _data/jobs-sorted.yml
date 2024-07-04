@@ -1,18 +1,38 @@
 jobs:
-- company: mysa
+- company: aucure
   jobs:
     current:
+    - link: https://navy-pixie-5a8.notion.site/Software-Developer-16556f12163e40a38d2a757ff1cb07ff
+      remote: false
+      title: Software Developer
+    - link: https://navy-pixie-5a8.notion.site/Frontend-Developer-24bc860a15ba4b7793e60f03833aaf25
+      remote: false
+      title: Frontend Developer
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
+      remote: false
+      title: Senior Software Developer
+    previous:
+    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
+      remote: false
+      title: Software Project Manager
+- company: mysa
+  jobs:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/0849acf1-6f41-4b9c-87c1-38c3c87497e9
       remote: false
       title: Senior Data & Analytics Specialist
-    previous: []
 - company: govnl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.hiring.gov.nl.ca/job-details/29830
       remote: false
       title: Senior Programmer Analyst
-    previous: []
 - company: solace
   jobs:
     current: []
@@ -44,16 +64,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://krakenrobotics.com/wp-content/uploads/2024/03/Kraken-Robotics-Careers-Opportunity-Software-Developer-KRSI-2024-04.pdf
-      remote: false
-      title: Software Developer
-    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
-      remote: false
-      title: Software Project Manager
 - company: colab
   jobs:
     current: []
@@ -137,4 +147,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-06-27
+updateDate: 2024-07-04

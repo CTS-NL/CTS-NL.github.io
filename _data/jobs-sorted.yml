@@ -1,38 +1,55 @@
 jobs:
-- company: aucure
+- company: easternhealth
   jobs:
     current:
-    - link: https://navy-pixie-5a8.notion.site/Software-Developer-16556f12163e40a38d2a757ff1cb07ff
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104555
       remote: false
-      title: Software Developer
-    - link: https://navy-pixie-5a8.notion.site/Frontend-Developer-24bc860a15ba4b7793e60f03833aaf25
+      title: Computer Systems Analyst I
+    previous: []
+- company: fonemed
+  jobs:
+    current:
+    - link: https://fonemed.applytojob.com/apply/1eUDcNOI89/Senior-Full-Stack-Software-Developer
       remote: false
-      title: Frontend Developer
+      title: Senior Full Stack Software Developer
+    previous: []
+- company: trophiai
+  jobs:
+    current:
+    - link: https://trophiai.bamboohr.com/careers/41
+      remote: false
+      title: Jr. Game Developer
+    previous:
+    - link: https://trophiai.bamboohr.com/careers/31
+      remote: false
+      title: Sr. Game Developer
+    - link: https://trophiai.bamboohr.com/careers/35
+      remote: false
+      title: Sr. Software Developer
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/30004
+      remote: false
+      title: Senior Software Developer
+    previous: []
+- company: intactlab
+  jobs:
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
+      remote: false
+      title: Senior Software Developer
     previous: []
 - company: kraken
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
       remote: false
       title: Senior Software Developer
-    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: Software Project Manager
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/0849acf1-6f41-4b9c-87c1-38c3c87497e9
-      remote: false
-      title: Senior Data & Analytics Specialist
-- company: govnl
-  jobs:
-    current: []
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/29830
-      remote: false
-      title: Senior Programmer Analyst
 - company: solace
   jobs:
     current: []
@@ -78,16 +95,6 @@ jobs:
     - link: https://icanmarine.com/careers/
       remote: false
       title: Software Developers
-- company: trophiai
-  jobs:
-    current: []
-    previous:
-    - link: https://trophiai.bamboohr.com/careers/31
-      remote: false
-      title: Sr. Game Developer
-    - link: https://trophiai.bamboohr.com/careers/35
-      remote: false
-      title: Sr. Software Developer
 - company: smartdoor
   jobs:
     current: []
@@ -147,4 +154,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-07-04
+updateDate: 2024-07-11

@@ -5,13 +5,7 @@
 - company: aker
   jobs: []
 - company: aucure
-  jobs:
-    - post_date: 2024-07-04
-      jobs:
-        - title: Software Developer
-          link: https://navy-pixie-5a8.notion.site/Software-Developer-16556f12163e40a38d2a757ff1cb07ff
-        - title: Frontend Developer
-          link: https://navy-pixie-5a8.notion.site/Frontend-Developer-24bc860a15ba4b7793e60f03833aaf25
+  jobs: []
 - company: cbs
   jobs: []
 - company: clearrisk
@@ -21,13 +15,25 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs: []
+  jobs:
+    - post_date: 2024-07-11
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104555
 - company: fonemed
-  jobs: []
+  jobs:
+    - post_date: 2024-07-11
+      jobs:
+        - title: Senior Full Stack Software Developer
+          link: https://fonemed.applytojob.com/apply/1eUDcNOI89/Senior-Full-Stack-Software-Developer
 - company: nlchi
   jobs: []
 - company: trophiai
   jobs:
+    - post_date: 2024-07-11
+      jobs:
+        - title: Jr. Game Developer
+          link: https://trophiai.bamboohr.com/careers/41
     - post_date: 2024-01-04
       jobs:
         - title: Sr. Game Developer
@@ -110,11 +116,7 @@
           link: https://jobs.medaviebc.ca/job/_/574751917/
           remote: true
 - company: mysa
-  jobs:
-    - post_date: 2024-06-27
-      jobs:
-        - title: "Senior Data & Analytics Specialist"
-          link: "https://jobs.lever.co/getmysa/0849acf1-6f41-4b9c-87c1-38c3c87497e9"
+  jobs: []
 - company: heyorca
   jobs: []
 - company: compusult
@@ -159,10 +161,10 @@
   jobs: []
 - company: govnl
   jobs:
-    - post_date: 2024-06-27
+    - post_date: 2024-07-11
       jobs:
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/job-details/29830
+        - title: "Senior Software Developer"
+          link: https://www.hiring.gov.nl.ca/job-details/30004
 - company: opasmobile
   jobs: []
 - company: ican
@@ -176,7 +178,11 @@
 - company: inspectar
   jobs: []
 - company: intactlab
-  jobs: []
+  jobs:
+    - post_date: 2024-07-11
+      jobs:
+        - title: "Senior Software Developer"
+          link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
 - company: workplacenl
   jobs: []
 - company: wood

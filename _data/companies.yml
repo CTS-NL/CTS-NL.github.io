@@ -220,7 +220,7 @@ johnson:
   url: https://www1.johnson.ca/
   local: true
 keyassets:
-  name: 'Key Assets Newfoundland & Labrador'
+  name: "Key Assets Newfoundland & Labrador"
   url: https://www.keyassetsnl.ca/
   local: true
 kraken:
@@ -305,7 +305,7 @@ m5:
   url: https://m5.ca/
   canadian: true
 mobia:
-  name: 'MOBIA Technology Innovations'
+  name: "MOBIA Technology Innovations"
   url: "https://mobia.io/"
 oliverpos:
   name: Oliver POS
@@ -470,16 +470,6 @@ triware:
   name: Triware Technologies Inc.
   url: http://triware.ca/
   local: true
-# Venor is a talent/recruitment company, but they are active in our Slack so I am allowing them - Tim
-venor:
-  name: Venor
-  note: |
-    Venor is a local talent agency that is active within the CTS-NL community.
-
-
-    If you are looking to apply, you can also direct message `@JF Ratthé` in the [CTS-NL Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk).
-  url: https://venor.ca/
-  canadian: true
 verafin:
   name: Verafin
   url: https://verafin.com
@@ -502,7 +492,7 @@ wekaplex:
   canadian: true
 waterwerks:
   name: "WaterWerks Communications"
-  url: 'https://waterwerkscommunications.com/'
+  url: "https://waterwerkscommunications.com/"
   local: true
 westernhealth:
   name: Western Health

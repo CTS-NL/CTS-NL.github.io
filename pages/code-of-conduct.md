@@ -1,24 +1,23 @@
 ---
 layout: page-fullwidth
 subheadline: "CTS-NL"
-title:  "Code of Conduct"
+title: "Code of Conduct"
 teaser: ""
 header:
-    image: "logo.png"
-    pattern: "header-texture.png"
+  image: "logo.png"
+  pattern: "header-texture.png"
 permalink: "/conduct/"
 ---
 
-All attendees, speakers, sponsors and volunteers at our meetups, in our Slack Channel and on our Facebook group are
+All attendees, speakers, sponsors and volunteers at our meetups, in our Discord, and on our Facebook group are
 required to agree with the following code of conduct. The executive members will enforce this code throughout all
-our events, Facebook group and our Slack channel. We expect cooperation from all participants to help ensure a safe
+our events, Facebook group and our Discord. We expect cooperation from all participants to help ensure a safe
 environment for everybody.
-
 
 ## Need Help?
 
-Contact a member of the executive or organizer of any event. In Slack, the executive can be identified by the crown
-next to their names. The executive can also be reached by email at contact@ctsnl.ca.
+Contact a member of the executive or organizer of any event. In Discord, the executive can be identified by the
+role next to their names. The executive can also be reached by email at contact@ctsnl.ca.
 
 ## Purpose
 
@@ -52,8 +51,8 @@ If a participant engages in harassing behavior, the CTS-NL Executive Members wil
 including warning the offender or expulsion from the meetup, event or online forum with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a
-CTS-NL Executive Member immediately. Executive Members can be identified with a crown in Slack and can be identified to
-by any event organizer or volunteer.
+CTS-NL Executive Member immediately. Executive Members can be identified by the role next to their name and can be
+identified to by any event organizer or volunteer.
 
 The CTS-NL Executive Members will be happy to help participants contact hotel/venue security or local law enforcement,
 provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the CTS-NL meetups
@@ -68,15 +67,14 @@ We expect participants to follow these rules at all CTS-NL meetups, events, and 
 
 If you wish to report violations of our code of conduct:
 
-* Find a Executive Member, organizer, or volunteer
-* Describe the incident to the best of your ability
-* An Executive Member will approach the offender and inform them of the behaviour and ask them to stop, your anonymity
-will be respected
-
+- Find a Executive Member, organizer, or volunteer
+- Describe the incident to the best of your ability
+- An Executive Member will approach the offender and inform them of the behaviour and ask them to stop, your anonymity
+  will be respected
 
 If the offender refuses to stop the behaviour or repeats it, they will be expelled immediately.
 
-If the behaviour is judged too threatening, the offender may be expelled immediately at the discretion of the 
+If the behaviour is judged too threatening, the offender may be expelled immediately at the discretion of the
 Executive Members. Examples include but are not limited to: cat-calling and overt aggressive behaviour.
 
 ## Reminder

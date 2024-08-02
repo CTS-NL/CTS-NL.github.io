@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		'http://ctsnl.local:4000'
-baseurl: 	''
-urlimg: 	'http://ctsnl.local:4000/images/'
+url: "http://ctsnl.local:4000"
+baseurl: ""
+urlimg: "http://ctsnl.local:4000/images/"
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
@@ -25,6 +25,6 @@ sass:
 strict_front_matter: true
 
 liquid:
-  error_mode:       strict
-  strict_filters:   true
+  error_mode: strict
+  strict_filters: true
   strict_variables: false

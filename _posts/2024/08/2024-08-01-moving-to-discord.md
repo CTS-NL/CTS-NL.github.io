@@ -7,7 +7,7 @@ header:
 categories:
   - news
 image:
-  title: ctsnl-moving-to-discord.jpg
+  title: cts-moving-to-discord.jpg
 author: jackharrhy
 ---
 

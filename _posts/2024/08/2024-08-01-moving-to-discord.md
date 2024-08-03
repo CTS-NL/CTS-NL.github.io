@@ -8,7 +8,6 @@ categories:
   - news
 image:
   title: ctsnl-moving-to-discord.jpg
-	alt: Our logo, alongside the Discord logo, with a screenshot of the Discord client open to our server visible slightly in the background
 author: jackharrhy
 ---
 

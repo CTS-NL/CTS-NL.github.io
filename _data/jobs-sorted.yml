@@ -1,4 +1,18 @@
 jobs:
+- company: siftmed
+  jobs:
+    current:
+    - link: https://secure.collage.co/jobs/siftmed/47032
+      remote: false
+      title: Senior Fullstack Developer
+    previous: []
+- company: keen
+  jobs:
+    current:
+    - link: https://ca.indeed.com/viewjob?jk=54ca0f88fe88fe0b
+      remote: false
+      title: Fullstack Software Developer
+    previous: []
 - company: compusult
   jobs:
     current:
@@ -18,17 +32,37 @@ jobs:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
       remote: false
       title: Staff Software Developer - AI/ML
+    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
+      remote: false
+      title: Software Developer In Test
     previous:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
       remote: false
       title: Senior Developer
 - company: intactlab
   jobs:
-    current: []
+    current:
+    - link: https://www.linkedin.com/jobs/view/3971554760/
+      remote: false
+      title: Senior Software Developer (AS400)
     previous:
     - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
       remote: false
       title: Senior Software Developer
+- company: workplacenl
+  jobs:
+    current:
+    - link: https://fa-etna-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41
+      remote: false
+      title: Manager, Applications
+    previous: []
+- company: vision33
+  jobs:
+    current:
+    - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
+      remote: false
+      title: IT Application Analyst
+    previous: []
 - company: kraken
   jobs:
     current: []

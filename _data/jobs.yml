@@ -43,7 +43,11 @@
 - company: sequencebio
   jobs: []
 - company: siftmed
-  jobs: []
+  jobs: 
+    - post_date: 2024-08-22
+      jobs:
+        - title: "Senior Fullstack Developer"
+          link: https://secure.collage.co/jobs/siftmed/47032
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -72,6 +76,12 @@
   jobs: []
 - company: nlc
   jobs: []
+- company: keen
+  jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: "Fullstack Software Developer"
+          link: https://ca.indeed.com/viewjob?jk=54ca0f88fe88fe0b
 - company: northatlantic
   jobs: []
 - company: mobia
@@ -109,10 +119,12 @@
   jobs:
     - post_date: 2024-08-22
       jobs:
-        - title: Engineering Manager
+        - title: "Engineering Manager"
           link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
-        - title: Staff Software Developer - AI/ML
+        - title: "Staff Software Developer - AI/ML"
           link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
+        - title: "Software Developer In Test"
+          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
     - post_date: 2024-02-01
       jobs:
         - title: Senior Developer
@@ -161,12 +173,20 @@
   jobs: []
 - company: intactlab
   jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: "Senior Software Developer (AS400)"
+          link: https://www.linkedin.com/jobs/view/3971554760/
     - post_date: 2024-07-11
       jobs:
         - title: "Senior Software Developer"
           link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
 - company: workplacenl
-  jobs: []
+  jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: "Manager, Applications"
+          link: https://fa-etna-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41
 - company: wood
   jobs: []
 - company: pangeo
@@ -186,7 +206,11 @@
 - company: vish
   jobs: []
 - company: vision33
-  jobs: []
+  jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: IT Application Analyst
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
 - company: breathesuite
   jobs: []
 - company: spellbook

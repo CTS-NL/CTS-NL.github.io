@@ -1,45 +1,34 @@
 jobs:
-- company: easternhealth
+- company: compusult
   jobs:
     current:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104555
+    - link: https://www.compusult.com/web/guest/careers
       remote: false
-      title: Computer Systems Analyst I
-    previous: []
-- company: fonemed
-  jobs:
-    current:
-    - link: https://fonemed.applytojob.com/apply/1eUDcNOI89/Senior-Full-Stack-Software-Developer
-      remote: false
-      title: Senior Full Stack Software Developer
-    previous: []
-- company: trophiai
-  jobs:
-    current:
-    - link: https://trophiai.bamboohr.com/careers/41
-      remote: false
-      title: Jr. Game Developer
+      title: Graphic Designer/Developer
     previous:
-    - link: https://trophiai.bamboohr.com/careers/31
+    - link: https://www.compusult.com/web/guest/careers
       remote: false
-      title: Sr. Game Developer
-    - link: https://trophiai.bamboohr.com/careers/35
-      remote: false
-      title: Sr. Software Developer
-- company: govnl
+      title: Software Developers
+- company: colab
   jobs:
     current:
-    - link: https://www.hiring.gov.nl.ca/job-details/30004
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
       remote: false
-      title: Senior Software Developer
-    previous: []
+      title: Engineering Manager
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
+      remote: false
+      title: Staff Software Developer - AI/ML
+    previous:
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
       remote: false
       title: Senior Software Developer
-    previous: []
 - company: kraken
   jobs:
     current: []
@@ -49,7 +38,7 @@ jobs:
       title: Senior Software Developer
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
-      title: Software Project Manager
+      title: "Project Manager \u2013 Software"
 - company: solace
   jobs:
     current: []
@@ -67,13 +56,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
-- company: stantec
-  jobs:
-    current: []
-    previous:
-    - link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
-      remote: false
-      title: Senior Software Developer
 - company: bluecross
   jobs:
     current: []
@@ -81,13 +63,6 @@ jobs:
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
 - company: ican
   jobs:
     current: []
@@ -102,13 +77,6 @@ jobs:
     - link: https://smartdoor.ai/careers?_hsmi=266009684
       remote: false
       title: Senior/Junior Software Developers
-- company: spellbook
-  jobs:
-    current: []
-    previous:
-    - link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
-      remote: false
-      title: Full-Stack Engineer
 - company: vmt
   jobs:
     current: []
@@ -129,13 +97,6 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: compusult
-  jobs:
-    current: []
-    previous:
-    - link: https://www.compusult.com/web/guest/careers
-      remote: false
-      title: Software Developers
 - company: avalonholo
   jobs:
     current: []
@@ -154,4 +115,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-07-11
+updateDate: 2024-08-22

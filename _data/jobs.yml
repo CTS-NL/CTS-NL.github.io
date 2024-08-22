@@ -15,33 +15,13 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs:
-    - post_date: 2024-07-11
-      jobs:
-        - title: Computer Systems Analyst I
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000104555
+  jobs: []
 - company: fonemed
-  jobs:
-    - post_date: 2024-07-11
-      jobs:
-        - title: Senior Full Stack Software Developer
-          link: https://fonemed.applytojob.com/apply/1eUDcNOI89/Senior-Full-Stack-Software-Developer
+  jobs: []
 - company: nlchi
   jobs: []
 - company: trophiai
-  jobs:
-    - post_date: 2024-07-11
-      jobs:
-        - title: Jr. Game Developer
-          link: https://trophiai.bamboohr.com/careers/41
-    - post_date: 2024-01-04
-      jobs:
-        - title: Sr. Game Developer
-          link: https://trophiai.bamboohr.com/careers/31
-    - post_date: 2023-06-15
-      jobs:
-        - title: Sr. Software Developer
-          link: https://trophiai.bamboohr.com/careers/35
+  jobs: []
 - company: reportmate
   jobs: []
 - company: rutter
@@ -75,11 +55,7 @@
           link: https://strobeltek.com/careers/
           remote: false
 - company: stantec
-  jobs:
-    - post_date: 2024-04-25
-      jobs:
-        - title: Senior Software Developer
-          link: https://stantec.jobs/st-john-s-nl/senior-software-developer/497F4305381B46B799B03D2BE0A0F926/job/
+  jobs: []
 - company: triware
   jobs: []
 - company: quorum
@@ -121,12 +97,22 @@
   jobs: []
 - company: compusult
   jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: "Graphic Designer/Developer"
+          link: "https://www.compusult.com/web/guest/careers"
     - post_date: 2021-09-10
       jobs:
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    - post_date: 2024-08-22
+      jobs:
+        - title: Engineering Manager
+          link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
+        - title: Staff Software Developer - AI/ML
+          link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
     - post_date: 2024-02-01
       jobs:
         - title: Senior Developer
@@ -139,7 +125,7 @@
           link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
     - post_date: 2023-11-23
       jobs:
-        - title: Software Project Manager
+        - title: Project Manager – Software
           link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
 - company: verafin
   jobs: []
@@ -160,11 +146,7 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-    - post_date: 2024-07-11
-      jobs:
-        - title: "Senior Software Developer"
-          link: https://www.hiring.gov.nl.ca/job-details/30004
+  jobs: []
 - company: opasmobile
   jobs: []
 - company: ican
@@ -208,11 +190,7 @@
 - company: breathesuite
   jobs: []
 - company: spellbook
-  jobs:
-    - post_date: 2023-06-01
-      jobs:
-        - title: Full-Stack Engineer
-          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+  jobs: []
 - company: bluedrop
   jobs: []
 - company: avalonholo

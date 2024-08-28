@@ -39,4 +39,4 @@ held a regular project night there since early 2016. The group has grown  consid
 weekly events with attendance of about a dozen people. In cooperation with other local community groups, we plan to
 expand our talk series in 2018.
 
-[1]:https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador
+[1]:https://ctsnl.ca/news/2023/07/27/meetup-new-location.html

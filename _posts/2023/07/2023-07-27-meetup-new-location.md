@@ -29,6 +29,6 @@ Primarily due to the early closing of the coffee shop at the Queen Elizabeth II 
 
 For any students wishing to attend, Metrobus Route 2 is a direct route between the main campus and the Jumping Bean.
 
-If you have any questions about the event, or the venue, please join our [Slack Group](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) or use our [Contact Us form](https://ctsnl.ca/contact/).
+If you have any questions about the event, or the venue, please join our [Discord Server](http://discord.ctsnl.ca/) or use our [Contact Us form](https://ctsnl.ca/contact/).
 
 We look forward to meeting you in person!

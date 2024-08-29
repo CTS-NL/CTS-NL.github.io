@@ -1,31 +1,69 @@
 jobs:
-- company: siftmed
+- company: nlchi
   jobs:
     current:
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=504963&lang=en_CA
+      remote: false
+      title: Applications Analyst II
+    previous: []
+- company: bluecross
+  jobs:
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/583956717/
+      remote: true
+      title: Programmer/Analyst
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/574751917/
+      remote: true
+      title: Sr. SharePoint Developer
+- company: mysa
+  jobs:
+    current:
+    - link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
+      remote: true
+      title: Senior Full Stack Developer
+    previous: []
+- company: kraken
+  jobs:
+    current:
+    - link: https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
+      remote: false
+      title: Senior Software Developer
+    previous:
+    - link: https://krakenrobotics.com/wp-content/uploads/2024/07/Kraken-Robotics-Careers-Opportunity-Firmware-Developer-June-2024.pdf
+      remote: false
+      title: Firmware Developer
+    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
+      remote: false
+      title: "Project Manager \u2013 Software"
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/30071
+      remote: false
+      title: Senior Programmer Analyst
+    previous: []
+- company: siftmed
+  jobs:
+    current: []
+    previous:
     - link: https://secure.collage.co/jobs/siftmed/47032
       remote: false
       title: Senior Fullstack Developer
-    previous: []
-- company: keen
-  jobs:
-    current:
-    - link: https://ca.indeed.com/viewjob?jk=54ca0f88fe88fe0b
-      remote: false
-      title: Fullstack Software Developer
-    previous: []
 - company: compusult
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Graphic Designer/Developer
-    previous:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
 - company: colab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
       remote: false
       title: Engineering Manager
@@ -35,51 +73,33 @@ jobs:
     - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
       remote: false
       title: Software Developer In Test
-    previous:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
       remote: false
       title: Senior Developer
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://www.linkedin.com/jobs/view/3971554760/
       remote: false
       title: Senior Software Developer (AS400)
-    previous:
     - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
       remote: false
       title: Senior Software Developer
 - company: workplacenl
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://fa-etna-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41
       remote: false
       title: Manager, Applications
-    previous: []
 - company: vision33
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
       remote: false
       title: IT Application Analyst
-    previous: []
-- company: kraken
-  jobs:
-    current: []
-    previous:
-    - link: https://krakenrobotics.com/themencode-pdf-viewer/?file=https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
-      remote: false
-      title: Senior Software Developer
-    - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
-      remote: false
-      title: "Project Manager \u2013 Software"
-- company: solace
-  jobs:
-    current: []
-    previous:
-    - link: https://www.solace.ca/careers/software-developer
-      remote: false
-      title: Software Developer
 - company: milkmoovement
   jobs:
     current: []
@@ -90,13 +110,6 @@ jobs:
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
-- company: bluecross
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/574751917/
-      remote: true
-      title: Sr. SharePoint Developer
 - company: ican
   jobs:
     current: []
@@ -149,4 +162,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-08-22
+updateDate: 2024-08-29

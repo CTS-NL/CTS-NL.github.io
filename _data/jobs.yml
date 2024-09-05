@@ -33,7 +33,17 @@
 - company: hatch
   jobs: []
 - company: solace
-  jobs: []
+  jobs: 
+    - post_date: 2024-09-05
+      jobs:
+        - title: Embedded Firmware Developer
+          link: https://www.linkedin.com/jobs/view/4008645185/
+- company: deloitte
+  jobs: 
+    - post_date: 2024-09-05
+      jobs:
+        - title: Cloud Security Engineer
+          link: https://www.linkedin.com/jobs/view/3911526425/
 - company: smartdoor
   jobs:
     - post_date: 2023-07-13
@@ -213,7 +223,7 @@
       jobs:
         - title: "Game Developer"
           link: https://www.virtualmarine.ca/careers
-    - post_date: 2022-06-07
+    - post_date: 2024-09-05
       jobs:
         - title: "Software Developer"
           link: https://www.virtualmarine.ca/careers

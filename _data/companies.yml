@@ -126,6 +126,10 @@ creativemaple:
   name: Creative Maple
   url: https://www.creativemaple.ca/
   local: true
+deloitte:
+  name: Deloitte Global Technology
+  url: https://www2.deloitte.com/ca/en/pages/about-deloitte/articles/home.html/
+  local: true
 easternacademy:
   name: Eastern Academy
   url: https://www.easternacademy.ca/

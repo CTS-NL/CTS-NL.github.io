@@ -3,7 +3,11 @@
 - company: atlanticlottery
   jobs: []
 - company: aker
-  jobs: []
+  jobs:
+    - post_date: 2024-09-05
+      jobs:
+        - title: Software Developer
+          link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
 - company: aucure
   jobs: []
 - company: cbs
@@ -12,6 +16,12 @@
   jobs: []
 - company: cna
   jobs: []
+- company: deloitte
+  jobs:
+    - post_date: 2024-09-05
+      jobs:
+        - title: Cloud Security Engineer
+          link: https://www.linkedin.com/jobs/view/3911526425/
 - company: oliverpos
   jobs: []
 - company: easternhealth
@@ -33,17 +43,11 @@
 - company: hatch
   jobs: []
 - company: solace
-  jobs: 
+  jobs:
     - post_date: 2024-09-05
       jobs:
         - title: Embedded Firmware Developer
-          link: https://www.linkedin.com/jobs/view/4008645185/
-- company: deloitte
-  jobs: 
-    - post_date: 2024-09-05
-      jobs:
-        - title: Cloud Security Engineer
-          link: https://www.linkedin.com/jobs/view/3911526425/
+          link: https://www.solace.ca/careers/embedded-firmware-developer
 - company: smartdoor
   jobs:
     - post_date: 2023-07-13
@@ -179,6 +183,12 @@
   jobs: []
 - company: govnl
   jobs:
+    - post_date: 2024-09-05
+      jobs:
+        - title: "Senior Software Developer"
+          link: https://www.hiring.gov.nl.ca/job-details/30242
+        - title: "Senior Security Analyst"
+          link: https://www.hiring.gov.nl.ca/job-details/29653
     - post_date: 2024-08-29
       jobs:
         - title: "Senior Programmer Analyst"
@@ -223,7 +233,7 @@
       jobs:
         - title: "Game Developer"
           link: https://www.virtualmarine.ca/careers
-    - post_date: 2024-09-05
+    - post_date: 2022-06-07
       jobs:
         - title: "Software Developer"
           link: https://www.virtualmarine.ca/careers
@@ -243,14 +253,10 @@
   jobs: []
 - company: avalonholo
   jobs:
-    - post_date: 2021-06-25
-      jobs:
-        - title: FPGA Designer
-          link: https://www.avalonholographics.com/careers
     - post_date: 2021-04-22
       jobs:
         - title: Software Engineer
-          link: https://www.avalonholographics.com/careers
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
 - company: telus
   jobs: []
 - company: target

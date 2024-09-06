@@ -1,48 +1,75 @@
 jobs:
-- company: nlchi
+- company: aker
   jobs:
     current:
+    - link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
+      remote: false
+      title: Software Developer
+    previous: []
+- company: deloitte
+  jobs:
+    current:
+    - link: https://www.linkedin.com/jobs/view/3911526425/
+      remote: false
+      title: Cloud Security Engineer
+    previous: []
+- company: solace
+  jobs:
+    current:
+    - link: https://www.solace.ca/careers/embedded-firmware-developer
+      remote: false
+      title: Embedded Firmware Developer
+    previous: []
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/30242
+      remote: false
+      title: Senior Software Developer
+    - link: https://www.hiring.gov.nl.ca/job-details/29653
+      remote: false
+      title: Senior Security Analyst
+    previous:
+    - link: https://www.hiring.gov.nl.ca/job-details/30071
+      remote: false
+      title: Senior Programmer Analyst
+- company: nlchi
+  jobs:
+    current: []
+    previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=504963&lang=en_CA
       remote: false
       title: Applications Analyst II
-    previous: []
 - company: bluecross
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/583956717/
       remote: true
       title: Programmer/Analyst
-    previous:
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
 - company: mysa
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
       remote: true
       title: Senior Full Stack Developer
-    previous: []
 - company: kraken
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
       remote: false
       title: Senior Software Developer
-    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/07/Kraken-Robotics-Careers-Opportunity-Firmware-Developer-June-2024.pdf
       remote: false
       title: Firmware Developer
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: "Project Manager \u2013 Software"
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/30071
-      remote: false
-      title: Senior Programmer Analyst
-    previous: []
 - company: siftmed
   jobs:
     current: []
@@ -148,10 +175,7 @@ jobs:
   jobs:
     current: []
     previous:
-    - link: https://www.avalonholographics.com/careers
-      remote: false
-      title: FPGA Designer
-    - link: https://www.avalonholographics.com/careers
+    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
       remote: false
       title: Software Engineer
 - company: ioa
@@ -162,4 +186,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-08-29
+updateDate: 2024-09-05

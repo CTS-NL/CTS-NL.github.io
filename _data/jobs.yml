@@ -25,15 +25,15 @@
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs: []
+  jobs:
+    - post_date: 2024-09-19
+      jobs:
+        - title: Computer Systems Analyst I
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000106238
 - company: fonemed
   jobs: []
 - company: nlchi
-  jobs:
-    - post_date: 2024-08-29
-      jobs:
-        - title: Applications Analyst II
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=504963&lang=en_CA
+  jobs: []
 - company: trophiai
   jobs: []
 - company: reportmate
@@ -106,10 +106,10 @@
   jobs: []
 - company: bluecross
   jobs:
-    - post_date: 2024-08-29
+    - post_date: 2024-09-19
       jobs:
-        - title: Programmer/Analyst
-          link: https://jobs.medaviebc.ca/job/_/583956717/
+        - title: Front-End Developer
+          link: https://jobs.medaviebc.ca/job/_/584503317/
           remote: true
     - post_date: 2024-04-25
       jobs:
@@ -151,6 +151,10 @@
           link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
 - company: kraken
   jobs:
+    - post_date: 2024-09-19
+      jobs:
+        - title: Software Developer – Front End
+          link: https://krakenrobotics.com/wp-content/uploads/2024/09/Kraken-Robotics-New-Careers-Opportunity-Software-Developer-KRSI-2024-29.pdf
     - post_date: 2024-07-04
       jobs:
         - title: Firmware Developer
@@ -171,6 +175,10 @@
   jobs: []
 - company: milkmoovement
   jobs:
+    - post_date: 2024-09-19
+      jobs:
+        - title: Intermediate Mobile Developer
+          link: https://jobs.lever.co/milk-moovement/ae17907b-bb06-42b1-9ab8-3b1af883a257
     - post_date: 2024-05-30
       jobs:
         - title: Senior Full Stack Developer
@@ -183,16 +191,14 @@
   jobs: []
 - company: govnl
   jobs:
-    - post_date: 2024-09-05
+    - post_date: 2024-09-19
       jobs:
         - title: "Senior Software Developer"
-          link: https://www.hiring.gov.nl.ca/job-details/30242
-        - title: "Senior Security Analyst"
-          link: https://www.hiring.gov.nl.ca/job-details/29653
-    - post_date: 2024-08-29
+          link: https://www.hiring.gov.nl.ca/job-details/30070
+    - post_date: 2024-09-05
       jobs:
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/job-details/30071
+        - title: "Senior Software Developer (Senior Systems Analyst)"
+          link: https://www.hiring.gov.nl.ca/job-details/30242
 - company: opasmobile
   jobs: []
 - company: ican
@@ -207,20 +213,16 @@
   jobs: []
 - company: intactlab
   jobs:
+    - post_date: 2024-09-19
+      jobs:
+        - title: "Email Developer – Salesforce Marketing Cloud"
+          link: https://careers.intactfc.com/ca/en/job/R142615/Email-Developer-Salesforce-Marketing-Cloud
     - post_date: 2024-08-22
       jobs:
         - title: "Senior Software Developer (AS400)"
           link: https://www.linkedin.com/jobs/view/3971554760/
-    - post_date: 2024-07-11
-      jobs:
-        - title: "Senior Software Developer"
-          link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
 - company: workplacenl
-  jobs:
-    - post_date: 2024-08-22
-      jobs:
-        - title: "Manager, Applications"
-          link: https://fa-etna-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41
+  jobs: []
 - company: wood
   jobs: []
 - company: pangeo

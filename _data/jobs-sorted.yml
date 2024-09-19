@@ -1,65 +1,27 @@
 jobs:
-- company: aker
+- company: easternhealth
   jobs:
     current:
-    - link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
+    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000106238
       remote: false
-      title: Software Developer
+      title: Computer Systems Analyst I
     previous: []
-- company: deloitte
-  jobs:
-    current:
-    - link: https://www.linkedin.com/jobs/view/3911526425/
-      remote: false
-      title: Cloud Security Engineer
-    previous: []
-- company: solace
-  jobs:
-    current:
-    - link: https://www.solace.ca/careers/embedded-firmware-developer
-      remote: false
-      title: Embedded Firmware Developer
-    previous: []
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/30242
-      remote: false
-      title: Senior Software Developer
-    - link: https://www.hiring.gov.nl.ca/job-details/29653
-      remote: false
-      title: Senior Security Analyst
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/30071
-      remote: false
-      title: Senior Programmer Analyst
-- company: nlchi
-  jobs:
-    current: []
-    previous:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7aaf2373-5797-49d2-8f0f-f2825949318d&ccId=2564669783_1185&jobId=504963&lang=en_CA
-      remote: false
-      title: Applications Analyst II
 - company: bluecross
   jobs:
-    current: []
-    previous:
-    - link: https://jobs.medaviebc.ca/job/_/583956717/
+    current:
+    - link: https://jobs.medaviebc.ca/job/_/584503317/
       remote: true
-      title: Programmer/Analyst
+      title: Front-End Developer
+    previous:
     - link: https://jobs.medaviebc.ca/job/_/574751917/
       remote: true
       title: Sr. SharePoint Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
-      remote: true
-      title: Senior Full Stack Developer
 - company: kraken
   jobs:
-    current: []
+    current:
+    - link: https://krakenrobotics.com/wp-content/uploads/2024/09/Kraken-Robotics-New-Careers-Opportunity-Software-Developer-KRSI-2024-29.pdf
+      remote: false
+      title: "Software Developer \u2013 Front End"
     previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
       remote: false
@@ -70,6 +32,67 @@ jobs:
     - link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
       remote: false
       title: "Project Manager \u2013 Software"
+- company: milkmoovement
+  jobs:
+    current:
+    - link: https://jobs.lever.co/milk-moovement/ae17907b-bb06-42b1-9ab8-3b1af883a257
+      remote: false
+      title: Intermediate Mobile Developer
+    previous:
+    - link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
+      remote: false
+      title: Senior Full Stack Developer
+    - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
+      remote: false
+      title: Intermediate Full Stack Developer
+- company: govnl
+  jobs:
+    current:
+    - link: https://www.hiring.gov.nl.ca/job-details/30070
+      remote: false
+      title: Senior Software Developer
+    previous:
+    - link: https://www.hiring.gov.nl.ca/job-details/30242
+      remote: false
+      title: Senior Software Developer (Senior Systems Analyst)
+- company: intactlab
+  jobs:
+    current:
+    - link: https://careers.intactfc.com/ca/en/job/R142615/Email-Developer-Salesforce-Marketing-Cloud
+      remote: false
+      title: "Email Developer \u2013 Salesforce Marketing Cloud"
+    previous:
+    - link: https://www.linkedin.com/jobs/view/3971554760/
+      remote: false
+      title: Senior Software Developer (AS400)
+- company: aker
+  jobs:
+    current: []
+    previous:
+    - link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
+      remote: false
+      title: Software Developer
+- company: deloitte
+  jobs:
+    current: []
+    previous:
+    - link: https://www.linkedin.com/jobs/view/3911526425/
+      remote: false
+      title: Cloud Security Engineer
+- company: solace
+  jobs:
+    current: []
+    previous:
+    - link: https://www.solace.ca/careers/embedded-firmware-developer
+      remote: false
+      title: Embedded Firmware Developer
+- company: mysa
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
+      remote: true
+      title: Senior Full Stack Developer
 - company: siftmed
   jobs:
     current: []
@@ -103,23 +126,6 @@ jobs:
     - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
       remote: false
       title: Senior Developer
-- company: intactlab
-  jobs:
-    current: []
-    previous:
-    - link: https://www.linkedin.com/jobs/view/3971554760/
-      remote: false
-      title: Senior Software Developer (AS400)
-    - link: https://careers.intactfc.com/ca/en/job/R140986/Senior-Software-Developers
-      remote: false
-      title: Senior Software Developer
-- company: workplacenl
-  jobs:
-    current: []
-    previous:
-    - link: https://fa-etna-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41
-      remote: false
-      title: Manager, Applications
 - company: vision33
   jobs:
     current: []
@@ -127,16 +133,6 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
       remote: false
       title: IT Application Analyst
-- company: milkmoovement
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
-      remote: false
-      title: Senior Full Stack Developer
-    - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
-      remote: false
-      title: Intermediate Full Stack Developer
 - company: ican
   jobs:
     current: []
@@ -186,4 +182,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-09-05
+updateDate: 2024-09-19

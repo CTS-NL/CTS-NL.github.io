@@ -17,19 +17,11 @@
 - company: cna
   jobs: []
 - company: deloitte
-  jobs:
-    - post_date: 2024-09-05
-      jobs:
-        - title: Cloud Security Engineer
-          link: https://www.linkedin.com/jobs/view/3911526425/
+  jobs: []
 - company: oliverpos
   jobs: []
 - company: easternhealth
-  jobs:
-    - post_date: 2024-09-19
-      jobs:
-        - title: Computer Systems Analyst I
-          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000106238
+  jobs: []
 - company: fonemed
   jobs: []
 - company: nlchi
@@ -106,11 +98,6 @@
   jobs: []
 - company: bluecross
   jobs:
-    - post_date: 2024-09-19
-      jobs:
-        - title: Front-End Developer
-          link: https://jobs.medaviebc.ca/job/_/584503317/
-          remote: true
     - post_date: 2024-04-25
       jobs:
         - title: Sr. SharePoint Developer
@@ -137,6 +124,10 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
+    - post_date: 2024-10-03
+      jobs:
+        - title: "UI Developer"
+          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4139256008
     - post_date: 2024-08-22
       jobs:
         - title: "Engineering Manager"
@@ -191,10 +182,6 @@
   jobs: []
 - company: govnl
   jobs:
-    - post_date: 2024-09-19
-      jobs:
-        - title: "Senior Software Developer"
-          link: https://www.hiring.gov.nl.ca/job-details/30070
     - post_date: 2024-09-05
       jobs:
         - title: "Senior Software Developer (Senior Systems Analyst)"
@@ -217,10 +204,6 @@
       jobs:
         - title: "Email Developer – Salesforce Marketing Cloud"
           link: https://careers.intactfc.com/ca/en/job/R142615/Email-Developer-Salesforce-Marketing-Cloud
-    - post_date: 2024-08-22
-      jobs:
-        - title: "Senior Software Developer (AS400)"
-          link: https://www.linkedin.com/jobs/view/3971554760/
 - company: workplacenl
   jobs: []
 - company: wood
@@ -257,7 +240,7 @@
   jobs:
     - post_date: 2021-04-22
       jobs:
-        - title: Software Engineer
+        - title: Software Developer
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
 - company: telus
   jobs: []

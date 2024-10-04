@@ -1,28 +1,30 @@
 jobs:
-- company: easternhealth
+- company: colab
   jobs:
     current:
-    - link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000106238
+    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4139256008
       remote: false
-      title: Computer Systems Analyst I
-    previous: []
-- company: bluecross
-  jobs:
-    current:
-    - link: https://jobs.medaviebc.ca/job/_/584503317/
-      remote: true
-      title: Front-End Developer
+      title: UI Developer
     previous:
-    - link: https://jobs.medaviebc.ca/job/_/574751917/
-      remote: true
-      title: Sr. SharePoint Developer
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
+      remote: false
+      title: Engineering Manager
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
+      remote: false
+      title: Staff Software Developer - AI/ML
+    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
+      remote: false
+      title: Software Developer In Test
+    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+      remote: false
+      title: Senior Developer
 - company: kraken
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/09/Kraken-Robotics-New-Careers-Opportunity-Software-Developer-KRSI-2024-29.pdf
       remote: false
       title: "Software Developer \u2013 Front End"
-    previous:
     - link: https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
       remote: false
       title: Senior Software Developer
@@ -34,37 +36,24 @@ jobs:
       title: "Project Manager \u2013 Software"
 - company: milkmoovement
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://jobs.lever.co/milk-moovement/ae17907b-bb06-42b1-9ab8-3b1af883a257
       remote: false
       title: Intermediate Mobile Developer
-    previous:
     - link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
       remote: false
       title: Senior Full Stack Developer
     - link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
       remote: false
       title: Intermediate Full Stack Developer
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/30070
-      remote: false
-      title: Senior Software Developer
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/30242
-      remote: false
-      title: Senior Software Developer (Senior Systems Analyst)
 - company: intactlab
   jobs:
-    current:
+    current: []
+    previous:
     - link: https://careers.intactfc.com/ca/en/job/R142615/Email-Developer-Salesforce-Marketing-Cloud
       remote: false
       title: "Email Developer \u2013 Salesforce Marketing Cloud"
-    previous:
-    - link: https://www.linkedin.com/jobs/view/3971554760/
-      remote: false
-      title: Senior Software Developer (AS400)
 - company: aker
   jobs:
     current: []
@@ -72,13 +61,6 @@ jobs:
     - link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
       remote: false
       title: Software Developer
-- company: deloitte
-  jobs:
-    current: []
-    previous:
-    - link: https://www.linkedin.com/jobs/view/3911526425/
-      remote: false
-      title: Cloud Security Engineer
 - company: solace
   jobs:
     current: []
@@ -86,6 +68,13 @@ jobs:
     - link: https://www.solace.ca/careers/embedded-firmware-developer
       remote: false
       title: Embedded Firmware Developer
+- company: govnl
+  jobs:
+    current: []
+    previous:
+    - link: https://www.hiring.gov.nl.ca/job-details/30242
+      remote: false
+      title: Senior Software Developer (Senior Systems Analyst)
 - company: mysa
   jobs:
     current: []
@@ -110,22 +99,6 @@ jobs:
     - link: https://www.compusult.com/web/guest/careers
       remote: false
       title: Software Developers
-- company: colab
-  jobs:
-    current: []
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
-      remote: false
-      title: Engineering Manager
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
-      remote: false
-      title: Staff Software Developer - AI/ML
-    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
-      remote: false
-      title: Software Developer In Test
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
 - company: vision33
   jobs:
     current: []
@@ -133,6 +106,13 @@ jobs:
     - link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
       remote: false
       title: IT Application Analyst
+- company: bluecross
+  jobs:
+    current: []
+    previous:
+    - link: https://jobs.medaviebc.ca/job/_/574751917/
+      remote: true
+      title: Sr. SharePoint Developer
 - company: ican
   jobs:
     current: []
@@ -173,7 +153,7 @@ jobs:
     previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
       remote: false
-      title: Software Engineer
+      title: Software Developer
 - company: ioa
   jobs:
     current: []
@@ -182,4 +162,4 @@ jobs:
       remote: false
       title: Programmer / Analyst
 newPostings: true
-updateDate: 2024-09-19
+updateDate: 2024-10-03

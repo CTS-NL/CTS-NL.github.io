@@ -3,11 +3,7 @@
 - company: atlanticlottery
   jobs: []
 - company: aker
-  jobs:
-    - post_date: 2024-09-05
-      jobs:
-        - title: Software Developer
-          link: https://www.akersolutions.com/careers/job-search/?jobPostId=20776
+  jobs: []
 - company: aucure
   jobs: []
 - company: cbs
@@ -91,18 +87,17 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs: []
+  jobs:
+    - post_date: 2024-10-24
+      jobs:
+        - title: Senior Programmer Analyst
+          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5697
 - company: ccore
   jobs: []
 - company: otherocean
   jobs: []
 - company: bluecross
-  jobs:
-    - post_date: 2024-04-25
-      jobs:
-        - title: Sr. SharePoint Developer
-          link: https://jobs.medaviebc.ca/job/_/574751917/
-          remote: true
+  jobs: []
 - company: mysa
   jobs:
     - post_date: 2024-08-29
@@ -124,40 +119,42 @@
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
   jobs:
-    - post_date: 2024-10-03
+    - post_date: 2024-10-24
       jobs:
-        - title: "UI Developer"
-          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4139256008
+        - title: "Senior Java Developer"
+          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4147431008
     - post_date: 2024-08-22
       jobs:
         - title: "Engineering Manager"
           link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
         - title: "Staff Software Developer - AI/ML"
           link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
-        - title: "Software Developer In Test"
-          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4103633008
     - post_date: 2024-02-01
       jobs:
         - title: Senior Developer
           link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
 - company: kraken
   jobs:
+    - post_date: 2024-10-24
+      jobs:
+        - title: System Quality Tester
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=512515&lang=en_CA
     - post_date: 2024-09-19
       jobs:
         - title: Software Developer – Front End
-          link: https://krakenrobotics.com/wp-content/uploads/2024/09/Kraken-Robotics-New-Careers-Opportunity-Software-Developer-KRSI-2024-29.pdf
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513073&lang=en_CA
     - post_date: 2024-07-04
       jobs:
         - title: Firmware Developer
-          link: https://krakenrobotics.com/wp-content/uploads/2024/07/Kraken-Robotics-Careers-Opportunity-Firmware-Developer-June-2024.pdf
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513093&lang=en_CA
     - post_date: 2024-08-29
       jobs:
         - title: Senior Software Developer
-          link: https://krakenrobotics.com/wp-content/uploads/2024/06/Kraken-Robotics-Careers-Opportunity-Senior-Software-Developer-KRSI-2024-04.pdf
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513113&lang=en_CA
     - post_date: 2023-11-23
       jobs:
         - title: Project Manager – Software
-          link: https://krakenrobotics.com/wp-content/uploads/2023/11/Kraken-Robotics-Software-Project-Manager-KRSI-2023-30.pdf
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513173&lang=en_CA
 - company: verafin
   jobs: []
 - company: rayagency
@@ -165,23 +162,17 @@
 - company: rmspope
   jobs: []
 - company: milkmoovement
-  jobs:
-    - post_date: 2024-09-19
-      jobs:
-        - title: Intermediate Mobile Developer
-          link: https://jobs.lever.co/milk-moovement/ae17907b-bb06-42b1-9ab8-3b1af883a257
-    - post_date: 2024-05-30
-      jobs:
-        - title: Senior Full Stack Developer
-          link: https://jobs.lever.co/milk-moovement/046de99e-0f80-468b-be6d-7eb2f9c394b4
-    - post_date: 2024-05-16
-      jobs:
-        - title: Intermediate Full Stack Developer
-          link: https://jobs.lever.co/milk-moovement/238d9455-d580-4a62-852f-b805be949404
+  jobs: []
 - company: nlhydro
   jobs: []
 - company: govnl
   jobs:
+    - post_date: 2024-10-24
+      jobs:
+        - title: "Senior Programmer Analyst"
+          link: https://www.hiring.gov.nl.ca/job-details/30295
+        - title: "Computer Systems Analyst II"
+          link: https://www.hiring.gov.nl.ca/job-details/30223
     - post_date: 2024-09-05
       jobs:
         - title: "Senior Software Developer (Senior Systems Analyst)"
@@ -225,11 +216,7 @@
 - company: vish
   jobs: []
 - company: vision33
-  jobs:
-    - post_date: 2024-08-22
-      jobs:
-        - title: IT Application Analyst
-          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/16507858-IT-Application-Analyst/
+  jobs: []
 - company: breathesuite
   jobs: []
 - company: spellbook
@@ -246,6 +233,12 @@
   jobs: []
 - company: target
   jobs: []
+- company: veristart
+  jobs:
+    - post_date: 2021-10-24
+      jobs:
+        - title: Junior Software Developer
+          link: https://technl.ca/job/veristart-st-johns-canada-full-time-junior-software-developer/
 - company: ioa
   jobs:
     - post_date: 2020-10-10

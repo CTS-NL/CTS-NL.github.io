@@ -481,6 +481,10 @@ verafin:
   name: Verafin
   url: https://verafin.com
   local: true
+veristart:
+  name: Veristart
+  url: https://www.veristart.ca/
+  local: true
 vision33:
   name: Vision33
   url: https://www.vision33.com/

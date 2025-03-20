@@ -1,59 +1,11 @@
 jobs:
-- company: mun
-  jobs:
-    current:
-    - link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5697
-      remote: false
-      title: Senior Programmer Analyst
-    previous: []
-- company: colab
-  jobs:
-    current:
-    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4147431008
-      remote: false
-      title: Senior Java Developer
-    previous:
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
-      remote: false
-      title: Engineering Manager
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
-      remote: false
-      title: Staff Software Developer - AI/ML
-    - link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
-      remote: false
-      title: Senior Developer
 - company: kraken
   jobs:
-    current:
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=512515&lang=en_CA
-      remote: false
-      title: System Quality Tester
+    current: []
     previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513073&lang=en_CA
       remote: false
       title: "Software Developer \u2013 Front End"
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513113&lang=en_CA
-      remote: false
-      title: Senior Software Developer
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513093&lang=en_CA
-      remote: false
-      title: Firmware Developer
-    - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513173&lang=en_CA
-      remote: false
-      title: "Project Manager \u2013 Software"
-- company: govnl
-  jobs:
-    current:
-    - link: https://www.hiring.gov.nl.ca/job-details/30295
-      remote: false
-      title: Senior Programmer Analyst
-    - link: https://www.hiring.gov.nl.ca/job-details/30223
-      remote: false
-      title: Computer Systems Analyst II
-    previous:
-    - link: https://www.hiring.gov.nl.ca/job-details/30242
-      remote: false
-      title: Senior Software Developer (Senior Systems Analyst)
 - company: intactlab
   jobs:
     current: []
@@ -61,27 +13,6 @@ jobs:
     - link: https://careers.intactfc.com/ca/en/job/R142615/Email-Developer-Salesforce-Marketing-Cloud
       remote: false
       title: "Email Developer \u2013 Salesforce Marketing Cloud"
-- company: solace
-  jobs:
-    current: []
-    previous:
-    - link: https://www.solace.ca/careers/embedded-firmware-developer
-      remote: false
-      title: Embedded Firmware Developer
-- company: mysa
-  jobs:
-    current: []
-    previous:
-    - link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
-      remote: true
-      title: Senior Full Stack Developer
-- company: siftmed
-  jobs:
-    current: []
-    previous:
-    - link: https://secure.collage.co/jobs/siftmed/47032
-      remote: false
-      title: Senior Fullstack Developer
 - company: compusult
   jobs:
     current: []
@@ -99,13 +30,6 @@ jobs:
     - link: https://icanmarine.com/careers/
       remote: false
       title: Software Developers
-- company: smartdoor
-  jobs:
-    current: []
-    previous:
-    - link: https://smartdoor.ai/careers?_hsmi=266009684
-      remote: false
-      title: Senior/Junior Software Developers
 - company: vmt
   jobs:
     current: []
@@ -126,20 +50,13 @@ jobs:
     - link: https://strobeltek.com/careers/
       remote: false
       title: Senior Software Developer
-- company: veristart
-  jobs:
-    current: []
-    previous:
-    - link: https://technl.ca/job/veristart-st-johns-canada-full-time-junior-software-developer/
-      remote: false
-      title: Junior Software Developer
 - company: avalonholo
   jobs:
     current: []
     previous:
     - link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
       remote: false
-      title: Software Developer
+      title: Software Developer (Ongoing Opportunities)
 - company: ioa
   jobs:
     current: []
@@ -147,5 +64,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: true
-updateDate: 2024-10-24
+newPostings: false
+updateDate: 2025-03-20

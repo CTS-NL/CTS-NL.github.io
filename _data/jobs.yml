@@ -31,25 +31,13 @@
 - company: hatch
   jobs: []
 - company: solace
-  jobs:
-    - post_date: 2024-09-05
-      jobs:
-        - title: Embedded Firmware Developer
-          link: https://www.solace.ca/careers/embedded-firmware-developer
+  jobs: []
 - company: smartdoor
-  jobs:
-    - post_date: 2023-07-13
-      jobs:
-        - title: Senior/Junior Software Developers
-          link: https://smartdoor.ai/careers?_hsmi=266009684
+  jobs: []
 - company: sequencebio
   jobs: []
 - company: siftmed
-  jobs:
-    - post_date: 2024-08-22
-      jobs:
-        - title: "Senior Fullstack Developer"
-          link: https://secure.collage.co/jobs/siftmed/47032
+  jobs: []
 - company: strobeltek
   jobs:
     - post_date: 2022-06-24
@@ -87,11 +75,7 @@
 - company: genoa
   jobs: []
 - company: mun
-  jobs:
-    - post_date: 2024-10-24
-      jobs:
-        - title: Senior Programmer Analyst
-          link: https://www.mun.ca/hr/careers/employment-opportunity/?id=5697
+  jobs: []
 - company: ccore
   jobs: []
 - company: otherocean
@@ -99,12 +83,7 @@
 - company: bluecross
   jobs: []
 - company: mysa
-  jobs:
-    - post_date: 2024-08-29
-      jobs:
-        - title: Senior Full Stack Developer
-          link: https://jobs.lever.co/getmysa/aed3a3f6-567d-42ca-8f98-248a1b013307
-          remote: true
+  jobs: []
 - company: heyorca
   jobs: []
 - company: compusult
@@ -118,43 +97,13 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs:
-    - post_date: 2024-10-24
-      jobs:
-        - title: "Senior Java Developer"
-          link: https://job-boards.greenhouse.io/colabsoftware/jobs/4147431008
-    - post_date: 2024-08-22
-      jobs:
-        - title: "Engineering Manager"
-          link: https://boards.greenhouse.io/colabsoftware/jobs/4089977008
-        - title: "Staff Software Developer - AI/ML"
-          link: https://boards.greenhouse.io/colabsoftware/jobs/4103654008
-    - post_date: 2024-02-01
-      jobs:
-        - title: Senior Developer
-          link: https://boards.greenhouse.io/colabsoftware/jobs/4001134008
+  jobs: []
 - company: kraken
   jobs:
-    - post_date: 2024-10-24
-      jobs:
-        - title: System Quality Tester
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=512515&lang=en_CA
     - post_date: 2024-09-19
       jobs:
         - title: Software Developer – Front End
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513073&lang=en_CA
-    - post_date: 2024-07-04
-      jobs:
-        - title: Firmware Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513093&lang=en_CA
-    - post_date: 2024-08-29
-      jobs:
-        - title: Senior Software Developer
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513113&lang=en_CA
-    - post_date: 2023-11-23
-      jobs:
-        - title: Project Manager – Software
-          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b2377c5-e4e5-4fb5-8ff7-729419275a54&ccId=9201150882215_2&jobId=513173&lang=en_CA
 - company: verafin
   jobs: []
 - company: rayagency
@@ -166,17 +115,7 @@
 - company: nlhydro
   jobs: []
 - company: govnl
-  jobs:
-    - post_date: 2024-10-24
-      jobs:
-        - title: "Senior Programmer Analyst"
-          link: https://www.hiring.gov.nl.ca/job-details/30295
-        - title: "Computer Systems Analyst II"
-          link: https://www.hiring.gov.nl.ca/job-details/30223
-    - post_date: 2024-09-05
-      jobs:
-        - title: "Senior Software Developer (Senior Systems Analyst)"
-          link: https://www.hiring.gov.nl.ca/job-details/30242
+  jobs: []
 - company: opasmobile
   jobs: []
 - company: ican
@@ -227,18 +166,14 @@
   jobs:
     - post_date: 2021-04-22
       jobs:
-        - title: Software Developer
+        - title: Software Developer (Ongoing Opportunities)
           link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=384f5e8d-ce48-4dbd-8c5e-fd9601da7e77&ccId=19000101_000001&jobId=528345
 - company: telus
   jobs: []
 - company: target
   jobs: []
 - company: veristart
-  jobs:
-    - post_date: 2021-10-24
-      jobs:
-        - title: Junior Software Developer
-          link: https://technl.ca/job/veristart-st-johns-canada-full-time-junior-software-developer/
+  jobs: []
 - company: ioa
   jobs:
     - post_date: 2020-10-10

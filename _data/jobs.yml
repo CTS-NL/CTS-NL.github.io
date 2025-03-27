@@ -97,7 +97,14 @@
         - title: "Software Developers"
           link: "https://www.compusult.com/web/guest/careers"
 - company: colab
-  jobs: []
+  jobs:
+    - post_date: 2025-03-27
+      jobs:
+        - title: "Senior Customer Success Manager"
+          link: "https://job-boards.greenhouse.io/colabsoftware/jobs/4576295008"
+        - title: "Intermediate Full Stack Developer"
+          link: "https://job-boards.greenhouse.io/colabsoftware/jobs/4578792008"
+
 - company: kraken
   jobs:
     - post_date: 2024-09-19
@@ -157,7 +164,11 @@
 - company: vision33
   jobs: []
 - company: breathesuite
-  jobs: []
+  jobs:
+    - post_date: 2025-03-27
+      jobs:
+      - title: "IT & Security Operations Specialist"
+        link: "https://clearrisk.bamboohr.com/careers/3"
 - company: spellbook
   jobs: []
 - company: bluedrop

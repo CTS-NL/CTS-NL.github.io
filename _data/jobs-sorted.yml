@@ -1,4 +1,21 @@
 jobs:
+- company: colab
+  jobs:
+    current:
+    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4576295008
+      remote: false
+      title: Senior Customer Success Manager
+    - link: https://job-boards.greenhouse.io/colabsoftware/jobs/4578792008
+      remote: false
+      title: Intermediate Full Stack Developer
+    previous: []
+- company: breathesuite
+  jobs:
+    current:
+    - link: https://clearrisk.bamboohr.com/careers/3
+      remote: false
+      title: IT & Security Operations Specialist
+    previous: []
 - company: kraken
   jobs:
     current: []
@@ -64,5 +81,5 @@ jobs:
     - link: https://ioass.com/careers-1
       remote: false
       title: Programmer / Analyst
-newPostings: false
-updateDate: 2025-03-20
+newPostings: true
+updateDate: 2025-03-27

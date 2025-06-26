@@ -9,11 +9,12 @@ permalink: "/jobs/"
 ---
 
 <p class="teaser" itemprop="description">
-	Last updated {{ site.data['jobs-sorted'].updateDate | date: "%B %d, %Y" }} and updated every Thursday.
+	<!-- Last updated {{ site.data['jobs-sorted'].updateDate | date: "%B %d, %Y" }} and updated every Thursday. -->
+	Last updated June 26, 2025 and updated every Thursday.
 </p>
 <hr/>
 <div class="jobs">
-	<h3>New Postings</h3>
+	<!-- <h3>New Postings</h3>
 	{% unless site.data['jobs-sorted'].newPostings %}
 		No new postings this week.
 	{% endunless %}
@@ -28,5 +29,9 @@ permalink: "/jobs/"
 		{% if entry.jobs.previous != empty %}
 			{% include company_job_postings company=entry.company jobs=entry.jobs.previous %}
 		{% endif %}
-	{% endfor %}
+	{% endfor %} -->
+	<!-- <h3>Current Openings</h3> -->
+	<ul>
+		{% include _job_listings.html %}
+	</ul>
 </div>

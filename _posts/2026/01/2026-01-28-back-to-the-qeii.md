@@ -1,5 +1,6 @@
 ---
 layout: page
+author: jackharrhy
 title: "CTS-NL Meetup - Back to the QEII!"
 header:
     image: "logo.png"

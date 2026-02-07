@@ -3,24 +3,33 @@ layout: page
 title: "Job Postings"
 teaser: ""
 header:
-    image: "logo.png"
-    pattern: "header-texture.png"
+image: "logo.png"
+pattern: "header-texture.png"
 permalink: "/jobs/"
 ---
 
 <p class="teaser" itemprop="description">
-	<!-- Last updated {{ site.data['jobs-sorted'].updateDate | date: "%B %d, %Y" }} and updated every Thursday. -->
-	Last updated June 26, 2025 and updated every Thursday.
+	Tech job opportunities in Newfoundland and Labrador are listed on these job boards:
+</p>
+
+<ul>
+	<li><a href="https://siliconharbour.dev/jobs">Silicon Harbour – Jobs</a></li>
+	<li><a href="https://technl.ca/job-seekers/">techNL – Job Seekers</a></li>
+</ul>
+
+<!--
+<p class="teaser" itemprop="description">
+	Last updated {{ site.data['jobs-sorted'].updateDate | date: "%B %d, %Y" }} and updated every Thursday.
 </p>
 <hr/>
 <div class="jobs">
-	<!-- <h3>New Postings</h3>
+	<h3>New Postings</h3>
 	{% unless site.data['jobs-sorted'].newPostings %}
 		No new postings this week.
 	{% endunless %}
 	{% for entry in site.data['jobs-sorted'].jobs %}
 		{% if entry.jobs.current != empty %}
-			{%include company_job_postings company=entry.company jobs=entry.jobs.current %}
+			{% include company_job_postings company=entry.company jobs=entry.jobs.current %}
 		{% endif %}
 	{% endfor %}
 
@@ -29,9 +38,11 @@ permalink: "/jobs/"
 		{% if entry.jobs.previous != empty %}
 			{% include company_job_postings company=entry.company jobs=entry.jobs.previous %}
 		{% endif %}
-	{% endfor %} -->
-	<!-- <h3>Current Openings</h3> -->
+	{% endfor %}
+
+	<h3>Current Openings</h3>
 	<ul>
 		{% include _job_listings.html %}
 	</ul>
 </div>
+-->

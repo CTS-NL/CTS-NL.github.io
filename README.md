@@ -19,9 +19,6 @@ npm run build
 npm run preview
 ```
 
-Static output lands in `dist/`. GitHub Actions deploys `master` to GitHub Pages
-on every push (see `.github/workflows/deploy.yml`).
-
 ## Project layout
 
 ```
@@ -61,16 +58,6 @@ categories:
 ---
 ```
 
-Old Jekyll URLs (`/news/YYYY/MM/DD/slug.html`) are preserved via redirect
-pages.
-
-## Events
-
-The site doesn't track events. The weekly Thursday meetup is documented
-statically on the home page (location, time, "check Discord to confirm"). For
-other tech events and jobs around St. John's, the home page links out to
-[siliconharbour.dev](https://siliconharbour.dev).
-
 ## Meetup posters
 
 The Thursday meetup poster (used as the home page hero image and as the
@@ -83,11 +70,3 @@ To regenerate manually:
 ```sh
 npm run posters
 ```
-
-This replaces the old [Socials repo](https://github.com/CTS-NL/Socials) which
-used Python + Inkscape SVG templates + `rsvg-convert`. To add date-specific
-posters, edit `generateAllPosters()` in `src/socials/generate.ts`.
-
-## Discord
-
-The community lives on Discord: <https://discord.ctsnl.ca>.

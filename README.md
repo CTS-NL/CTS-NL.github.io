@@ -1,119 +1,93 @@
-# CTS-NL Website Source
+# CTS-NL Website
 
-## Local Testing
+Source for [ctsnl.ca](https://ctsnl.ca), the Computer Technology Society of
+Newfoundland Labrador. Built with [Astro](https://astro.build) and Tailwind v4.
 
-### Server Script
+## Local development
 
-If you have Ruby and Bundle installed, a basic bash script will start jekyll:
-
-```shell script
-./server.sh
+```sh
+npm install
+npm run dev
 ```
 
-### Docker Compose
+The dev server runs at <http://localhost:4321>.
 
-If you want to start the site with docker compose:
+## Build
 
-```shell script
-docker-compose up
+```sh
+npm run build
+npm run preview
 ```
 
-## Adding Groups
+Static output lands in `dist/`. GitHub Actions deploys `master` to GitHub Pages
+on every push (see `.github/workflows/deploy.yml`).
 
-Community groups can be added by entering an entry into `_data/groups.yml`. A group should have a short name, which is
-used as the key for the group, a `name` which is the full name of the group, and a `url` which is a link the groups
-primary online site.
+## Project layout
+
+```
+src/
+  pages/                — routes (file-based)
+    index.astro         — home page
+    news/               — news archive & post pages
+    about.astro
+    conduct.astro
+    contact.astro
+  layouts/BaseLayout.astro
+  components/           — Header, Footer
+  content/posts/        — news posts (YYYY/MM/DD-slug.md)
+  lib/
+    dates.ts            — NL-timezone date formatting
+    links.ts            — DISCORD_INVITE_LINK
+  socials/              — meetup poster generator (SVG → PNG via sharp)
+  styles/global.css     — Tailwind v4 + theme tokens
+public/
+  og/every-thursday.png — generated meetup poster (used as og:image)
+```
+
+## Adding a news post
+
+Drop a new Markdown file under `src/content/posts/YYYY/MM/DD-slug.md` with
+frontmatter like:
 
 ```yaml
-gamedevnl:
-  name: Gamedev NL
-  url: http://gamedevnl.org
+---
+title: "My post title"
+date: 2026-02-14
+author: jackharrhy # optional
+teaser: "One-line summary." # optional
+image: foo.jpg # optional, must exist in public/images/
+categories:
+  - news
+---
 ```
 
-## Adding Companies
+Old Jekyll URLs (`/news/YYYY/MM/DD/slug.html`) are preserved via redirect
+pages.
 
-Companies can be added by entering an entry into `_data/companies.yml`. A company should have a short name, which is
-used as the key for the company, a `name` which is the full name of the company, and a `url` which is a link the
-company site.
+## Events
 
-```yaml
-clockworkfox:
-  name: Clockwork Fox
-  url: http://clockworkfoxstudios.com
+The site doesn't track events. The weekly Thursday meetup is documented
+statically on the home page (location, time, "check Discord to confirm"). For
+other tech events and jobs around St. John's, the home page links out to
+[siliconharbour.dev](https://siliconharbour.dev).
+
+## Meetup posters
+
+The Thursday meetup poster (used as the home page hero image and as the
+`og:image` for social-share previews) is generated at build time from
+`src/socials/poster.ts`. It uses the brand mark from `public/images/CTSNL
+Icon.svg` and produces a 1200×630 PNG at `public/og/every-thursday.png`.
+
+To regenerate manually:
+
+```sh
+npm run posters
 ```
 
-## Adding Job Listings
+This replaces the old [Socials repo](https://github.com/CTS-NL/Socials) which
+used Python + Inkscape SVG templates + `rsvg-convert`. To add date-specific
+posters, edit `generateAllPosters()` in `src/socials/generate.ts`.
 
-Jobs can be added by entering an entry into `_data/jobs.yml`. The format is as follows:
+## Discord
 
-```yaml
-- company: colab
-  jobs:
-    - post_date: 2018-05-17
-      jobs:
-        - title: Front-End Development Intern
-          link: https://www.colabsoftware.com/job/front-end-developer-intern
-        - title: Back-End Development Intern
-          link: https://www.colabsoftware.com/job/back-end-developer-intern
-    - post_date: 2018-04-26
-      jobs:
-        - title: DevOps
-          link: https://www.colabsoftware.com/job/devops
-```
-
-The jobs listings are loaded from the `_data/jobs-sorted.yml` data file, and the file is generated using:
-
-```shell script
-./ParseJobs.py
-```
-
-OR
-
-```shell script
-python3 ParseJobs.py
-```
-
-The script will automatically load the jobs data from `_data/jobs.yml` and generate a sorted list based on the current date.
-
-## Adding Posts
-
-Posts are added to the `_posts` directory. They automatically appear on the home page, as well as the `news/` archive.
-
-## Adding Pages
-
-New pages can be added to `pages/`.
-
-## Top Navigation Bar
-
-Items can be added to the top navigation bar by modifying `_data/navigation.yml`.
-
-## Side Bar Navigation
-
-The side bar navigation is not setup through `_data/` and instead if changed by modifying `_includes/_sidebar.html`.
-
-## Validation
-
-The python script `ValidateJobs.py` is for validating the `companies.yml` and `jobs.yml` files.
-
-It does the following checks:
-
-- Duplicate keys, names, and urls in `companies.yml`
-- Company keys in jobs.yml but not `companies.yml`
-- Duplicate company keys in `jobs.yml`
-- Duplicate links in `jobs.yml`
-
-### Running the script
-
-You can run the script from the shell on it's own or with python3 by passing in the relative path to `_data` where the `jobs.yml` and `companies.yml` files are located.
-
-If you have pyyaml installed just run:
-
-```shell script
-./ValidateJobs.py path/to/_data
-```
-
-OR
-
-```shell script
-python3 ValidateJobs.py path/to/_data
-```
+The community lives on Discord: <https://discord.ctsnl.ca>.

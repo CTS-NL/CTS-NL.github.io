@@ -1,7 +1,25 @@
-.bundle/
-.sass-cache/
-_site/
-vendor/bundle/
+# build output
+dist/
+.output/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
 .DS_Store
-.venv
-__pycache__
+
+# Astro
+.astro/
+
+# Temporary working area (other repos, scratch)
+tmp/

@@ -1,0 +1,121 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../../../../layouts/BaseLayout.astro";
+import { formatLongDate } from "../../../../../lib/dates";
+import { authorName } from "../../../../../lib/authors";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  return posts.map((post) => {
+    const m = post.id.match(/^(\d{4})\/(\d{2})\/(\d{2})-(.+)$/);
+    if (!m) {
+      // Fallback: skip malformed ids
+      return null;
+    }
+    const [, year, month, day, slug] = m;
+    return {
+      params: { year, month, day, slug },
+      props: { post },
+    };
+  }).filter(Boolean) as Array<{
+    params: { year: string; month: string; day: string; slug: string };
+    props: { post: any };
+  }>;
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+// Find prev/next
+const all = (await getCollection("posts")).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+const idx = all.findIndex((p) => p.id === post.id);
+const prev = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : null;
+const next = idx > 0 ? all[idx - 1] : null;
+
+function postUrl(id: string) {
+  const m = id.match(/^(\d{4})\/(\d{2})\/(\d{2})-(.+)$/);
+  if (!m) return `/news/${id}/`;
+  const [, y, mo, d, slug] = m;
+  return `/news/${y}/${mo}/${d}/${slug}/`;
+}
+
+const imageUrl = post.data.image ? `/images/${post.data.image}` : undefined;
+const displayAuthor = authorName(post.data.author);
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.teaser ?? `News from CTS-NL: ${post.data.title}`}
+  image={imageUrl}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 pt-12 pb-8">
+    <div class="flex items-center gap-3 text-xs text-[var(--color-text-dim)] mb-3">
+      <time datetime={post.data.date.toISOString()}>
+        {formatLongDate(post.data.date)}
+      </time>
+      {
+        displayAuthor && (
+          <>
+            <span>·</span>
+            <span>{displayAuthor}</span>
+          </>
+        )
+      }
+    </div>
+    <h1 class="text-3xl sm:text-4xl font-semibold text-white tracking-tight leading-tight">
+      {post.data.title}
+    </h1>
+    {
+      post.data.teaser && (
+        <p class="mt-3 text-lg text-[var(--color-text-muted)]">
+          {post.data.teaser}
+        </p>
+      )
+    }
+
+    {
+      imageUrl && (
+        <figure class="mt-6">
+          <img
+            src={imageUrl}
+            alt={post.data.title}
+            class="rounded-lg border border-[var(--color-border)]"
+          />
+        </figure>
+      )
+    }
+
+    <div class="prose prose-invert max-w-none mt-8">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="max-w-3xl mx-auto px-4 sm:px-6 pb-16 border-t border-[var(--color-border)] mt-12 pt-6">
+    <div class="grid sm:grid-cols-2 gap-4 text-sm">
+      {
+        prev ? (
+          <a
+            href={postUrl(prev.id)}
+            class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-text-dim)] hover:bg-[var(--color-surface)] transition-colors"
+          >
+            <div class="text-xs text-[var(--color-text-dim)] mb-1">← Older</div>
+            <div class="text-white">{prev.data.title}</div>
+          </a>
+        ) : <div />
+      }
+      {
+        next ? (
+          <a
+            href={postUrl(next.id)}
+            class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-text-dim)] hover:bg-[var(--color-surface)] transition-colors sm:text-right"
+          >
+            <div class="text-xs text-[var(--color-text-dim)] mb-1">Newer →</div>
+            <div class="text-white">{next.data.title}</div>
+          </a>
+        ) : <div />
+      }
+    </div>
+  </nav>
+</BaseLayout>

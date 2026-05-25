@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "ignorePatterns": [
+    "dist/**",
+    "tmp/**",
+    "public/og/*.svg",
+    "public/images/**",
+    "src/content/posts/**"
+  ]
+}

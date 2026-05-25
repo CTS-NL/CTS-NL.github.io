@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Atlantic Lottery / Loteries de l’Atlantique](http://www.alc.ca/)
   - [Senior Web Developer](https://www.careerbeacon.com/en/job/1737735/atlantic-lottery/senior-web-developer-03-2254)
   - [Junior or Intermediate Web Developer](https://www.careerbeacon.com/en/job/1737740/atlantic-lottery/junior-or-intermediate-web-developer-03-2241)

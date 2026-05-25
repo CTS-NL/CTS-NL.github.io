@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * [BOUNCE Health Innovation](https://www.facebook.com/HHStJohnsNL/) is hosting an event for students at Exploits Valley Highschool in Grand Falls-Windsor. [read](http://vocm.com/news/events-this-weekend-promote-healthcare-innovation/)
-
-## New Job Postings
 
 ## Upcoming Events
 

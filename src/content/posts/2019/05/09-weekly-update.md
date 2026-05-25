@@ -13,10 +13,6 @@ categories:
 
 ## Upcoming Events
 
-## New Job Postings
-
-## Upcoming Events
-
 Join us at our [Tech Project Night and Meetup](https://www.meetup.com/Computer-Technology-Society-of-Newfoundland-and-Labrador/events/rpdzmpyzhbvb/) on Wed, May 15.
 
 - [Gamedev NL](http://gamedevnl.org) is hosting:

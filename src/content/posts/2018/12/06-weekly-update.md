@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 *   Smart Thermostats Secures Second Round of Funding To Help Electric Heat Owners Cut Down Their Bills. [read](https://www.getmysa.com/blog/mysa-minutes/press-release-mysa-smart-thermostats-secures-second-round-of-funding-to-help-electric-heat-owners-cut-down-their-bills/)
-
-## New Job Postings
 
 ## Upcoming Events
 

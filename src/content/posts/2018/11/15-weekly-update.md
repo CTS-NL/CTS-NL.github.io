@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * Jigs, reels, bits and bytes — these students are teaching a machine to play Irish music. [read](https://www.cbc.ca/news/canada/newfoundland-labrador/machine-learning-irish-music-1.4894060?fbclid=IwAR3Mn_7xqwr9xjdDaEBVuUlQvZ1BiRwkMDHZuYoKWk_h-Q-yhpbaPdpuO3w)
-
-## New Job Postings
 
 ## Upcoming Events
 

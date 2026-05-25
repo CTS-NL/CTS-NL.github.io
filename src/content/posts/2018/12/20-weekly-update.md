@@ -7,8 +7,6 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Jumping Bean Barista's Christmas Card
 
 ![Jumping Bean Barista's Christmas Card](/images/jb_card.jpg "Jumping Bean Barista's Christmas Card")

@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Verafin](https://verafin.com)
   - [Data Installer](https://jobs.lever.co/verafin/4bbf8195-e712-40fd-b5e1-7be0c64c507c)
   - [Data Scientist](https://jobs.lever.co/verafin/a0764ab5-1173-402f-96c9-ea5b80312332)

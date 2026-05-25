@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 outbreak, next week's Project Night and Meetup has been cancelled.
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Hyke](https://hykeup.com/)
   - [Software Developer / Software Engineer](https://hykeup.freshteam.com/jobs/Ub8uXaO8FDmR/software-developer-software-engineer)
   - [Front End Developer](https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer)

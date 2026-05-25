@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * St. John’s developer Jon Sutherland was part of team that won 2018 engineering Emmy Award. [read](https://www.thetelegram.com/living/st-johns-developer-jon-sutherland-was-part-of-team-that-won-2018-engineering-emmy-award-265449/)
-
-## New Job Postings
 
 ## Upcoming Events
 

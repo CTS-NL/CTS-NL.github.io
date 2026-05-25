@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * The Next Generation Of Women In Science Get A Jump Start At O’Donel High. [read](https://vocm.com/news/the-next-generation-of-women-in-science-get-a-jump-start-at-odonel-high/)
-
-## New Job Postings
 
 ## Upcoming Events
 

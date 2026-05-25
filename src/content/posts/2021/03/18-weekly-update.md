@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [C-CORE](https://www.c-core.ca)
   - [Cloud Application Developer](https://ca.indeed.com/viewjob?jk=90686ad93ea03f7a)
 - [Avalon Holographics](http://www.avalonholographics.com/)

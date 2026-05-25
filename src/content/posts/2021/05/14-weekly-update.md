@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Stantec](https://www.stantec.com/en)
   - [Senior Front-End Developer](https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/)
   - [UI UX Designer](https://stantec.jobs/st-johns-nl/ui-ux-designer/5402A76FD7244A2894D0AE310F1DA2C3/job/)

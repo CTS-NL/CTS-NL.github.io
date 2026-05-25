@@ -31605,7 +31605,7 @@ P74xgItVRv7TG8TjBr/46gjzyRipbxGzKUakQebZEUKQun2pi7du2wBUSRmyTE357L6a6j93+2wz
          y="436.68336"
          id="tspan13172"><tspan
            style="font-size:42.6667px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal'"
-           id="tspan13170">Every Thursday @ 7pm </tspan></tspan></text>
+           id="tspan13170">{{ date }} @ {{ time }} </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text16072-6-6-5"

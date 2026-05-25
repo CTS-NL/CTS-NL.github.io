@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 outbreak, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Inmarsat](https://www.inmarsat.com/)
   - [Robotic Process Automation Developer](https://jobs.smartrecruiters.com/Inmarsat/743999720274525-robotic-process-automation-rpa-developer)
 - [Arctic Eider Society](https://arcticeider.com/)

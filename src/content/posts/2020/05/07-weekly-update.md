@@ -11,8 +11,5 @@ categories:
 Due to the COVID-19 outbreak, next week's Project Night and Meetup has been cancelled.
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Mysa](https://getmysa.com/)
   - [Remote Software Developer](https://jobs.lever.co/getmysa/39856fec-2c99-495d-8f04-ec0bcb7aad80)

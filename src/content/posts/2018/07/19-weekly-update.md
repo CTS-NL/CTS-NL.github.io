@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 *  receives Emmy nomination for virtual reality game. [read](http://vocm.com/news/local-developer-receives-emmy-nomination-for-virtual-reality-game/)
-
-## New Job Postings
 
 ## Upcoming Events
 

@@ -4,7 +4,8 @@ import tailwindcss from "@tailwindcss/vite";
 
 /**
  * Astro integration that generates social-share posters into `public/og/`
- * before each build. See src/socials/generate.ts.
+ * and favicons into `public/favicons/` before each build.
+ * See src/socials/generate.ts and src/socials/favicon.ts.
  */
 function socialPosters() {
   return {
@@ -12,7 +13,8 @@ function socialPosters() {
     hooks: {
       "astro:config:setup": async () => {
         const { generateAllPosters } = await import("./src/socials/generate.ts");
-        await generateAllPosters();
+        const { generateFavicons } = await import("./src/socials/favicon.ts");
+        await Promise.all([generateAllPosters(), generateFavicons()]);
       },
     },
   };

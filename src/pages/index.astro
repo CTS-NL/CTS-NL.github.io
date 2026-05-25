@@ -18,7 +18,7 @@ function postUrl(id: string) {
 
 <BaseLayout>
   <!-- Hero -->
-  <section class="border-b border-[var(--color-border)]">
+  <section class="border-b border-border">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 pt-16 pb-12 sm:pt-24 sm:pb-16">
       <div class="max-w-3xl">
         <h1
@@ -26,14 +26,14 @@ function postUrl(id: string) {
         >
           Software people in Newfoundland and Labrador.
         </h1>
-        <p class="mt-5 text-lg text-[var(--color-text-muted)] leading-relaxed">
+        <p class="mt-5 text-lg text-muted leading-relaxed">
           <span class="text-white">Thursdays from 7pm</span> we meet up to work on
           whatever.<br />The rest of the week we're on Discord.
         </p>
         <div class="mt-7 flex flex-wrap gap-3">
           <a
             href={DISCORD_INVITE_LINK}
-            class="inline-flex items-center gap-2 px-4 py-2.5 rounded-md bg-[var(--color-discord-500)] hover:bg-[var(--color-discord-600)] text-white font-medium transition-colors"
+            class="inline-flex items-center gap-2 px-4 py-2.5 rounded-md bg-discord-500 hover:bg-discord-600 text-white font-medium transition-colors"
           >
             <svg
               width="18"
@@ -54,12 +54,12 @@ function postUrl(id: string) {
   </section>
 
   <!-- Meetup info -->
-  <section class="border-b border-[var(--color-border)]">
+  <section class="border-b border-border">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10">
       <div class="grid lg:grid-cols-2 gap-8 lg:gap-10 items-start">
         <div>
           <h2 class="text-2xl font-semibold text-white mb-4">Project Night</h2>
-          <div class="space-y-3 text-[var(--color-text-muted)] leading-relaxed">
+          <div class="space-y-3 text-muted leading-relaxed">
             <p>
               <span class="text-white font-medium">Thursdays, 7pm onwards.</span
               >
@@ -81,16 +81,16 @@ function postUrl(id: string) {
             alt="CTS-NL Meetup · Every Thursday at 7pm onwards at Jumping Bean Coffee on Elizabeth Avenue"
             width="1200"
             height="630"
-            class="w-full rounded-lg border border-[var(--color-border)]"
+            class="w-full rounded-lg border border-border"
           />
         </div>
       </div>
     </div>
   </section>
 
-  <section class="border-t border-[var(--color-border)]">
+  <section class="border-t border-border">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10">
-      <p class="text-sm text-[var(--color-text-muted)] leading-relaxed">
+      <p class="text-sm text-muted leading-relaxed">
         Looking for other tech events or jobs around St. John's?
         <a href="https://siliconharbour.dev" class="link-inline text-white"
           >siliconharbour.dev</a
@@ -107,7 +107,7 @@ function postUrl(id: string) {
         <h2 class="text-lg font-medium text-white">Latest news</h2>
         <a
           href="/news/"
-          class="text-sm text-[var(--color-text-muted)] hover:text-white"
+          class="text-sm text-muted hover:text-white"
         >
           All news →
         </a>
@@ -125,11 +125,11 @@ function postUrl(id: string) {
               />
               <a
                 href={postUrl(post.id)}
-                class="group flex items-baseline gap-4 py-3 pr-2 pl-6 -mr-2 rounded flex-wrap hover:bg-[var(--color-surface)] transition-colors"
+                class="group flex items-baseline gap-4 py-3 pr-2 pl-6 -mr-2 rounded flex-wrap hover:bg-surface transition-colors"
               >
                 <time
                   datetime={post.data.date.toISOString()}
-                  class="text-xs text-[var(--color-text-dim)] font-mono shrink-0 w-24"
+                  class="text-xs text-dim font-mono shrink-0 w-24"
                 >
                   {formatShortDate(post.data.date)}
                 </time>
@@ -182,7 +182,7 @@ function postUrl(id: string) {
       width: 9px;
       height: 9px;
       transform: translate(-50%, -50%);
-      background: var(--color-text);
+      background: var(--color-foreground);
       border-radius: 1px;
       z-index: 1;
     }

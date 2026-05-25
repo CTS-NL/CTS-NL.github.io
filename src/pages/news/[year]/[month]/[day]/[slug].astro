@@ -51,7 +51,7 @@ const displayAuthor = authorName(post.data.author);
   image={imageUrl}
 >
   <article class="max-w-3xl mx-auto px-4 sm:px-6 pt-12 pb-8">
-    <div class="flex items-center gap-3 text-xs text-[var(--color-text-dim)] mb-3">
+    <div class="flex items-center gap-3 text-xs text-dim mb-3">
       <time datetime={post.data.date.toISOString()}>
         {formatLongDate(post.data.date)}
       </time>
@@ -69,7 +69,7 @@ const displayAuthor = authorName(post.data.author);
     </h1>
     {
       post.data.teaser && (
-        <p class="mt-3 text-lg text-[var(--color-text-muted)]">
+        <p class="mt-3 text-lg text-muted">
           {post.data.teaser}
         </p>
       )
@@ -81,7 +81,7 @@ const displayAuthor = authorName(post.data.author);
           <img
             src={imageUrl}
             alt={post.data.title}
-            class="rounded-lg border border-[var(--color-border)]"
+            class="rounded-lg border border-border"
           />
         </figure>
       )
@@ -92,15 +92,15 @@ const displayAuthor = authorName(post.data.author);
     </div>
   </article>
 
-  <nav class="max-w-3xl mx-auto px-4 sm:px-6 pb-16 border-t border-[var(--color-border)] mt-12 pt-6">
+  <nav class="max-w-3xl mx-auto px-4 sm:px-6 pb-16 border-t border-border mt-12 pt-6">
     <div class="grid sm:grid-cols-2 gap-4 text-sm">
       {
         prev ? (
           <a
             href={postUrl(prev.id)}
-            class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-text-dim)] hover:bg-[var(--color-surface)] transition-colors"
+            class="block p-4 rounded-lg border border-border hover:border-dim hover:bg-surface transition-colors"
           >
-            <div class="text-xs text-[var(--color-text-dim)] mb-1">← Older</div>
+            <div class="text-xs text-dim mb-1">← Older</div>
             <div class="text-white">{prev.data.title}</div>
           </a>
         ) : <div />
@@ -109,9 +109,9 @@ const displayAuthor = authorName(post.data.author);
         next ? (
           <a
             href={postUrl(next.id)}
-            class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-[var(--color-text-dim)] hover:bg-[var(--color-surface)] transition-colors sm:text-right"
+            class="block p-4 rounded-lg border border-border hover:border-dim hover:bg-surface transition-colors sm:text-right"
           >
-            <div class="text-xs text-[var(--color-text-dim)] mb-1">Newer →</div>
+            <div class="text-xs text-dim mb-1">Newer →</div>
             <div class="text-white">{next.data.title}</div>
           </a>
         ) : <div />

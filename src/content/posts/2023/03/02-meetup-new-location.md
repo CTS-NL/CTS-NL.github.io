@@ -1,5 +1,5 @@
 ---
-title: "CTS-NL Meetup - New Location"
+title: "CTS-NL Meetup - Meetups now at the QEII Library"
 date: 2023-03-02
 author: "mitmaro"
 categories:

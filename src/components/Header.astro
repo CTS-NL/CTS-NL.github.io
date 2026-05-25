@@ -11,7 +11,7 @@ const isActive = (href: string) =>
   href === "/" ? path === "/" : path.startsWith(href);
 ---
 
-<header class="border-b border-[var(--color-border)] bg-[var(--color-bg)]/80 backdrop-blur sticky top-0 z-50">
+<header class="border-b border-border bg-background/80 backdrop-blur sticky top-0 z-50">
   <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between gap-4">
     <a href="/" class="flex items-center gap-3 group min-w-0">
       <img
@@ -37,8 +37,8 @@ const isActive = (href: string) =>
             class:list={[
               "px-2.5 py-1.5 rounded-md transition-colors",
               isActive(item.href)
-                ? "text-white bg-[var(--color-surface-2)]"
-                : "text-[var(--color-text-muted)] hover:text-white hover:bg-[var(--color-surface)]",
+                ? "text-white bg-surface-2"
+                : "text-muted hover:text-white hover:bg-surface",
             ]}
           >
             {item.label}

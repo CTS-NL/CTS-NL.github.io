@@ -12,8 +12,10 @@ const isActive = (href: string) =>
 ---
 
 <header class="border-b border-border bg-background/80 backdrop-blur sticky top-0 z-50">
-  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between gap-4">
-    <a href="/" class="flex items-center gap-3 group min-w-0">
+  <div
+    class="max-w-5xl mx-auto px-3 sm:px-6 py-3 flex items-center justify-between gap-3 flex-wrap"
+  >
+    <a href="/" class="flex items-center gap-3 group min-w-0 flex-none" aria-label="CTS-NL home">
       <img
         src="/images/CTSNL Icon.svg"
         alt=""
@@ -21,21 +23,20 @@ const isActive = (href: string) =>
         height="32"
         class="block rounded-sm flex-none"
       />
-      <span class="font-semibold tracking-tight text-white truncate">
-        <span class="sm:hidden">CTS-NL</span>
-        <span class="hidden sm:inline">
-          Computer Technology Society NL
-        </span>
+      <span
+        class="hidden md:inline font-semibold tracking-tight text-white truncate"
+      >
+        Computer Technology Society NL
       </span>
     </a>
 
-    <nav class="flex items-center gap-1 text-sm">
+    <nav class="flex items-center gap-0.5 sm:gap-1 text-sm flex-wrap justify-end">
       {
         navItems.map((item) => (
           <a
             href={item.href}
             class:list={[
-              "px-2.5 py-1.5 rounded-md transition-colors",
+              "px-2 sm:px-2.5 py-1.5 rounded-md transition-colors",
               isActive(item.href)
                 ? "text-white bg-surface-2"
                 : "text-muted hover:text-white hover:bg-surface",

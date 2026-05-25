@@ -8,7 +8,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "posters": "node --experimental-strip-types src/socials/generate.ts",
+    "posters": "node src/socials/generate.ts",
     "lint": "oxlint",
     "format": "oxfmt",
     "format:check": "oxfmt --check",
@@ -27,5 +27,8 @@
     "oxfmt": "^0.51.0",
     "oxlint": "^1.66.0",
     "yaml": "^2.9.0"
+  },
+  "engines": {
+    "node": ">=24"
   }
 }

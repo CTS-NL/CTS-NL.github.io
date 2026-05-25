@@ -1,0 +1,68 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { formatShortDate } from "../../lib/dates";
+
+const posts = (await getCollection("posts")).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+
+function postUrl(id: string) {
+  const m = id.match(/^(\d{4})\/(\d{2})\/(\d{2})-(.+)$/);
+  if (!m) return `/news/${id}/`;
+  const [, y, mo, d, slug] = m;
+  return `/news/${y}/${mo}/${d}/${slug}/`;
+}
+
+// group by year
+const byYear = new Map<number, typeof posts>();
+for (const p of posts) {
+  const y = p.data.date.getFullYear();
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y)!.push(p);
+}
+const years = Array.from(byYear.keys()).sort((a, b) => b - a);
+---
+
+<BaseLayout title="News" description="News and updates from CTS-NL.">
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pt-12 pb-6">
+    <h1 class="text-3xl sm:text-4xl font-semibold text-white tracking-tight">
+      News
+    </h1>
+    <p class="mt-3 text-[var(--color-text-muted)] max-w-2xl">
+      Updates from the group. Between 2018 and early 2022 there was a weekly
+      tech roundup. Since then it's been whenever there's something to say.
+      Everything is below.
+    </p>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pb-12">
+    {
+      years.map((year) => (
+        <div class="mt-8">
+          <div class="text-xs uppercase tracking-wider text-[var(--color-text-dim)] mb-3">
+            {year}
+          </div>
+          <ul class="divide-y divide-[var(--color-border)] border-y border-[var(--color-border)]">
+            {byYear.get(year)!.map((post) => (
+              <li>
+                <a
+                  href={postUrl(post.id)}
+                  class="group flex items-baseline gap-4 py-2.5 px-2 -mx-2 rounded flex-wrap hover:bg-[var(--color-surface)] transition-colors"
+                >
+                  <time
+                    datetime={post.data.date.toISOString()}
+                    class="text-xs text-[var(--color-text-dim)] font-mono shrink-0 w-20"
+                  >
+                    {formatShortDate(post.data.date).replace(`, ${year}`, "")}
+                  </time>
+                  <span class="text-[var(--color-text)]">{post.data.title}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </section>
+</BaseLayout>

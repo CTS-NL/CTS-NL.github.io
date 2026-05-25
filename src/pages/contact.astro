@@ -1,0 +1,33 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DISCORD_INVITE_LINK } from "../lib/links";
+---
+
+<BaseLayout title="Contact" description="Get in touch with CTS-NL.">
+  <article class="max-w-2xl mx-auto px-4 sm:px-6 py-12">
+    <h1 class="text-3xl sm:text-4xl font-semibold text-white tracking-tight">
+      Contact
+    </h1>
+    <p class="mt-4 text-[var(--color-text-muted)] leading-relaxed">
+      Discord is the fastest way to reach the group.
+    </p>
+
+    <div class="mt-6 flex flex-wrap gap-3">
+      <a
+        href={DISCORD_INVITE_LINK}
+        class="inline-flex items-center gap-2 px-4 py-2.5 rounded-md bg-[var(--color-discord-500)] hover:bg-[var(--color-discord-600)] text-white font-medium transition-colors"
+      >
+        Join the Discord
+      </a>
+    </div>
+
+    <div class="mt-10 pt-8 border-t border-[var(--color-border)]">
+      <p class="text-[var(--color-text-muted)] leading-relaxed">
+        For anything that doesn't fit on Discord, email Jack at <a
+          href="mailto:me@jackharrhy.com"
+          class="link-inline">me@jackharrhy.com</a
+        >.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

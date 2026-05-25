@@ -1,0 +1,75 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DISCORD_INVITE_LINK } from "../lib/links";
+---
+
+<BaseLayout title="About" description="About the Computer Technology Society of Newfoundland Labrador.">
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+    <h1 class="text-3xl sm:text-4xl font-semibold text-white tracking-tight">
+      About CTS-NL
+    </h1>
+
+    <div class="prose prose-invert max-w-none mt-8">
+      <h2>Who we are</h2>
+      <p>
+        The Computer Technology Society Newfoundland Labrador, generally known
+        as CTS-NL, is a community group for people who work in or have an
+        interest in software development, technology, and computing in
+        Newfoundland and Labrador.
+      </p>
+
+      <p>
+        We meet every Thursday for <strong>Project Night</strong>. There's the
+        occasional social, and a talk now and then.
+      </p>
+
+      <p>
+        CTS-NL values inclusion. We offer a friendly atmosphere regardless of
+        race, culture, politics, sexual orientation, gender, gender variance,
+        and nationality. While we are not targeted toward youth, we welcome
+        young people who are engaged in computer technologies.
+      </p>
+
+      <p>
+        CTS-NL encourages the development of individuals as software developers,
+        hobbyists, and enthusiasts. While we support and work with businesses,
+        we are not a group for them. We discuss and mentor on skill development,
+        project management, and more. We are a place for people of all levels of
+        experience, from a novice just starting out, to the experienced grey
+        beard. All are welcome!
+      </p>
+
+      <p>
+        CTS-NL interacts with existing community groups and organizations to
+        build and strengthen the computer technology community in the province.
+        We work with governments, universities, industry, schools, and youth to
+        further the goals of the group.
+      </p>
+
+      <h2>History</h2>
+      <p>
+        After a discussion at a CodeNL talk in 2014 displayed a lack of a
+        developer community in the province, a few alumni from the Computer
+        Science Society at Memorial University decided to form a community group
+        to fill the void. The group spent its first year meeting at various
+        coffee shops and bars every 2–3 weeks.
+      </p>
+
+      <p>
+        We settled on Jumping Bean Coffee on Elizabeth Avenue and started a
+        regular project night there in early 2016. The group ran weekly for
+        years, paused for COVID, and came back in 2022. There've been a few
+        interim venues since (Element Bar &amp; Lounge before it closed; the
+        QEII Library through winters when Jumping Bean was closing early), but
+        the Bean is the usual spot.
+      </p>
+
+      <h2>Get involved</h2>
+      <p>
+        Most of the talking happens on our <a href={DISCORD_INVITE_LINK}>Discord</a>.
+        Hop in any time. Lurking is fine. Then come by a Thursday meetup when
+        it works for you.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

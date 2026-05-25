@@ -1,0 +1,146 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans:
+    "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+
+  /* Discord blurple — used only for the Discord CTA */
+  --color-discord-400: #7983f5;
+  --color-discord-500: #5865f2;
+  --color-discord-600: #4752c4;
+
+  /* CTS-NL brand neutrals, pulled from the logo SVG (#222 bg, #F4F4F4 mark). */
+  --color-bg: #222222;
+  --color-surface: #2a2a2a;
+  --color-surface-2: #333333;
+  --color-border: #3d3d3d;
+  --color-text: #f4f4f4;
+  --color-text-muted: #b8b8b8;
+  --color-text-dim: #888888;
+
+  /* Accent links use the brand white. */
+  --color-accent-400: #f4f4f4;
+  --color-accent-500: #ffffff;
+}
+
+html {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  color-scheme: dark;
+  font-family: var(--font-sans);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--color-accent-500);
+  color: white;
+}
+
+a {
+  color: inherit;
+}
+
+/* Subtle scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+
+/* Prose overrides for dark theme */
+.prose {
+  --tw-prose-body: var(--color-text);
+  --tw-prose-headings: #ffffff;
+  --tw-prose-lead: var(--color-text-muted);
+  --tw-prose-links: var(--color-text);
+  --tw-prose-bold: #ffffff;
+  --tw-prose-counters: var(--color-text-muted);
+  --tw-prose-bullets: var(--color-text-dim);
+  --tw-prose-hr: var(--color-border);
+  --tw-prose-quotes: var(--color-text-muted);
+  --tw-prose-quote-borders: var(--color-border);
+  --tw-prose-captions: var(--color-text-muted);
+  --tw-prose-code: #ffffff;
+  --tw-prose-pre-code: #e6e6e6;
+  --tw-prose-pre-bg: var(--color-surface-2);
+  --tw-prose-th-borders: var(--color-border);
+  --tw-prose-td-borders: var(--color-border);
+}
+
+/* Underlined inline links — primary affordance now that the palette is monochrome. */
+.prose a,
+.link-inline {
+  text-decoration-line: underline;
+  text-decoration-color: var(--color-text-dim);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: text-decoration-color 0.15s ease;
+}
+
+.prose a:hover,
+.link-inline:hover {
+  text-decoration-color: var(--color-text);
+}
+
+.prose img {
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-border);
+}
+
+/*
+ * Constrain embedded iframes (YouTube videos, Google Maps, etc.) so they
+ * never overflow the article column. The old Jekyll site used a `.flex-video`
+ * wrapper class with a percentage-padding-hack to keep a 16:9 aspect ratio;
+ * we lean on modern CSS `aspect-ratio` for the same effect, and fall back to
+ * a max-width cap for bare iframes (e.g. maps) that have their own intrinsic
+ * height.
+ */
+.prose iframe {
+  display: block;
+  max-width: 100%;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+/* The `.flex-video` wrapper marks an iframe as 16:9 responsive video. */
+.prose .flex-video {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+.prose .flex-video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+}
+
+.prose code:not(pre code) {
+  background-color: var(--color-surface-2);
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+  font-weight: 500;
+}
+
+.prose code::before,
+.prose code::after {
+  content: none;
+}

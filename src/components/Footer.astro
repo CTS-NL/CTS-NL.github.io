@@ -1,0 +1,74 @@
+---
+import { DISCORD_INVITE_LINK } from "../lib/links";
+
+const socials = [
+  { label: "Discord", href: DISCORD_INVITE_LINK },
+  { label: "GitHub", href: "https://github.com/CTS-NL" },
+  { label: "YouTube", href: "https://www.youtube.com/channel/UCOy4jhJW8U2bLT7ECAqV_1w" },
+  { label: "Facebook", href: "https://www.facebook.com/groups/nlcts/" },
+];
+
+const links = [
+  { label: "About", href: "/about/" },
+  { label: "Code of Conduct", href: "/conduct/" },
+  { label: "Contact", href: "/contact/" },
+  { label: "RSS", href: "/rss.xml" },
+];
+---
+
+<footer class="border-t border-[var(--color-border)] mt-24">
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10 grid gap-8 sm:grid-cols-3 text-sm">
+    <div>
+      <div class="flex items-center gap-2 mb-2">
+        <img
+          src="/images/CTSNL Icon.svg"
+          alt=""
+          width="24"
+          height="24"
+          class="rounded-sm"
+        />
+        <div class="font-semibold text-white">CTS-NL</div>
+      </div>
+      <p class="text-[var(--color-text-muted)] leading-relaxed">
+        Computer Technology Society of Newfoundland Labrador. The local group
+        for people in software and tech.
+      </p>
+    </div>
+
+    <div>
+      <div class="font-medium text-white mb-2">Site</div>
+      <ul class="space-y-1.5">
+        {
+          links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                class="text-[var(--color-text-muted)] hover:text-white transition-colors"
+              >
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+
+    <div>
+      <div class="font-medium text-white mb-2">Find us</div>
+      <ul class="space-y-1.5">
+        {
+          socials.map((s) => (
+            <li>
+              <a
+                href={s.href}
+                class="text-[var(--color-text-muted)] hover:text-white transition-colors"
+              >
+                {s.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</footer>

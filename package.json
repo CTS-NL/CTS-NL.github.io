@@ -1,0 +1,31 @@
+{
+  "name": "ctsnl-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "posters": "node --experimental-strip-types src/socials/generate.ts",
+    "lint": "oxlint",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/sitemap": "^3.6.0",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tailwindcss/vite": "^4.1.16",
+    "astro": "^5.16.0",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4.1.16"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.51.0",
+    "oxlint": "^1.66.0",
+    "yaml": "^2.9.0"
+  }
+}

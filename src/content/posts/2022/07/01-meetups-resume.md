@@ -1,5 +1,5 @@
 ---
-title: "CTS-NL Meetups Resume"
+title: "CTS-NL Meetups Resume at Element Bar and Lounge"
 date: 2022-07-01
 author: "mitmaro"
 categories:

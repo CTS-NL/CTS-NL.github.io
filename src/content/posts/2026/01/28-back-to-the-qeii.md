@@ -1,5 +1,5 @@
 ---
-title: "CTS-NL Meetup - Back to the QEII!"
+title: "CTS-NL Meetup - Back to the QEII"
 date: 2026-01-28
 author: "jackharrhy"
 categories:

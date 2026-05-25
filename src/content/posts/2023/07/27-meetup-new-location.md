@@ -1,5 +1,5 @@
 ---
-title: "CTS-NL Meetup - New Location"
+title: "CTS-NL Meetup - Back to Jumping Bean"
 date: 2023-07-27
 author: "mitmaro"
 categories:

@@ -15,22 +15,18 @@
   --color-discord-600: #4752c4;
 
   /* CTS-NL brand neutrals, pulled from the logo SVG (#222 bg, #F4F4F4 mark). */
-  --color-bg: #222222;
+  --color-background: #222222;
   --color-surface: #2a2a2a;
   --color-surface-2: #333333;
   --color-border: #3d3d3d;
-  --color-text: #f4f4f4;
-  --color-text-muted: #b8b8b8;
-  --color-text-dim: #888888;
-
-  /* Accent links use the brand white. */
-  --color-accent-400: #f4f4f4;
-  --color-accent-500: #ffffff;
+  --color-foreground: #f4f4f4;
+  --color-muted: #b8b8b8;
+  --color-dim: #888888;
 }
 
 html {
-  background-color: var(--color-bg);
-  color: var(--color-text);
+  background-color: var(--color-background);
+  color: var(--color-foreground);
   color-scheme: dark;
   font-family: var(--font-sans);
   font-feature-settings: "cv02", "cv03", "cv04", "cv11";
@@ -40,14 +36,14 @@ html {
 }
 
 body {
-  background-color: var(--color-bg);
-  color: var(--color-text);
+  background-color: var(--color-background);
+  color: var(--color-foreground);
   min-height: 100vh;
 }
 
 ::selection {
-  background: var(--color-accent-500);
-  color: white;
+  background: #ffffff;
+  color: var(--color-background);
 }
 
 a {
@@ -62,17 +58,17 @@ a {
 
 /* Prose overrides for dark theme */
 .prose {
-  --tw-prose-body: var(--color-text);
+  --tw-prose-body: var(--color-foreground);
   --tw-prose-headings: #ffffff;
-  --tw-prose-lead: var(--color-text-muted);
-  --tw-prose-links: var(--color-text);
+  --tw-prose-lead: var(--color-muted);
+  --tw-prose-links: var(--color-foreground);
   --tw-prose-bold: #ffffff;
-  --tw-prose-counters: var(--color-text-muted);
-  --tw-prose-bullets: var(--color-text-dim);
+  --tw-prose-counters: var(--color-muted);
+  --tw-prose-bullets: var(--color-dim);
   --tw-prose-hr: var(--color-border);
-  --tw-prose-quotes: var(--color-text-muted);
+  --tw-prose-quotes: var(--color-muted);
   --tw-prose-quote-borders: var(--color-border);
-  --tw-prose-captions: var(--color-text-muted);
+  --tw-prose-captions: var(--color-muted);
   --tw-prose-code: #ffffff;
   --tw-prose-pre-code: #e6e6e6;
   --tw-prose-pre-bg: var(--color-surface-2);
@@ -84,7 +80,7 @@ a {
 .prose a,
 .link-inline {
   text-decoration-line: underline;
-  text-decoration-color: var(--color-text-dim);
+  text-decoration-color: var(--color-dim);
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
   transition: text-decoration-color 0.15s ease;
@@ -92,7 +88,7 @@ a {
 
 .prose a:hover,
 .link-inline:hover {
-  text-decoration-color: var(--color-text);
+  text-decoration-color: var(--color-foreground);
 }
 
 .prose img {

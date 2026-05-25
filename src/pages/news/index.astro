@@ -35,23 +35,23 @@ const years = Array.from(byYear.keys()).sort((a, b) => b - a);
     {
       years.map((year) => (
         <div class="mt-8">
-          <div class="text-xs uppercase tracking-wider text-[var(--color-text-dim)] mb-3">
+          <div class="text-xs uppercase tracking-wider text-dim mb-3">
             {year}
           </div>
-          <ul class="divide-y divide-[var(--color-border)] border-y border-[var(--color-border)]">
+          <ul class="divide-y divide-border border-y border-border">
             {byYear.get(year)!.map((post) => (
               <li>
                 <a
                   href={postUrl(post.id)}
-                  class="group flex items-baseline gap-4 py-2.5 px-2 -mx-2 rounded flex-wrap hover:bg-[var(--color-surface)] transition-colors"
+                  class="group flex items-baseline gap-4 py-2.5 px-2 -mx-2 rounded flex-wrap hover:bg-surface transition-colors"
                 >
                   <time
                     datetime={post.data.date.toISOString()}
-                    class="text-xs text-[var(--color-text-dim)] font-mono shrink-0 w-20"
+                    class="text-xs text-dim font-mono shrink-0 w-20"
                   >
                     {formatShortDate(post.data.date).replace(`, ${year}`, "")}
                   </time>
-                  <span class="text-[var(--color-text)]">{post.data.title}</span>
+                  <span class="text-foreground">{post.data.title}</span>
                 </a>
               </li>
             ))}

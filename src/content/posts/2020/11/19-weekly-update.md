@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Mysa](https://getmysa.com/)
   - [Embedded Software Developer](https://jobs.lever.co/getmysa/8ac34eb3-6934-4a60-82d8-2ce969a14682)
   - [Software Developer (DevOps)](https://jobs.lever.co/getmysa/a85bb3d6-9ef0-420a-b6d4-cfb9b2607d30)

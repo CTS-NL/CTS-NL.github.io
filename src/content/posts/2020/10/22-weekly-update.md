@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 pandemic, next week's Project Night and Meetup has been cancelled. We welcome you to [join us virtually on Slack](https://join.slack.com/t/ctsnl/shared_invite/enQtNzE5Mzc1OTA3ODI2LTdhODg1ZTQ4YTMwNDRkYzI2OWZjOTZmYWZjNjA3N2QzMTRiZWEyNmI0MTRmYjNjMDFhZGUxNzlhY2I5YjEwMTk) instead!
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Focus FS](http://www.focusfs.com/)
   - [Software Developers](https://focusfs.com/company/careers/software-developers/)
 - [Government of Newfoundland and Labrador](https://www.gov.nl.ca/)

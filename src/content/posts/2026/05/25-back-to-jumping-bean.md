@@ -8,7 +8,7 @@ categories:
 
 The Jumping Bean on Elizabeth Avenue is back to its normal hours, so the Thursday meetup is heading back.
 
-For the past few months we'd been meeting on the third floor of the QEII Library, since Jumping Bean was closing earlier through the winter. The library worked fine. We'd rather be at the Bean though. Better coffee, and they don't mind us being loud.
+For the past few months we'd been meeting on the third floor of the QEII Library, since Jumping Bean was closing earlier through the winter. The library worked fine. We'd rather be at Jumping Bean though. Better coffee, and they don't mind us being loud.
 
 **This Thursday we're back at Jumping Bean, 7pm onwards.** Bring a laptop or don't.
 

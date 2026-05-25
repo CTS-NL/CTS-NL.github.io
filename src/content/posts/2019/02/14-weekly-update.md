@@ -7,10 +7,6 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
-## New Job Postings
-
 ## Technology News
 
 *  has signed a contract with Airbus Defence and Space to design and build satellite technology. [read](https://vocm.com/news/c-core-partners-with-airbus-to-build-satellite-technology-for-biomass-mission/)

@@ -27,9 +27,8 @@ async function writePoster(name: string, input: PosterInput): Promise<void> {
 
 export async function generateAllPosters(): Promise<void> {
   await writePoster("every-thursday", {
-    dateLabel: "Every Thursday",
-    timeLabel: "7pm onwards",
-    venue: "Jumping Bean Coffee · Elizabeth Avenue",
+    date: "Every Thursday",
+    time: "7pm",
   });
 }
 

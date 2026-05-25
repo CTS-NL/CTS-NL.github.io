@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 *  is showcasing a piece of equipment called the Katfish 180 at the Ocean Mapping Conference. [read](http://vocm.com/news/kraken-robotics-represents-the-home-team-at-st-johns-conference/)
-
-## New Job Postings
 
 ## Upcoming Events
 

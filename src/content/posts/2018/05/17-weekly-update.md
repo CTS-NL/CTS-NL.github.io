@@ -7,14 +7,10 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * Data centres are a boon to Labrador, not a drain, says CEO. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/data-centres-ceo-great-north-data-1.4663291)
 * New Algorithm Helps Anticipate Hospital Staffing Needs. [read](http://vocm.com/news/new-algorithm-helps-anticipate-hospital-staffing-needs/)
-
-## New Job Postings
 
 ## Upcoming Events
 

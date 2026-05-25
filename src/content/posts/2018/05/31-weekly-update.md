@@ -7,14 +7,10 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 *  receives $5-million to develop skills training program. [read](http://vocm.com/news/bluedrop-receives-5-million-to-develop-skills-training-program/)
 * Dr. Karen Cross of Newfoundland is testing technology to help diabetics avoid amputations. [read](http://www.cbc.ca/news/canada/newfoundland-labrador/mimosa-in-second-trial-stage-1.4673310)
-
-## New Job Postings
 
 ## Upcoming Events
 

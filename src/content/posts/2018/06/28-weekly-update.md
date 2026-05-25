@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 *  raises $600K pre-seed round. [read](https://www.colabsoftware.com/post/colab-raises-600k-pre-seed-round)
-
-## New Job Postings
 
 ## Upcoming Events
 

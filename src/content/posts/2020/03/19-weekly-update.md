@@ -11,9 +11,6 @@ categories:
 Due to the COVID-19 outbreak, next week's Project Night and Meetup has been cancelled.
 
 ## New Job Postings
-
-## New Job Postings
-
 - [Bullseye Branding](https://www.bullseyebranding.ca/)
   - [WordPress Developer](https://www.bullseyebranding.ca/opportunities/)
 - [Hatch](https://www.hatch.com)

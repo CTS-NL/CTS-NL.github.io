@@ -7,13 +7,9 @@ categories:
   - "news"
 ---
 
-## Upcoming Events
-
 ## Technology News
 
 * Junior High Students Compete At Skills Canada Intermediate Challenge. [read](http://vocm.com/news/junior-high-students-compete-at-skills-canada-intermediate-challenge/)
-
-## New Job Postings
 
 ## Upcoming Events
 

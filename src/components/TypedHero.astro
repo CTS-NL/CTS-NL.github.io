@@ -41,7 +41,7 @@ const minWidthCh = longest.length + 1;
   role="text"
   aria-label={ariaLabel}
   data-typed={config}
-  style={`min-width: ${minWidthCh}ch;`}>{first}</span>
+  style={`min-width: min(${minWidthCh}ch, 100%); max-width: 100%;`}>{first}</span>
 
 <script>
   import Typewriter from "typewriter-effect/dist/core";

@@ -1,0 +1,113 @@
+---
+/**
+ * Hero word that types itself in and out, cycling through a list. Uses
+ * `typewriter-effect`'s vanilla core (https://github.com/tameemsafi/typewriterjs).
+ *
+ * The outer span reserves enough width for the longest word so the rest of
+ * the surrounding sentence never reflows as the typed word grows or
+ * shrinks. The typed-effect library renders its own wrapper + cursor as
+ * siblings, so the cursor naturally sits right after the last typed
+ * character.
+ *
+ * Server-renders the first word verbatim so search engines and no-JS
+ * visitors see real content.
+ */
+
+interface Props {
+  /** The rotating words to type. */
+  strings: string[];
+  /** ms between characters when typing. */
+  delay?: number;
+  /** ms between characters when deleting. */
+  deleteSpeed?: number;
+  /** ms to pause after each word is fully typed. */
+  pauseFor?: number;
+}
+
+const { strings, delay = 90, deleteSpeed = 50, pauseFor = 1800 } = Astro.props;
+
+const first = strings[0];
+const longest = strings.reduce((a, b) => (a.length >= b.length ? a : b));
+const ariaLabel = strings.join(", ");
+const config = JSON.stringify({ strings, delay, deleteSpeed, pauseFor });
+
+// Width reservation: `ch` is roughly the width of "0" in the current font.
+// Bumping a bit higher than the raw length covers wider letters like "W".
+const minWidthCh = longest.length + 1;
+---
+
+<span
+  class="typed-hero"
+  role="text"
+  aria-label={ariaLabel}
+  data-typed={config}
+  style={`min-width: ${minWidthCh}ch;`}>{first}</span>
+
+<script>
+  import Typewriter from "typewriter-effect/dist/core";
+
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  for (const el of document.querySelectorAll<HTMLSpanElement>(".typed-hero")) {
+    if (reduceMotion) continue;
+    if (!el.dataset.typed) continue;
+
+    let config: {
+      strings: string[];
+      delay: number;
+      deleteSpeed: number;
+      pauseFor: number;
+    };
+    try {
+      config = JSON.parse(el.dataset.typed);
+    } catch {
+      continue;
+    }
+    if (!config.strings || config.strings.length < 2) continue;
+
+    // Keep the first string anchored (it's the SSR fallback and the
+    // canonical "lead" word) but shuffle the rest so every page load picks
+    // a fresh order. Fisher-Yates.
+    const [head, ...rest] = config.strings;
+    for (let i = rest.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [rest[i], rest[j]] = [rest[j], rest[i]];
+    }
+    const orderedStrings = [head, ...rest];
+
+    // typewriter-effect populates the host element itself (wrapper + cursor
+    // become its children), so clear any server-rendered text first.
+    el.textContent = "";
+
+    new Typewriter(el, {
+      strings: orderedStrings,
+      delay: config.delay,
+      deleteSpeed: config.deleteSpeed,
+      pauseFor: config.pauseFor,
+      loop: true,
+      autoStart: true,
+      cursor: "▋",
+    });
+  }
+</script>
+
+<style>
+  .typed-hero {
+    display: inline-block;
+    vertical-align: baseline;
+    text-align: left;
+  }
+
+  /* Brand-coloured cursor with a slower blink than the library default. */
+  :global(.Typewriter__cursor) {
+    color: var(--color-foreground);
+    margin-left: 0.05em;
+    animation-duration: 1.05s !important;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    :global(.Typewriter__cursor) {
+      display: none;
+    }
+  }
+</style>

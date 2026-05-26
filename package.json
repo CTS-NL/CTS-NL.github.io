@@ -21,7 +21,8 @@
     "@tailwindcss/vite": "^4.1.16",
     "astro": "^5.16.0",
     "sharp": "^0.34.5",
-    "tailwindcss": "^4.1.16"
+    "tailwindcss": "^4.1.16",
+    "typewriter-effect": "^2.22.0"
   },
   "devDependencies": {
     "oxfmt": "^0.51.0",

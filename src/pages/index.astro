@@ -3,6 +3,41 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { DISCORD_INVITE_LINK } from "../lib/links";
 import { formatShortDate } from "../lib/dates";
+import TypedHero from "../components/TypedHero.astro";
+
+// Each phrase is the full typed prefix — "Newfoundland and Labrador." stays
+// static after it. Mix and match as you see fit; just keep "Software people in"
+// at index 0 so it stays the SSR fallback / canonical first phrase.
+const heroPhrases = [
+  "Software people in",
+
+  // Broad
+  "Hardware folks in",
+  "Tech people in",
+  "IT professionals in",
+
+  // Web
+  "Frontend devs in",
+  "Backend devs in",
+  "Fullstack devs in",
+  "Web developers in",
+
+  // Lower / systems
+  "Embedded folks in",
+  "Firmware hackers in",
+
+  // Practice areas
+  "DevOps pros in",
+  "Cloud folks in",
+  "Security professionals in",
+  "AI builders in",
+  "Game-devs in",
+
+  // Identity / vibe
+  "Builders in",
+  "Terminal enjoyers in",
+  "Neovim users in",
+];
 
 const posts = (await getCollection("posts"))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
@@ -24,7 +59,7 @@ function postUrl(id: string) {
         <h1
           class="text-4xl sm:text-5xl font-semibold text-white leading-tight tracking-tight"
         >
-          Software people in Newfoundland and Labrador.
+          <TypedHero strings={heroPhrases} /> Newfoundland and Labrador.
         </h1>
         <p class="mt-5 text-lg text-muted leading-relaxed">
           <span class="text-white">Thursdays from 7pm</span> we meet up to work on
@@ -122,11 +157,11 @@ function postUrl(id: string) {
               />
               <a
                 href={postUrl(post.id)}
-                class="group flex items-baseline gap-4 py-3 pr-2 pl-8 -mr-2 rounded flex-wrap hover:bg-surface transition-colors"
+                class="news-graph__link group flex items-baseline gap-4 py-3 pr-2 -mr-2 rounded flex-wrap hover:bg-surface transition-colors"
               >
                 <time
                   datetime={post.data.date.toISOString()}
-                  class="text-xs text-dim font-mono shrink-0 w-24"
+                  class="news-graph__date text-xs text-dim font-mono shrink-0 w-24"
                 >
                   {formatShortDate(post.data.date)}
                 </time>
@@ -186,6 +221,25 @@ function postUrl(id: string) {
     .news-graph__node--head {
       width: 15px;
       height: 15px;
+    }
+    .news-graph__link {
+      padding-left: 2rem;
+    }
+
+    /* On very narrow viewports the date + graph + title don't share a line
+     * comfortably. Drop the graph rail and the date column and let titles
+     * sit flush as a plain list. */
+    @media (max-width: 500px) {
+      .news-graph::before,
+      .news-graph__node {
+        display: none;
+      }
+      .news-graph__date {
+        display: none;
+      }
+      .news-graph__link {
+        padding-left: 0;
+      }
     }
   </style>
 </BaseLayout>

@@ -17,7 +17,6 @@ export async function GET({ site }: APIContext) {
   const pages = [
     { title: "Home", url: "/" },
     { title: "About", url: "/about/" },
-    { title: "Events", url: "/events/" },
     { title: "News", url: "/news/" },
     { title: "Code of Conduct", url: "/conduct/" },
     { title: "Contact", url: "/contact/" },
@@ -25,9 +24,9 @@ export async function GET({ site }: APIContext) {
 
   const body = `# CTS-NL
 
-> A community for the people who work in or have an interest in software development, programming, information technology and computing in Newfoundland and Labrador.
+> A community for people interested in software and technology in Newfoundland and Labrador.
 
-CTS-NL meets every Thursday from 7pm at Jumping Bean Coffee on Elizabeth Avenue in St. John's, NL. The meetup doesn't always happen. Check the Discord (${DISCORD_INVITE_LINK}) to confirm before heading down. The rest of the week the group hangs out on Discord.
+CTS-NL meets every Thursday from 7 pm at Jumping Bean Coffee on Elizabeth Avenue in St. John's, NL. Check Discord (${DISCORD_INVITE_LINK}) before heading over in case the cafe closes early or the location changes. Between meetups, the group keeps in touch on Discord.
 
 For other tech events and jobs in the St. John's area, see https://siliconharbour.dev.
 

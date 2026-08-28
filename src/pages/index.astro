@@ -12,7 +12,7 @@ const heroPhrases = [
   "Software people in",
 
   // Broad
-  "Hardware folks in",
+  "Hardware builders in",
   "Tech people in",
   "IT professionals in",
 
@@ -23,12 +23,12 @@ const heroPhrases = [
   "Web developers in",
 
   // Lower / systems
-  "Embedded folks in",
+  "Embedded developers in",
   "Firmware hackers in",
 
   // Practice areas
   "DevOps pros in",
-  "Cloud folks in",
+  "Cloud engineers in",
   "Security professionals in",
   "AI builders in",
   "Game-devs in",
@@ -61,10 +61,15 @@ function postUrl(id: string) {
         >
           <TypedHero strings={heroPhrases} /> Newfoundland and Labrador.
         </h1>
-        <p class="mt-5 text-lg text-muted leading-relaxed">
-          <span class="text-white">Thursdays from 7pm</span> we meet up to work on
-          whatever.<br />The rest of the week we're on Discord.
-        </p>
+        <div class="mt-5 space-y-2 text-lg text-muted leading-relaxed">
+          <p>
+            Join us <span class="text-white">Thursdays from 7 pm</span> to work on
+            a project, share ideas,<br />or spend time with other people in tech.
+          </p>
+          <p>
+            Our Discord is open throughout the week for conversation &amp; questions.
+          </p>
+        </div>
         <div class="mt-7 flex flex-wrap gap-3">
           <a
             href={DISCORD_INVITE_LINK}
@@ -96,24 +101,24 @@ function postUrl(id: string) {
           <h2 class="text-2xl font-semibold text-white mb-4">Project Night</h2>
           <div class="space-y-3 text-muted leading-relaxed">
             <p>
-              <span class="text-white font-medium">Thursdays, 7pm onwards.</span
+              <span class="text-white font-medium">Thursdays from 7 pm.</span
               >
               <span class="text-white">Jumping Bean Coffee</span> on Elizabeth Avenue.
             </p>
             <p>
-              Bring a laptop and work on something, or just hang out. People
-              stick around until the cafe closes.
+              Bring a laptop and a project, ask for a second opinion, or simply
+              come by for the company. We usually stay until the cafe closes.
             </p>
             <p>
-              If you're planning on going, check the Discord beforehand, as
-              sometimes the cafe closes early, and we might meet up elsewhere.
+              Check Discord before heading over. If the cafe is closing early,
+              we'll post any change of plans there.
             </p>
           </div>
         </div>
         <div>
           <img
             src="/og/every-thursday.png"
-            alt="CTS-NL Meetup · Every Thursday at 7pm onwards at Jumping Bean Coffee on Elizabeth Avenue"
+            alt="CTS-NL meetup every Thursday from 7 pm at Jumping Bean Coffee on Elizabeth Avenue"
             width="1200"
             height="630"
             class="w-full rounded-lg border border-border"
